@@ -1,6 +1,13 @@
 # COP26 Dataset
 
-Documentation to follow.
+### Agreements
+| Columns                         | Description                                                           |
+|:---------------------------------|:----------------------------------------------------------------------|
+| `state_iso`                    | ISO 3166-1 alpha-2 two-letter country code, includes sovereign states that are members of the United Nations                              |
+| `state_name`                      | Name                                       |
+| `status_deforestation`             | Status for the declaration on forests and land use, according [to the COP26 website](https://ukcop26.org/glasgow-leaders-declaration-on-forests-and-land-use/). Available statuses are `Pledged` and `NotPledged`                    |
+| `status_methane`        | Status of their methane pledge, according [to the EU press release](https://ec.europa.eu/commission/presscorner/detail/en/statement_21_5766). Available statuses are `Pledged` and `NotPledged`, as well as `PledgedAsPartOfEU` for countries that did not sign the pledge individually, but are part of the EU and thus part of the pledge made by the European Commission                |
+| `status_coal`          | Status of the pledge made on phasing out coal ** ADD SOURCE**. Available statuses are `Pledged` and `NotPledged`, as well as `PledgedAsPartOfEU` for countries that did not sign the pledge individually, but are part of the EU and thus part of the pledge made by the European Commission. `NoCoal` is added to countries which currently do not have active coal reserves and/or power production, according to **ADD SOURCE**                    |
 
 ## Changelog
 - 07.11.2021 initial release
