@@ -1,194 +1,194 @@
-state_iso;state_name;status_deforestation;status_methane;status_coal
-AF;Afghanistan;NotPledged;NotPledged;Pledged
-AL;Albania;Pledged;Pledged;NotPledged
-DZ;Algeria;NotPledged;NotPledged;NotPledged
-AD;Andorra;Pledged;Pledged;NotPledged
-AO;Angola;Pledged;NotPledged;NotPledged
-AG;Antigua and Barbuda;NotPledged;NotPledged;NotPledged
-AR;Argentina;Pledged;Pledged;NotPledged
-AM;Armenia;Pledged;Pledged;NotPledged
-AU;Australia;Pledged;NotPledged;NotPledged
-AT;Austria;Pledged;PledgedAsPartOfEU;NotPledged
-AZ;Azerbaijan;Pledged;NotPledged;Pledged
-BS;Bahamas;NotPledged;NotPledged;NotPledged
-BH;Bahrain;NotPledged;NotPledged;NotPledged
-BD;Bangladesh;Pledged;NotPledged;NotPledged
-BB;Barbados;NotPledged;Pledged;NotPledged
-BY;Belarus;NotPledged;NotPledged;NotPledged
-BE;Belgium;Pledged;Pledged;Pledged
-BZ;Belize;Pledged;Pledged;NotPledged
-BJ;Benin;NotPledged;Pledged;NotPledged
-BT;Bhutan;Pledged;NotPledged;NotPledged
-BO;Bolivia (Plurinational State of);NotPledged;NotPledged;NotPledged
-BA;Bosnia and Herzegovina;Pledged;Pledged;NotPledged
-BW;Botswana;Pledged;NotPledged;IncompletePledged
-BR;Brazil;Pledged;Pledged;NotPledged
-BN;Brunei Darussalam;Pledged;NotPledged;Pledged
-BG;Bulgaria;Pledged;Pledged;NotPledged
-BF;Burkina Faso;Pledged;NotPledged;NotPledged
-BI;Burundi;NotPledged;NotPledged;NotPledged
-CV;Cabo Verde;NotPledged;NotPledged;NotPledged
-KH;Cambodia;NotPledged;NotPledged;NotPledged
-CM;Cameroon;Pledged;NotPledged;NotPledged
-CA;Canada;Pledged;Pledged;Pledged
-CF;Central African Republic;Pledged;Pledged;NotPledged
-TD;Chad;Pledged;NotPledged;NotPledged
-CL;Chile;Pledged;Pledged;Pledged
-CN;China;Pledged;NotPledged;NotPledged
-CO;Colombia;Pledged;Pledged;NotPledged
-KM;Comoros;NotPledged;NotPledged;NotPledged
-CG;Congo;NotPledged;Pledged;NotPledged
-CD;Democratic Republic of the Congo;Pledged;Pledged;NotPledged
-CR;Costa Rica;Pledged;Pledged;NotPledged
-CI;Cote d'Ivoire;Pledged;Pledged;Pledged
-HR;Croatia;Pledged;Pledged;Pledged
-CU;Cuba;Pledged;NotPledged;NotPledged
-CY;Cyprus;Pledged;Pledged;Pledged
-CZ;Czechia;Pledged;PledgedAsPartOfEU;NotPledged
-DK;Denmark;Pledged;Pledged;Pledged
-DJ;Djibouti;NotPledged;Pledged;NotPledged
-DM;Dominica;NotPledged;NotPledged;NotPledged
-DO;Dominican Republic;Pledged;Pledged;NotPledged
-EC;Ecuador;Pledged;Pledged;Pledged
-EG;Egypt;NotPledged;NotPledged;Pledged
-SV;El Salvador;NotPledged;Pledged;NotPledged
-GQ;Equatorial Guinea;Pledged;NotPledged;NotPledged
-ER;Eritrea;NotPledged;NotPledged;NotPledged
-EE;Estonia;Pledged;Pledged;NotPledged
-SZ;Eswatini;Pledged;NotPledged;NotPledged
-ET;Ethiopia;NotPledged;Pledged;NotPledged
-FJ;Fiji;Pledged;Pledged;NotPledged
-FI;Finland;Pledged;Pledged;Pledged
-FR;France;Pledged;Pledged;Pledged
-GA;Gabon;Pledged;Pledged;NotPledged
-GM;Gambia;NotPledged;Pledged;NotPledged
-GE;Georgia;Pledged;Pledged;NotPledged
-DE;Germany;Pledged;Pledged;Pledged
-GH;Ghana;Pledged;Pledged;NotPledged
-GR;Greece;Pledged;Pledged;NotPledged
-GD;Grenada;Pledged;NotPledged;NotPledged
-GT;Guatemala;Pledged;NotPledged;NotPledged
-GN;Guinea;NotPledged;NotPledged;NotPledged
-GW;Guinea-Bissau;Pledged;NotPledged;NotPledged
-GY;Guyana;Pledged;Pledged;NotPledged
-HT;Haiti;Pledged;NotPledged;NotPledged
-HN;Honduras;Pledged;Pledged;NotPledged
-HU;Hungary;Pledged;PledgedAsPartOfEU;Pledged
-IS;Iceland;Pledged;Pledged;NotPledged
-IN;India;NotPledged;NotPledged;NotPledged
-ID;Indonesia;Pledged;Pledged;IncompletePledged
-IR;Iran (Islamic Republic of);NotPledged;NotPledged;NotPledged
-IQ;Iraq;NotPledged;Pledged;NotPledged
-IE;Ireland;Pledged;Pledged;NotPledged
-IL;Israel;Pledged;Pledged;Pledged
-IT;Italy;Pledged;Pledged;Pledged
-JM;Jamaica;Pledged;Pledged;NotPledged
-JP;Japan;Pledged;Pledged;NotPledged
-JO;Jordan;NotPledged;Pledged;NotPledged
-KZ;Kazakhstan;Pledged;NotPledged;IncompletePledged
-KE;Kenya;Pledged;NotPledged;NotPledged
-KI;Kiribati;NotPledged;NotPledged;NotPledged
-KP;Korea (Democratic People's Republic of);NotPledged;NotPledged;NotPledged
-KR;Republic of Korea;Pledged;Pledged;Pledged
-KW;Kuwait;NotPledged;Pledged;NotPledged
-KG;Kyrgyzstan;Pledged;Pledged;NotPledged
-LA;Lao People's Democratic Republic;NotPledged;NotPledged;NotPledged
-LV;Latvia;Pledged;PledgedAsPartOfEU;NotPledged
-LB;Lebanon;Pledged;NotPledged;NotPledged
-LS;Lesotho;NotPledged;NotPledged;NotPledged
-LR;Liberia;Pledged;Pledged;NotPledged
-LY;Libya;NotPledged;Pledged;NotPledged
-LI;Liechtenstein;Pledged;NotPledged;Pledged
-LT;Lithuania;Pledged;PledgedAsPartOfEU;NotPledged
-LU;Luxembourg;Pledged;Pledged;NotPledged
-MG;Madagascar;Pledged;NotPledged;NotPledged
-MW;Malawi;Pledged;Pledged;NotPledged
-MY;Malaysia;NotPledged;NotPledged;NotPledged
-MV;Maldives;NotPledged;NotPledged;Pledged
-ML;Mali;Pledged;Pledged;NotPledged
-MT;Malta;Pledged;Pledged;NotPledged
-MH;Marshall Islands;NotPledged;Pledged;NotPledged
-MR;Mauritania;NotPledged;NotPledged;Pledged
-MU;Mauritius;Pledged;NotPledged;Pledged
-MX;Mexico;Pledged;Pledged;NotPledged
-FM;Micronesia (Federated States of);NotPledged;NotPledged;NotPledged
-MD;Republic of Moldova;Pledged;NotPledged;NotPledged
-MC;Monaco;Pledged;Pledged;NotPledged
-MN;Mongolia;Pledged;NotPledged;NotPledged
-ME;Montenegro;Pledged;Pledged;NotPledged
-MA;Morocco;Pledged;Pledged;IncompletePledged
-MZ;Mozambique;Pledged;NotPledged;NotPledged
-MM;Myanmar;NotPledged;NotPledged;NotPledged
-NA;Namibia;NotPledged;NotPledged;NotPledged
-NR;Nauru;NotPledged;Pledged;NotPledged
-NP;Nepal;Pledged;Pledged;Pledged
-NL;Netherlands;Pledged;Pledged;Pledged
-NZ;New Zealand;Pledged;Pledged;Pledged
-NI;Nicaragua;NotPledged;NotPledged;NotPledged
-NE;Niger;Pledged;NotPledged;NotPledged
-NG;Nigeria;Pledged;Pledged;NotPledged
-MK;North Macedonia;Pledged;Pledged;Pledged
-NO;Norway;Pledged;Pledged;NotPledged
-OM;Oman;NotPledged;NotPledged;NotPledged
-PK;Pakistan;Pledged;Pledged;NotPledged
-PW;Palau;NotPledged;Pledged;NotPledged
-PA;Panama;Pledged;Pledged;NotPledged
-PG;Papua New Guinea;Pledged;Pledged;NotPledged
-PY;Paraguay;Pledged;NotPledged;NotPledged
-PE;Peru;Pledged;Pledged;NotPledged
-PH;Philippines;Pledged;Pledged;IncompletePledged
-PL;Poland;Pledged;PledgedAsPartOfEU;Pledged
-PT;Portugal;Pledged;Pledged;Pledged
-QA;Qatar;NotPledged;NotPledged;NotPledged
-RO;Romania;Pledged;PledgedAsPartOfEU;NotPledged
-RU;Russian Federation;Pledged;NotPledged;NotPledged
-RW;Rwanda;Pledged;Pledged;NotPledged
-KN;Saint Kitts and Nevis;NotPledged;Pledged;NotPledged
-LC;Saint Lucia;Pledged;NotPledged;NotPledged
-VC;Saint Vincent and the Grenadines;Pledged;NotPledged;NotPledged
-WS;Samoa;Pledged;NotPledged;NotPledged
-SM;San Marino;Pledged;NotPledged;NotPledged
-ST;Sao Tome and Principe;Pledged;NotPledged;NotPledged
-SA;Saudi Arabia;NotPledged;Pledged;NotPledged
-SN;Senegal;Pledged;Pledged;Pledged
-RS;Serbia;NotPledged;Pledged;NotPledged
-SC;Seychelles;Pledged;NotPledged;NotPledged
-SL;Sierra Leone;Pledged;NotPledged;NotPledged
-SG;Singapore;NotPledged;Pledged;Pledged
-SK;Slovakia;Pledged;PledgedAsPartOfEU;Pledged
-SI;Slovenia;Pledged;Pledged;NotPledged
-SB;Solomon Islands;NotPledged;NotPledged;NotPledged
-SO;Somalia;Pledged;NotPledged;Pledged
-ZA;South Africa;NotPledged;NotPledged;NotPledged
-SS;South Sudan;NotPledged;NotPledged;NotPledged
-ES;Spain;Pledged;Pledged;Pledged
-LK;Sri Lanka;Pledged;NotPledged;Pledged
-SD;Sudan;NotPledged;NotPledged;NotPledged
-SR;Suriname;Pledged;Pledged;NotPledged
-SE;Sweden;Pledged;Pledged;NotPledged
-CH;Switzerland;Pledged;Pledged;NotPledged
-SY;Syrian Arab Republic;Pledged;NotPledged;NotPledged
-TJ;Tajikistan;NotPledged;NotPledged;NotPledged
-TZ;United Republic of Tanzania;Pledged;NotPledged;NotPledged
-TH;Thailand;NotPledged;NotPledged;NotPledged
-TL;Timor-Leste;NotPledged;NotPledged;NotPledged
-TG;Togo;Pledged;Pledged;NotPledged
-TO;Tonga;Pledged;Pledged;NotPledged
-TT;Trinidad and Tobago;NotPledged;NotPledged;NotPledged
-TN;Tunisia;NotPledged;Pledged;NotPledged
-TR;Turkey;Pledged;NotPledged;NotPledged
-TM;Turkmenistan;NotPledged;NotPledged;NotPledged
-TV;Tuvalu;NotPledged;NotPledged;NotPledged
-UG;Uganda;Pledged;NotPledged;NotPledged
-UA;Ukraine;Pledged;Pledged;Pledged
-AE;United Arab Emirates;Pledged;Pledged;NotPledged
-GB;United Kingdom of Great Britain and Northern Ireland;Pledged;Pledged;Pledged
-US;United States of America;Pledged;NotPledged;NotPledged
-UY;Uruguay;Pledged;Pledged;NotPledged
-UZ;Uzbekistan;NotPledged;NotPledged;NotPledged
-VU;Vanuatu;NotPledged;Pledged;NotPledged
-VE;Venezuela (Bolivarian Republic of);NotPledged;NotPledged;NotPledged
-VN;Viet Nam;Pledged;Pledged;Pledged
-YE;Yemen;NotPledged;NotPledged;NotPledged
-ZM;Zambia;Pledged;Pledged;Pledged
-ZW;Zimbabwe;Pledged;NotPledged;NotPledged
+state_iso,state_name,status_deforestation,status_methane,status_coal
+AF,Afghanistan,NotPledged,NotPledged,NotPledged
+AL,Albania,Pledged,Pledged,PledgedOldCommittment
+DZ,Algeria,NotPledged,NotPledged,NotPledged
+AD,Andorra,Pledged,Pledged,NotPledged
+AO,Angola,Pledged,NotPledged,PledgedOldCommittment
+AG,Antigua and Barbuda,NotPledged,NotPledged,NotPledged
+AR,Argentina,Pledged,Pledged,NotPledged
+AM,Armenia,Pledged,Pledged,NotPledged
+AU,Australia,Pledged,NotPledged,NotPledged
+AT,Austria,Pledged,PledgedAsPartOfEU,PledgedOldCommittment
+AZ,Azerbaijan,Pledged,NotPledged,PledgedOldCommittment
+BS,Bahamas,NotPledged,NotPledged,NotPledged
+BH,Bahrain,NotPledged,NotPledged,NotPledged
+BD,Bangladesh,Pledged,NotPledged,NotPledged
+BB,Barbados,NotPledged,Pledged,NotPledged
+BY,Belarus,NotPledged,NotPledged,NotPledged
+BE,Belgium,Pledged,Pledged,PledgedOldCommittment
+BZ,Belize,Pledged,Pledged,NotPledged
+BJ,Benin,NotPledged,Pledged,NotPledged
+BT,Bhutan,Pledged,NotPledged,NotPledged
+BO,Bolivia (Plurinational State of),NotPledged,NotPledged,NotPledged
+BA,Bosnia and Herzegovina,Pledged,Pledged,NotPledged
+BW,Botswana,Pledged,NotPledged,IncompletePledged
+BR,Brazil,Pledged,Pledged,NotPledged
+BN,Brunei Darussalam,Pledged,NotPledged,PledgedNoCoal
+BG,Bulgaria,Pledged,Pledged,PledgedAsPartOfEU
+BF,Burkina Faso,Pledged,NotPledged,NotPledged
+BI,Burundi,NotPledged,NotPledged,NotPledged
+CV,Cabo Verde,NotPledged,NotPledged,NotPledged
+KH,Cambodia,NotPledged,NotPledged,NotPledged
+CM,Cameroon,Pledged,NotPledged,NotPledged
+CA,Canada,Pledged,Pledged,PledgedOldCommittment
+CF,Central African Republic,Pledged,Pledged,NotPledged
+TD,Chad,Pledged,NotPledged,NotPledged
+CL,Chile,Pledged,Pledged,PledgedOldCommittment
+CN,China,Pledged,NotPledged,NotPledged
+CO,Colombia,Pledged,Pledged,NotPledged
+KM,Comoros,NotPledged,NotPledged,NotPledged
+CG,Congo,NotPledged,Pledged,NotPledged
+CD,Democratic Republic of the Congo,Pledged,Pledged,NotPledged
+CR,Costa Rica,Pledged,Pledged,PledgedOldCommittment
+CI,Cote d'Ivoire,Pledged,Pledged,PledgedNoCoal
+HR,Croatia,Pledged,Pledged,PledgedOldCommittment
+CU,Cuba,Pledged,NotPledged,NotPledged
+CY,Cyprus,Pledged,Pledged,PledgedNoCoal
+CZ,Czechia,Pledged,PledgedAsPartOfEU,PledgedAsPartOfEU
+DK,Denmark,Pledged,Pledged,PledgedOldCommittment
+DJ,Djibouti,NotPledged,Pledged,NotPledged
+DM,Dominica,NotPledged,NotPledged,NotPledged
+DO,Dominican Republic,Pledged,Pledged,NotPledged
+EC,Ecuador,Pledged,Pledged,PledgedNoCoal
+EG,Egypt,NotPledged,NotPledged,PledgedNoCoal
+SV,El Salvador,NotPledged,Pledged,PledgedOldCommittment
+GQ,Equatorial Guinea,Pledged,NotPledged,NotPledged
+ER,Eritrea,NotPledged,NotPledged,NotPledged
+EE,Estonia,Pledged,Pledged,PledgedOldCommittment
+SZ,Eswatini,Pledged,NotPledged,NotPledged
+ET,Ethiopia,NotPledged,Pledged,PledgedOldCommittment
+FJ,Fiji,Pledged,Pledged,PledgedOldCommittment
+FI,Finland,Pledged,Pledged,PledgedOldCommittment
+FR,France,Pledged,Pledged,PledgedOldCommittment
+GA,Gabon,Pledged,Pledged,NotPledged
+GM,Gambia,NotPledged,Pledged,NotPledged
+GE,Georgia,Pledged,Pledged,NotPledged
+DE,Germany,Pledged,Pledged,PledgedOldCommittment
+GH,Ghana,Pledged,Pledged,NotPledged
+GR,Greece,Pledged,Pledged,PledgedOldCommittment
+GD,Grenada,Pledged,NotPledged,NotPledged
+GT,Guatemala,Pledged,NotPledged,NotPledged
+GN,Guinea,NotPledged,NotPledged,NotPledged
+GW,Guinea-Bissau,Pledged,NotPledged,NotPledged
+GY,Guyana,Pledged,Pledged,NotPledged
+HT,Haiti,Pledged,NotPledged,NotPledged
+HN,Honduras,Pledged,Pledged,NotPledged
+HU,Hungary,Pledged,PledgedAsPartOfEU,PledgedOldCommittment
+IS,Iceland,Pledged,Pledged,NotPledged
+IN,India,NotPledged,NotPledged,NotPledged
+ID,Indonesia,Pledged,Pledged,IncompletePledged
+IR,Iran (Islamic Republic of),NotPledged,NotPledged,NotPledged
+IQ,Iraq,NotPledged,Pledged,NotPledged
+IE,Ireland,Pledged,Pledged,PledgedOldCommittment
+IL,Israel,Pledged,Pledged,PledgedOldCommittment
+IT,Italy,Pledged,Pledged,PledgedOldCommittment
+JM,Jamaica,Pledged,Pledged,NotPledged
+JP,Japan,Pledged,Pledged,NotPledged
+JO,Jordan,NotPledged,Pledged,NotPledged
+KZ,Kazakhstan,Pledged,NotPledged,IncompletePledged
+KE,Kenya,Pledged,NotPledged,NotPledged
+KI,Kiribati,NotPledged,NotPledged,NotPledged
+KP,Korea (Democratic People's Republic of),NotPledged,NotPledged,NotPledged
+KR,Republic of Korea,Pledged,Pledged,Pledged
+KW,Kuwait,NotPledged,Pledged,NotPledged
+KG,Kyrgyzstan,Pledged,Pledged,NotPledged
+LA,Lao People's Democratic Republic,NotPledged,NotPledged,NotPledged
+LV,Latvia,Pledged,PledgedAsPartOfEU,PledgedOldCommittment
+LB,Lebanon,Pledged,NotPledged,NotPledged
+LS,Lesotho,NotPledged,NotPledged,NotPledged
+LR,Liberia,Pledged,Pledged,NotPledged
+LY,Libya,NotPledged,Pledged,NotPledged
+LI,Liechtenstein,Pledged,NotPledged,PledgedOldCommittment
+LT,Lithuania,Pledged,PledgedAsPartOfEU,PledgedOldCommittment
+LU,Luxembourg,Pledged,Pledged,PledgedOldCommittment
+MG,Madagascar,Pledged,NotPledged,NotPledged
+MW,Malawi,Pledged,Pledged,NotPledged
+MY,Malaysia,NotPledged,NotPledged,NotPledged
+MV,Maldives,NotPledged,NotPledged,PledgedNoCoal
+ML,Mali,Pledged,Pledged,NotPledged
+MT,Malta,Pledged,Pledged,PledgedAsPartOfEU
+MH,Marshall Islands,NotPledged,Pledged,PledgedOldCommittment
+MR,Mauritania,NotPledged,NotPledged,PledgedNoCoal
+MU,Mauritius,Pledged,NotPledged,PledgedOldCommittment
+MX,Mexico,Pledged,Pledged,PledgedOldCommittment
+FM,Micronesia (Federated States of),NotPledged,NotPledged,NotPledged
+MD,Republic of Moldova,Pledged,NotPledged,NotPledged
+MC,Monaco,Pledged,Pledged,NotPledged
+MN,Mongolia,Pledged,NotPledged,NotPledged
+ME,Montenegro,Pledged,Pledged,PledgedOldCommittment
+MA,Morocco,Pledged,Pledged,IncompletePledged
+MZ,Mozambique,Pledged,NotPledged,NotPledged
+MM,Myanmar,NotPledged,NotPledged,NotPledged
+NA,Namibia,NotPledged,NotPledged,NotPledged
+NR,Nauru,NotPledged,Pledged,NotPledged
+NP,Nepal,Pledged,Pledged,PledgedNoCoal
+NL,Netherlands,Pledged,Pledged,PledgedOldCommittment
+NZ,New Zealand,Pledged,Pledged,PledgedOldCommittment
+NI,Nicaragua,NotPledged,NotPledged,NotPledged
+NE,Niger,Pledged,NotPledged,NotPledged
+NG,Nigeria,Pledged,Pledged,NotPledged
+MK,North Macedonia,Pledged,Pledged,PledgedOldCommittment
+NO,Norway,Pledged,Pledged,NotPledged
+OM,Oman,NotPledged,NotPledged,NotPledged
+PK,Pakistan,Pledged,Pledged,NotPledged
+PW,Palau,NotPledged,Pledged,NotPledged
+PA,Panama,Pledged,Pledged,NotPledged
+PG,Papua New Guinea,Pledged,Pledged,NotPledged
+PY,Paraguay,Pledged,NotPledged,NotPledged
+PE,Peru,Pledged,Pledged,PledgedOldCommittment
+PH,Philippines,Pledged,Pledged,IncompletePledged
+PL,Poland,Pledged,PledgedAsPartOfEU,Pledged
+PT,Portugal,Pledged,Pledged,PledgedOldCommittment
+QA,Qatar,NotPledged,NotPledged,NotPledged
+RO,Romania,Pledged,PledgedAsPartOfEU,PledgedAsPartOfEU
+RU,Russian Federation,Pledged,NotPledged,NotPledged
+RW,Rwanda,Pledged,Pledged,NotPledged
+KN,Saint Kitts and Nevis,NotPledged,Pledged,NotPledged
+LC,Saint Lucia,Pledged,NotPledged,NotPledged
+VC,Saint Vincent and the Grenadines,Pledged,NotPledged,NotPledged
+WS,Samoa,Pledged,NotPledged,NotPledged
+SM,San Marino,Pledged,NotPledged,NotPledged
+ST,Sao Tome and Principe,Pledged,NotPledged,NotPledged
+SA,Saudi Arabia,NotPledged,Pledged,NotPledged
+SN,Senegal,Pledged,Pledged,PledgedOldCommittment
+RS,Serbia,NotPledged,Pledged,NotPledged
+SC,Seychelles,Pledged,NotPledged,NotPledged
+SL,Sierra Leone,Pledged,NotPledged,NotPledged
+SG,Singapore,NotPledged,Pledged,PledgedOldCommittment
+SK,Slovakia,Pledged,PledgedAsPartOfEU,PledgedOldCommittment
+SI,Slovenia,Pledged,Pledged,PledgedOldCommittment
+SB,Solomon Islands,NotPledged,NotPledged,NotPledged
+SO,Somalia,Pledged,NotPledged,Pledged
+ZA,South Africa,NotPledged,NotPledged,NotPledged
+SS,South Sudan,NotPledged,NotPledged,NotPledged
+ES,Spain,Pledged,Pledged,PledgedOldCommittment
+LK,Sri Lanka,Pledged,NotPledged,Pledged
+SD,Sudan,NotPledged,NotPledged,NotPledged
+SR,Suriname,Pledged,Pledged,NotPledged
+SE,Sweden,Pledged,Pledged,PledgedAsPartOfEU
+CH,Switzerland,Pledged,Pledged,PledgedOldCommittment
+SY,Syrian Arab Republic,Pledged,NotPledged,NotPledged
+TJ,Tajikistan,NotPledged,NotPledged,NotPledged
+TZ,United Republic of Tanzania,Pledged,NotPledged,NotPledged
+TH,Thailand,NotPledged,NotPledged,NotPledged
+TL,Timor-Leste,NotPledged,NotPledged,NotPledged
+TG,Togo,Pledged,Pledged,NotPledged
+TO,Tonga,Pledged,Pledged,NotPledged
+TT,Trinidad and Tobago,NotPledged,NotPledged,NotPledged
+TN,Tunisia,NotPledged,Pledged,NotPledged
+TR,Turkey,Pledged,NotPledged,NotPledged
+TM,Turkmenistan,NotPledged,NotPledged,NotPledged
+TV,Tuvalu,NotPledged,NotPledged,PledgedOldCommittment
+UG,Uganda,Pledged,NotPledged,NotPledged
+UA,Ukraine,Pledged,Pledged,PledgedOldCommittment
+AE,United Arab Emirates,Pledged,Pledged,NotPledged
+GB,United Kingdom of Great Britain and Northern Ireland,Pledged,Pledged,PledgedOldCommittment
+US,United States of America,Pledged,NotPledged,NotPledged
+UY,Uruguay,Pledged,Pledged,PledgedOldCommittment
+UZ,Uzbekistan,NotPledged,NotPledged,NotPledged
+VU,Vanuatu,NotPledged,Pledged,PledgedOldCommittment
+VE,Venezuela (Bolivarian Republic of),NotPledged,NotPledged,NotPledged
+VN,Viet Nam,Pledged,Pledged,Pledged
+YE,Yemen,NotPledged,NotPledged,NotPledged
+ZM,Zambia,Pledged,Pledged,Pledged
+ZW,Zimbabwe,Pledged,NotPledged,NotPledged
