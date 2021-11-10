@@ -48,7 +48,7 @@ CZ,Czechia,Pledged,PledgedAsPartOfEU,PledgedAsPartOfEU,NotPledged
 DK,Denmark,Pledged,Pledged,PledgedOldCommittment,Pledged
 DJ,Djibouti,NotPledged,Pledged,NotPledged,NotPledged
 DM,Dominica,NotPledged,NotPledged,NotPledged,NotPledged
-DO,Dominican Republic,Pledged,Pledged,NotPledged,NotPledged
+DO,Dominican Republic,Pledged,Pledged,NotPledged,Pledged
 EC,Ecuador,Pledged,Pledged,PledgedNoCoal,NotPledged
 EG,Egypt,NotPledged,NotPledged,PledgedNoCoal,NotPledged
 SV,El Salvador,NotPledged,Pledged,PledgedOldCommittment,Pledged
@@ -64,7 +64,7 @@ GA,Gabon,Pledged,Pledged,NotPledged,NotPledged
 GM,Gambia,NotPledged,Pledged,NotPledged,NotPledged
 GE,Georgia,Pledged,Pledged,NotPledged,NotPledged
 DE,Germany,Pledged,Pledged,PledgedOldCommittment,NotPledged
-GH,Ghana,Pledged,Pledged,NotPledged,NotPledged
+GH,Ghana,Pledged,Pledged,NotPledged,Pledged
 GR,Greece,Pledged,Pledged,PledgedOldCommittment,NotPledged
 GD,Grenada,Pledged,NotPledged,NotPledged,NotPledged
 GT,Guatemala,Pledged,NotPledged,NotPledged,NotPledged
@@ -75,7 +75,7 @@ HT,Haiti,Pledged,NotPledged,NotPledged,NotPledged
 HN,Honduras,Pledged,Pledged,NotPledged,NotPledged
 HU,Hungary,Pledged,PledgedAsPartOfEU,PledgedOldCommittment,NotPledged
 IS,Iceland,Pledged,Pledged,NotPledged,NotPledged
-IN,India,NotPledged,NotPledged,NotPledged,NotPledged
+IN,India,NotPledged,NotPledged,NotPledged,Pledged
 ID,Indonesia,Pledged,Pledged,IncompletePledged,NotPledged
 IR,Iran (Islamic Republic of),NotPledged,NotPledged,NotPledged,NotPledged
 IQ,Iraq,NotPledged,Pledged,NotPledged,NotPledged
@@ -110,13 +110,13 @@ MT,Malta,Pledged,Pledged,PledgedAsPartOfEU,NotPledged
 MH,Marshall Islands,NotPledged,Pledged,PledgedOldCommittment,NotPledged
 MR,Mauritania,NotPledged,NotPledged,PledgedNoCoal,NotPledged
 MU,Mauritius,Pledged,NotPledged,PledgedOldCommittment,NotPledged
-MX,Mexico,Pledged,Pledged,PledgedOldCommittment,NotPledged
+MX,Mexico,Pledged,Pledged,PledgedOldCommittment,Pledged
 FM,Micronesia (Federated States of),NotPledged,NotPledged,NotPledged,NotPledged
 MD,Republic of Moldova,Pledged,NotPledged,NotPledged,NotPledged
 MC,Monaco,Pledged,Pledged,NotPledged,NotPledged
 MN,Mongolia,Pledged,NotPledged,NotPledged,NotPledged
 ME,Montenegro,Pledged,Pledged,PledgedOldCommittment,NotPledged
-MA,Morocco,Pledged,Pledged,IncompletePledged,NotPledged
+MA,Morocco,Pledged,Pledged,IncompletePledged,Pledged
 MZ,Mozambique,Pledged,NotPledged,NotPledged,NotPledged
 MM,Myanmar,NotPledged,NotPledged,NotPledged,NotPledged
 NA,Namibia,NotPledged,NotPledged,NotPledged,NotPledged
@@ -134,7 +134,7 @@ PK,Pakistan,Pledged,Pledged,NotPledged,NotPledged
 PW,Palau,NotPledged,Pledged,NotPledged,NotPledged
 PA,Panama,Pledged,Pledged,NotPledged,NotPledged
 PG,Papua New Guinea,Pledged,Pledged,NotPledged,NotPledged
-PY,Paraguay,Pledged,NotPledged,NotPledged,NotPledged
+PY,Paraguay,Pledged,NotPledged,NotPledged,Pledged
 PE,Peru,Pledged,Pledged,PledgedOldCommittment,NotPledged
 PH,Philippines,Pledged,Pledged,IncompletePledged,NotPledged
 PL,Poland,Pledged,PledgedAsPartOfEU,Pledged,Pledged
@@ -142,7 +142,7 @@ PT,Portugal,Pledged,Pledged,PledgedOldCommittment,NotPledged
 QA,Qatar,NotPledged,NotPledged,NotPledged,NotPledged
 RO,Romania,Pledged,PledgedAsPartOfEU,PledgedAsPartOfEU,NotPledged
 RU,Russian Federation,Pledged,NotPledged,NotPledged,NotPledged
-RW,Rwanda,Pledged,Pledged,NotPledged,NotPledged
+RW,Rwanda,Pledged,Pledged,NotPledged,Pledged
 KN,Saint Kitts and Nevis,NotPledged,Pledged,NotPledged,NotPledged
 LC,Saint Lucia,Pledged,NotPledged,NotPledged,NotPledged
 VC,Saint Vincent and the Grenadines,Pledged,NotPledged,NotPledged,NotPledged
@@ -176,7 +176,7 @@ TG,Togo,Pledged,Pledged,NotPledged,NotPledged
 TO,Tonga,Pledged,Pledged,NotPledged,NotPledged
 TT,Trinidad and Tobago,NotPledged,NotPledged,NotPledged,NotPledged
 TN,Tunisia,NotPledged,Pledged,NotPledged,NotPledged
-TR,Turkey,Pledged,NotPledged,NotPledged,NotPledged
+TR,Turkey,Pledged,NotPledged,NotPledged,Pledged
 TM,Turkmenistan,NotPledged,NotPledged,NotPledged,NotPledged
 TV,Tuvalu,NotPledged,NotPledged,PledgedOldCommittment,NotPledged
 UG,Uganda,Pledged,NotPledged,NotPledged,NotPledged
@@ -184,7 +184,7 @@ UA,Ukraine,Pledged,Pledged,PledgedOldCommittment,NotPledged
 AE,United Arab Emirates,Pledged,Pledged,NotPledged,NotPledged
 GB,United Kingdom of Great Britain and Northern Ireland,Pledged,Pledged,PledgedOldCommittment,Pledged
 US,United States of America,Pledged,NotPledged,NotPledged,NotPledged
-UY,Uruguay,Pledged,Pledged,PledgedOldCommittment,NotPledged
+UY,Uruguay,Pledged,Pledged,PledgedOldCommittment,Pledged
 UZ,Uzbekistan,NotPledged,NotPledged,NotPledged,NotPledged
 VU,Vanuatu,NotPledged,Pledged,PledgedOldCommittment,NotPledged
 VE,Venezuela (Bolivarian Republic of),NotPledged,NotPledged,NotPledged,NotPledged
