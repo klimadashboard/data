@@ -1,147 +1,147 @@
 state_iso;state_name;status_deforestation;status_methane;status_coal;status_cars
 AF;Afghanistan;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-AL;Albania;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
+AL;Albania;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 DZ;Algeria;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 AD;Andorra;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-AO;Angola;Pledged;NotPledged;PledgedOldCommittmentNoCoal;NotPledged
+AO;Angola;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 AG;Antigua and Barbuda;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-AR;Argentina;Pledged;Pledged;NotPledged;NotPledged
+AR;Argentina;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 AM;Armenia;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-AU;Australia;Pledged;NotPledged;NotPledged;NotPledged
-AT;Austria;Pledged;PledgedAsPartOfEU;PledgedOldCommittmentNoCoal;Pledged2040
-AZ;Azerbaijan;Pledged;NotPledged;PledgedOldCommittmentNoCoal;Pledged2040
+AU;Australia;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
+AT;Austria;Pledged;PledgedAsPartOfEU;PledgedNoCoal;Pledged2040
+AZ;Azerbaijan;Pledged;NotPledged;PledgedPlusPPCANoCoal;Pledged2040
 BS;Bahamas;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 BH;Bahrain;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-BD;Bangladesh;Pledged;NotPledged;NotPledged;NotPledged
+BD;Bangladesh;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
 BB;Barbados;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
 BY;Belarus;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-BE;Belgium;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
+BE;Belgium;Pledged;Pledged;PledgedPlusPPCANoCoal;NotPledged
 BZ;Belize;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 BJ;Benin;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
 BT;Bhutan;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 BO;Bolivia (Plurinational State of);NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-BA;Bosnia and Herzegovina;Pledged;Pledged;NotPledged;NotPledged
+BA;Bosnia and Herzegovina;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 BW;Botswana;Pledged;NotPledged;IncompletePledged;NotPledged
-BR;Brazil;Pledged;Pledged;NotPledged;NotPledged
-BN;Brunei Darussalam;Pledged;NotPledged;PledgedNoCoal;NotPledged
-BG;Bulgaria;Pledged;Pledged;PledgedAsPartOfEU;NotPledged
+BR;Brazil;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+BN;Brunei Darussalam;Pledged;NotPledged;Pledged;NotPledged
+BG;Bulgaria;Pledged;Pledged;Pledged;NotPledged
 BF;Burkina Faso;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 BI;Burundi;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 CV;Cabo Verde;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-KH;Cambodia;NotPledged;NotPledged;NotPledged;Pledged2040
+KH;Cambodia;NotPledged;NotPledged;NotPledgedUsesCoal;Pledged2040
 CM;Cameroon;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-CA;Canada;Pledged;Pledged;PledgedOldCommittment;Pledged2040
+CA;Canada;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
 CF;Central African Republic;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 TD;Chad;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-CL;Chile;Pledged;Pledged;PledgedOldCommittment;Pledged2040
-CN;China;Pledged;NotPledged;NotPledged;NotPledged
-CO;Colombia;Pledged;Pledged;NotPledged;NotPledged
+CL;Chile;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+CN;China;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
+CO;Colombia;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 KM;Comoros;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 CG;Congo;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 CD;Democratic Republic of the Congo;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-CR;Costa Rica;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
-CI;Cote d'Ivoire;Pledged;Pledged;PledgedNoCoal;NotPledged
-HR;Croatia;Pledged;Pledged;PledgedOldCommittment;Pledged2040
+CR;Costa Rica;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+CI;Cote d'Ivoire;Pledged;Pledged;Pledged;NotPledged
+HR;Croatia;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
 CU;Cuba;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 CY;Cyprus;Pledged;Pledged;PledgedNoCoal;Pledged2040
-CZ;Czechia;Pledged;PledgedAsPartOfEU;PledgedAsPartOfEU;NotPledged
-DK;Denmark;Pledged;Pledged;PledgedOldCommittment;Pledged2040
-DJ;Djibouti;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-DM;Dominica;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-DO;Dominican Republic;Pledged;Pledged;NotPledgedNoCoal;PledgedAccelerated
+CZ;Czechia;Pledged;PledgedAsPartOfEU;Pledged;NotPledged
+DK;Denmark;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+DJ;Djibouti;NotPledged;Pledged;NotPledgedUsesCoal;NotPledged
+DM;Dominica;NotPledged;NotPledged;NotPledged;NotPledged
+DO;Dominican Republic;Pledged;Pledged;NotPledgedUsesCoal;PledgedAccelerated
 EC;Ecuador;Pledged;Pledged;PledgedNoCoal;NotPledged
 EG;Egypt;NotPledged;NotPledged;PledgedNoCoal;NotPledged
-SV;El Salvador;Pledged;Pledged;PledgedOldCommittment;Pledged2040
+SV;El Salvador;Pledged;Pledged;NotPledgedNoCoal;Pledged2040
 GQ;Equatorial Guinea;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 ER;Eritrea;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-EE;Estonia;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
-SZ;Eswatini;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-ET;Ethiopia;NotPledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
-FJ;Fiji;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
-FI;Finland;Pledged;Pledged;PledgedOldCommittment;Pledged2040
-FR;France;Pledged;Pledged;PledgedOldCommittment;NotPledged
+EE;Estonia;Pledged;Pledged;PledgedNoCoal;NotPledged
+SZ;Eswatini;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
+ET;Ethiopia;NotPledged;Pledged;NotPledgedUsesCoal;NotPledged
+FJ;Fiji;Pledged;Pledged;NotPledgedNoCoal;NotPledged
+FI;Finland;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+FR;France;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 GA;Gabon;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-GM;Gambia;NotPledged;Pledged;NotPledged;NotPledged
+GM;Gambia;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
 GE;Georgia;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-DE;Germany;Pledged;Pledged;PledgedOldCommittment;NotPledged
+DE;Germany;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 GH;Ghana;Pledged;Pledged;NotPledgedNoCoal;PledgedAccelerated
-GR;Greece;Pledged;Pledged;PledgedOldCommittment;NotPledged
+GR;Greece;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 GD;Grenada;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-GT;Guatemala;Pledged;Pledged;NotPledged;NotPledged
+GT;Guatemala;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 GN;Guinea;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 GW;Guinea-Bissau;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 GY;Guyana;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 HT;Haiti;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-HN;Honduras;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-HU;Hungary;Pledged;PledgedAsPartOfEU;PledgedOldCommittment;NotPledged
+HN;Honduras;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+HU;Hungary;Pledged;PledgedAsPartOfEU;IncompletePledgedPlusPPCA;NotPledged
 IS;Iceland;Pledged;Pledged;NotPledgedNoCoal;Pledged2040
-IN;India;NotPledged;NotPledged;NotPledged;PledgedAccelerated
+IN;India;NotPledged;NotPledged;NotPledgedUsesCoal;PledgedAccelerated
 ID;Indonesia;Pledged;Pledged;IncompletePledged;NotPledged
 IR;Iran (Islamic Republic of);NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 IQ;Iraq;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-IE;Ireland;Pledged;Pledged;PledgedOldCommittmentNoCoal;Pledged2040
-IL;Israel;Pledged;Pledged;PledgedOldCommittment;Pledged2040
-IT;Italy;Pledged;Pledged;PledgedOldCommittment;NotPledged
+IE;Ireland;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+IL;Israel;Pledged;Pledged;NotPledgedUsesCoal;Pledged2040
+IT;Italy;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 JM;Jamaica;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-JP;Japan;Pledged;Pledged;NotPledged;NotPledged
+JP;Japan;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 JO;Jordan;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
 KZ;Kazakhstan;Pledged;NotPledged;IncompletePledged;NotPledged
-KE;Kenya;Pledged;NotPledged;NotPledgedNoCoal;PledgedAccelerated
+KE;Kenya;Pledged;NotPledged;NotPledgedUsesCoal;PledgedAccelerated
 KI;Kiribati;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-KP;Korea (Democratic People's Republic of);NotPledged;NotPledged;NotPledged;NotPledged
+KP;Korea (Democratic People's Republic of);NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
 KR;Republic of Korea;Pledged;Pledged;Pledged;NotPledged
 KW;Kuwait;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-KG;Kyrgyzstan;Pledged;Pledged;NotPledged;NotPledged
-LA;Lao People's Democratic Republic;NotPledged;NotPledged;NotPledged;NotPledged
-LV;Latvia;Pledged;PledgedAsPartOfEU;PledgedOldCommittmentNoCoal;NotPledged
+KG;Kyrgyzstan;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+LA;Lao People's Democratic Republic;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+LV;Latvia;Pledged;PledgedAsPartOfEU;PledgedPlusPPCANoCoal;NotPledged
 LB;Lebanon;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 LS;Lesotho;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 LR;Liberia;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 LY;Libya;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-LI;Liechtenstein;Pledged;NotPledged;PledgedOldCommittmentNoCoal;NotPledged
-LT;Lithuania;Pledged;PledgedAsPartOfEU;PledgedOldCommittmentNoCoal;Pledged2040
-LU;Luxembourg;Pledged;Pledged;PledgedOldCommittmentNoCoal;Pledged2040
-MG;Madagascar;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-MW;Malawi;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-MY;Malaysia;Pledged;Pledged;NotPledged;NotPledged
-MV;Maldives;NotPledged;NotPledged;PledgedNoCoal;NotPledged
+LI;Liechtenstein;Pledged;NotPledged;PledgedPlusPPCA;NotPledged
+LT;Lithuania;Pledged;PledgedAsPartOfEU;PledgedPlusPPCAUsesCoal;Pledged2040
+LU;Luxembourg;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+MG;Madagascar;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
+MW;Malawi;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+MY;Malaysia;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+MV;Maldives;NotPledged;NotPledged;Pledged;NotPledged
 ML;Mali;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-MT;Malta;Pledged;Pledged;PledgedAsPartOfEUNoCoal;NotPledged
-MH;Marshall Islands;NotPledged;Pledged;PledgedOldCommittment;NotPledged
+MT;Malta;Pledged;Pledged;PledgedNoCoal;NotPledged
+MH;Marshall Islands;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
 MR;Mauritania;NotPledged;NotPledged;PledgedNoCoal;NotPledged
-MU;Mauritius;Pledged;NotPledged;PledgedOldCommittmentNoCoal;NotPledged
-MX;Mexico;Pledged;Pledged;PledgedOldCommittment;PledgedAccelerated
+MU;Mauritius;Pledged;NotPledged;PledgedPlusPPCA;NotPledged
+MX;Mexico;Pledged;Pledged;NotPledgedUsesCoal;PledgedAccelerated
 FM;Micronesia (Federated States of);NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-MD;Republic of Moldova;Pledged;NotPledged;NotPledged;NotPledged
+MD;Republic of Moldova;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 MC;Monaco;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-MN;Mongolia;Pledged;NotPledged;NotPledged;NotPledged
-ME;Montenegro;Pledged;Pledged;PledgedOldCommittment;NotPledged
+MN;Mongolia;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
+ME;Montenegro;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 MA;Morocco;Pledged;Pledged;IncompletePledged;PledgedAccelerated
 MZ;Mozambique;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-MM;Myanmar;NotPledged;NotPledged;NotPledged;NotPledged
-NA;Namibia;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+MM;Myanmar;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+NA;Namibia;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
 NR;Nauru;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
 NP;Nepal;Pledged;Pledged;PledgedNoCoal;NotPledged
-NL;Netherlands;Pledged;Pledged;PledgedOldCommittment;Pledged2040
-NZ;New Zealand;Pledged;Pledged;PledgedOldCommittment;Pledged2040
+NL;Netherlands;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+NZ;New Zealand;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
 NI;Nicaragua;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 NE;Niger;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 NG;Nigeria;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-MK;North Macedonia;Pledged;Pledged;PledgedOldCommittment;NotPledged
+MK;North Macedonia;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 NO;Norway;Pledged;Pledged;NotPledgedNoCoal;Pledged2040
 OM;Oman;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-PK;Pakistan;Pledged;Pledged;NotPledged;NotPledged
+PK;Pakistan;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 PW;Palau;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-PA;Panama;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-PG;Papua New Guinea;Pledged;Pledged;NotPledgedNoCoal;NotPledged
+PA;Panama;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+PG;Papua New Guinea;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 PY;Paraguay;Pledged;NotPledged;NotPledgedNoCoal;PledgedAccelerated
-PE;Peru;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
+PE;Peru;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 PH;Philippines;Pledged;Pledged;IncompletePledged;NotPledged
 PL;Poland;Pledged;PledgedAsPartOfEU;Pledged;Pledged2040
-PT;Portugal;Pledged;Pledged;PledgedOldCommittment;NotPledged
+PT;Portugal;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 QA;Qatar;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-RO;Romania;Pledged;PledgedAsPartOfEU;PledgedAsPartOfEU;NotPledged
-RU;Russian Federation;Pledged;NotPledged;NotPledged;NotPledged
+RO;Romania;Pledged;PledgedAsPartOfEU;Pledged;NotPledged
+RU;Russian Federation;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
 RW;Rwanda;Pledged;Pledged;NotPledgedNoCoal;PledgedAccelerated
 KN;Saint Kitts and Nevis;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
 LC;Saint Lucia;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
@@ -150,45 +150,45 @@ WS;Samoa;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 SM;San Marino;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 ST;Sao Tome and Principe;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 SA;Saudi Arabia;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-SN;Senegal;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
-RS;Serbia;Pledged;Pledged;NotPledged;NotPledged
+SN;Senegal;Pledged;Pledged;PledgedPlusPPCA;NotPledged
+RS;Serbia;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
 SC;Seychelles;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
 SL;Sierra Leone;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-SG;Singapore;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
-SK;Slovakia;Pledged;PledgedAsPartOfEU;PledgedOldCommittment;NotPledged
-SI;Slovenia;Pledged;Pledged;PledgedOldCommittment;Pledged2040
+SG;Singapore;Pledged;Pledged;PledgedPlusPPCA;NotPledged
+SK;Slovakia;Pledged;PledgedAsPartOfEU;PledgedPlusPPCA;NotPledged
+SI;Slovenia;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
 SB;Solomon Islands;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 SO;Somalia;Pledged;NotPledged;PledgedNoCoal;NotPledged
-ZA;South Africa;NotPledged;NotPledged;NotPledged;NotPledged
+ZA;South Africa;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
 SS;South Sudan;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-ES;Spain;Pledged;Pledged;PledgedOldCommittment;NotPledged
+ES;Spain;Pledged;Pledged;PledgedPlusPPCA;NotPledged
 LK;Sri Lanka;Pledged;NotPledged;Pledged;NotPledged
 SD;Sudan;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 SR;Suriname;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-SE;Sweden;Pledged;Pledged;PledgedAsPartOfEUNoCoal;Pledged2040
-CH;Switzerland;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
+SE;Sweden;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+CH;Switzerland;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 SY;Syrian Arab Republic;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-TJ;Tajikistan;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
-TZ;United Republic of Tanzania;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-TH;Thailand;NotPledged;NotPledged;NotPledged;NotPledged
+TJ;Tajikistan;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+TZ;United Republic of Tanzania;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
+TH;Thailand;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
 TL;Timor-Leste;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 TG;Togo;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 TO;Tonga;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 TT;Trinidad and Tobago;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 TN;Tunisia;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
-TR;Turkey;Pledged;NotPledged;NotPledged;PledgedAccelerated
+TR;Turkey;Pledged;NotPledged;NotPledgedUsesCoal;PledgedAccelerated
 TM;Turkmenistan;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-TV;Tuvalu;NotPledged;NotPledged;PledgedOldCommittmentNoCoal;NotPledged
+TV;Tuvalu;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 UG;Uganda;Pledged;NotPledged;NotPledgedNoCoal;NotPledged
-UA;Ukraine;Pledged;Pledged;PledgedOldCommittment;PledgedAccelerated
-AE;United Arab Emirates;Pledged;Pledged;NotPledgedNoCoal;NotPledged
-GB;United Kingdom of Great Britain and Northern Ireland;Pledged;Pledged;PledgedOldCommittment;Pledged2040
-US;United States of America;Pledged;Pledged;NotPledged;NotPledged
-UY;Uruguay;Pledged;Pledged;PledgedOldCommittmentNoCoal;Pledged2040
-UZ;Uzbekistan;Pledged;NotPledged;NotPledged;NotPledged
-VU;Vanuatu;Pledged;Pledged;PledgedOldCommittmentNoCoal;NotPledged
+UA;Ukraine;Pledged;Pledged;NotPledgedNoCoal;PledgedAccelerated
+AE;United Arab Emirates;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+GB;United Kingdom of Great Britain and Northern Ireland;Pledged;Pledged;PledgedPlusPPCA;Pledged2040
+US;United States of America;Pledged;Pledged;NotPledgedUsesCoal;NotPledged
+UY;Uruguay;Pledged;Pledged;NotPledgedNoCoal;Pledged2040
+UZ;Uzbekistan;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
+VU;Vanuatu;Pledged;Pledged;NotPledgedNoCoal;NotPledged
 VE;Venezuela (Bolivarian Republic of);NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 VN;Viet Nam;Pledged;Pledged;Pledged;NotPledged
 YE;Yemen;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
 ZM;Zambia;Pledged;Pledged;Pledged;NotPledged
-ZW;Zimbabwe;Pledged;NotPledged;NotPledged;NotPledged
+ZW;Zimbabwe;Pledged;NotPledged;NotPledgedUsesCoal;NotPledged
