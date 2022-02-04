@@ -3,6 +3,9 @@
 ## List of data folders
 - [COP26 (Agreements)](../COP26)
 
+Update February 2022:
+We’re currently working on publishing more Open Data sets from our Austrian dashboard. [Follow us on Twitter](https://twitter.com/klimadashboard) for more updates.
+
 ## URLs
 All the files in this directory are hosted at http://klimadashboard.at/data/. 
 
