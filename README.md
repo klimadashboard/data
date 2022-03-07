@@ -1,8 +1,8 @@
 # Datasets Klimadashboard.at
 
 ## List of data folders
-- [COP26 (Agreements)](../COP26)
-- [Austria: Heating Systems](../heating-systems)
+- [COP26 (Agreements)](https://github.com/klimadashboard/data/tree/main/COP26)
+- [Austria: Heating Systems](https://github.com/klimadashboard/data/tree/main/heating-systems)
 
 We’re working on publishing more Open Data sets from our Austrian dashboard. [Follow us on Twitter](https://twitter.com/klimadashboard) for more updates.
 
