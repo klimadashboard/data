@@ -1,0 +1,194 @@
+state_iso;state_name;status_deforestation;status_methane;status_coal;status_cars
+AF;Afghanistan;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+AL;Albania;PledgedCOP26;Pledged;PledgedPlusPPCANoCoal;NotPledged
+DZ;Algeria;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+AD;Andorra;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+AO;Angola;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+AG;Antigua and Barbuda;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+AR;Argentina;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+AM;Armenia;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+AU;Australia;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+AT;Austria;PledgedNYviaEUandCOP26;PledgedAsPartOfEU;PledgedNoCoal;Pledged2040
+AZ;Azerbaijan;PledgedCOP26;NotPledged;PledgedPlusPPCANoCoal;Pledged2040
+BS;Bahamas;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+BH;Bahrain;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+BD;Bangladesh;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+BB;Barbados;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+BY;Belarus;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+BE;Belgium;PledgedNYandCOP26;Pledged;PledgedPlusPPCANoCoal;Pledged2040
+BZ;Belize;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+BJ;Benin;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+BT;Bhutan;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+BO;Bolivia (Plurinational State of);NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+BA;Bosnia and Herzegovina;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+BW;Botswana;PledgedCOP26;NotPledged;IncompletePledgedUsesCoal;NotPledged
+BR;Brazil;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+BN;Brunei Darussalam;PledgedCOP26;NotPledged;PledgedUsesCoal;NotPledged
+BG;Bulgaria;PledgedNYviaEUandCOP26;Pledged;PledgedUsesCoal;NotPledged
+BF;Burkina Faso;PledgedNYandCOP26;Pledged;NotPledgedNoCoal;NotPledged
+BI;Burundi;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+CV;Cabo Verde;NotPledged;NotPledged;NotPledgedNoCoal;Pledged2040
+KH;Cambodia;NotPledged;NotPledged;NotPledgedUsesCoal;Pledged2040
+CM;Cameroon;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+CA;Canada;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+CF;Central African Republic;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+TD;Chad;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+CL;Chile;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+CN;China;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+CO;Colombia;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+KM;Comoros;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+CG;Congo;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+CD;Democratic Republic of the Congo;PledgedNYandCOP26;Pledged;NotPledgedNoCoal;NotPledged
+CR;Costa Rica;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+CI;Cote d'Ivoire;PledgedNYandCOP26;Pledged;PledgedUsesCoal;NotPledged
+HR;Croatia;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+CU;Cuba;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+CY;Cyprus;PledgedNYviaEUandCOP26;Pledged;PledgedNoCoal;Pledged2040
+CZ;Czechia;PledgedNYviaEUandCOP26;PledgedAsPartOfEU;PledgedUsesCoal;NotPledged
+DK;Denmark;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+DJ;Djibouti;NotPledged;Pledged;NotPledgedUsesCoal;NotPledged
+DM;Dominica;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+DO;Dominican Republic;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;PledgedAccelerated
+EC;Ecuador;PledgedNYandCOP26;Pledged;PledgedNoCoal;NotPledged
+EG;Egypt;NotPledged;NotPledged;PledgedNoCoal;NotPledged
+SV;El Salvador;PledgedNYandCOP26;Pledged;NotPledgedNoCoal;Pledged2040
+GQ;Equatorial Guinea;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+ER;Eritrea;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+EE;Estonia;PledgedNYviaEUandCOP26;Pledged;PledgedNoCoal;NotPledged
+SZ;Eswatini;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+ET;Ethiopia;NotPledged;Pledged;NotPledgedUsesCoal;NotPledged
+FJ;Fiji;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+FI;Finland;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+FR;France;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+GA;Gabon;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+GM;Gambia;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+GE;Georgia;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+DE;Germany;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+GH;Ghana;PledgedCOP26;Pledged;NotPledgedNoCoal;PledgedAccelerated
+GR;Greece;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+GD;Grenada;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+GT;Guatemala;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+GN;Guinea;PledgedNY;NotPledged;NotPledgedNoCoal;NotPledged
+GW;Guinea-Bissau;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+GY;Guyana;PledgedNYandCOP26;Pledged;NotPledgedNoCoal;NotPledged
+HT;Haiti;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+HN;Honduras;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+HU;Hungary;PledgedNYviaEUandCOP26;PledgedAsPartOfEU;IncompletePledgedPlusPPCAUsesCoal;NotPledged
+IS;Iceland;PledgedCOP26;Pledged;NotPledgedNoCoal;Pledged2040
+IN;India;NotPledged;NotPledged;NotPledgedUsesCoal;PledgedAccelerated
+ID;Indonesia;PledgedNYandCOP26;Pledged;IncompletePledgedUsesCoal;NotPledged
+IR;Iran (Islamic Republic of);NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+IQ;Iraq;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+IE;Ireland;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+IL;Israel;PledgedCOP26;Pledged;NotPledgedUsesCoal;Pledged2040
+IT;Italy;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+JM;Jamaica;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+JP;Japan;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+JO;Jordan;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+KZ;Kazakhstan;PledgedCOP26;NotPledged;IncompletePledgedUsesCoal;NotPledged
+KE;Kenya;PledgedNYandCOP26;NotPledged;NotPledgedUsesCoal;PledgedAccelerated
+KI;Kiribati;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+KP;Korea (Democratic People's Republic of);NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+KR;Republic of Korea;PledgedNYandCOP26;Pledged;PledgedUsesCoal;NotPledged
+KW;Kuwait;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+KG;Kyrgyzstan;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+LA;Lao People's Democratic Republic;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+LV;Latvia;PledgedNYviaEUandCOP26;PledgedAsPartOfEU;PledgedPlusPPCANoCoal;NotPledged
+LB;Lebanon;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+LS;Lesotho;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+LR;Liberia;PledgedNYandCOP26;Pledged;NotPledgedNoCoal;NotPledged
+LY;Libya;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+LI;Liechtenstein;PledgedCOP26;NotPledged;PledgedPlusPPCANoCoal;Pledged2040
+LT;Lithuania;PledgedNYandCOP26;PledgedAsPartOfEU;PledgedPlusPPCAUsesCoal;Pledged2040
+LU;Luxembourg;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCANoCoal;Pledged2040
+MG;Madagascar;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+MW;Malawi;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+MY;Malaysia;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+MV;Maldives;NotPledged;NotPledged;PledgedNoCoal;NotPledged
+ML;Mali;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+MT;Malta;PledgedNYviaEUandCOP26;Pledged;PledgedNoCoal;Pledged2040
+MH;Marshall Islands;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+MR;Mauritania;NotPledged;NotPledged;PledgedNoCoal;NotPledged
+MU;Mauritius;PledgedCOP26;NotPledged;PledgedPlusPPCAUsesCoal;NotPledged
+MX;Mexico;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;PledgedAccelerated
+FM;Micronesia (Federated States of);NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+MD;Republic of Moldova;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+MC;Monaco;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+MN;Mongolia;PledgedNYandCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+ME;Montenegro;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+MA;Morocco;PledgedCOP26;Pledged;IncompletePledgedUsesCoal;PledgedAccelerated
+MZ;Mozambique;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+MM;Myanmar;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+NA;Namibia;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+NR;Nauru;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+NP;Nepal;PledgedNYandCOP26;Pledged;PledgedNoCoal;NotPledged
+NL;Netherlands;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+NZ;New Zealand;PledgedCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+NI;Nicaragua;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+NE;Niger;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+NG;Nigeria;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+MK;North Macedonia;PledgedCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+NO;Norway;PledgedNYandCOP26;Pledged;NotPledgedNoCoal;Pledged2040
+OM;Oman;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+PK;Pakistan;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+PW;Palau;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+PA;Panama;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+PG;Papua New Guinea;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+PY;Paraguay;PledgedCOP26;NotPledged;NotPledgedNoCoal;PledgedAccelerated
+PE;Peru;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+PH;Philippines;PledgedNYandCOP26;Pledged;IncompletePledgedUsesCoal;NotPledged
+PL;Poland;PledgedNYviaEUandCOP26;PledgedAsPartOfEU;PledgedUsesCoal;Pledged2040
+PT;Portugal;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+QA;Qatar;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+RO;Romania;PledgedNYviaEUandCOP26;PledgedAsPartOfEU;PledgedUsesCoal;NotPledged
+RU;Russian Federation;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+RW;Rwanda;PledgedCOP26;Pledged;NotPledgedNoCoal;PledgedAccelerated
+KN;Saint Kitts and Nevis;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+LC;Saint Lucia;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+VC;Saint Vincent and the Grenadines;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+WS;Samoa;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+SM;San Marino;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+ST;Sao Tome and Principe;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+SA;Saudi Arabia;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+SN;Senegal;PledgedCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+RS;Serbia;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+SC;Seychelles;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+SL;Sierra Leone;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+SG;Singapore;PledgedCOP26;Pledged;PledgedPlusPPCANoCoal;NotPledged
+SK;Slovakia;PledgedNYviaEUandCOP26;PledgedAsPartOfEU;PledgedPlusPPCAUsesCoal;NotPledged
+SI;Slovenia;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+SB;Solomon Islands;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+SO;Somalia;PledgedCOP26;NotPledged;PledgedNoCoal;NotPledged
+ZA;South Africa;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+SS;South Sudan;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+ES;Spain;PledgedNYviaEUandCOP26;Pledged;PledgedPlusPPCAUsesCoal;NotPledged
+LK;Sri Lanka;PledgedCOP26;NotPledged;PledgedUsesCoal;NotPledged
+SD;Sudan;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+SR;Suriname;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+SE;Sweden;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+CH;Switzerland;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+SY;Syrian Arab Republic;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+TJ;Tajikistan;NotPledged;NotPledged;NotPledgedUsesCoal;NotPledged
+TZ;United Republic of Tanzania;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+TH;Thailand;PledgedNY;NotPledged;NotPledgedUsesCoal;NotPledged
+TL;Timor-Leste;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+TG;Togo;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+TO;Tonga;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+TT;Trinidad and Tobago;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+TN;Tunisia;NotPledged;Pledged;NotPledgedNoCoal;NotPledged
+TR;Turkey;PledgedNYandCOP26;NotPledged;NotPledgedUsesCoal;PledgedAccelerated
+TM;Turkmenistan;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+TV;Tuvalu;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+UG;Uganda;PledgedCOP26;NotPledged;NotPledgedNoCoal;NotPledged
+UA;Ukraine;PledgedCOP26;Pledged;NotPledgedNoCoal;PledgedAccelerated
+AE;United Arab Emirates;PledgedCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+GB;United Kingdom of Great Britain and Northern Ireland;PledgedNYandCOP26;Pledged;PledgedPlusPPCAUsesCoal;Pledged2040
+US;United States of America;PledgedNYandCOP26;Pledged;NotPledgedUsesCoal;NotPledged
+UY;Uruguay;PledgedCOP26;Pledged;NotPledgedNoCoal;Pledged2040
+UZ;Uzbekistan;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
+VU;Vanuatu;PledgedCOP26;Pledged;NotPledgedNoCoal;NotPledged
+VE;Venezuela (Bolivarian Republic of);NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+VN;Viet Nam;PledgedNYandCOP26;Pledged;PledgedUsesCoal;NotPledged
+YE;Yemen;NotPledged;NotPledged;NotPledgedNoCoal;NotPledged
+ZM;Zambia;PledgedCOP26;Pledged;PledgedUsesCoal;NotPledged
+ZW;Zimbabwe;PledgedCOP26;NotPledged;NotPledgedUsesCoal;NotPledged
