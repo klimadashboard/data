@@ -1,0 +1,211 @@
+state_name;state_iso;co2_percapita
+Afghanistan;AF;0.81
+Albania;AL;3.06
+Algeria;DZ;6.25
+Angola;AO;2.43
+Anguilla;AI;2.16
+Antigua and Barbuda;AG;6.05
+Argentina;AR;8.89
+Armenia;AM;2.96
+Aruba;AW;8.70
+Australia;AU;23.49
+Austria;AT;9.76
+Azerbaijan;AZ;5.66
+Bahamas;BS;6.52
+Bahrain;BH;37.81
+Bangladesh;BD;1.54
+Barbados;BB;5.44
+Belarus;BY;11.01
+Belgium;BE;11.35
+Belize;BZ;2.69
+Benin;BJ;1.50
+Bermuda;BM;11.04
+Bhutan;BT;2.93
+Bolivia;BO;5.16
+Bosnia and Herzegovina;BA;8.75
+Botswana;BW;5.53
+Brazil;BR;5.97
+British Virgin Islands;VG;5.91
+Brunei;BN;29.49
+Bulgaria;BG;8.48
+Burkina Faso;BF;1.48
+Burundi;BI;0.55
+Cabo Verde;CV;2.06
+Cambodia;KH;2.55
+Cameroon;CM;1.60
+Canada;CA;20.62
+Cayman Islands;KY;8.70
+Central African Republic;CF;2.29
+Chad;TD;4.42
+Chile;CL;6.90
+China;CN;9.71
+Colombia;CO;3.93
+Comoros;KM;0.94
+Congo;CG;3.89
+Cook Islands;CK;3.82
+Costa Rica;CR;3.11
+Côte d’Ivoire;;1.18
+Croatia;HR;6.17
+Cuba;CU;4.02
+Curaçao;CW;21.05
+Cyprus;CY;7.23
+Czechia;CZ;12.37
+Democratic Republic of the Congo;CG;0.57
+Denmark;DK;8.54
+Djibouti;DJ;2.32
+Dominica;DM;3.37
+Dominican Republic;DO;3.79
+Ecuador;EC;4.05
+Egypt;EG;4.01
+El Salvador;SV;1.88
+Equatorial Guinea;GQ;10.50
+Eritrea;ER;1.23
+Estonia;EE;19.22
+Eswatini;SZ;2.44
+Ethiopia;ET;1.42
+Falkland Islands;FK;60.97
+Faroes;;0.90
+Fiji;FJ;3.65
+Finland;FI;13.50
+France and Monaco;FR;6.90
+French Guiana;GF;2.30
+French Polynesia;PF;3.76
+Gabon;GA;8.66
+Georgia;GE;4.20
+Germany;DE;10.62
+Ghana;GH;1.27
+Gibraltar;GI;23.35
+Greece;GR;8.24
+Greenland;GL;10.30
+Grenada;GD;2.61
+Guadeloupe;GP;4.87
+Guatemala;GT;2.35
+Guinea;GN;1.86
+Guinea-Bissau;GW;1.49
+Guyana;GY;6.47
+Haiti;HT;1.22
+Honduras;HN;2.45
+Hong Kong;HK;6.63
+Hungary;HU;6.93
+Iceland;IS;14.66
+India;IN;2.67
+Indonesia;ID;4.03
+Iran;IR;11.30
+Iraq;IQ;8.93
+Ireland;IE;14.08
+Israel and Palestine;ILPS;10.30
+Italy;IT;7.04
+Jamaica;JM;3.56
+Japan;JP;9.99
+Jordan;JO;3.57
+Kazakhstan;KZ;19.98
+Kenya;KE;1.79
+Kiribati;KI;0.80
+Kuwait;KW;33.71
+Kyrgyzstan;KG;3.47
+Laos;LA;5.31
+Latvia;LV;6.51
+Lebanon;LB;5.67
+Lesotho;LS;1.26
+Liberia;LR;0.86
+Libya;LY;12.24
+Lithuania;LT;8.15
+Luxembourg;LU;17.73
+Macao;MO;3.63
+Madagascar;MG;1.25
+Malawi;MW;0.66
+Malaysia;MY;10.12
+Maldives;MV;4.16
+Mali;ML;2.02
+Malta;MT;4.76
+Martinique;MQ;5.91
+Mauritania;MR;2.98
+Mauritius;MU;4.75
+Mexico;MX;6.13
+Moldova;MD;3.06
+Mongolia;MN;19.48
+Morocco;MA;2.80
+Mozambique;MZ;1.07
+Myanmar/Burma;;2.70
+Namibia;NA;4.65
+Nepal;NP;1.73
+Netherlands;NL;12.99
+New Caledonia;NC;19.79
+New Zealand;NZ;17.88
+Nicaragua;NI;3.04
+Niger;NE;1.56
+Nigeria;NG;2.01
+North Korea;KR;1.74
+North Macedonia;MK;4.91
+Norway;NO;13.26
+Oman;OM;24.85
+Pakistan;PK;2.51
+Palau;PW;58.27
+Panama;PA;3.85
+Papua New Guinea;PG;1.88
+Paraguay;PY;6.27
+Peru;PE;2.81
+Philippines;PH;2.23
+Poland;PL;11.15
+Portugal;PT;6.76
+Puerto Rico;PR;1.62
+Qatar;QA;66.23
+Réunion;RE;3.54
+Romania;RO;6.08
+Russia;RU;16.07
+Rwanda;RW;0.54
+"Saint Helena, Ascension and Tristan da Cunha";SH;5.15
+Saint Kitts and Nevis;KN;3.76
+Saint Lucia;LC;2.82
+Saint Pierre and Miquelon;PM;9.27
+Saint Vincent and the Grenadines;VC;1.80
+Samoa;WS;2.94
+São Tomé and Príncipe;ST;1.18
+Saudi Arabia;SA;22.37
+Senegal;SN;1.55
+Serbia and Montenegro;CS;10.08
+Seychelles;SC;13.15
+Sierra Leone;SL;0.87
+Singapore;SG;12.18
+Slovakia;SK;8.73
+Slovenia;SI;9.85
+Solomon Islands;SB;0.85
+Somalia;SO;1.91
+South Africa;ZA;10.00
+South Korea;KR;14.82
+Spain and Andorra;;7.54
+Sri Lanka;LK;1.99
+Sudan and South Sudan;SSSD;2.42
+Suriname;SR;5.16
+Sweden;SE;6.47
+Switzerland and Liechtenstein;CHLI;5.61
+Syria;SY;2.33
+Taiwan;TW;13.51
+Tajikistan;TJ;2.13
+Tanzania;TZ;1.27
+Thailand;TH;6.28
+The Gambia;GM;0.96
+Timor-Leste;TL;3.88
+Togo;TG;1.21
+Tonga;TO;2.09
+Trinidad and Tobago;TT;34.60
+Tunisia;TN;3.66
+Turkey;TR;7.07
+Turkmenistan;TM;21.50
+Turks and Caicos Islands;TC;6.65
+Uganda;UG;1.06
+Ukraine;UA;6.32
+United Arab Emirates;AE;29.09
+United Kingdom;GB;6.97
+United States;US;19.27
+Uruguay;UY;11.28
+Uzbekistan;UZ;5.32
+Vanuatu;VU;2.54
+Venezuela;VE;6.52
+Vietnam;VN;4.34
+Western Sahara;EH;1.09
+Yemen;YE;1.05
+Zambia;ZM;1.61705
+Zimbabwe;ZW;1.85
+European Union;EU;8.86
+World;WORLD;6.713089646
