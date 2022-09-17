@@ -1,0 +1,58 @@
+Unit: TWh
+Source: Energiebilanz Statistik Austria
+Data: Austria 1970-2020; Federal States 1988-2020
+
+### Variables ###
+- region	
+- jahr	
+- bruttoinlandsverbrauch_TWh
+ (which is 	umwandlungseinsatz+ umwandlungsausstoss	+ verbrauchDesSektorsEnergie + 
+		transportverluste + nichtenergetischerVerbrauch	+ energetischerEndverbrauch	
+- umwandlungseinsatz	
+-- umwandlungseinsatz_kraftwerke	
+--- umwandlungseinsatz_kraftwerke_evu	
+--- umwandlungseinsatz_kraftwerke_uea	
+-- umwandlungseinsatz_kwk-anlagen	
+--- umwandlungseinsatz_kwk-anlagen_evu	
+--- umwandlungseinsatz_kwk-anlagen_uea	
+-- umwandlungseinsatz_heizwerke	
+--- umwandlungseinsatz_heizwerke_evu	
+--- umwandlungseinsatz_heizwerke_uea	
+-- umwandlungseinsatz_gaserzeugung	
+- umwandlungsausstoss	
+- verbrauchDesSektorsEnergie	
+- transportverluste	
+- nichtenergetischerVerbrauch	
+- energetischerEndverbrauch	
+--energeEndverbrauch_industrie_EisenStahlerzeugung	
+--energeEndverbrauch_industrie_chemiePetrochemie	
+--energeEndverbrauch_industrie_nichtEisenMetalle	
+--energeEndverbrauch_industrie_steineErdenGlas	
+--energeEndverbrauch_industrie_fahrzeugbau	
+--energeEndverbrauch_industrie_maschinenbau	
+--energeEndverbrauch_industrie_bergbau	
+--energeEndverbrauch_industrie_nahrungsGenussmittelTabak	
+--energeEndverbrauch_industrie_papierDruck	
+--energeEndverbrauch_industrie_holzverarbeitung	
+--energeEndverbrauch_industrie_bau	
+--energeEndverbrauch_industrie_textilLeder	
+--energeEndverbrauch_industrie_sonstProduzierenderBereich	
+--energeEndverbrauch_verkehr_eisenbahn	
+--energeEndverbrauch_verkehr_sonstigerLandverkehr	
+--energeEndverbrauch_verkehr_transportInRohrfernleitungen	
+--energeEndverbrauch_verkehr_binnenschiffahrt	
+--energeEndverbrauch_verkehr_flugverkehr	
+--energeEndverbrauch_oeffentUndPrivDienstleistungen	
+--energeEndverbrauch_privateHaushalte	
+--energeEndverbrauch_landwirtschaft	
+--energeEndverbrauch_industrie_summe	
+--energeEndverbrauch_verkehr_summe	
+--energeEndverbrauch_summe_aus_Landwirtschaft_privateHaushalte_oeffentUndPrivDienstleistungen	
+--verbrauchDesSektorsEnergie_gewinnungErdoelErdgas	
+
+Die Variable Verbrauch des Sektors Energie lässt sich aus folgenden zusammensetzten, ist erst ab später verfügbar:
+--verbrauchDesSektorsEnergie_kohlenbergbau	
+--verbrauchDesSektorsEnergie_mineralölverarbeitung	
+--verbrauchDesSektorsEnergie_kokerei	
+--verbrauchDesSektorsEnergie_hochofen	verbrauchDesSektorsEnergie_energieversorgung
+
