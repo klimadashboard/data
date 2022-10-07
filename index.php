@@ -8,16 +8,6 @@
 <p>This is the data server for Klimadashboard.org, containing the files we use for our visualisations.<br>
 Please refer to <a href="https://github.com/klimadashboard/data">our GitHub-Repository</a> for more information.</p>
 
-<?php
-$files = array_diff(scandir($path), array('.', '..'));
-?>
-
-<ul>
-<?php foreach($files as $file): ?>
-<li><?= $file ?></li>
-<?php endforeach ?>
-</ul>
-
 <style>
 body {
 	padding-top: 2em;
