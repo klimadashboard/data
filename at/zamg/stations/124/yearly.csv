@@ -99,7 +99,7 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1993;7.25;0;22;0;41
 1994;8.58;6;48;0;20
 1995;7.17;1;22;0;39
-1996;7.87;87;838;0;716
+1996;null;null;null;null;null
 1997;null;null;null;null;null
 1998;null;null;null;null;null
 1999;null;null;null;null;null
@@ -125,4 +125,4 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2019;8.66;10;47;0;21
 2020;8.05;3;32;0;16
 2021;7.45;2;39;0;30
-2022;null;4;41;0;3
+2022;null;null;null;null;null
