@@ -1029,8 +1029,8 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2022-8;19.8;3;16;0;0
 2022-9;13.56;0;4;0;0
 2022-10;13.66;0;0;0;0
-2022-11;6.42;0;0;0;0
-2022-12;1.77;0;0;0;4
+2022-11;null;null;null;null;null
+2022-12;null;null;null;null;null
 2023-1;null;0;0;0;0
 2023-2;null;null;null;null;null
 2023-3;null;null;null;null;null
