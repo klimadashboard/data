@@ -15,7 +15,7 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1953;10.05;10;75;1;31
 1954;8.99;9;57;0;43
 1955;8.99;2;46;0;34
-1956;8.33;2;52;0;53
+1956;null;null;null;null;null
 1957;null;null;null;null;null
 1958;9.91;9;58;0;20
 1959;9.89;6;45;0;16

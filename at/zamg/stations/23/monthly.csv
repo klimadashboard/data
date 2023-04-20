@@ -85,7 +85,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1955-12;2.65;0;0;0;1
 1956-1;-0.25;0;0;0;6
 1956-2;-10.02;0;0;0;26
-1956-3;3.41;0;0;0;6
+1956-3;null;null;null;null;null
 1956-4;8.3;0;0;0;0
 1956-5;13.89;0;5;0;0
 1956-6;15.72;1;4;0;0
