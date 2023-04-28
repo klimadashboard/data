@@ -30,7 +30,7 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1965;6.09;0;20;0;34
 1966;7.39;1;19;0;29
 1967;7.43;2;26;0;26
-1968;6.99;2;15;0;32
+1968;null;null;null;null;null
 1969;null;null;null;null;null
 1970;null;null;null;null;null
 1971;7.3;3;28;0;30

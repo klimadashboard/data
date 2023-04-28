@@ -375,7 +375,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1968-2;0.4;0;0;0;1
 1968-3;2.61;0;0;0;2
 1968-4;8.53;0;1;0;0
-1968-5;11.04;0;0;0;0
+1968-5;null;null;null;null;null
 1968-6;13.91;0;3;0;0
 1968-7;15.04;2;11;0;0
 1968-8;15.03;0;0;0;0
