@@ -5,79 +5,79 @@
             "label": "Energie",
             "key": "energy",
             "absolute": [
-                15.0060852534,
-                15.646148495200002,
-                12.4437048608,
-                12.4774219914,
-                12.63587580941,
-                13.79029770472,
-                14.697652954129998,
-                14.78703486836,
-                13.99165230349,
-                13.60853377624,
-                13.189260334469997,
-                14.757355761280001,
-                14.18554994467,
-                16.8425498264,
-                16.727098373236,
-                16.855633379984003,
-                15.787604656276,
-                14.616233951399998,
-                14.3770538006,
-                13.386911200599998,
-                14.7085917058,
-                14.4726311173,
-                12.943141919699999,
-                12.119129089100001,
-                10.3631572213,
-                11.5445997721,
-                11.272429614300002,
-                11.999546296599998,
-                11.0418843383,
-                11.0863263559,
-                9.627315143899999,
-                9.560473322200002
+                14.7131288634,
+                15.3741603952,
+                12.072836040800002,
+                12.173171722400001,
+                12.33166666141,
+                13.500839492719999,
+                14.278652384129998,
+                14.39176305836,
+                13.67490353549,
+                13.30467599524,
+                12.893230765469998,
+                14.452080791280002,
+                13.79954584467,
+                16.396107796400003,
+                16.175560343236,
+                16.346519529984,
+                15.149401666276,
+                13.9733529124,
+                13.730693836600002,
+                12.5328999166,
+                13.7976269948,
+                13.475468277300001,
+                11.9150963267,
+                11.1024707801,
+                9.2736780413,
+                10.430410610100001,
+                10.082338748300002,
+                10.8783858876,
+                9.9749455193,
+                10.0240979889,
+                8.579295344899998,
+                8.4793592512
             ],
             "sectors": [
                 {
                     "label": "\u00d6ffentliche Elektrizit\u00e4t und W\u00e4rmeerzeugung",
-                    "code": "1 A 1 a",
+                    "code": "1 A 1 a w/o other fuels",
                     "key": "energy",
                     "absolute": [
-                        11.056713286276501,
-                        11.768164100083299,
-                        8.599560933831,
-                        8.4312819188627,
-                        8.7125912561931,
-                        9.812095419597501,
-                        11.0736920836183,
-                        11.108350642245,
-                        10.1036787835424,
-                        10.0692194304777,
-                        9.7687323233502,
-                        11.270563945928302,
-                        10.5297077170914,
-                        12.986426756873099,
-                        12.6859671329989,
-                        12.7270562040224,
-                        11.639687625227099,
-                        10.395017316342399,
-                        10.3015409269381,
-                        9.2573836708611,
-                        10.6618326334002,
-                        10.2494463902842,
-                        8.806317344416799,
-                        7.8053765944614995,
-                        6.3101295599774,
-                        7.300559615659499,
-                        7.1103815935183,
-                        7.7854214156104,
-                        6.8736507948701,
-                        6.953672378980599,
-                        5.6659650188396995,
-                        5.636505810110901
+                        10.805236575081999,
+                        11.541952136216002,
+                        8.265047412987,
+                        8.160582319928,
+                        8.442995463976,
+                        9.562257074802998,
+                        10.701608182164,
+                        10.761621798073001,
+                        9.829626451206,
+                        9.807071048951,
+                        9.518507575241001,
+                        11.021041766975001,
+                        10.200163599369,
+                        12.606784340671002,
+                        12.205301771614998,
+                        12.28928079462,
+                        11.08442515655,
+                        9.84085973058,
+                        9.7507204658,
+                        8.50222327186,
+                        9.866866998249998,
+                        9.37093014014,
+                        7.89727474388,
+                        6.90502142656,
+                        5.32911448745,
+                        6.30084980725,
+                        6.03138060227,
+                        6.776629078459999,
+                        5.91550285861,
+                        5.99673476201,
+                        4.72319536824,
+                        4.66289863461
                     ],
-                    "explanation": "Die Kategorie \u00d6ffentliche Elektrizit\u00e4ts- und W\u00e4rmeerzeugung umfasst Emissionen aus der Verbrennung von Brennstoffen in\n\u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Brennstoffen in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Erd\u00f6lraffination",
@@ -117,7 +117,7 @@
                         2.73186623263276,
                         2.74973629731395
                     ],
-                    "explanation": "Die Kategorie Erd\u00f6lraffination umfasst die Emissionen der einzigen Erd\u00f6lraffinerie in \u00d6sterreich. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
+                    "explanation": "Emissionen aus Erd\u00f6lraffinerien. In \u00d6sterreich steht nur die OMV-Anlage in Schwechat. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
                 },
                 {
                     "label": "Herstellung von festen Brennstoffen und sonstige  Energieerzeuger",
@@ -157,18 +157,18 @@
                         0.2892144014464355,
                         0.3536162358563718
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus\nVerbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
+                    "explanation": "Emissionen aus Verbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
                 },
                 {
                     "label": "Pipeline Transport",
                     "code": "1 A 3 e 1",
                     "key": "energy",
                     "absolute": [
-                        0.22477904999999998,
+                        0.224374455,
                         0.22526087259999997,
                         0.2198315648,
                         0.21412525149999997,
-                        0.20979377999999999,
+                        0.209416158,
                         0.22670130119999998,
                         0.23351563649999998,
                         0.23257381780000003,
@@ -197,7 +197,7 @@
                         0.47188263802288893,
                         0.37417418398020696
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen von Gasturbinen, die aus Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
+                    "explanation": "Emissionen von Gasturbinen, welche in den Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
                 },
                 {
                     "label": "Feste Brennstoffe - Kohlenbergbau und -umwandlung",
@@ -237,7 +237,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Kohlebergbau an, bzw auch jene Emissionen (zB Methan), die aus stillgelegten Minen entweichen."
+                    "explanation": "Emissionen aus dem Kohlebergbau, bzw auch jene Emissionen (z. B. Methan), die aus stillgelegten Minen entweichen."
                 },
                 {
                     "label": "\u00d6l und Erdgas und diffuse Emissionen aus der Energieerzeugung",
@@ -277,7 +277,7 @@
                         0.11804013956199999,
                         0.093068116376
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
+                    "explanation": "Emissionen, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
                 }
             ]
         },
@@ -358,7 +358,7 @@
                         1.8034751602303072,
                         1.774126872289188
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
                 },
                 {
                     "label": "Nichteisen-Metalle",
@@ -398,7 +398,7 @@
                         0.2678385703567375,
                         0.2939692265347485
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
                 },
                 {
                     "label": "Chemische Industrie (Verarbeitend)",
@@ -438,7 +438,7 @@
                         1.4259949793519402,
                         1.58241373138326
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
                 },
                 {
                     "label": "Zellstoff und Papierindustrie",
@@ -478,7 +478,7 @@
                         1.8003430418484,
                         1.8115173392271
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- und Druckindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- & Druckindustrie."
                 },
                 {
                     "label": "Lebensmittel-, Getr\u00e4nke- und Tabakindustrie",
@@ -518,7 +518,7 @@
                         0.78959175754139,
                         0.794423085275902
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in Lebensmittelverarbeitung, Getr\u00e4nkeindustrie und Tabakindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Lebensmittelverarbeitung, Getr\u00e4nkeindustrie & Tabakindustrie."
                 },
                 {
                     "label": "Mineralische Industrie (Verarbeitend)",
@@ -558,7 +558,7 @@
                         1.65441787823206,
                         1.68189061978625
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Brennstoffen in der Zement-, Kalk-, Magnesia-, Glas- und Ziegelindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zement-, Kalk-, Magnesia-, Glas- & Ziegelindustrie."
                 },
                 {
                     "label": "Weitere Energieerzeugung",
@@ -598,7 +598,7 @@
                         2.6548764232788997,
                         2.8545642722221998
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
                     "label": "Mineralische Industrie",
@@ -638,7 +638,7 @@
                         2.84581527,
                         3.050333714
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion an."
+                    "explanation": "Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion."
                 },
                 {
                     "label": "Chemische Industrie",
@@ -678,7 +678,7 @@
                         0.6790865921,
                         0.6904868248
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
+                    "explanation": "Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion."
                 },
                 {
                     "label": "Metallproduktion",
@@ -718,7 +718,7 @@
                         9.514258600539598,
                         11.0353637615396
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Metallindustrie an, wie z.B. der Stahlproduktion und der Aluminiumproduktion"
+                    "explanation": "Emissionen aus der Metallindustrie, wie z.B. der Stahlproduktion und der Aluminiumproduktion."
                 },
                 {
                     "label": "Verwendung von nichtenergetischen Produkten aus Brennstoffen und von L\u00f6semitteln",
@@ -758,7 +758,7 @@
                         0.1544632857,
                         0.1653066059
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie das  Alternativen zu L\u00f6sungsmitteln vermehrt verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
+                    "explanation": "Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie, dass vermehrt Alternativen zu L\u00f6sungsmitteln verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
                 },
                 {
                     "label": "Sonstige Produktherstellung und -verwendung",
@@ -798,7 +798,7 @@
                         0.43659512646929993,
                         0.3509330486693
                     ],
-                    "explanation": "Die Emissionen dieses Sektors umfassen Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
+                    "explanation": "Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
                 }
             ]
         },
@@ -879,7 +879,7 @@
                         0.023244888855343402,
                         0.023921788915840302
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs an, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden in anderen Kategorien erfasst."
+                    "explanation": "Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden zwar in anderen Kategorien erfasst. Die internationalen Flugbewegungen werden jedoch nicht in der Gesamtbilanz von \u00d6sterreich oder einem anderen Staat miteingerechnet."
                 },
                 {
                     "label": "Autos",
@@ -919,7 +919,7 @@
                         11.2465935158479,
                         11.627796033499099
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von Autos an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen die von Autos verursacht werden. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Leichte Nutzfahrzeuge",
@@ -959,7 +959,7 @@
                         1.58713861808881,
                         1.6856394621608
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von leichten LKWs an."
+                    "explanation": "Emissionen von leichten LKWs."
                 },
                 {
                     "label": "Schwere Nutzfahrzeuge inklusive Busse",
@@ -999,7 +999,7 @@
                         7.32700352037776,
                         7.705255921715
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von schweren LKWs und Bussen an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen von schweren LKWs und Bussen. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Motorisierte Zweir\u00e4der",
@@ -1039,7 +1039,7 @@
                         0.153564809612347,
                         0.145234734832337
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von motorisierten Zweir\u00e4dern an."
+                    "explanation": "Emissionen von motorisierten Zweir\u00e4dern."
                 },
                 {
                     "label": "Schienenverkehr",
@@ -1079,7 +1079,7 @@
                         0.080664825434297,
                         0.08076373037856201
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
+                    "explanation": "Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven."
                 },
                 {
                     "label": "Inl\u00e4ndische Schifffahrt",
@@ -1119,7 +1119,7 @@
                         0.023267756128570998,
                         0.035418947589657
                     ],
-                    "explanation": "Diese Kategorie beinhaltet die Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
+                    "explanation": "Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
                 },
                 {
                     "label": "Inl\u00e4ndische Flughafen Bodenaktivit\u00e4ten",
@@ -1159,7 +1159,7 @@
                         0.0066595379666223,
                         0.007576652919788299
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen in Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg."
+                    "explanation": "Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen (Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg)."
                 },
                 {
                     "label": "Andere Bereiche",
@@ -1199,7 +1199,7 @@
                         0.032995585479107,
                         0.029746820450801303
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
+                    "explanation": "Emissionen aus dem milit\u00e4rischen Luft- & Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -1280,7 +1280,7 @@
                         1.28980895311242,
                         1.55474233334348
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
                     "label": "Wohnen",
@@ -1320,7 +1320,7 @@
                         6.477999840649501,
                         7.194048053433299
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. In diesen Untersektor flie\u00dfen auch die Emissionen aus mobilen Quellen wie Pistenfahrzeuge und Schneemobile."
                 }
             ]
         },
@@ -1401,10 +1401,10 @@
                         0.8848712420078,
                         0.8676988226611999
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich an (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
                 },
                 {
-                    "label": "Fermentation bei der Nutztier-Verdauung (Methanbildung)",
+                    "label": "Fermentation bei der Nutztier-Verdauung (Bl\u00e4hungen und R\u00fclpser).",
                     "code": "3 A",
                     "key": "agriculture",
                     "absolute": [
@@ -1441,7 +1441,7 @@
                         0.1493601208,
                         0.14970938920000001
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
+                    "explanation": "Emissionen die bei Verdauungsprozessen (R\u00fclpser & Bl\u00e4hungen) von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
                     "label": "D\u00fcnger-Management",
@@ -1481,7 +1481,7 @@
                         0.023926581835000002,
                         0.0240198989
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan- und Lachgas-Emissionen die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
+                    "explanation": "Emissionen, die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
                 },
                 {
                     "label": "Landwirtschaftliche B\u00f6den",
@@ -1521,7 +1521,7 @@
                         0.006706951207,
                         0.006738956188
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das D\u00fcngen von B\u00f6den  (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
+                    "explanation": "Emissionen, die durch das D\u00fcngen von B\u00f6den (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
                 },
                 {
                     "label": "Verbrennung von landwirtschaftlichen R\u00fcckst\u00e4nden auf dem Feld, Brandrodung",
@@ -1561,7 +1561,7 @@
                         7.7329214906e-08,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
+                    "explanation": "Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
                 },
                 {
                     "label": "Kalk-Ausbringung",
@@ -1601,7 +1601,7 @@
                         0.09894027183,
                         0.09910741683
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
+                    "explanation": "Emissionen, die durch das Ausbringen von Kalk auf landwirtschaflichen B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
                     "label": "Verwendung von Harnstoff",
@@ -1641,7 +1641,7 @@
                         0.024538831429999998,
                         0.02311939143
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen bei der Anwendung von Harnstoff in der Landwirtschaft an, da hierbei CO2 entsteht."
+                    "explanation": "Emissionen aus der Anwendung von Harnstoff in der Landwirtschaft, da hierbei CO2 entsteht."
                 },
                 {
                     "label": "Andere",
@@ -1681,7 +1681,7 @@
                         0.02546561499,
                         0.02706173439
                     ],
-                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel"
+                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel."
                 }
             ]
         },
@@ -1762,7 +1762,7 @@
                         0.05421575,
                         0.053283910000000004
                     ],
-                    "explanation": "Die Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
+                    "explanation": "Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
                 },
                 {
                     "label": "Anwendungen als Ozon-zersetztende-Substanzien-Ersatzstoff",
@@ -1802,7 +1802,7 @@
                         1.702386209,
                         1.482921734
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors\n(RACHP)-Sektor sind die F-Gas-Emissionen seither gestiegen."
+                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flouriten-Gas-Emissionen seither gestiegen."
                 }
             ]
         },
@@ -1883,7 +1883,7 @@
                         1.0442583268541699,
                         1.2280841834133431
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem internationalem Flugverkehr an."
+                    "explanation": "Emissionen aus dem internationalem Flugverkehr."
                 },
                 {
                     "label": "Internationale Schifffahrt",
@@ -1923,7 +1923,7 @@
                         0.0425590328770185,
                         0.06128035158235601
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der internationalen Schifffahrt an, also wenn Ablege oder Anlegeort au\u00dferhalb von \u00d6sterreich war."
+                    "explanation": "Emissionen aus der internationalen Schifffahrt, also wenn Ablege- und Anlegeort au\u00dferhalb von \u00d6sterreich waren."
                 }
             ]
         },
@@ -1932,79 +1932,79 @@
             "label": "Abfallwirtschaft",
             "key": "waste",
             "absolute": [
-                4.367184172689999,
-                4.44476290714,
-                4.391396641100001,
-                4.36118765775,
-                4.24905492982,
-                4.05470019468,
-                3.8419285087599997,
-                3.6757049347400006,
-                3.54005153728,
-                3.40463346142,
-                3.2769565002300003,
-                3.1573781974899995,
-                3.1448256446999996,
-                3.13904770213,
-                3.1985842145600003,
-                3.0410788098499997,
-                2.90597574228,
-                2.7623539380219997,
-                2.6362525858610004,
-                2.449610613099,
-                2.2893474483509997,
-                2.143473098752,
-                2.016818230354,
-                1.8735431524550001,
-                1.747438386757,
-                1.6447422995579999,
-                1.5459579096150002,
-                1.4569290655709999,
-                1.3731602720269998,
-                1.315416134983,
-                1.25928945444,
-                1.21057576464
+                4.660140565590001,
+                4.71675100094,
+                4.762265460999999,
+                4.66543792645,
+                4.553264077520001,
+                4.34415840628,
+                4.260929079359999,
+                4.07097674534,
+                3.85680030928,
+                3.70849124392,
+                3.57298606963,
+                3.46265317189,
+                3.5308297367999995,
+                3.58548972393,
+                3.75012225166,
+                3.55019265185,
+                3.54417873238,
+                3.4052349807219997,
+                3.282612553861,
+                3.3036218968989997,
+                3.200312160351,
+                3.140635939552,
+                3.0448638233540004,
+                2.890201460455,
+                2.836917567757,
+                2.7589314625580004,
+                2.736048775615,
+                2.5780894745709997,
+                2.440099091027,
+                2.377644501983,
+                2.30730925244,
+                2.29168983564
             ],
             "sectors": [
                 {
                     "label": "Energieerzeugung aus Abfallverbrennung",
-                    "code": "1 A 1 a other",
+                    "code": "1 A 1 a other fuels",
                     "key": "waste",
                     "absolute": [
-                        0.2865255929,
-                        0.2657077138,
-                        0.3625253399,
-                        0.29698042869999997,
-                        0.29691032770000003,
-                        0.2823843316,
-                        0.4091818706,
-                        0.38582276772031004,
-                        0.30877099199999997,
-                        0.29613503658336,
-                        0.288491163408,
-                        0.29756767440000004,
-                        0.3766573521,
-                        0.43560488179999995,
-                        0.5376177090088,
-                        0.49485764761067,
-                        0.6201576819638599,
-                        0.62504490915146,
-                        0.62827259002974,
-                        0.83086641886053,
-                        0.886313698848,
-                        0.9703349968661301,
-                        1.0006108054840002,
-                        0.98933376984481,
-                        1.0594892819723902,
-                        1.0830367681869202,
-                        1.1565285690745302,
-                        1.08959491968692,
-                        1.03658637045362,
-                        1.03175838614013,
-                        1.0167920033953401,
-                        1.04930735056614
+                        0.2929563929,
+                        0.2719880938,
+                        0.3708688199,
+                        0.3042502687,
+                        0.3042091477,
+                        0.28945821159999996,
+                        0.4190005706,
+                        0.395271810596,
+                        0.316748772,
+                        0.30385778252400003,
+                        0.29602956934800007,
+                        0.30527497439999995,
+                        0.38600409210000003,
+                        0.4464420218,
+                        0.5515380371449999,
+                        0.509113842034,
+                        0.63820299009,
+                        0.6428810427099999,
+                        0.646359967975,
+                        0.854011283831,
+                        0.910964711988,
+                        0.9971628408190001,
+                        1.028045592234,
+                        1.016658308462,
+                        1.08947918084,
+                        1.114189163054,
+                        1.1900908655050002,
+                        1.121160408935,
+                        1.066938819587,
+                        1.0622283669730002,
+                        1.048019798743,
+                        1.0811140706490001
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Abfalldeponierung",
@@ -2044,7 +2044,7 @@
                         0.03324269372,
                         0.03136545719
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
+                    "explanation": "Emissionen die von Deponien entstehen."
                 },
                 {
                     "label": "Biologische Abfallbehandlung",
@@ -2084,7 +2084,7 @@
                         0.0030723180633,
                         0.0031137228597999996
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen an, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
+                    "explanation": "Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
                 },
                 {
                     "label": "Abfallverbrennung",
@@ -2124,7 +2124,7 @@
                         0.00206895849671,
                         0.00206895849671
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung an."
+                    "explanation": "Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung."
                 },
                 {
                     "label": "Abwasserbehandlung",
@@ -2164,7 +2164,7 @@
                         0.0014625547987,
                         0.0014650561158
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Abwasserbehandlung und ableitung an."
+                    "explanation": "Emissionen aus Abwasserbehandlung und ableitung."
                 }
             ]
         }
@@ -2175,79 +2175,79 @@
             "label": "Energie",
             "key": "energy",
             "absolute": [
-                15.0060852534,
-                15.646148495200002,
-                12.4437048608,
-                12.4774219914,
-                12.63587580941,
-                13.79029770472,
-                14.697652954129998,
-                14.78703486836,
-                13.99165230349,
-                13.60853377624,
-                13.189260334469997,
-                14.757355761280001,
-                14.18554994467,
-                16.8425498264,
-                16.727098373236,
-                16.855633379984003,
-                15.787604656276,
-                14.616233951399998,
-                14.3770538006,
-                13.386911200599998,
-                14.7085917058,
-                14.4726311173,
-                12.943141919699999,
-                12.119129089100001,
-                10.3631572213,
-                11.5445997721,
-                11.272429614300002,
-                11.999546296599998,
-                11.0418843383,
-                11.0863263559,
-                9.627315143899999,
-                9.560473322200002
+                14.7131288634,
+                15.3741603952,
+                12.072836040800002,
+                12.173171722400001,
+                12.33166666141,
+                13.500839492719999,
+                14.278652384129998,
+                14.39176305836,
+                13.67490353549,
+                13.30467599524,
+                12.893230765469998,
+                14.452080791280002,
+                13.79954584467,
+                16.396107796400003,
+                16.175560343236,
+                16.346519529984,
+                15.149401666276,
+                13.9733529124,
+                13.730693836600002,
+                12.5328999166,
+                13.7976269948,
+                13.475468277300001,
+                11.9150963267,
+                11.1024707801,
+                9.2736780413,
+                10.430410610100001,
+                10.082338748300002,
+                10.8783858876,
+                9.9749455193,
+                10.0240979889,
+                8.579295344899998,
+                8.4793592512
             ],
             "sectors": [
                 {
                     "label": "\u00d6ffentliche Elektrizit\u00e4t und W\u00e4rmeerzeugung",
-                    "code": "1 A 1 a",
+                    "code": "1 A 1 a w/o other fuels",
                     "key": "energy",
                     "absolute": [
-                        11.05634049,
-                        11.7677552,
-                        8.599200127,
-                        8.430923602,
-                        8.712225752,
-                        9.811704517,
-                        11.073215880000001,
-                        11.107865349999999,
-                        10.10322026,
-                        10.068780480000001,
-                        9.768287522,
-                        11.27002824,
-                        10.52916368,
-                        12.98579007,
-                        12.68528157,
-                        12.72634039,
-                        11.63885219,
-                        10.39411728,
-                        10.30055028,
-                        9.256321298,
-                        10.660600480000001,
-                        10.24820124,
-                        8.80505749,
-                        7.804151123,
-                        6.3089661900000005,
-                        7.299322234,
-                        7.109156618,
-                        7.7841715460000005,
-                        6.872451163,
-                        6.952503049,
-                        5.6647828339999995,
-                        5.635290103
+                        10.769889449999999,
+                        11.502120300000001,
+                        8.236771523,
+                        8.134027461,
+                        8.415400048,
+                        9.529402201,
+                        10.664147849999999,
+                        10.72215214,
+                        9.794541765,
+                        9.772734986,
+                        9.47988376,
+                        10.97254992,
+                        10.15261469,
+                        12.55031083,
+                        12.14782526,
+                        12.231648029999999,
+                        11.01890373,
+                        9.769279162,
+                        9.672487398,
+                        8.425723226,
+                        9.774572587,
+                        9.278177289,
+                        7.804764768,
+                        6.81513416,
+                        5.249824617,
+                        6.216646653,
+                        5.953017177,
+                        6.694942603,
+                        5.836216705,
+                        5.921097938,
+                        4.648352892,
+                        4.586351525
                     ],
-                    "explanation": "Die Kategorie \u00d6ffentliche Elektrizit\u00e4ts- und W\u00e4rmeerzeugung umfasst Emissionen aus der Verbrennung von Brennstoffen in\n\u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Brennstoffen in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Erd\u00f6lraffination",
@@ -2287,7 +2287,7 @@
                         2.731772,
                         2.749644
                     ],
-                    "explanation": "Die Kategorie Erd\u00f6lraffination umfasst die Emissionen der einzigen Erd\u00f6lraffinerie in \u00d6sterreich. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
+                    "explanation": "Emissionen aus Erd\u00f6lraffinerien. In \u00d6sterreich steht nur die OMV-Anlage in Schwechat. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
                 },
                 {
                     "label": "Herstellung von festen Brennstoffen und sonstige  Energieerzeuger",
@@ -2327,7 +2327,7 @@
                         0.2891675855,
                         0.35356754560000003
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus\nVerbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
+                    "explanation": "Emissionen aus Verbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
                 },
                 {
                     "label": "Pipeline Transport",
@@ -2367,7 +2367,7 @@
                         0.47187330239999997,
                         0.3741667814
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen von Gasturbinen, die aus Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
+                    "explanation": "Emissionen von Gasturbinen, welche in den Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
                 },
                 {
                     "label": "Feste Brennstoffe - Kohlenbergbau und -umwandlung",
@@ -2407,7 +2407,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Kohlebergbau an, bzw auch jene Emissionen (zB Methan), die aus stillgelegten Minen entweichen."
+                    "explanation": "Emissionen aus dem Kohlebergbau, bzw auch jene Emissionen (z. B. Methan), die aus stillgelegten Minen entweichen."
                 },
                 {
                     "label": "\u00d6l und Erdgas und diffuse Emissionen aus der Energieerzeugung",
@@ -2447,7 +2447,7 @@
                         0.1092497503,
                         0.08424273652
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
+                    "explanation": "Emissionen, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
                 }
             ]
         },
@@ -2528,7 +2528,7 @@
                         1.8034440900000002,
                         1.774096396
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
                 },
                 {
                     "label": "Nichteisen-Metalle",
@@ -2568,7 +2568,7 @@
                         0.2678313445,
                         0.2939619559
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
                 },
                 {
                     "label": "Chemische Industrie (Verarbeitend)",
@@ -2608,7 +2608,7 @@
                         1.425886242,
                         1.5822818230000002
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
                 },
                 {
                     "label": "Zellstoff und Papierindustrie",
@@ -2648,7 +2648,7 @@
                         1.800025837,
                         1.811213368
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- und Druckindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- & Druckindustrie."
                 },
                 {
                     "label": "Lebensmittel-, Getr\u00e4nke- und Tabakindustrie",
@@ -2688,7 +2688,7 @@
                         0.7895702198,
                         0.7944028147
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in Lebensmittelverarbeitung, Getr\u00e4nkeindustrie und Tabakindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Lebensmittelverarbeitung, Getr\u00e4nkeindustrie & Tabakindustrie."
                 },
                 {
                     "label": "Mineralische Industrie (Verarbeitend)",
@@ -2728,7 +2728,7 @@
                         1.65420174,
                         1.6816572520000002
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Brennstoffen in der Zement-, Kalk-, Magnesia-, Glas- und Ziegelindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zement-, Kalk-, Magnesia-, Glas- & Ziegelindustrie."
                 },
                 {
                     "label": "Weitere Energieerzeugung",
@@ -2768,7 +2768,7 @@
                         2.654419923,
                         2.854101659
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
                     "label": "Mineralische Industrie",
@@ -2808,7 +2808,7 @@
                         2.84581527,
                         3.050333714
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion an."
+                    "explanation": "Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion."
                 },
                 {
                     "label": "Chemische Industrie",
@@ -2848,7 +2848,7 @@
                         0.6769415551,
                         0.6883881628
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
+                    "explanation": "Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion."
                 },
                 {
                     "label": "Metallproduktion",
@@ -2888,7 +2888,7 @@
                         9.509408939,
                         11.0305141
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Metallindustrie an, wie z.B. der Stahlproduktion und der Aluminiumproduktion"
+                    "explanation": "Emissionen aus der Metallindustrie, wie z.B. der Stahlproduktion und der Aluminiumproduktion."
                 },
                 {
                     "label": "Verwendung von nichtenergetischen Produkten aus Brennstoffen und von L\u00f6semitteln",
@@ -2928,7 +2928,7 @@
                         0.1544632857,
                         0.1653066059
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie das  Alternativen zu L\u00f6sungsmitteln vermehrt verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
+                    "explanation": "Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie, dass vermehrt Alternativen zu L\u00f6sungsmitteln verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
                 },
                 {
                     "label": "Sonstige Produktherstellung und -verwendung",
@@ -2968,7 +2968,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Emissionen dieses Sektors umfassen Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
+                    "explanation": "Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
                 }
             ]
         },
@@ -3049,7 +3049,7 @@
                         0.02324326153,
                         0.023920083760000002
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs an, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden in anderen Kategorien erfasst."
+                    "explanation": "Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden zwar in anderen Kategorien erfasst. Die internationalen Flugbewegungen werden jedoch nicht in der Gesamtbilanz von \u00d6sterreich oder einem anderen Staat miteingerechnet."
                 },
                 {
                     "label": "Autos",
@@ -3089,7 +3089,7 @@
                         11.24566755,
                         11.62683618
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von Autos an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen die von Autos verursacht werden. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Leichte Nutzfahrzeuge",
@@ -3129,7 +3129,7 @@
                         1.587000415,
                         1.685480538
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von leichten LKWs an."
+                    "explanation": "Emissionen von leichten LKWs."
                 },
                 {
                     "label": "Schwere Nutzfahrzeuge inklusive Busse",
@@ -3169,7 +3169,7 @@
                         7.326689168,
                         7.704925543
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von schweren LKWs und Bussen an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen von schweren LKWs und Bussen. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Motorisierte Zweir\u00e4der",
@@ -3209,7 +3209,7 @@
                         0.1534341735,
                         0.1451159
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von motorisierten Zweir\u00e4dern an."
+                    "explanation": "Emissionen von motorisierten Zweir\u00e4dern."
                 },
                 {
                     "label": "Schienenverkehr",
@@ -3249,7 +3249,7 @@
                         0.08064608615,
                         0.08074529472
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
+                    "explanation": "Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven."
                 },
                 {
                     "label": "Inl\u00e4ndische Schifffahrt",
@@ -3289,7 +3289,7 @@
                         0.023252535039999998,
                         0.03539985568
                     ],
-                    "explanation": "Diese Kategorie beinhaltet die Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
+                    "explanation": "Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
                 },
                 {
                     "label": "Inl\u00e4ndische Flughafen Bodenaktivit\u00e4ten",
@@ -3329,7 +3329,7 @@
                         0.006659101075,
                         0.007576177486
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen in Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg."
+                    "explanation": "Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen (Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg)."
                 },
                 {
                     "label": "Andere Bereiche",
@@ -3369,7 +3369,7 @@
                         0.03299237085,
                         0.0297439216
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
+                    "explanation": "Emissionen aus dem milit\u00e4rischen Luft- & Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -3450,7 +3450,7 @@
                         1.289556456,
                         1.554450635
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
                     "label": "Wohnen",
@@ -3490,7 +3490,7 @@
                         6.469480002,
                         7.184553127999999
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. In diesen Untersektor flie\u00dfen auch die Emissionen aus mobilen Quellen wie Pistenfahrzeuge und Schneemobile."
                 }
             ]
         },
@@ -3571,10 +3571,10 @@
                         0.8827796502999999,
                         0.8653751031
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich an (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
                 },
                 {
-                    "label": "Fermentation bei der Nutztier-Verdauung (Methanbildung)",
+                    "label": "Fermentation bei der Nutztier-Verdauung (Bl\u00e4hungen und R\u00fclpser).",
                     "code": "3 A",
                     "key": "agriculture",
                     "absolute": [
@@ -3611,7 +3611,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
+                    "explanation": "Emissionen die bei Verdauungsprozessen (R\u00fclpser & Bl\u00e4hungen) von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
                     "label": "D\u00fcnger-Management",
@@ -3651,7 +3651,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan- und Lachgas-Emissionen die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
+                    "explanation": "Emissionen, die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
                 },
                 {
                     "label": "Landwirtschaftliche B\u00f6den",
@@ -3691,7 +3691,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das D\u00fcngen von B\u00f6den  (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
+                    "explanation": "Emissionen, die durch das D\u00fcngen von B\u00f6den (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
                 },
                 {
                     "label": "Verbrennung von landwirtschaftlichen R\u00fcckst\u00e4nden auf dem Feld, Brandrodung",
@@ -3731,7 +3731,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
+                    "explanation": "Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
                 },
                 {
                     "label": "Kalk-Ausbringung",
@@ -3771,7 +3771,7 @@
                         0.09894027183,
                         0.09910741683
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
+                    "explanation": "Emissionen, die durch das Ausbringen von Kalk auf landwirtschaflichen B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
                     "label": "Verwendung von Harnstoff",
@@ -3811,7 +3811,7 @@
                         0.024538831429999998,
                         0.02311939143
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen bei der Anwendung von Harnstoff in der Landwirtschaft an, da hierbei CO2 entsteht."
+                    "explanation": "Emissionen aus der Anwendung von Harnstoff in der Landwirtschaft, da hierbei CO2 entsteht."
                 },
                 {
                     "label": "Andere",
@@ -3851,7 +3851,7 @@
                         0.02546561499,
                         0.02706173439
                     ],
-                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel"
+                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel."
                 }
             ]
         },
@@ -3932,7 +3932,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
+                    "explanation": "Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
                 },
                 {
                     "label": "Anwendungen als Ozon-zersetztende-Substanzien-Ersatzstoff",
@@ -3972,7 +3972,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors\n(RACHP)-Sektor sind die F-Gas-Emissionen seither gestiegen."
+                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flouriten-Gas-Emissionen seither gestiegen."
                 }
             ]
         },
@@ -4053,7 +4053,7 @@
                         1.044221654,
                         1.2280408200000001
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem internationalem Flugverkehr an."
+                    "explanation": "Emissionen aus dem internationalem Flugverkehr."
                 },
                 {
                     "label": "Internationale Schifffahrt",
@@ -4093,7 +4093,7 @@
                         0.04254600815,
                         0.06126183226
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der internationalen Schifffahrt an, also wenn Ablege oder Anlegeort au\u00dferhalb von \u00d6sterreich war."
+                    "explanation": "Emissionen aus der internationalen Schifffahrt, also wenn Ablege- und Anlegeort au\u00dferhalb von \u00d6sterreich waren."
                 }
             ]
         },
@@ -4102,43 +4102,43 @@
             "label": "Abfallwirtschaft",
             "key": "waste",
             "absolute": [
-                4.367184172689999,
-                4.44476290714,
-                4.391396641100001,
-                4.36118765775,
-                4.24905492982,
-                4.05470019468,
-                3.8419285087599997,
-                3.6757049347400006,
-                3.54005153728,
-                3.40463346142,
-                3.2769565002300003,
-                3.1573781974899995,
-                3.1448256446999996,
-                3.13904770213,
-                3.1985842145600003,
-                3.0410788098499997,
-                2.90597574228,
-                2.7623539380219997,
-                2.6362525858610004,
-                2.449610613099,
-                2.2893474483509997,
-                2.143473098752,
-                2.016818230354,
-                1.8735431524550001,
-                1.747438386757,
-                1.6447422995579999,
-                1.5459579096150002,
-                1.4569290655709999,
-                1.3731602720269998,
-                1.315416134983,
-                1.25928945444,
-                1.21057576464
+                4.660140565590001,
+                4.71675100094,
+                4.762265460999999,
+                4.66543792645,
+                4.553264077520001,
+                4.34415840628,
+                4.260929079359999,
+                4.07097674534,
+                3.85680030928,
+                3.70849124392,
+                3.57298606963,
+                3.46265317189,
+                3.5308297367999995,
+                3.58548972393,
+                3.75012225166,
+                3.55019265185,
+                3.54417873238,
+                3.4052349807219997,
+                3.282612553861,
+                3.3036218968989997,
+                3.200312160351,
+                3.140635939552,
+                3.0448638233540004,
+                2.890201460455,
+                2.836917567757,
+                2.7589314625580004,
+                2.736048775615,
+                2.5780894745709997,
+                2.440099091027,
+                2.377644501983,
+                2.30730925244,
+                2.29168983564
             ],
             "sectors": [
                 {
                     "label": "Energieerzeugung aus Abfallverbrennung",
-                    "code": "1 A 1 a other",
+                    "code": "1 A 1 a other fuels",
                     "key": "waste",
                     "absolute": [
                         0.2864510329,
@@ -4174,7 +4174,7 @@
                         1.016429942,
                         1.0489385770000001
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Abfalldeponierung",
@@ -4214,7 +4214,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
+                    "explanation": "Emissionen die von Deponien entstehen."
                 },
                 {
                     "label": "Biologische Abfallbehandlung",
@@ -4254,7 +4254,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen an, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
+                    "explanation": "Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
                 },
                 {
                     "label": "Abfallverbrennung",
@@ -4294,7 +4294,7 @@
                         0.002052,
                         0.002052
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung an."
+                    "explanation": "Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung."
                 },
                 {
                     "label": "Abwasserbehandlung",
@@ -4334,7 +4334,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Abwasserbehandlung und ableitung an."
+                    "explanation": "Emissionen aus Abwasserbehandlung und ableitung."
                 }
             ]
         }
@@ -4345,79 +4345,79 @@
             "label": "Energie",
             "key": "energy",
             "absolute": [
-                15.0060852534,
-                15.646148495200002,
-                12.4437048608,
-                12.4774219914,
-                12.63587580941,
-                13.79029770472,
-                14.697652954129998,
-                14.78703486836,
-                13.99165230349,
-                13.60853377624,
-                13.189260334469997,
-                14.757355761280001,
-                14.18554994467,
-                16.8425498264,
-                16.727098373236,
-                16.855633379984003,
-                15.787604656276,
-                14.616233951399998,
-                14.3770538006,
-                13.386911200599998,
-                14.7085917058,
-                14.4726311173,
-                12.943141919699999,
-                12.119129089100001,
-                10.3631572213,
-                11.5445997721,
-                11.272429614300002,
-                11.999546296599998,
-                11.0418843383,
-                11.0863263559,
-                9.627315143899999,
-                9.560473322200002
+                14.7131288634,
+                15.3741603952,
+                12.072836040800002,
+                12.173171722400001,
+                12.33166666141,
+                13.500839492719999,
+                14.278652384129998,
+                14.39176305836,
+                13.67490353549,
+                13.30467599524,
+                12.893230765469998,
+                14.452080791280002,
+                13.79954584467,
+                16.396107796400003,
+                16.175560343236,
+                16.346519529984,
+                15.149401666276,
+                13.9733529124,
+                13.730693836600002,
+                12.5328999166,
+                13.7976269948,
+                13.475468277300001,
+                11.9150963267,
+                11.1024707801,
+                9.2736780413,
+                10.430410610100001,
+                10.082338748300002,
+                10.8783858876,
+                9.9749455193,
+                10.0240979889,
+                8.579295344899998,
+                8.4793592512
             ],
             "sectors": [
                 {
                     "label": "\u00d6ffentliche Elektrizit\u00e4t und W\u00e4rmeerzeugung",
-                    "code": "1 A 1 a",
+                    "code": "1 A 1 a w/o other fuels",
                     "key": "energy",
                     "absolute": [
-                        0.0002402469544,
-                        0.00026233540019999997,
-                        0.0002485135199,
-                        0.00025757376240000005,
-                        0.0002610959966,
-                        0.0002682633694,
-                        0.0003324940366,
-                        0.0003357560753,
-                        0.000330606652,
-                        0.0003129684751,
-                        0.0003022056321,
-                        0.0003614918313,
-                        0.00036778823569999996,
-                        0.00042736591859999997,
-                        0.0004646243032,
-                        0.0004963564037,
-                        0.0005806513903999999,
-                        0.0006282115309,
-                        0.0007003851651,
-                        0.0007663103422000001,
-                        0.0008830777123,
-                        0.0008863843155,
-                        0.0009012598031,
-                        0.000874351586,
-                        0.0008382513322,
-                        0.0008953139387,
-                        0.0008957960445999999,
-                        0.0009181329341,
-                        0.0008772655290000001,
-                        0.0008582800205,
-                        0.0008727706732,
-                        0.0009005897938
+                        0.005161154722,
+                        0.005816255205999999,
+                        0.004926922557,
+                        0.005442017348000001,
+                        0.005533583906,
+                        0.005789038343,
+                        0.0069191930240000005,
+                        0.007100533583000001,
+                        0.007314570256,
+                        0.006882796551,
+                        0.0066263197309999996,
+                        0.008245211274999999,
+                        0.008022342598999999,
+                        0.009327637720999999,
+                        0.009620183204999999,
+                        0.01042690588,
+                        0.01186459869,
+                        0.01324721208,
+                        0.015206901299999999,
+                        0.01582141811,
+                        0.01872419014,
+                        0.01828676405,
+                        0.018555500319999998,
+                        0.01782891327,
+                        0.01616914888,
+                        0.01748385936,
+                        0.01691059968,
+                        0.018022211729999998,
+                        0.017173273290000002,
+                        0.01661306263,
+                        0.016834289550000003,
+                        0.01747226934
                     ],
-                    "explanation": "Die Kategorie \u00d6ffentliche Elektrizit\u00e4ts- und W\u00e4rmeerzeugung umfasst Emissionen aus der Verbrennung von Brennstoffen in\n\u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Brennstoffen in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Erd\u00f6lraffination",
@@ -4457,7 +4457,7 @@
                         8.000781594e-05,
                         7.852605221000001e-05
                     ],
-                    "explanation": "Die Kategorie Erd\u00f6lraffination umfasst die Emissionen der einzigen Erd\u00f6lraffinerie in \u00d6sterreich. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
+                    "explanation": "Emissionen aus Erd\u00f6lraffinerien. In \u00d6sterreich steht nur die OMV-Anlage in Schwechat. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
                 },
                 {
                     "label": "Herstellung von festen Brennstoffen und sonstige  Energieerzeuger",
@@ -4497,7 +4497,7 @@
                         4.629586085e-05,
                         4.805434352e-05
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus\nVerbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
+                    "explanation": "Emissionen aus Verbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
                 },
                 {
                     "label": "Pipeline Transport",
@@ -4537,7 +4537,7 @@
                         8.486929899e-06,
                         6.72961837e-06
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen von Gasturbinen, die aus Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
+                    "explanation": "Emissionen von Gasturbinen, welche in den Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
                 },
                 {
                     "label": "Feste Brennstoffe - Kohlenbergbau und -umwandlung",
@@ -4577,7 +4577,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Kohlebergbau an, bzw auch jene Emissionen (zB Methan), die aus stillgelegten Minen entweichen."
+                    "explanation": "Emissionen aus dem Kohlebergbau, bzw auch jene Emissionen (z. B. Methan), die aus stillgelegten Minen entweichen."
                 },
                 {
                     "label": "\u00d6l und Erdgas und diffuse Emissionen aus der Energieerzeugung",
@@ -4617,7 +4617,7 @@
                         0.008790389262,
                         0.008825379856
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
+                    "explanation": "Emissionen, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
                 }
             ]
         },
@@ -4698,7 +4698,7 @@
                         2.815010169e-05,
                         2.756141527e-05
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
                 },
                 {
                     "label": "Nichteisen-Metalle",
@@ -4738,7 +4738,7 @@
                         6.366310601e-06,
                         6.4517855429999995e-06
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
                 },
                 {
                     "label": "Chemische Industrie (Verarbeitend)",
@@ -4778,7 +4778,7 @@
                         8.461057932e-05,
                         0.0001020396412
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
                 },
                 {
                     "label": "Zellstoff und Papierindustrie",
@@ -4818,7 +4818,7 @@
                         0.00022230176549999998,
                         0.0002125950349
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- und Druckindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- & Druckindustrie."
                 },
                 {
                     "label": "Lebensmittel-, Getr\u00e4nke- und Tabakindustrie",
@@ -4858,7 +4858,7 @@
                         1.864446303e-05,
                         1.7786190789999998e-05
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in Lebensmittelverarbeitung, Getr\u00e4nkeindustrie und Tabakindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Lebensmittelverarbeitung, Getr\u00e4nkeindustrie & Tabakindustrie."
                 },
                 {
                     "label": "Mineralische Industrie (Verarbeitend)",
@@ -4898,7 +4898,7 @@
                         0.0001673843147,
                         0.0001792158541
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Brennstoffen in der Zement-, Kalk-, Magnesia-, Glas- und Ziegelindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zement-, Kalk-, Magnesia-, Glas- & Ziegelindustrie."
                 },
                 {
                     "label": "Weitere Energieerzeugung",
@@ -4938,7 +4938,7 @@
                         0.00023313416720000001,
                         0.000230071291
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
                     "label": "Mineralische Industrie",
@@ -4978,7 +4978,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion an."
+                    "explanation": "Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion."
                 },
                 {
                     "label": "Chemische Industrie",
@@ -5018,7 +5018,7 @@
                         0.0019688,
                         0.0019425999999999998
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
+                    "explanation": "Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion."
                 },
                 {
                     "label": "Metallproduktion",
@@ -5058,7 +5058,7 @@
                         0.0001496615396,
                         0.0001496615396
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Metallindustrie an, wie z.B. der Stahlproduktion und der Aluminiumproduktion"
+                    "explanation": "Emissionen aus der Metallindustrie, wie z.B. der Stahlproduktion und der Aluminiumproduktion."
                 },
                 {
                     "label": "Verwendung von nichtenergetischen Produkten aus Brennstoffen und von L\u00f6semitteln",
@@ -5098,7 +5098,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie das  Alternativen zu L\u00f6sungsmitteln vermehrt verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
+                    "explanation": "Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie, dass vermehrt Alternativen zu L\u00f6sungsmitteln verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
                 },
                 {
                     "label": "Sonstige Produktherstellung und -verwendung",
@@ -5138,7 +5138,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Emissionen dieses Sektors umfassen Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
+                    "explanation": "Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
                 }
             ]
         },
@@ -5219,7 +5219,7 @@
                         9.816339317e-07,
                         1.0401859689999998e-06
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs an, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden in anderen Kategorien erfasst."
+                    "explanation": "Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden zwar in anderen Kategorien erfasst. Die internationalen Flugbewegungen werden jedoch nicht in der Gesamtbilanz von \u00d6sterreich oder einem anderen Staat miteingerechnet."
                 },
                 {
                     "label": "Autos",
@@ -5259,7 +5259,7 @@
                         0.0005084404389,
                         0.0005304740662000001
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von Autos an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen die von Autos verursacht werden. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Leichte Nutzfahrzeuge",
@@ -5299,7 +5299,7 @@
                         6.296366425e-05,
                         7.696358553999999e-05
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von leichten LKWs an."
+                    "explanation": "Emissionen von leichten LKWs."
                 },
                 {
                     "label": "Schwere Nutzfahrzeuge inklusive Busse",
@@ -5339,7 +5339,7 @@
                         1.688470266e-05,
                         1.60845132e-05
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von schweren LKWs und Bussen an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen von schweren LKWs und Bussen. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Motorisierte Zweir\u00e4der",
@@ -5379,7 +5379,7 @@
                         0.0001279903147,
                         0.0001163269981
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von motorisierten Zweir\u00e4dern an."
+                    "explanation": "Emissionen von motorisierten Zweir\u00e4dern."
                 },
                 {
                     "label": "Schienenverkehr",
@@ -5419,7 +5419,7 @@
                         1.660923527e-06,
                         1.648954922e-06
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
+                    "explanation": "Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven."
                 },
                 {
                     "label": "Inl\u00e4ndische Schifffahrt",
@@ -5459,7 +5459,7 @@
                         9.940941599e-06,
                         9.974825741e-06
                     ],
-                    "explanation": "Diese Kategorie beinhaltet die Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
+                    "explanation": "Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
                 },
                 {
                     "label": "Inl\u00e4ndische Flughafen Bodenaktivit\u00e4ten",
@@ -5499,7 +5499,7 @@
                         1.675950934e-07,
                         1.616977403e-07
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen in Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg."
+                    "explanation": "Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen (Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg)."
                 },
                 {
                     "label": "Andere Bereiche",
@@ -5539,7 +5539,7 @@
                         1.03453305e-06,
                         9.275677953e-07
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
+                    "explanation": "Emissionen aus dem milit\u00e4rischen Luft- & Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -5620,7 +5620,7 @@
                         0.0002340377069,
                         0.0002693825943
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
                     "label": "Wohnen",
@@ -5660,7 +5660,7 @@
                         0.008200100083,
                         0.009136123825999999
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. In diesen Untersektor flie\u00dfen auch die Emissionen aus mobilen Quellen wie Pistenfahrzeuge und Schneemobile."
                 }
             ]
         },
@@ -5741,10 +5741,10 @@
                         0.001932204111,
                         0.0021694505450000003
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich an (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
                 },
                 {
-                    "label": "Fermentation bei der Nutztier-Verdauung (Methanbildung)",
+                    "label": "Fermentation bei der Nutztier-Verdauung (Bl\u00e4hungen und R\u00fclpser).",
                     "code": "3 A",
                     "key": "agriculture",
                     "absolute": [
@@ -5781,7 +5781,7 @@
                         0.1493601208,
                         0.14970938920000001
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
+                    "explanation": "Emissionen die bei Verdauungsprozessen (R\u00fclpser & Bl\u00e4hungen) von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
                     "label": "D\u00fcnger-Management",
@@ -5821,7 +5821,7 @@
                         0.02215806308,
                         0.02224086335
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan- und Lachgas-Emissionen die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
+                    "explanation": "Emissionen, die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
                 },
                 {
                     "label": "Landwirtschaftliche B\u00f6den",
@@ -5861,7 +5861,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das D\u00fcngen von B\u00f6den  (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
+                    "explanation": "Emissionen, die durch das D\u00fcngen von B\u00f6den (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
                 },
                 {
                     "label": "Verbrennung von landwirtschaftlichen R\u00fcckst\u00e4nden auf dem Feld, Brandrodung",
@@ -5901,7 +5901,7 @@
                         7.537504702e-08,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
+                    "explanation": "Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
                 },
                 {
                     "label": "Kalk-Ausbringung",
@@ -5941,7 +5941,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
+                    "explanation": "Emissionen, die durch das Ausbringen von Kalk auf landwirtschaflichen B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
                     "label": "Verwendung von Harnstoff",
@@ -5981,7 +5981,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen bei der Anwendung von Harnstoff in der Landwirtschaft an, da hierbei CO2 entsteht."
+                    "explanation": "Emissionen aus der Anwendung von Harnstoff in der Landwirtschaft, da hierbei CO2 entsteht."
                 },
                 {
                     "label": "Andere",
@@ -6021,7 +6021,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel"
+                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel."
                 }
             ]
         },
@@ -6102,7 +6102,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
+                    "explanation": "Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
                 },
                 {
                     "label": "Anwendungen als Ozon-zersetztende-Substanzien-Ersatzstoff",
@@ -6142,7 +6142,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors\n(RACHP)-Sektor sind die F-Gas-Emissionen seither gestiegen."
+                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flouriten-Gas-Emissionen seither gestiegen."
                 }
             ]
         },
@@ -6223,7 +6223,7 @@
                         7.93189626e-06,
                         9.563051723e-06
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem internationalem Flugverkehr an."
+                    "explanation": "Emissionen aus dem internationalem Flugverkehr."
                 },
                 {
                     "label": "Internationale Schifffahrt",
@@ -6263,7 +6263,7 @@
                         9.118503985e-07,
                         1.294151066e-06
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der internationalen Schifffahrt an, also wenn Ablege oder Anlegeort au\u00dferhalb von \u00d6sterreich war."
+                    "explanation": "Emissionen aus der internationalen Schifffahrt, also wenn Ablege- und Anlegeort au\u00dferhalb von \u00d6sterreich waren."
                 }
             ]
         },
@@ -6272,79 +6272,79 @@
             "label": "Abfallwirtschaft",
             "key": "waste",
             "absolute": [
-                4.367184172689999,
-                4.44476290714,
-                4.391396641100001,
-                4.36118765775,
-                4.24905492982,
-                4.05470019468,
-                3.8419285087599997,
-                3.6757049347400006,
-                3.54005153728,
-                3.40463346142,
-                3.2769565002300003,
-                3.1573781974899995,
-                3.1448256446999996,
-                3.13904770213,
-                3.1985842145600003,
-                3.0410788098499997,
-                2.90597574228,
-                2.7623539380219997,
-                2.6362525858610004,
-                2.449610613099,
-                2.2893474483509997,
-                2.143473098752,
-                2.016818230354,
-                1.8735431524550001,
-                1.747438386757,
-                1.6447422995579999,
-                1.5459579096150002,
-                1.4569290655709999,
-                1.3731602720269998,
-                1.315416134983,
-                1.25928945444,
-                1.21057576464
+                4.660140565590001,
+                4.71675100094,
+                4.762265460999999,
+                4.66543792645,
+                4.553264077520001,
+                4.34415840628,
+                4.260929079359999,
+                4.07097674534,
+                3.85680030928,
+                3.70849124392,
+                3.57298606963,
+                3.46265317189,
+                3.5308297367999995,
+                3.58548972393,
+                3.75012225166,
+                3.55019265185,
+                3.54417873238,
+                3.4052349807219997,
+                3.282612553861,
+                3.3036218968989997,
+                3.200312160351,
+                3.140635939552,
+                3.0448638233540004,
+                2.890201460455,
+                2.836917567757,
+                2.7589314625580004,
+                2.736048775615,
+                2.5780894745709997,
+                2.440099091027,
+                2.377644501983,
+                2.30730925244,
+                2.29168983564
             ],
             "sectors": [
                 {
                     "label": "Energieerzeugung aus Abfallverbrennung",
-                    "code": "1 A 1 a other",
+                    "code": "1 A 1 a other fuels",
                     "key": "waste",
                     "absolute": [
-                        5.592e-05,
-                        5.4612000000000005e-05,
-                        7.2552e-05,
-                        6.3216e-05,
-                        6.346800000000001e-05,
-                        6.1512e-05,
-                        8.538e-05,
-                        8.216559023e-05,
-                        6.9372e-05,
-                        6.715431252e-05,
-                        6.5551356e-05,
-                        6.701999999999999e-05,
-                        8.1276e-05,
-                        9.423600000000001e-05,
-                        0.0001210463316,
-                        0.00012396690800000002,
-                        0.0001569157229,
-                        0.0001550968136,
-                        0.0001572815473,
-                        0.0002012596954,
-                        0.000214356636,
-                        0.0002332855996,
-                        0.000238563363,
-                        0.0002376046836,
-                        0.00026078172929999997,
-                        0.0002708903902,
-                        0.0002918460559,
-                        0.0002744825152,
-                        0.0002639343402,
-                        0.00026495635509999997,
-                        0.0002715460465,
-                        0.0002765801746
+                        0.00156576,
+                        0.001529136,
+                        0.002031456,
+                        0.001770048,
+                        0.001777104,
+                        0.001722336,
+                        0.00239064,
+                        0.0023006365259999996,
+                        0.001942416,
+                        0.001880320751,
+                        0.001835437968,
+                        0.00187656,
+                        0.002275728,
+                        0.002638608,
+                        0.003389297285,
+                        0.0034710734240000003,
+                        0.00439364024,
+                        0.00434271078,
+                        0.004403883325,
+                        0.005635271471,
+                        0.006001985808000001,
+                        0.006531996789,
+                        0.0066797741640000005,
+                        0.006652931142,
+                        0.00730188842,
+                        0.007584930924,
+                        0.008171689565,
+                        0.007685510425,
+                        0.007390161527,
+                        0.007418777943,
+                        0.007603289302999999,
+                        0.0077442448889999994
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Abfalldeponierung",
@@ -6384,7 +6384,7 @@
                         0.03324269372,
                         0.03136545719
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
+                    "explanation": "Emissionen die von Deponien entstehen."
                 },
                 {
                     "label": "Biologische Abfallbehandlung",
@@ -6424,7 +6424,7 @@
                         0.002803438444,
                         0.002835270224
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen an, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
+                    "explanation": "Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
                 },
                 {
                     "label": "Abfallverbrennung",
@@ -6464,7 +6464,7 @@
                         1.6767288560000002e-05,
                         1.6767288560000002e-05
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung an."
+                    "explanation": "Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung."
                 },
                 {
                     "label": "Abwasserbehandlung",
@@ -6504,7 +6504,7 @@
                         0.0008920021995,
                         0.000893023529
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Abwasserbehandlung und ableitung an."
+                    "explanation": "Emissionen aus Abwasserbehandlung und ableitung."
                 }
             ]
         }
@@ -6515,79 +6515,79 @@
             "label": "Energie",
             "key": "energy",
             "absolute": [
-                15.0060852534,
-                15.646148495200002,
-                12.4437048608,
-                12.4774219914,
-                12.63587580941,
-                13.79029770472,
-                14.697652954129998,
-                14.78703486836,
-                13.99165230349,
-                13.60853377624,
-                13.189260334469997,
-                14.757355761280001,
-                14.18554994467,
-                16.8425498264,
-                16.727098373236,
-                16.855633379984003,
-                15.787604656276,
-                14.616233951399998,
-                14.3770538006,
-                13.386911200599998,
-                14.7085917058,
-                14.4726311173,
-                12.943141919699999,
-                12.119129089100001,
-                10.3631572213,
-                11.5445997721,
-                11.272429614300002,
-                11.999546296599998,
-                11.0418843383,
-                11.0863263559,
-                9.627315143899999,
-                9.560473322200002
+                14.7131288634,
+                15.3741603952,
+                12.072836040800002,
+                12.173171722400001,
+                12.33166666141,
+                13.500839492719999,
+                14.278652384129998,
+                14.39176305836,
+                13.67490353549,
+                13.30467599524,
+                12.893230765469998,
+                14.452080791280002,
+                13.79954584467,
+                16.396107796400003,
+                16.175560343236,
+                16.346519529984,
+                15.149401666276,
+                13.9733529124,
+                13.730693836600002,
+                12.5328999166,
+                13.7976269948,
+                13.475468277300001,
+                11.9150963267,
+                11.1024707801,
+                9.2736780413,
+                10.430410610100001,
+                10.082338748300002,
+                10.8783858876,
+                9.9749455193,
+                10.0240979889,
+                8.579295344899998,
+                8.4793592512
             ],
             "sectors": [
                 {
                     "label": "\u00d6ffentliche Elektrizit\u00e4t und W\u00e4rmeerzeugung",
-                    "code": "1 A 1 a",
+                    "code": "1 A 1 a w/o other fuels",
                     "key": "energy",
                     "absolute": [
-                        0.0001325493221,
-                        0.0001465646831,
-                        0.0001122933111,
-                        0.00010074310029999999,
-                        0.00010440819650000001,
-                        0.0001226392281,
-                        0.0001437095817,
-                        0.00014953616969999998,
-                        0.0001279168904,
-                        0.0001259820026,
-                        0.0001425957181,
-                        0.000174214097,
-                        0.0001762488557,
-                        0.0002093209545,
-                        0.0002209386957,
-                        0.0002194576187,
-                        0.0002547838367,
-                        0.0002718248115,
-                        0.000290261773,
-                        0.0002960625189,
-                        0.0003490756879,
-                        0.0003587659687,
-                        0.0003585946137,
-                        0.00035111987549999997,
-                        0.0003251186452,
-                        0.0003420677208,
-                        0.00032917947370000004,
-                        0.0003317366763,
-                        0.0003223663411,
-                        0.00031104996010000003,
-                        0.00030941416650000003,
-                        0.00031511731709999997
+                        0.030185970359999998,
+                        0.034015581010000004,
+                        0.02334896743,
+                        0.02111284158,
+                        0.02206183207,
+                        0.02706583546,
+                        0.03054113914,
+                        0.03236912449,
+                        0.02777011595,
+                        0.0274532664,
+                        0.03199749551,
+                        0.0402466357,
+                        0.03952656677,
+                        0.04714587295,
+                        0.04785632841,
+                        0.04720585874,
+                        0.05365682786,
+                        0.0583333565,
+                        0.0630261665,
+                        0.06067862775,
+                        0.07357022111,
+                        0.07446608709000001,
+                        0.07395447556000001,
+                        0.07205835329,
+                        0.06312072157,
+                        0.06671929489,
+                        0.06145282559,
+                        0.06366426373,
+                        0.062112880319999994,
+                        0.059023761380000005,
+                        0.058008186690000005,
+                        0.05907484027
                     ],
-                    "explanation": "Die Kategorie \u00d6ffentliche Elektrizit\u00e4ts- und W\u00e4rmeerzeugung umfasst Emissionen aus der Verbrennung von Brennstoffen in\n\u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Brennstoffen in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Erd\u00f6lraffination",
@@ -6627,7 +6627,7 @@
                         1.422481682e-05,
                         1.377126174e-05
                     ],
-                    "explanation": "Die Kategorie Erd\u00f6lraffination umfasst die Emissionen der einzigen Erd\u00f6lraffinerie in \u00d6sterreich. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
+                    "explanation": "Emissionen aus Erd\u00f6lraffinerien. In \u00d6sterreich steht nur die OMV-Anlage in Schwechat. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
                 },
                 {
                     "label": "Herstellung von festen Brennstoffen und sonstige  Energieerzeuger",
@@ -6667,18 +6667,18 @@
                         5.200855855e-07,
                         6.359128518e-07
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus\nVerbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
+                    "explanation": "Emissionen aus Verbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
                 },
                 {
                     "label": "Pipeline Transport",
                     "code": "1 A 3 e 1",
                     "key": "energy",
                     "absolute": [
-                        0.000405,
+                        4.0500000000000004e-07,
                         4.066e-07,
                         3.968e-07,
                         3.865e-07,
-                        0.000378,
+                        3.78e-07,
                         4.092e-07,
                         4.215e-07,
                         4.198e-07,
@@ -6707,7 +6707,7 @@
                         8.486929898999999e-07,
                         6.72961837e-07
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen von Gasturbinen, die aus Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
+                    "explanation": "Emissionen von Gasturbinen, welche in den Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
                 },
                 {
                     "label": "Feste Brennstoffe - Kohlenbergbau und -umwandlung",
@@ -6747,7 +6747,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Kohlebergbau an, bzw auch jene Emissionen (zB Methan), die aus stillgelegten Minen entweichen."
+                    "explanation": "Emissionen aus dem Kohlebergbau, bzw auch jene Emissionen (z. B. Methan), die aus stillgelegten Minen entweichen."
                 },
                 {
                     "label": "\u00d6l und Erdgas und diffuse Emissionen aus der Energieerzeugung",
@@ -6787,7 +6787,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
+                    "explanation": "Emissionen, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
                 }
             ]
         },
@@ -6868,7 +6868,7 @@
                         2.920128617e-06,
                         2.914873918e-06
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
                 },
                 {
                     "label": "Nichteisen-Metalle",
@@ -6908,7 +6908,7 @@
                         8.595461365e-07,
                         8.188492054999999e-07
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
                 },
                 {
                     "label": "Chemische Industrie (Verarbeitend)",
@@ -6948,7 +6948,7 @@
                         2.412677262e-05,
                         2.9868742059999998e-05
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
                 },
                 {
                     "label": "Zellstoff und Papierindustrie",
@@ -6988,7 +6988,7 @@
                         9.49030829e-05,
                         9.13761922e-05
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- und Druckindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- & Druckindustrie."
                 },
                 {
                     "label": "Lebensmittel-, Getr\u00e4nke- und Tabakindustrie",
@@ -7028,7 +7028,7 @@
                         2.89327836e-06,
                         2.484385112e-06
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in Lebensmittelverarbeitung, Getr\u00e4nkeindustrie und Tabakindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Lebensmittelverarbeitung, Getr\u00e4nkeindustrie & Tabakindustrie."
                 },
                 {
                     "label": "Mineralische Industrie (Verarbeitend)",
@@ -7068,7 +7068,7 @@
                         4.875391736e-05,
                         5.415193215e-05
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Brennstoffen in der Zement-, Kalk-, Magnesia-, Glas- und Ziegelindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zement-, Kalk-, Magnesia-, Glas- & Ziegelindustrie."
                 },
                 {
                     "label": "Weitere Energieerzeugung",
@@ -7108,7 +7108,7 @@
                         0.00022336611170000001,
                         0.00023254193119999998
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
                     "label": "Mineralische Industrie",
@@ -7148,7 +7148,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion an."
+                    "explanation": "Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion."
                 },
                 {
                     "label": "Chemische Industrie",
@@ -7188,7 +7188,7 @@
                         0.000176237,
                         0.00015606200000000002
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
+                    "explanation": "Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion."
                 },
                 {
                     "label": "Metallproduktion",
@@ -7228,7 +7228,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Metallindustrie an, wie z.B. der Stahlproduktion und der Aluminiumproduktion"
+                    "explanation": "Emissionen aus der Metallindustrie, wie z.B. der Stahlproduktion und der Aluminiumproduktion."
                 },
                 {
                     "label": "Verwendung von nichtenergetischen Produkten aus Brennstoffen und von L\u00f6semitteln",
@@ -7268,7 +7268,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie das  Alternativen zu L\u00f6sungsmitteln vermehrt verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
+                    "explanation": "Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie, dass vermehrt Alternativen zu L\u00f6sungsmitteln verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
                 },
                 {
                     "label": "Sonstige Produktherstellung und -verwendung",
@@ -7308,7 +7308,7 @@
                         0.0001262078693,
                         0.0001224518693
                     ],
-                    "explanation": "Die Emissionen dieses Sektors umfassen Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
+                    "explanation": "Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
                 }
             ]
         },
@@ -7389,7 +7389,7 @@
                         6.456914117e-07,
                         6.649698713e-07
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs an, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden in anderen Kategorien erfasst."
+                    "explanation": "Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden zwar in anderen Kategorien erfasst. Die internationalen Flugbewegungen werden jedoch nicht in der Gesamtbilanz von \u00d6sterreich oder einem anderen Staat miteingerechnet."
                 },
                 {
                     "label": "Autos",
@@ -7429,7 +7429,7 @@
                         0.000417525409,
                         0.0004293794329
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von Autos an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen die von Autos verursacht werden. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Leichte Nutzfahrzeuge",
@@ -7469,7 +7469,7 @@
                         7.523942456e-05,
                         8.196057526e-05
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von leichten LKWs an."
+                    "explanation": "Emissionen von leichten LKWs."
                 },
                 {
                     "label": "Schwere Nutzfahrzeuge inklusive Busse",
@@ -7509,7 +7509,7 @@
                         0.00029746767510000004,
                         0.0003142942018
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von schweren LKWs und Bussen an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen von schweren LKWs und Bussen. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Motorisierte Zweir\u00e4der",
@@ -7549,7 +7549,7 @@
                         2.645797647e-06,
                         2.507834237e-06
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von motorisierten Zweir\u00e4dern an."
+                    "explanation": "Emissionen von motorisierten Zweir\u00e4dern."
                 },
                 {
                     "label": "Schienenverkehr",
@@ -7589,7 +7589,7 @@
                         1.707836077e-05,
                         1.678670364e-05
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
+                    "explanation": "Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven."
                 },
                 {
                     "label": "Inl\u00e4ndische Schifffahrt",
@@ -7629,7 +7629,7 @@
                         5.280146972e-06,
                         9.117083916000001e-06
                     ],
-                    "explanation": "Diese Kategorie beinhaltet die Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
+                    "explanation": "Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
                 },
                 {
                     "label": "Inl\u00e4ndische Flughafen Bodenaktivit\u00e4ten",
@@ -7669,7 +7669,7 @@
                         2.692965289e-07,
                         3.13736048e-07
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen in Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg."
+                    "explanation": "Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen (Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg)."
                 },
                 {
                     "label": "Andere Bereiche",
@@ -7709,7 +7709,7 @@
                         2.180096057e-06,
                         1.971283006e-06
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
+                    "explanation": "Emissionen aus dem milit\u00e4rischen Luft- & Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -7790,7 +7790,7 @@
                         1.845940552e-05,
                         2.231574918e-05
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
                     "label": "Wohnen",
@@ -7830,7 +7830,7 @@
                         0.0003197385665,
                         0.0003588016073
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. In diesen Untersektor flie\u00dfen auch die Emissionen aus mobilen Quellen wie Pistenfahrzeuge und Schneemobile."
                 }
             ]
         },
@@ -7911,10 +7911,10 @@
                         0.0001593875968,
                         0.0001542690162
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich an (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
                 },
                 {
-                    "label": "Fermentation bei der Nutztier-Verdauung (Methanbildung)",
+                    "label": "Fermentation bei der Nutztier-Verdauung (Bl\u00e4hungen und R\u00fclpser).",
                     "code": "3 A",
                     "key": "agriculture",
                     "absolute": [
@@ -7951,7 +7951,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
+                    "explanation": "Emissionen die bei Verdauungsprozessen (R\u00fclpser & Bl\u00e4hungen) von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
                     "label": "D\u00fcnger-Management",
@@ -7991,7 +7991,7 @@
                         0.001768518755,
                         0.00177903555
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan- und Lachgas-Emissionen die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
+                    "explanation": "Emissionen, die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
                 },
                 {
                     "label": "Landwirtschaftliche B\u00f6den",
@@ -8031,7 +8031,7 @@
                         0.006706951207,
                         0.006738956188
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das D\u00fcngen von B\u00f6den  (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
+                    "explanation": "Emissionen, die durch das D\u00fcngen von B\u00f6den (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
                 },
                 {
                     "label": "Verbrennung von landwirtschaftlichen R\u00fcckst\u00e4nden auf dem Feld, Brandrodung",
@@ -8071,7 +8071,7 @@
                         1.9541678860000002e-09,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
+                    "explanation": "Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
                 },
                 {
                     "label": "Kalk-Ausbringung",
@@ -8111,7 +8111,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
+                    "explanation": "Emissionen, die durch das Ausbringen von Kalk auf landwirtschaflichen B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
                     "label": "Verwendung von Harnstoff",
@@ -8151,7 +8151,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen bei der Anwendung von Harnstoff in der Landwirtschaft an, da hierbei CO2 entsteht."
+                    "explanation": "Emissionen aus der Anwendung von Harnstoff in der Landwirtschaft, da hierbei CO2 entsteht."
                 },
                 {
                     "label": "Andere",
@@ -8191,7 +8191,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel"
+                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel."
                 }
             ]
         },
@@ -8272,7 +8272,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
+                    "explanation": "Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
                 },
                 {
                     "label": "Anwendungen als Ozon-zersetztende-Substanzien-Ersatzstoff",
@@ -8312,7 +8312,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors\n(RACHP)-Sektor sind die F-Gas-Emissionen seither gestiegen."
+                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flouriten-Gas-Emissionen seither gestiegen."
                 }
             ]
         },
@@ -8393,7 +8393,7 @@
                         2.8740957909999998e-05,
                         3.380036162e-05
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem internationalem Flugverkehr an."
+                    "explanation": "Emissionen aus dem internationalem Flugverkehr."
                 },
                 {
                     "label": "Internationale Schifffahrt",
@@ -8433,7 +8433,7 @@
                         1.2112876619999999e-05,
                         1.7225171289999998e-05
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der internationalen Schifffahrt an, also wenn Ablege oder Anlegeort au\u00dferhalb von \u00d6sterreich war."
+                    "explanation": "Emissionen aus der internationalen Schifffahrt, also wenn Ablege- und Anlegeort au\u00dferhalb von \u00d6sterreich waren."
                 }
             ]
         },
@@ -8442,79 +8442,79 @@
             "label": "Abfallwirtschaft",
             "key": "waste",
             "absolute": [
-                4.367184172689999,
-                4.44476290714,
-                4.391396641100001,
-                4.36118765775,
-                4.24905492982,
-                4.05470019468,
-                3.8419285087599997,
-                3.6757049347400006,
-                3.54005153728,
-                3.40463346142,
-                3.2769565002300003,
-                3.1573781974899995,
-                3.1448256446999996,
-                3.13904770213,
-                3.1985842145600003,
-                3.0410788098499997,
-                2.90597574228,
-                2.7623539380219997,
-                2.6362525858610004,
-                2.449610613099,
-                2.2893474483509997,
-                2.143473098752,
-                2.016818230354,
-                1.8735431524550001,
-                1.747438386757,
-                1.6447422995579999,
-                1.5459579096150002,
-                1.4569290655709999,
-                1.3731602720269998,
-                1.315416134983,
-                1.25928945444,
-                1.21057576464
+                4.660140565590001,
+                4.71675100094,
+                4.762265460999999,
+                4.66543792645,
+                4.553264077520001,
+                4.34415840628,
+                4.260929079359999,
+                4.07097674534,
+                3.85680030928,
+                3.70849124392,
+                3.57298606963,
+                3.46265317189,
+                3.5308297367999995,
+                3.58548972393,
+                3.75012225166,
+                3.55019265185,
+                3.54417873238,
+                3.4052349807219997,
+                3.282612553861,
+                3.3036218968989997,
+                3.200312160351,
+                3.140635939552,
+                3.0448638233540004,
+                2.890201460455,
+                2.836917567757,
+                2.7589314625580004,
+                2.736048775615,
+                2.5780894745709997,
+                2.440099091027,
+                2.377644501983,
+                2.30730925244,
+                2.29168983564
             ],
             "sectors": [
                 {
                     "label": "Energieerzeugung aus Abfallverbrennung",
-                    "code": "1 A 1 a other",
+                    "code": "1 A 1 a other fuels",
                     "key": "waste",
                     "absolute": [
-                        1.864e-05,
-                        1.8204e-05,
-                        2.4184e-05,
-                        2.1072e-05,
-                        2.1156e-05,
-                        2.0504000000000002e-05,
-                        2.8460000000000002e-05,
-                        2.7388530079999998e-05,
-                        2.3123999999999997e-05,
-                        2.2384770840000003e-05,
-                        2.1850452000000002e-05,
-                        2.234e-05,
-                        2.7091999999999997e-05,
-                        3.1412e-05,
-                        4.03487772e-05,
-                        4.132230267e-05,
-                        5.230524096e-05,
-                        5.169893786e-05,
-                        5.242718244e-05,
-                        6.708656513e-05,
-                        7.1452212e-05,
-                        7.776186653e-05,
-                        7.952112099999999e-05,
-                        7.920156121e-05,
-                        8.692724309000001e-05,
-                        9.029679672000001e-05,
-                        9.728201862999999e-05,
-                        9.149417172e-05,
-                        8.797811342e-05,
-                        8.831878503000001e-05,
-                        9.051534884e-05,
-                        9.219339154e-05
+                        0.004939600000000001,
+                        0.004824060000000001,
+                        0.00640876,
+                        0.00558408,
+                        0.0056063400000000005,
+                        0.0054335600000000005,
+                        0.0075419,
+                        0.00725796047,
+                        0.00612786,
+                        0.005931964273,
+                        0.00579036978,
+                        0.0059201,
+                        0.00717938,
+                        0.00832418,
+                        0.01069242596,
+                        0.01095041021,
+                        0.01386088885,
+                        0.01370021853,
+                        0.01389320335,
+                        0.01777793976,
+                        0.018934836179999998,
+                        0.020606894629999997,
+                        0.02107309707,
+                        0.02098841372,
+                        0.02303571942,
+                        0.02392865113,
+                        0.02577973494,
+                        0.02424595551,
+                        0.023314200059999998,
+                        0.02340447803,
+                        0.02398656744,
+                        0.02443124876
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Abfalldeponierung",
@@ -8554,7 +8554,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
+                    "explanation": "Emissionen die von Deponien entstehen."
                 },
                 {
                     "label": "Biologische Abfallbehandlung",
@@ -8594,7 +8594,7 @@
                         0.0002688796193,
                         0.0002784526358
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen an, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
+                    "explanation": "Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
                 },
                 {
                     "label": "Abfallverbrennung",
@@ -8634,7 +8634,7 @@
                         1.9120815e-07,
                         1.9120815e-07
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung an."
+                    "explanation": "Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung."
                 },
                 {
                     "label": "Abwasserbehandlung",
@@ -8674,7 +8674,7 @@
                         0.0005705525992,
                         0.0005720325868
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Abwasserbehandlung und ableitung an."
+                    "explanation": "Emissionen aus Abwasserbehandlung und ableitung."
                 }
             ]
         }
@@ -8685,43 +8685,43 @@
             "label": "Energie",
             "key": "energy",
             "absolute": [
-                15.0060852534,
-                15.646148495200002,
-                12.4437048608,
-                12.4774219914,
-                12.63587580941,
-                13.79029770472,
-                14.697652954129998,
-                14.78703486836,
-                13.99165230349,
-                13.60853377624,
-                13.189260334469997,
-                14.757355761280001,
-                14.18554994467,
-                16.8425498264,
-                16.727098373236,
-                16.855633379984003,
-                15.787604656276,
-                14.616233951399998,
-                14.3770538006,
-                13.386911200599998,
-                14.7085917058,
-                14.4726311173,
-                12.943141919699999,
-                12.119129089100001,
-                10.3631572213,
-                11.5445997721,
-                11.272429614300002,
-                11.999546296599998,
-                11.0418843383,
-                11.0863263559,
-                9.627315143899999,
-                9.560473322200002
+                14.7131288634,
+                15.3741603952,
+                12.072836040800002,
+                12.173171722400001,
+                12.33166666141,
+                13.500839492719999,
+                14.278652384129998,
+                14.39176305836,
+                13.67490353549,
+                13.30467599524,
+                12.893230765469998,
+                14.452080791280002,
+                13.79954584467,
+                16.396107796400003,
+                16.175560343236,
+                16.346519529984,
+                15.149401666276,
+                13.9733529124,
+                13.730693836600002,
+                12.5328999166,
+                13.7976269948,
+                13.475468277300001,
+                11.9150963267,
+                11.1024707801,
+                9.2736780413,
+                10.430410610100001,
+                10.082338748300002,
+                10.8783858876,
+                9.9749455193,
+                10.0240979889,
+                8.579295344899998,
+                8.4793592512
             ],
             "sectors": [
                 {
                     "label": "\u00d6ffentliche Elektrizit\u00e4t und W\u00e4rmeerzeugung",
-                    "code": "1 A 1 a",
+                    "code": "1 A 1 a w/o other fuels",
                     "key": "energy",
                     "absolute": [
                         0.0,
@@ -8757,7 +8757,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Kategorie \u00d6ffentliche Elektrizit\u00e4ts- und W\u00e4rmeerzeugung umfasst Emissionen aus der Verbrennung von Brennstoffen in\n\u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Brennstoffen in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Erd\u00f6lraffination",
@@ -8797,7 +8797,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Kategorie Erd\u00f6lraffination umfasst die Emissionen der einzigen Erd\u00f6lraffinerie in \u00d6sterreich. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
+                    "explanation": "Emissionen aus Erd\u00f6lraffinerien. In \u00d6sterreich steht nur die OMV-Anlage in Schwechat. Hier entstehen Emissionen aus der Verbrennung von Brennstoffen, dem Abfackeln (engl. Flaring) und dem thermischen Cracken ."
                 },
                 {
                     "label": "Herstellung von festen Brennstoffen und sonstige  Energieerzeuger",
@@ -8837,7 +8837,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus\nVerbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
+                    "explanation": "Emissionen aus Verbrennungsprozessen in der \u00d6l- und Gasf\u00f6rderung z. B. Kompressoren f\u00fcr Erdgasspeicher und den Brennstoffverbrauch von Gasverarbeitungsanlagen (\"Gasraffinerien\")."
                 },
                 {
                     "label": "Pipeline Transport",
@@ -8877,7 +8877,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen von Gasturbinen, die aus Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
+                    "explanation": "Emissionen von Gasturbinen, welche in den Kompressoren in Erdgasverdichterstationen bei Pipelines stammen. Der Anstieg der Emissionen ist auf den Anstieg des Gasdurchflusses in \u00d6sterrreich zur\u00fcckf\u00fchrbar."
                 },
                 {
                     "label": "Feste Brennstoffe - Kohlenbergbau und -umwandlung",
@@ -8917,7 +8917,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Kohlebergbau an, bzw auch jene Emissionen (zB Methan), die aus stillgelegten Minen entweichen."
+                    "explanation": "Emissionen aus dem Kohlebergbau, bzw auch jene Emissionen (z. B. Methan), die aus stillgelegten Minen entweichen."
                 },
                 {
                     "label": "\u00d6l und Erdgas und diffuse Emissionen aus der Energieerzeugung",
@@ -8957,7 +8957,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
+                    "explanation": "Emissionen, die bei der Produktion, Lagerung, Transport, sowie bei der Erkundung und Erschlie\u00dfung neuer Lagerst\u00e4tten verursacht werden."
                 }
             ]
         },
@@ -9038,7 +9038,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Eisen- und Stahlindustrie."
                 },
                 {
                     "label": "Nichteisen-Metalle",
@@ -9078,7 +9078,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Nichteisenmetall Industrie."
                 },
                 {
                     "label": "Chemische Industrie (Verarbeitend)",
@@ -9118,7 +9118,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der chemischen Industrie."
                 },
                 {
                     "label": "Zellstoff und Papierindustrie",
@@ -9158,7 +9158,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- und Druckindustrie."
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zellstoff-, Papier- & Druckindustrie."
                 },
                 {
                     "label": "Lebensmittel-, Getr\u00e4nke- und Tabakindustrie",
@@ -9198,7 +9198,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in Lebensmittelverarbeitung, Getr\u00e4nkeindustrie und Tabakindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Lebensmittelverarbeitung, Getr\u00e4nkeindustrie & Tabakindustrie."
                 },
                 {
                     "label": "Mineralische Industrie (Verarbeitend)",
@@ -9238,7 +9238,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Brennstoffen in der Zement-, Kalk-, Magnesia-, Glas- und Ziegelindustrie"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in der Zement-, Kalk-, Magnesia-, Glas- & Ziegelindustrie."
                 },
                 {
                     "label": "Weitere Energieerzeugung",
@@ -9278,7 +9278,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
+                    "explanation": "Emissionen aus der Brennstoffverbrennung in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
                     "label": "Mineralische Industrie",
@@ -9318,7 +9318,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion an."
+                    "explanation": "Emissionen aus der Mineralischen Industrie wie z.B. der Zement- oder der Kalk-Produktion."
                 },
                 {
                     "label": "Chemische Industrie",
@@ -9358,7 +9358,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
+                    "explanation": "Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion."
                 },
                 {
                     "label": "Metallproduktion",
@@ -9398,7 +9398,7 @@
                         0.0047,
                         0.0047
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Metallindustrie an, wie z.B. der Stahlproduktion und der Aluminiumproduktion"
+                    "explanation": "Emissionen aus der Metallindustrie, wie z.B. der Stahlproduktion und der Aluminiumproduktion."
                 },
                 {
                     "label": "Verwendung von nichtenergetischen Produkten aus Brennstoffen und von L\u00f6semitteln",
@@ -9438,7 +9438,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie das  Alternativen zu L\u00f6sungsmitteln vermehrt verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
+                    "explanation": "Emissionen aus nichtenergetischen Produkten wie aus der Verwendung von Brennstoffen und L\u00f6sungsmitteln. Der R\u00fcckgang der Emissionen ist auf verschiedene gesetzliche Ma\u00dfnahmen zur\u00fcckzuf\u00fchren, welche zu geringere L\u00f6sungsmittelgehalte in Produkten wie z. B. Farben f\u00fchrten, sowie, dass vermehrt Alternativen zu L\u00f6sungsmitteln verwendet wurden, aber auch, dass die Verwendung von Schmiermitteln sank."
                 },
                 {
                     "label": "Sonstige Produktherstellung und -verwendung",
@@ -9478,7 +9478,7 @@
                         0.4364689186,
                         0.3508105968
                     ],
-                    "explanation": "Die Emissionen dieses Sektors umfassen Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
+                    "explanation": "Emissionen aus der Verwendung von Elektroger\u00e4ten sowie aus der Produktherstellung und -verwendung (Verwendung in Reifen, Schuhen, Schallschutzfenstern, Forschung usw.)."
                 }
             ]
         },
@@ -9559,7 +9559,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs an, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden in anderen Kategorien erfasst."
+                    "explanation": "Emissionen des zivilen Flugverkehrs innerhalb \u00d6sterreichs, inkl. Start, Landung und Wegstrecke. Internationale und Milit\u00e4rische Flugbewegungen werden zwar in anderen Kategorien erfasst. Die internationalen Flugbewegungen werden jedoch nicht in der Gesamtbilanz von \u00d6sterreich oder einem anderen Staat miteingerechnet."
                 },
                 {
                     "label": "Autos",
@@ -9599,7 +9599,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von Autos an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen die von Autos verursacht werden. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 12,2 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 2,2 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Leichte Nutzfahrzeuge",
@@ -9639,7 +9639,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von leichten LKWs an."
+                    "explanation": "Emissionen von leichten LKWs."
                 },
                 {
                     "label": "Schwere Nutzfahrzeuge inklusive Busse",
@@ -9679,7 +9679,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von schweren LKWs und Bussen an. Die Kategorie beinhalten auch die Emissionen aus  Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
+                    "explanation": "Emissionen von schweren LKWs und Bussen. Die Kategorie beinhalten auch die Emissionen aus Benzin und Diesel, welches in \u00d6sterreich getankt wird und im Ausland erst verbraucht wird. So entstanden zB 2019 4,1 Mio Tonnen Treibhausgase aus dem Inlandsverkehr und 3,0 Mio Tonnen aus Benzin und Diesel, welches erst im Ausland verbrannt wurde."
                 },
                 {
                     "label": "Motorisierte Zweir\u00e4der",
@@ -9719,7 +9719,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von motorisierten Zweir\u00e4dern an."
+                    "explanation": "Emissionen von motorisierten Zweir\u00e4dern."
                 },
                 {
                     "label": "Schienenverkehr",
@@ -9759,7 +9759,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
+                    "explanation": "Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven."
                 },
                 {
                     "label": "Inl\u00e4ndische Schifffahrt",
@@ -9799,7 +9799,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beinhaltet die Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
+                    "explanation": "Emissionen aller Schifffahrten, welche mindestens einmal innerhalb \u00d6sterreichs ab- oder anlegen, unabh\u00e4ngig unter welcher Flagge das Schiff f\u00e4hrt."
                 },
                 {
                     "label": "Inl\u00e4ndische Flughafen Bodenaktivit\u00e4ten",
@@ -9839,7 +9839,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen in Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg."
+                    "explanation": "Emissionen aus den Bodenaktivit\u00e4ten auf \u00f6sterreichischen Flugh\u00e4fen (Wien, Graz, Innsbruck, Klagenfurt, Linz und Salzburg)."
                 },
                 {
                     "label": "Andere Bereiche",
@@ -9879,7 +9879,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
+                    "explanation": "Emissionen aus dem milit\u00e4rischen Luft- & Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -9960,7 +9960,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
                     "label": "Wohnen",
@@ -10000,7 +10000,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. In diesen Untersektor flie\u00dfen auch die Emissionen aus mobilen Quellen wie Pistenfahrzeuge und Schneemobile."
                 }
             ]
         },
@@ -10081,10 +10081,10 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich an (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
+                    "explanation": "Emissionen aus dem Brennstoffverbrauch im Landwirtschaftlichen, Forst- und Fischerreibereich (z.B. Heizungen). Emissionen aus mobilen Quellen wie Traktoren flie\u00dfen ebenfalls mit ein."
                 },
                 {
-                    "label": "Fermentation bei der Nutztier-Verdauung (Methanbildung)",
+                    "label": "Fermentation bei der Nutztier-Verdauung (Bl\u00e4hungen und R\u00fclpser).",
                     "code": "3 A",
                     "key": "agriculture",
                     "absolute": [
@@ -10121,7 +10121,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
+                    "explanation": "Emissionen die bei Verdauungsprozessen (R\u00fclpser & Bl\u00e4hungen) von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
                     "label": "D\u00fcnger-Management",
@@ -10161,7 +10161,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt die Methan- und Lachgas-Emissionen die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
+                    "explanation": "Emissionen, die w\u00e4hrend der G\u00fclle-Lagerung im Stahlsystem oder Lagerbeh\u00e4ltern entstehen."
                 },
                 {
                     "label": "Landwirtschaftliche B\u00f6den",
@@ -10201,7 +10201,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das D\u00fcngen von B\u00f6den  (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
+                    "explanation": "Emissionen, die durch das D\u00fcngen von B\u00f6den (z. B. Stickstoff-D\u00fcnger, G\u00fclleeinsatz, Kl\u00e4rschlamm) oder durch Urin und Dung von grasenden Tieren entstehen."
                 },
                 {
                     "label": "Verbrennung von landwirtschaftlichen R\u00fcckst\u00e4nden auf dem Feld, Brandrodung",
@@ -10241,7 +10241,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
+                    "explanation": "Emissionen aus der Verbrennung von Getreidestroh und Restholz von Weinbaukulturen auf offenen Feldern in \u00d6sterreich."
                 },
                 {
                     "label": "Kalk-Ausbringung",
@@ -10281,7 +10281,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
+                    "explanation": "Emissionen, die durch das Ausbringen von Kalk auf landwirtschaflichen B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
                     "label": "Verwendung von Harnstoff",
@@ -10321,7 +10321,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen bei der Anwendung von Harnstoff in der Landwirtschaft an, da hierbei CO2 entsteht."
+                    "explanation": "Emissionen aus der Anwendung von Harnstoff in der Landwirtschaft, da hierbei CO2 entsteht."
                 },
                 {
                     "label": "Andere",
@@ -10361,7 +10361,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel"
+                    "explanation": "Diese Kategorie beschreibt in \u00d6sterreich die Emissionen aus anderen kohlenstoffhaltigen D\u00fcngemittel."
                 }
             ]
         },
@@ -10442,7 +10442,7 @@
                         0.05421575,
                         0.053283910000000004
                     ],
-                    "explanation": "Die Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
+                    "explanation": "Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
                 },
                 {
                     "label": "Anwendungen als Ozon-zersetztende-Substanzien-Ersatzstoff",
@@ -10482,7 +10482,7 @@
                         1.702386209,
                         1.482921734
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors\n(RACHP)-Sektor sind die F-Gas-Emissionen seither gestiegen."
+                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flouriten-Gas-Emissionen seither gestiegen."
                 }
             ]
         },
@@ -10563,7 +10563,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus dem internationalem Flugverkehr an."
+                    "explanation": "Emissionen aus dem internationalem Flugverkehr."
                 },
                 {
                     "label": "Internationale Schifffahrt",
@@ -10603,7 +10603,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der internationalen Schifffahrt an, also wenn Ablege oder Anlegeort au\u00dferhalb von \u00d6sterreich war."
+                    "explanation": "Emissionen aus der internationalen Schifffahrt, also wenn Ablege- und Anlegeort au\u00dferhalb von \u00d6sterreich waren."
                 }
             ]
         },
@@ -10612,43 +10612,43 @@
             "label": "Abfallwirtschaft",
             "key": "waste",
             "absolute": [
-                4.367184172689999,
-                4.44476290714,
-                4.391396641100001,
-                4.36118765775,
-                4.24905492982,
-                4.05470019468,
-                3.8419285087599997,
-                3.6757049347400006,
-                3.54005153728,
-                3.40463346142,
-                3.2769565002300003,
-                3.1573781974899995,
-                3.1448256446999996,
-                3.13904770213,
-                3.1985842145600003,
-                3.0410788098499997,
-                2.90597574228,
-                2.7623539380219997,
-                2.6362525858610004,
-                2.449610613099,
-                2.2893474483509997,
-                2.143473098752,
-                2.016818230354,
-                1.8735431524550001,
-                1.747438386757,
-                1.6447422995579999,
-                1.5459579096150002,
-                1.4569290655709999,
-                1.3731602720269998,
-                1.315416134983,
-                1.25928945444,
-                1.21057576464
+                4.660140565590001,
+                4.71675100094,
+                4.762265460999999,
+                4.66543792645,
+                4.553264077520001,
+                4.34415840628,
+                4.260929079359999,
+                4.07097674534,
+                3.85680030928,
+                3.70849124392,
+                3.57298606963,
+                3.46265317189,
+                3.5308297367999995,
+                3.58548972393,
+                3.75012225166,
+                3.55019265185,
+                3.54417873238,
+                3.4052349807219997,
+                3.282612553861,
+                3.3036218968989997,
+                3.200312160351,
+                3.140635939552,
+                3.0448638233540004,
+                2.890201460455,
+                2.836917567757,
+                2.7589314625580004,
+                2.736048775615,
+                2.5780894745709997,
+                2.440099091027,
+                2.377644501983,
+                2.30730925244,
+                2.29168983564
             ],
             "sectors": [
                 {
                     "label": "Energieerzeugung aus Abfallverbrennung",
-                    "code": "1 A 1 a other",
+                    "code": "1 A 1 a other fuels",
                     "key": "waste",
                     "absolute": [
                         0.0,
@@ -10684,7 +10684,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Die Kategorie umfasst Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
+                    "explanation": "Emissionen aus der Verbrennung von Abfall in \u00f6ffentlichen Strom- und W\u00e4rmeerzeugungsanlagen."
                 },
                 {
                     "label": "Abfalldeponierung",
@@ -10724,7 +10724,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
+                    "explanation": "Emissionen die von Deponien entstehen."
                 },
                 {
                     "label": "Biologische Abfallbehandlung",
@@ -10764,7 +10764,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen an, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
+                    "explanation": "Emissionen aus der Biologischen Behandlung von festen Abf\u00e4llen, unter anderem auch Kompostierung und Leckagen in Biogasanlagen."
                 },
                 {
                     "label": "Abfallverbrennung",
@@ -10804,7 +10804,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung an."
+                    "explanation": "Emissionen aus der Verbrennung von Alt\u00f6l und aus der Verbrennung von Siedlungsabf\u00e4llen ohne energetische Verwertung."
                 },
                 {
                     "label": "Abwasserbehandlung",
@@ -10844,7 +10844,7 @@
                         0.0,
                         0.0
                     ],
-                    "explanation": "Diese Kategorie gibt die Emissionen aus Abwasserbehandlung und ableitung an."
+                    "explanation": "Emissionen aus Abwasserbehandlung und ableitung."
                 }
             ]
         }
