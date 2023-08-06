@@ -652,9 +652,9 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2023-3;3.98;0;0;0;0
 2023-4;4.84;0;0;0;0
 2023-5;10.62;0;0;0;0
-2023-6;null;0;0;0;0
-2023-7;null;null;null;null;null
-2023-8;null;null;null;null;null
+2023-6;15.45;2;9;0;0
+2023-7;17.13;1;11;0;0
+2023-8;null;0;0;0;0
 2023-9;null;null;null;null;null
 2023-10;null;null;null;null;null
 2023-11;null;null;null;null;null
