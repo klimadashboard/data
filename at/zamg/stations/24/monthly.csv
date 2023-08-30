@@ -427,7 +427,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1936-6;15.85;0;7;0;0
 1936-7;17.08;0;8;0;0
 1936-8;16.7;0;0;0;0
-1936-9;14.18;0;1;0;0
+1936-9;null;null;null;null;null
 1936-10;6.18;0;0;0;0
 1936-11;3.84;0;0;0;5
 1936-12;0.28;0;0;0;8
