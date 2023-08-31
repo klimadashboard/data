@@ -1,0 +1,1419 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 0,
+				"type": "mine",
+				"label": "Tagebau Hambach",
+				"region": "Rheinisches Revier",
+				"villages": {
+					"Hambach": "",
+					"Profen": "6000 Menschen",
+					"Inden": "7400  Menschen",
+					"Amsdorf": "."
+				}
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[6.492608528931214, 50.88291870861863],
+						[6.505252401640604, 50.88522781468481],
+						[6.525881878166956, 50.8726313002731],
+						[6.599748713471001, 50.89897512213449],
+						[6.6032424151408975, 50.90768314844428],
+						[6.60573791633351, 50.90957142117048],
+						[6.544514953738798, 50.933587760616376],
+						[6.531538347536639, 50.935055606350176],
+						[6.519892675304504, 50.930337365905984],
+						[6.517397174111892, 50.93379745570047],
+						[6.491943061945619, 50.93201501734745],
+						[6.485288392098653, 50.927506191880354],
+						[6.47297725288098, 50.9300227995239],
+						[6.466322583034042, 50.91827746560466],
+						[6.460666113664331, 50.91177430920615],
+						[6.472644519389291, 50.8939384117744],
+						[6.492608528931214, 50.88291870861863]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 1,
+				"label": "Tagebau Garzweiler",
+				"region": "Rheinisches Revier"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[6.481652748652465, 51.03743770119007],
+						[6.4901771678010505, 51.04038049611762],
+						[6.490511458747335, 51.05866367507463],
+						[6.462932455619125, 51.09163919553029],
+						[6.44203927143198, 51.093318847638045],
+						[6.4291690699710955, 51.09205911427682],
+						[6.415295995671272, 51.08985449831988],
+						[6.419976068928719, 51.083975008625515],
+						[6.417970323246294, 51.07515437272599],
+						[6.413290249988904, 51.07567945764822],
+						[6.408275885783951, 51.069588106217],
+						[6.414460268303799, 51.069062952174704],
+						[6.412287377147635, 51.064966546137384],
+						[6.413457395462643, 51.06307577491992],
+						[6.415463141143846, 51.062550546987126],
+						[6.415128850197561, 51.0605546264953],
+						[6.421480378190012, 51.05845356459395],
+						[6.421146087243727, 51.057192881685864],
+						[6.42398756029246, 51.05687770559547],
+						[6.4291690699710955, 51.05193966675594],
+						[6.429837651866052, 51.04752650566212],
+						[6.44070210764329, 51.04836714019581],
+						[6.444880744480713, 51.04290274300678],
+						[6.44822365395072, 51.04164163672718],
+						[6.452736581735536, 51.045845190823826],
+						[6.459589546149203, 51.04384855018776],
+						[6.463601037514081, 51.046265525254995],
+						[6.464436764881526, 51.04552993749746],
+						[6.463601037514081, 51.04101107071364],
+						[6.4697854200327924, 51.03869892190292],
+						[6.481652748652465, 51.03743770119007]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 2,
+				"label": "Tagebau Inden",
+				"region": "Rheinisches Revier"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[6.405810183173628, 50.84198078748847],
+						[6.413180251088306, 50.84663446827517],
+						[6.413999147522446, 50.84956432544712],
+						[6.417820664219107, 50.849909002429],
+						[6.424098870220007, 50.85352795696846],
+						[6.423552939263658, 50.85490653245898],
+						[6.3862931514750585, 50.87954169570938],
+						[6.383017565734718, 50.87919723773459],
+						[6.377148807951812, 50.880661166542694],
+						[6.3756474978210065, 50.8803167168428],
+						[6.369778740037134, 50.87885277721355],
+						[6.363091085819121, 50.88023060402057],
+						[6.348077984512031, 50.872479798271115],
+						[6.345211846989798, 50.880661166542694],
+						[6.345075364250391, 50.88410552349177],
+						[6.340980882075996, 50.88410552349177],
+						[6.338387710032407, 50.88350277940617],
+						[6.33210950403145, 50.880402829506494],
+						[6.332245986769863, 50.879111122842914],
+						[6.331836538552807, 50.87824996517409],
+						[6.332655434987828, 50.87704431770135],
+						[6.329243366509161, 50.875924759974424],
+						[6.331154124857079, 50.87325493685583],
+						[6.32746909089974, 50.86636436410291],
+						[6.33210950403145, 50.86524454981958],
+						[6.330744676639057, 50.86317712970657],
+						[6.330744676639057, 50.86067887475227],
+						[6.325558332551822, 50.86076502370324],
+						[6.324193505160395, 50.86162650445772],
+						[6.3224192295508885, 50.86472770338591],
+						[6.318461230115815, 50.863607849790355],
+						[6.3218732985944825, 50.859042014444356],
+						[6.321736815855132, 50.858094332213795],
+						[6.3254218498125, 50.856715850952384],
+						[6.327878539117705, 50.85516501082742],
+						[6.332382469509184, 50.85464805265855],
+						[6.335385089770767, 50.85525116996527],
+						[6.330471711161351, 50.858352792914275],
+						[6.346303708902553, 50.85886971001719],
+						[6.348214467251353, 50.85697431929307],
+						[6.362135706644722, 50.857318941518315],
+						[6.365274809645683, 50.8604204269449],
+						[6.366366671558467, 50.8586112521817],
+						[6.378104187125302, 50.853097143770924],
+						[6.405810183173628, 50.84198078748847]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 3,
+				"label": "Tagebau Jänschwalde",
+				"region": "Lausitzer Revier"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[14.568055911881913, 51.882226862931105],
+						[14.552042572984533, 51.87451622619372],
+						[14.540659736173694, 51.86348750437247],
+						[14.524967068222253, 51.86515308095079],
+						[14.519082317741322, 51.85470435343737],
+						[14.51638514043708, 51.84395023096627],
+						[14.522760286792135, 51.830769140652706],
+						[14.527909443463585, 51.814855789181365],
+						[14.50853880646136, 51.81182403727806],
+						[14.547271061588617, 51.80007993818626],
+						[14.579858887136567, 51.822072405895085],
+						[14.583641893045808, 51.83436349112432],
+						[14.58287611861283, 51.853675365602925],
+						[14.605507064345034, 51.86097451648169],
+						[14.615929207095604, 51.87022247382679],
+						[14.593420726658877, 51.87881466242574],
+						[14.575426928433615, 51.88543862655366],
+						[14.568055911881913, 51.882226862931105]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": 4, "label": "Tagebau Welzow-Süd", "region": "Lausitzer Revier" },
+			"geometry": {
+				"coordinates": [
+					[
+						[14.285710905634488, 51.56926947499812],
+						[14.30495793767497, 51.59073133428561],
+						[14.275277934995302, 51.59453081556154],
+						[14.231387506789673, 51.597547824300136],
+						[14.21285998996541, 51.62301679589763],
+						[14.193612957924955, 51.61988979709753],
+						[14.176344592729976, 51.60246400172926],
+						[14.173646410668283, 51.60045290256264],
+						[14.18569829054428, 51.590843088270816],
+						[14.188216593801599, 51.572735357173485],
+						[14.21663744485204, 51.55696905095354],
+						[14.239067382796549, 51.54929556499991],
+						[14.248095564730903, 51.5521195535766],
+						[14.244843358582187, 51.5553022752986],
+						[14.251592614851887, 51.5645601539255],
+						[14.25405223610926, 51.57184096126386],
+						[14.285710905634488, 51.56926947499812]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "id": 5, "label": "Tagebau Reichwalde", "region": "Lausitzer Revier" },
+			"geometry": {
+				"coordinates": [
+					[
+						[14.561119970808903, 51.52047043619942],
+						[14.54284270198815, 51.50963408823242],
+						[14.5313889080916, 51.49369458781223],
+						[14.551274315910547, 51.487183694262455],
+						[14.546021946301295, 51.48115313348251],
+						[14.569165199891415, 51.47266811306696],
+						[14.562107328228905, 51.467964891817246],
+						[14.532070339526854, 51.47859757055289],
+						[14.51368704589558, 51.484321832646515],
+						[14.50646503768371, 51.489636575545745],
+						[14.499243029470676, 51.492702491581866],
+						[14.497601663967941, 51.491884934132685],
+						[14.511224997641449, 51.479108694594544],
+						[14.555908973882907, 51.46383939223682],
+						[14.608104396872136, 51.45443064460815],
+						[14.618280862989621, 51.48857922902309],
+						[14.592511424595983, 51.50237454749379],
+						[14.579872910223202, 51.506052593980655],
+						[14.561119970808903, 51.52047043619942]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 6,
+				"label": "Tagebau Amsdorf",
+				"region": "Mitteldeutsches Revier"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[11.688855447959327, 51.461084201156154],
+						[11.688057953885988, 51.45895712029625],
+						[11.692544165491427, 51.45654358383422],
+						[11.694387934998304, 51.45483946153959],
+						[11.692398862615448, 51.45128528502394],
+						[11.698625954500102, 51.44583907907577],
+						[11.710661510240215, 51.44521940969494],
+						[11.713834551362396, 51.444816474007396],
+						[11.717993839071823, 51.44559779500043],
+						[11.72165517185067, 51.448473982321815],
+						[11.71899041274466, 51.45302793195712],
+						[11.722948804346004, 51.45102525914175],
+						[11.722085507409759, 51.45417425329562],
+						[11.716964783328791, 51.455205720946545],
+						[11.716574631105118, 51.455720038688696],
+						[11.71678306122891, 51.45965419121245],
+						[11.716076479121682, 51.460281636114985],
+						[11.7136837022733, 51.4600707344764],
+						[11.711603423299465, 51.460741224939994],
+						[11.709562611672453, 51.46308860304251],
+						[11.703597162305726, 51.46374063108814],
+						[11.697108427906016, 51.46370802990708],
+						[11.692503519622022, 51.462632177867704],
+						[11.688855447959327, 51.461084201156154]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 7,
+				"label": "Tagebau Profen",
+				"region": "Mitteldeutsches Revier"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[12.181332772677962, 51.156834292550315],
+						[12.192181212939062, 51.154046919374565],
+						[12.170196946892588, 51.13612769257398],
+						[12.179644194641156, 51.13286023852601],
+						[12.174384611812371, 51.12958984324476],
+						[12.155475200338742, 51.12978845052086],
+						[12.14954128460522, 51.12522026707862],
+						[12.149688209449607, 51.117975340688076],
+						[12.144279008706917, 51.108720128065414],
+						[12.148733644612832, 51.09526680235456],
+						[12.154991347432542, 51.092935382610364],
+						[12.16188542681104, 51.09300199623442],
+						[12.16230967785026, 51.094600694422155],
+						[12.165809748917951, 51.09646577245255],
+						[12.16612793719736, 51.097198461096525],
+						[12.170900761382711, 51.10059532038008],
+						[12.169946196545936, 51.10232695651629],
+						[12.171325012420454, 51.10399193009442],
+						[12.170052259305749, 51.10525726990707],
+						[12.172173514498894, 51.10605641404791],
+						[12.173658393133223, 51.105790034202954],
+						[12.176416024885214, 51.10605641404791],
+						[12.178006980056523, 51.10606100532007],
+						[12.179067607653167, 51.108191988603664],
+						[12.18214342768303, 51.10879130994999],
+						[12.184688933915453, 51.112253903338996],
+						[12.18723444014779, 51.11258683133906],
+						[12.188931444301772, 51.11438460109244],
+						[12.18840113050419, 51.11624888103566],
+						[12.191264825014514, 51.11804650831729],
+						[12.194291940902133, 51.12296720482041],
+						[12.19312153973118, 51.12590552544083],
+						[12.186512215469747, 51.132775280960885],
+						[12.190780737388394, 51.1363177743564],
+						[12.199003457780293, 51.14369483817879],
+						[12.200790380992515, 51.15428142126805],
+						[12.204761321464673, 51.154904085824256],
+						[12.210916279196852, 51.153036066947806],
+						[12.222729827102853, 51.15839085206045],
+						[12.225112391385323, 51.16299796043472],
+						[12.221836365495335, 51.16884956980962],
+						[12.208930808960758, 51.17638086775543],
+						[12.174383626851665, 51.17333115149941],
+						[12.172894524173898, 51.17109041509653],
+						[12.166715364784977, 51.17040881729639],
+						[12.162483737964067, 51.17005390675442],
+						[12.162678285608052, 51.168985773616015],
+						[12.155680733229048, 51.16685164817363],
+						[12.155750106686128, 51.16339239631333],
+						[12.15800835484545, 51.16161984365053],
+						[12.155819480143208, 51.16100575381677],
+						[12.152841274789068, 51.15727013450686],
+						[12.148175419733263, 51.1567720290775],
+						[12.147281958127166, 51.149112981148505],
+						[12.162073711387336, 51.14936207587644],
+						[12.181332772677962, 51.156834292550315]
+					]
+				],
+				"type": "Polygon"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 8,
+				"label": "Tagebau Vereinigtes Schleenhain",
+				"region": "Mitteldeutsches Revier"
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[12.415040640279358, 51.113173070029035],
+						[12.417581643370397, 51.1218187901236],
+						[12.412817502750443, 51.12328672841613],
+						[12.400603978617056, 51.12986469375414],
+						[12.389516524085053, 51.13111494484292],
+						[12.371969788331427, 51.13305521410862],
+						[12.358189400742575, 51.12991412628483],
+						[12.353399122416889, 51.1370397637336],
+						[12.368494442100499, 51.143257945421446],
+						[12.37735325814664, 51.14276396515176],
+						[12.40085579148116, 51.149715906717965],
+						[12.400135422924059, 51.15386717096864],
+						[12.394717566207534, 51.15332450789219],
+						[12.390028310342007, 51.156548835014874],
+						[12.375226453699405, 51.15891628794566],
+						[12.375270359267887, 51.16229154662872],
+						[12.351857009118687, 51.15997127599505],
+						[12.356371307318067, 51.15079219650622],
+						[12.363230565754016, 51.14445079618261],
+						[12.352363252358543, 51.14038581123438],
+						[12.351538650223446, 51.136940172933194],
+						[12.356860505655874, 51.12986469375414],
+						[12.35651997520273, 51.12891889283404],
+						[12.360120017791104, 51.12006147133758],
+						[12.363559304196286, 51.117525357703045],
+						[12.359159700040863, 51.11171217180967],
+						[12.359169111077364, 51.10653883101318],
+						[12.361661906139744, 51.10190881561451],
+						[12.370623792046075, 51.100240361232665],
+						[12.383355887766385, 51.103582427806685],
+						[12.384260507861299, 51.10558668956615],
+						[12.387177379862656, 51.10629863703863],
+						[12.389170041130456, 51.10468939652594],
+						[12.400517357878442, 51.10963854022404],
+						[12.402683260623263, 51.11271983217293],
+						[12.415040640279358, 51.113173070029035]
+					]
+				],
+				"type": "Polygon"
+			},
+			"id": 8
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 9,
+				"Betreiber": "RWE, EnBW, MVV RHE GmbH",
+				"Blockname": "Großkraftwerk Mannheim",
+				"CO2 [t] im Jahr 2016": "7880000",
+				"Nettonennleistung [MWel]": "1958",
+				"Stilllegung": "spät. 2034",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 49.44464372,
+				"Longitude": 8.499748613
+			},
+			"geometry": { "type": "Point", "coordinates": [8.499748613, 49.44464372] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 10,
+				"Betreiber": "STEAG, EVN AG",
+				"Blockname": "Kraftwerk Duisburg-Walsum",
+				"CO2 [t] im Jahr 2016": "4850000",
+				"Nettonennleistung [MWel]": "775",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.52727305,
+				"Longitude": 6.70924364
+			},
+			"geometry": { "type": "Point", "coordinates": [6.70924364, 51.52727305] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 11,
+				"Betreiber": "ThyssenKrupp Steel Europe",
+				"Blockname": "Kraftwerk Werk Ruhrort",
+				"CO2 [t] im Jahr 2016": "4400000",
+				"Nettonennleistung [MWel]": "339",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.46462727,
+				"Longitude": 6.743620227
+			},
+			"geometry": { "type": "Point", "coordinates": [6.743620227, 51.46462727] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 12,
+				"Betreiber": "Uniper",
+				"Blockname": "Kraftwerk Scholven",
+				"CO2 [t] im Jahr 2016": "4120000",
+				"Nettonennleistung [MWel]": "760",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.59712323,
+				"Longitude": 7.00454584
+			},
+			"geometry": { "type": "Point", "coordinates": [7.00454584, 51.59712323] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 13,
+				"Betreiber": "STEAG",
+				"Blockname": "Kraftwerk Lünen-Stummhafen",
+				"CO2 [t] im Jahr 2016": "3430000",
+				"Nettonennleistung [MWel]": "750",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.61243042,
+				"Longitude": 7.465865132
+			},
+			"geometry": { "type": "Point", "coordinates": [7.465865132, 51.61243042] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 14,
+				"Betreiber": "RWE",
+				"Blockname": "Kraftwerk Westfalen",
+				"CO2 [t] im Jahr 2016": "3410000",
+				"Nettonennleistung [MWel]": "800",
+				"Stilllegung": "Block E: rotierenden Phasenschieber",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.68070578,
+				"Longitude": 7.973922133
+			},
+			"geometry": { "type": "Point", "coordinates": [7.973922133, 51.68070578] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 15,
+				"Betreiber": "Uniper",
+				"Blockname": "Kraftwerk Heyden",
+				"CO2 [t] im Jahr 2016": "3000000",
+				"Nettonennleistung [MWel]": "875",
+				"Stilllegung": "um Erdgasverbrauch zu reduzieren noch am Netz",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 52.37927651,
+				"Longitude": 8.998158306000001
+			},
+			"geometry": { "type": "Point", "coordinates": [8.998158306, 52.37927651] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 16,
+				"Betreiber": "EnBW",
+				"Blockname": "Rheinhafen-Dampfkraftwerk Karlsruhe",
+				"CO2 [t] im Jahr 2016": "2970000",
+				"Nettonennleistung [MWel]": "1351",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 49.01382769,
+				"Longitude": 8.306311766
+			},
+			"geometry": { "type": "Point", "coordinates": [8.306311766, 49.01382769] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 17,
+				"Betreiber": "RWE",
+				"Blockname": "Kraftwerk Bergkamen",
+				"CO2 [t] im Jahr 2016": "2840000",
+				"Nettonennleistung [MWel]": "717",
+				"Stilllegung": "31.03.2024",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.63720655,
+				"Longitude": 7.619340948
+			},
+			"geometry": { "type": "Point", "coordinates": [7.619340948, 51.63720655] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 18,
+				"Betreiber": "EnBW (50,4 %) Rheinenergie (49,6 %)",
+				"Blockname": "Kraftwerk Rostock",
+				"CO2 [t] im Jahr 2016": "2640000",
+				"Nettonennleistung [MWel]": "514",
+				"Stilllegung": "2030",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 54.14097206,
+				"Longitude": 12.1310956
+			},
+			"geometry": { "type": "Point", "coordinates": [12.1310956, 54.14097206] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 19,
+				"Betreiber": "VW AG",
+				"Blockname": "Kraftwerk Wolfsburg",
+				"CO2 [t] im Jahr 2016": "2600000",
+				"Nettonennleistung [MWel]": "",
+				"Stilllegung": "gas",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 52.44205816,
+				"Longitude": 10.76453694
+			},
+			"geometry": { "type": "Point", "coordinates": [10.76453694, 52.44205816] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 20,
+				"Betreiber": "Vattenfall",
+				"Blockname": "Heizkraftwerk Reuter West",
+				"CO2 [t] im Jahr 2016": "2530000",
+				"Nettonennleistung [MWel]": "564",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 52.53526906,
+				"Longitude": 13.24293993
+			},
+			"geometry": { "type": "Point", "coordinates": [13.24293993, 52.53526906] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 21,
+				"Betreiber": "Stadtwerke München, Abfallwirtschaftsbetrieb München",
+				"Blockname": "Heizkraftwerk Nord (München)",
+				"CO2 [t] im Jahr 2016": "2520000",
+				"Nettonennleistung [MWel]": "411",
+				"Stilllegung": "Bürgerentscheid, aber zu systemrelevant",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 48.18132696,
+				"Longitude": 11.6374834
+			},
+			"geometry": { "type": "Point", "coordinates": [11.6374834, 48.18132696] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 22,
+				"Betreiber": "Uniper",
+				"Blockname": "Kraftwerk Staudinger",
+				"CO2 [t] im Jahr 2016": "2430000",
+				"Nettonennleistung [MWel]": "510",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 50.08776683,
+				"Longitude": 8.957071765
+			},
+			"geometry": { "type": "Point", "coordinates": [8.957071765, 50.08776683] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 23,
+				"Betreiber": "EnBW",
+				"Blockname": "Kraftwerk Heilbronn",
+				"CO2 [t] im Jahr 2016": "2360000",
+				"Nettonennleistung [MWel]": "778",
+				"Stilllegung": "LNG ab 2026 für 20 Jahren",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 49.17806558,
+				"Longitude": 9.208305749000001
+			},
+			"geometry": { "type": "Point", "coordinates": [9.208305749, 49.17806558] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 24,
+				"Betreiber": "STEAG",
+				"Blockname": "Kraftwerk Herne",
+				"CO2 [t] im Jahr 2016": "2210000",
+				"Nettonennleistung [MWel]": "449",
+				"Stilllegung": "nur noch Block 4",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.54929342,
+				"Longitude": 7.184727832
+			},
+			"geometry": { "type": "Point", "coordinates": [7.184727832, 51.54929342] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 25,
+				"Betreiber": "EnBW Energie Baden-Württemberg",
+				"Blockname": "Kraftwerk Altbach",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "244",
+				"Stilllegung": "31.03.2025",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 49.01845504,
+				"Longitude": 9.15701936
+			},
+			"geometry": { "type": "Point", "coordinates": [9.15701936, 49.01845504] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 26,
+				"Betreiber": "EnBW Energie Baden-Württemberg",
+				"Blockname": "Kraftwerk Walheim",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "769",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 48.72053332,
+				"Longitude": 9.376416353
+			},
+			"geometry": { "type": "Point", "coordinates": [9.376416353, 48.72053332] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 27,
+				"Betreiber": "STEAG",
+				"Blockname": "Kraftwerk Bexbach",
+				"CO2 [t] im Jahr 2016": "2900000",
+				"Nettonennleistung [MWel]": "762",
+				"Stilllegung": "vorrübergehend",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 49.364478,
+				"Longitude": 7.237225001
+			},
+			"geometry": { "type": "Point", "coordinates": [7.237225001, 49.364478] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 28,
+				"Betreiber": "STEAG",
+				"Blockname": "Kraftwerk Weiher",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "656",
+				"Stilllegung": "31.03.2024",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 49.33656965,
+				"Longitude": 7.031668463
+			},
+			"geometry": { "type": "Point", "coordinates": [7.031668463, 49.33656965] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 29,
+				"Betreiber": "STEAG",
+				"Blockname": "Kraftwerk Völklingen-Fenne",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "390",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 49.24905203,
+				"Longitude": 6.879827937
+			},
+			"geometry": { "type": "Point", "coordinates": [6.879827937, 49.24905203] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 30,
+				"Betreiber": "Engie",
+				"Blockname": "Kraftwerk Zolling",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "472",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 48.45553472,
+				"Longitude": 11.80188828
+			},
+			"geometry": { "type": "Point", "coordinates": [11.80188828, 48.45553472] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 31,
+				"Betreiber": "enercity, VWK",
+				"Blockname": "Kohlekraftwerk Stöcken",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "300",
+				"Stilllegung": "2026",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 52.41978771,
+				"Longitude": 9.651164747
+			},
+			"geometry": { "type": "Point", "coordinates": [9.651164747, 52.41978771] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 32,
+				"Betreiber": "EPH",
+				"Blockname": "Kraftwerk Mehrum",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "690",
+				"Stilllegung": "31.12.2024",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 52.31207736,
+				"Longitude": 10.09380969
+			},
+			"geometry": { "type": "Point", "coordinates": [10.09380969, 52.31207736] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 33,
+				"Betreiber": "Onyx Power",
+				"Blockname": "Kraftwerk Farge",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "350",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 53.20202081,
+				"Longitude": 8.51873708
+			},
+			"geometry": { "type": "Point", "coordinates": [8.51873708, 53.20202081] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 34,
+				"Betreiber": "Onyx Power",
+				"Blockname": "Kraftwerk Wilhelmshaven",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "731",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 53.57383224,
+				"Longitude": 8.136168508000001
+			},
+			"geometry": { "type": "Point", "coordinates": [8.136168508, 53.57383224] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 35,
+				"Betreiber": "Wärme Hamburg GmbH",
+				"Blockname": "Heizkraftwerk Wedel",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "250",
+				"Stilllegung": "",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 53.56708442,
+				"Longitude": 9.725750057000001
+			},
+			"geometry": { "type": "Point", "coordinates": [9.725750057, 53.56708442] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 36,
+				"Betreiber": "Pruna Betreiber GmbH",
+				"Blockname": "Kokerei, Werk Schwelgern",
+				"CO2 [t] im Jahr 2016": "2050000",
+				"Nettonennleistung [MWel]": "",
+				"Stilllegung": "Stahlproduktion",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 51.50185319,
+				"Longitude": 6.728017281
+			},
+			"geometry": { "type": "Point", "coordinates": [6.728017281, 51.50185319] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 37,
+				"Betreiber": "",
+				"Blockname": "",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "",
+				"Stilllegung": "",
+				"Brennstoff": "",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 38,
+				"Betreiber": "stillgelegt",
+				"Blockname": "",
+				"CO2 [t] im Jahr 2016": "",
+				"Nettonennleistung [MWel]": "",
+				"Stilllegung": "",
+				"Brennstoff": "",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 39,
+				"Betreiber": "Vattenfall Heizkraftwerk Moorburg GmbH",
+				"Blockname": "Kohlekraftwerk Moorburg",
+				"CO2 [t] im Jahr 2016": "5.550.000",
+				"Nettonennleistung [MWel]": "1730",
+				"Stilllegung": "01.07.2021",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 40,
+				"Betreiber": "STEAG",
+				"Blockname": "Kraftwerk Voerde",
+				"CO2 [t] im Jahr 2016": "4.560.000",
+				"Nettonennleistung [MWel]": "",
+				"Stilllegung": "31.03.2017",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 41,
+				"Betreiber": "RWE",
+				"Blockname": "Kraftwerk Ibbenbüren",
+				"CO2 [t] im Jahr 2016": "3.920.000",
+				"Nettonennleistung [MWel]": "",
+				"Stilllegung": "2021",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 42,
+				"Betreiber": "RWE",
+				"Blockname": "Kraftwerk Werne",
+				"CO2 [t] im Jahr 2016": "2.950.000",
+				"Nettonennleistung [MWel]": "1397",
+				"Stilllegung": "29.03.2019",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 43,
+				"Betreiber": "Uniper",
+				"Blockname": "Kraftwerk Wilhelmshaven",
+				"CO2 [t] im Jahr 2016": "2.810.000",
+				"Nettonennleistung [MWel]": "757",
+				"Stilllegung": "2021",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 44,
+				"Betreiber": "VW AG",
+				"Blockname": "Kraftwerk Wolfsburg",
+				"CO2 [t] im Jahr 2016": "2.600.000",
+				"Nettonennleistung [MWel]": "",
+				"Stilllegung": "gas",
+				"Brennstoff": "Steinkohle",
+				"Latitude": 0.0,
+				"Longitude": 0.0
+			},
+			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 45,
+				"Betreiber": "RWE Power",
+				"Blockname": "Niederaußem D",
+				"Nettonennleistung [MWel]": "297",
+				"Stilllegung": "2020/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.99049642,
+				"Longitude": 6.667486103
+			},
+			"geometry": { "type": "Point", "coordinates": [6.667486103, 50.99049642] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 46,
+				"Betreiber": "RWE Power",
+				"Blockname": "Niederaußem C",
+				"Nettonennleistung [MWel]": "295",
+				"Stilllegung": "2021/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.99049642,
+				"Longitude": 6.667486103
+			},
+			"geometry": { "type": "Point", "coordinates": [6.667486103, 50.99049642] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 47,
+				"Betreiber": "RWE Power",
+				"Blockname": "Niederaußem G oder H",
+				"Nettonennleistung [MWel]": "628 oder 648",
+				"Stilllegung": "2029/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.99049642,
+				"Longitude": 6.667486103
+			},
+			"geometry": { "type": "Point", "coordinates": [6.667486103, 50.99049642] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 48,
+				"Betreiber": "RWE Power",
+				"Blockname": "Niederaußem G oder H",
+				"Nettonennleistung [MWel]": "628 oder 648",
+				"Stilllegung": "2030/03/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.99049642,
+				"Longitude": 6.667486103
+			},
+			"geometry": { "type": "Point", "coordinates": [6.667486103, 50.99049642] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 49,
+				"Betreiber": "RWE Power",
+				"Blockname": "Niederaußem E",
+				"Nettonennleistung [MWel]": "295",
+				"Stilllegung": "2023/06/30",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.99049642,
+				"Longitude": 6.667486103
+			},
+			"geometry": { "type": "Point", "coordinates": [6.667486103, 50.99049642] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 50,
+				"Betreiber": "RWE Power",
+				"Blockname": "Niederaußem F",
+				"Nettonennleistung [MWel]": "299",
+				"Stilllegung": "2023/06/30",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.99049642,
+				"Longitude": 6.667486103
+			},
+			"geometry": { "type": "Point", "coordinates": [6.667486103, 50.99049642] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 51,
+				"Betreiber": "RWE Power",
+				"Blockname": "Niederaußem K (BoA 1)",
+				"Nettonennleistung [MWel]": "944",
+				"Stilllegung": "2030/03/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.99049642,
+				"Longitude": 6.667486103
+			},
+			"geometry": { "type": "Point", "coordinates": [6.667486103, 50.99049642] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 52,
+				"Betreiber": "RWE Power",
+				"Blockname": "Neurath A",
+				"Nettonennleistung [MWel]": "294",
+				"Stilllegung": "2022/04/01",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.03642775,
+				"Longitude": 6.614601146
+			},
+			"geometry": { "type": "Point", "coordinates": [6.614601146, 51.03642775] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 53,
+				"Betreiber": "RWE Power",
+				"Blockname": "Neurath B",
+				"Nettonennleistung [MWel]": "294",
+				"Stilllegung": "2021/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.03642775,
+				"Longitude": 6.614601146
+			},
+			"geometry": { "type": "Point", "coordinates": [6.614601146, 51.03642775] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 54,
+				"Betreiber": "RWE Power",
+				"Blockname": "Neurath C",
+				"Nettonennleistung [MWel]": "292",
+				"Stilllegung": "2023/06/30",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.03642775,
+				"Longitude": 6.614601146
+			},
+			"geometry": { "type": "Point", "coordinates": [6.614601146, 51.03642775] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 55,
+				"Betreiber": "RWE Power",
+				"Blockname": "Neurath D und E",
+				"Nettonennleistung [MWel]": "607 und 604",
+				"Stilllegung": "2024/03/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.03642775,
+				"Longitude": 6.614601146
+			},
+			"geometry": { "type": "Point", "coordinates": [6.614601146, 51.03642775] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 56,
+				"Betreiber": "RWE Power",
+				"Blockname": "Neurath F (BoA 2)",
+				"Nettonennleistung [MWel]": "1060",
+				"Stilllegung": "2030/03/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.03642775,
+				"Longitude": 6.614601146
+			},
+			"geometry": { "type": "Point", "coordinates": [6.614601146, 51.03642775] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 57,
+				"Betreiber": "RWE Power",
+				"Blockname": "Neurath G (BoA 3)",
+				"Nettonennleistung [MWel]": "1060",
+				"Stilllegung": "2030/03/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.03642775,
+				"Longitude": 6.614601146
+			},
+			"geometry": { "type": "Point", "coordinates": [6.614601146, 51.03642775] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 58,
+				"Betreiber": "RWE Power",
+				"Blockname": "Weisweiler F oder E",
+				"Nettonennleistung [MWel]": "321",
+				"Stilllegung": "2025/01/01",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.83617267,
+				"Longitude": 6.317959537
+			},
+			"geometry": { "type": "Point", "coordinates": [6.317959537, 50.83617267] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 59,
+				"Betreiber": "RWE Power",
+				"Blockname": "Weisweiler E oder F",
+				"Nettonennleistung [MWel]": "321",
+				"Stilllegung": "2021/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.83617267,
+				"Longitude": 6.317959537
+			},
+			"geometry": { "type": "Point", "coordinates": [6.317959537, 50.83617267] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 60,
+				"Betreiber": "RWE Power",
+				"Blockname": "Weisweiler G oder H",
+				"Nettonennleistung [MWel]": "663 oder 656",
+				"Stilllegung": "2028/04/01",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.83617267,
+				"Longitude": 6.317959537
+			},
+			"geometry": { "type": "Point", "coordinates": [6.317959537, 50.83617267] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 61,
+				"Betreiber": "RWE Power",
+				"Blockname": "Weisweiler G oder H",
+				"Nettonennleistung [MWel]": "663 oder 656",
+				"Stilllegung": "2029/04/01",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.83617267,
+				"Longitude": 6.317959537
+			},
+			"geometry": { "type": "Point", "coordinates": [6.317959537, 50.83617267] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 62,
+				"Betreiber": "RWE Power",
+				"Blockname": "Frechen / Wachtberg (Brikettierung)",
+				"Nettonennleistung [MWel]": "120 (von 176)",
+				"Stilllegung": "2022/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 50.89896264,
+				"Longitude": 6.797536058
+			},
+			"geometry": { "type": "Point", "coordinates": [6.797536058, 50.89896264] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 63,
+				"Betreiber": "LEAG KW",
+				"Blockname": "Jänschwalde A",
+				"Nettonennleistung [MWel]": "465",
+				"Stilllegung": "2028/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.83395547,
+				"Longitude": 14.45762646
+			},
+			"geometry": { "type": "Point", "coordinates": [14.45762646, 51.83395547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 64,
+				"Betreiber": "LEAG KW",
+				"Blockname": "Jänschwalde B",
+				"Nettonennleistung [MWel]": "465",
+				"Stilllegung": "2028/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.83395547,
+				"Longitude": 14.45762646
+			},
+			"geometry": { "type": "Point", "coordinates": [14.45762646, 51.83395547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 65,
+				"Betreiber": "LEAG KW",
+				"Blockname": "Jänschwalde C und D",
+				"Nettonennleistung [MWel]": "2 x 465",
+				"Stilllegung": "2028/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.83395547,
+				"Longitude": 14.45762646
+			},
+			"geometry": { "type": "Point", "coordinates": [14.45762646, 51.83395547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 66,
+				"Betreiber": "LEAG",
+				"Blockname": "Jänschwalde E",
+				"Nettonennleistung [MWel]": "465",
+				"Stilllegung": "2023/06/30",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.83395547,
+				"Longitude": 14.45762646
+			},
+			"geometry": { "type": "Point", "coordinates": [14.45762646, 51.83395547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 67,
+				"Betreiber": "LEAG",
+				"Blockname": "Jänschwalde F",
+				"Nettonennleistung [MWel]": "465",
+				"Stilllegung": "2023/06/30",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.83395547,
+				"Longitude": 14.45762646
+			},
+			"geometry": { "type": "Point", "coordinates": [14.45762646, 51.83395547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 68,
+				"Betreiber": "LEAG KW",
+				"Blockname": "Boxberg N und P",
+				"Nettonennleistung [MWel]": "2 x 465",
+				"Stilllegung": "2029/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.41858547,
+				"Longitude": 14.57978285
+			},
+			"geometry": { "type": "Point", "coordinates": [14.57978285, 51.41858547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 69,
+				"Betreiber": "LEAG",
+				"Blockname": "Boxberg Q",
+				"Nettonennleistung [MWel]": "857",
+				"Stilllegung": "2038/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.41858547,
+				"Longitude": 14.57978285
+			},
+			"geometry": { "type": "Point", "coordinates": [14.57978285, 51.41858547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 70,
+				"Betreiber": "LEAG",
+				"Blockname": "Boxberg R",
+				"Nettonennleistung [MWel]": "640",
+				"Stilllegung": "2038/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.41858547,
+				"Longitude": 14.57978285
+			},
+			"geometry": { "type": "Point", "coordinates": [14.57978285, 51.41858547] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 71,
+				"Betreiber": "Saale Energie (Tochter Uniper)",
+				"Blockname": "Schkopau A und B",
+				"Nettonennleistung [MWel]": "2 x 450",
+				"Stilllegung": "2034/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.40081978,
+				"Longitude": 11.95019064
+			},
+			"geometry": { "type": "Point", "coordinates": [11.95019064, 51.40081978] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 72,
+				"Betreiber": "MIBRAG",
+				"Blockname": "Buschhaus",
+				"Nettonennleistung [MWel]": "392",
+				"Stilllegung": "2020/10/01",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 52.17098659,
+				"Longitude": 10.97727367
+			},
+			"geometry": { "type": "Point", "coordinates": [10.97727367, 52.17098659] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 73,
+				"Betreiber": "RWE Power",
+				"Blockname": "Frimmersdorf P",
+				"Nettonennleistung [MWel]": "284",
+				"Stilllegung": "2021/10/01",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.05434698,
+				"Longitude": 6.580576535
+			},
+			"geometry": { "type": "Point", "coordinates": [6.580576535, 51.05434698] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 74,
+				"Betreiber": "RWE Power",
+				"Blockname": "Frimmersdorf Q",
+				"Nettonennleistung [MWel]": "278",
+				"Stilllegung": "2021/10/01",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.05434698,
+				"Longitude": 6.580576535
+			},
+			"geometry": { "type": "Point", "coordinates": [6.580576535, 51.05434698] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 75,
+				"Betreiber": "LEAG",
+				"Blockname": "Lippendorf R",
+				"Nettonennleistung [MWel]": "875",
+				"Stilllegung": "2035/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.18082548,
+				"Longitude": 12.37378293
+			},
+			"geometry": { "type": "Point", "coordinates": [12.37378293, 51.18082548] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 76,
+				"Betreiber": "EnBW",
+				"Blockname": "Lippendorf S",
+				"Nettonennleistung [MWel]": "875",
+				"Stilllegung": "2035/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.18082548,
+				"Longitude": 12.37378293
+			},
+			"geometry": { "type": "Point", "coordinates": [12.37378293, 51.18082548] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 77,
+				"Betreiber": "LEAG",
+				"Blockname": "Schwarze Pumpe A",
+				"Nettonennleistung [MWel]": "750",
+				"Stilllegung": "2038/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.53435022,
+				"Longitude": 14.35064674
+			},
+			"geometry": { "type": "Point", "coordinates": [14.35064674, 51.53435022] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 78,
+				"Betreiber": "LEAG",
+				"Blockname": "Schwarze Pumpe B",
+				"Nettonennleistung [MWel]": "750",
+				"Stilllegung": "2038/12/31",
+				"Brennstoff": "Braunkohle",
+				"Latitude": 51.53435022,
+				"Longitude": 14.35064674
+			},
+			"geometry": { "type": "Point", "coordinates": [14.35064674, 51.53435022] }
+		}
+	]
+}
