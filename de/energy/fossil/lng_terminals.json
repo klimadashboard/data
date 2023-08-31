@@ -9,6 +9,7 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 0,
 				"data_key": "BRUNSBUETTEL HAFEN (FSRU) (DE)",
 				"name": "",
 				"place": "Brunsbüttel",
@@ -20,15 +21,14 @@
 				"runtime": "4",
 				"german_government_participation": "TRUE",
 				"note": "für 10 Jahre gechartet",
-				"already_in_use": "TRUE",
-				"latitude": 53.8887425,
-				"longitude": 9.175992391
+				"already_in_use": "TRUE"
 			},
 			"geometry": { "type": "Point", "coordinates": [9.175992391, 53.8887425] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 1,
 				"data_key": "Wilhelmshaven, LNG-Terminal 1 (DE)",
 				"name": "FSRU Hoegh Esperanza",
 				"place": "Wilhelmshaven",
@@ -40,15 +40,14 @@
 				"runtime": "10",
 				"german_government_participation": "TRUE",
 				"note": "Antrag auf unbefristenden Betrieb",
-				"already_in_use": "TRUE",
-				"latitude": 53.6413835,
-				"longitude": 8.1096817
+				"already_in_use": "TRUE"
 			},
 			"geometry": { "type": "Point", "coordinates": [8.1096817, 53.6413835] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 2,
 				"data_key": "Baltic Energy Gate (Port) (DE)",
 				"name": "Neptune",
 				"place": "Lubmin",
@@ -60,15 +59,14 @@
 				"runtime": "5",
 				"german_government_participation": "FALSE",
 				"note": "Antrag auf unbefristenden Betrieb",
-				"already_in_use": "TRUE",
-				"latitude": 54.1486467,
-				"longitude": 13.670888
+				"already_in_use": "TRUE"
 			},
 			"geometry": { "type": "Point", "coordinates": [13.670888, 54.1486467] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 3,
 				"data_key": "",
 				"name": "",
 				"place": "Wilhelmshaven",
@@ -87,6 +85,7 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 4,
 				"data_key": "",
 				"name": "",
 				"place": "Lubmin",
@@ -98,15 +97,14 @@
 				"runtime": "15",
 				"german_government_participation": "TRUE",
 				"note": "",
-				"already_in_use": "FALSE",
-				"latitude": 54.1486467,
-				"longitude": 13.670888
+				"already_in_use": "FALSE"
 			},
-			"geometry": { "type": "Point", "coordinates": [13.670888, 54.1486467] }
+			"geometry": { "type": "Point", "coordinates": [13.720888, 54.1486467] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 5,
 				"data_key": "",
 				"name": "",
 				"place": "Lubmin",
@@ -118,15 +116,14 @@
 				"runtime": "5",
 				"german_government_participation": "FALSE",
 				"note": "Charterzeit unbekannt, konservative Annahme",
-				"already_in_use": "FALSE",
-				"latitude": 54.1486467,
-				"longitude": 13.670888
+				"already_in_use": "FALSE"
 			},
-			"geometry": { "type": "Point", "coordinates": [13.670888, 54.1486467] }
+			"geometry": { "type": "Point", "coordinates": [13.670888, 54.2086467] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 6,
 				"data_key": "",
 				"name": "",
 				"place": "Stade",
@@ -138,15 +135,14 @@
 				"runtime": "3",
 				"german_government_participation": "TRUE",
 				"note": "Für 15 Jahr gechartert",
-				"already_in_use": "FALSE",
-				"latitude": 53.648811,
-				"longitude": 9.50557169
+				"already_in_use": "FALSE"
 			},
 			"geometry": { "type": "Point", "coordinates": [9.50557169, 53.648811] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 7,
 				"data_key": "",
 				"name": "",
 				"place": "Wilhelmshaven",
@@ -158,15 +154,14 @@
 				"runtime": "20",
 				"german_government_participation": "FALSE",
 				"note": "bis zu 5 Millionen Tonnen grüner Wasserstoff pro Jahr bis 2045",
-				"already_in_use": "FALSE",
-				"latitude": 53.516667,
-				"longitude": 8.133333
+				"already_in_use": "FALSE"
 			},
 			"geometry": { "type": "Point", "coordinates": [8.133333, 53.516667] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 8,
 				"data_key": "",
 				"name": "",
 				"place": "Brunsbüttel",
@@ -178,15 +173,14 @@
 				"runtime": "20",
 				"german_government_participation": "TRUE",
 				"note": "",
-				"already_in_use": "FALSE",
-				"latitude": 53.8887425,
-				"longitude": 9.17599239
+				"already_in_use": "FALSE"
 			},
-			"geometry": { "type": "Point", "coordinates": [9.17599239, 53.8887425] }
+			"geometry": { "type": "Point", "coordinates": [9.20599239, 53.8887425] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 9,
 				"data_key": "",
 				"name": "",
 				"place": "Stade",
@@ -198,15 +192,14 @@
 				"runtime": "20",
 				"german_government_participation": "TRUE",
 				"note": "",
-				"already_in_use": "FALSE",
-				"latitude": 53.648811,
-				"longitude": 9.50557169
+				"already_in_use": "FALSE"
 			},
 			"geometry": { "type": "Point", "coordinates": [9.50557169, 53.648811] }
 		},
 		{
 			"type": "Feature",
 			"properties": {
+				"id": 10,
 				"data_key": "",
 				"name": "",
 				"place": "Mukran (Rügen)",
@@ -218,9 +211,7 @@
 				"runtime": "",
 				"german_government_participation": "FALSE",
 				"note": "zusätzliche Pipeline geplant",
-				"already_in_use": "FALSE",
-				"latitude": 54.486179,
-				"longitude": 13.5898744
+				"already_in_use": "FALSE"
 			},
 			"geometry": { "type": "Point", "coordinates": [13.5898744, 54.486179] }
 		}
