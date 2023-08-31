@@ -1,0 +1,228 @@
+{
+	"type": "FeatureCollection",
+	"name": "02b_LNG_terminals_-_Sheet1-2",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "BRUNSBUETTEL HAFEN (FSRU) (DE)",
+				"name": "",
+				"place": "Brunsbüttel",
+				"type": "floating",
+				"operator": "RWE",
+				"completion": "2022",
+				"min_capacity": "5",
+				"max_capacity": "5",
+				"runtime": "4",
+				"german_government_participation": "TRUE",
+				"note": "für 10 Jahre gechartet",
+				"already_in_use": "TRUE",
+				"latitude": 53.8887425,
+				"longitude": 9.175992391
+			},
+			"geometry": { "type": "Point", "coordinates": [9.175992391, 53.8887425] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "Wilhelmshaven, LNG-Terminal 1 (DE)",
+				"name": "FSRU Hoegh Esperanza",
+				"place": "Wilhelmshaven",
+				"type": "floating",
+				"operator": "Uniper",
+				"completion": "2022",
+				"min_capacity": "5",
+				"max_capacity": "7,5",
+				"runtime": "10",
+				"german_government_participation": "TRUE",
+				"note": "Antrag auf unbefristenden Betrieb",
+				"already_in_use": "TRUE",
+				"latitude": 53.6413835,
+				"longitude": 8.1096817
+			},
+			"geometry": { "type": "Point", "coordinates": [8.1096817, 53.6413835] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "Baltic Energy Gate (Port) (DE)",
+				"name": "Neptune",
+				"place": "Lubmin",
+				"type": "floating",
+				"operator": "Deutsche ReGas",
+				"completion": "2022",
+				"min_capacity": "4,5",
+				"max_capacity": "6,5",
+				"runtime": "5",
+				"german_government_participation": "FALSE",
+				"note": "Antrag auf unbefristenden Betrieb",
+				"already_in_use": "TRUE",
+				"latitude": 54.1486467,
+				"longitude": 13.670888
+			},
+			"geometry": { "type": "Point", "coordinates": [13.670888, 54.1486467] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Wilhelmshaven",
+				"type": "floating",
+				"operator": "Tree Energy Solutions",
+				"completion": "2023",
+				"min_capacity": "5",
+				"max_capacity": "5",
+				"runtime": "2",
+				"german_government_participation": "TRUE",
+				"note": "Für 5 Jahre gechartert",
+				"already_in_use": "FALSE"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.296817, 53.6413835] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Lubmin",
+				"type": "floating",
+				"operator": "RWE/Stena Power",
+				"completion": "2023",
+				"min_capacity": "5",
+				"max_capacity": "7",
+				"runtime": "15",
+				"german_government_participation": "TRUE",
+				"note": "",
+				"already_in_use": "FALSE",
+				"latitude": 54.1486467,
+				"longitude": 13.670888
+			},
+			"geometry": { "type": "Point", "coordinates": [13.670888, 54.1486467] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Lubmin",
+				"type": "floating",
+				"operator": "Deutsche ReGas",
+				"completion": "2023",
+				"min_capacity": "7",
+				"max_capacity": "9",
+				"runtime": "5",
+				"german_government_participation": "FALSE",
+				"note": "Charterzeit unbekannt, konservative Annahme",
+				"already_in_use": "FALSE",
+				"latitude": 54.1486467,
+				"longitude": 13.670888
+			},
+			"geometry": { "type": "Point", "coordinates": [13.670888, 54.1486467] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Stade",
+				"type": "floating",
+				"operator": "Hanseatic Energy Hub",
+				"completion": "2023",
+				"min_capacity": "5",
+				"max_capacity": "5",
+				"runtime": "3",
+				"german_government_participation": "TRUE",
+				"note": "Für 15 Jahr gechartert",
+				"already_in_use": "FALSE",
+				"latitude": 53.648811,
+				"longitude": 9.50557169
+			},
+			"geometry": { "type": "Point", "coordinates": [9.50557169, 53.648811] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Wilhelmshaven",
+				"type": "static",
+				"operator": "Tree Energy Solutions",
+				"completion": "2025",
+				"min_capacity": "20",
+				"max_capacity": "25",
+				"runtime": "20",
+				"german_government_participation": "FALSE",
+				"note": "bis zu 5 Millionen Tonnen grüner Wasserstoff pro Jahr bis 2045",
+				"already_in_use": "FALSE",
+				"latitude": 53.516667,
+				"longitude": 8.133333
+			},
+			"geometry": { "type": "Point", "coordinates": [8.133333, 53.516667] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Brunsbüttel",
+				"type": "static",
+				"operator": "RWE/Gasunie",
+				"completion": "2026",
+				"min_capacity": "8",
+				"max_capacity": "8",
+				"runtime": "20",
+				"german_government_participation": "TRUE",
+				"note": "",
+				"already_in_use": "FALSE",
+				"latitude": 53.8887425,
+				"longitude": 9.17599239
+			},
+			"geometry": { "type": "Point", "coordinates": [9.17599239, 53.8887425] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Stade",
+				"type": "static",
+				"operator": "Hanseatic Energy Hub",
+				"completion": "2027",
+				"min_capacity": "13",
+				"max_capacity": "13",
+				"runtime": "20",
+				"german_government_participation": "TRUE",
+				"note": "",
+				"already_in_use": "FALSE",
+				"latitude": 53.648811,
+				"longitude": 9.50557169
+			},
+			"geometry": { "type": "Point", "coordinates": [9.50557169, 53.648811] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"data_key": "",
+				"name": "",
+				"place": "Mukran (Rügen)",
+				"type": "floating",
+				"operator": "Deutsche ReGas",
+				"completion": "",
+				"min_capacity": "7,5",
+				"max_capacity": "7,5",
+				"runtime": "",
+				"german_government_participation": "FALSE",
+				"note": "zusätzliche Pipeline geplant",
+				"already_in_use": "FALSE",
+				"latitude": 54.486179,
+				"longitude": 13.5898744
+			},
+			"geometry": { "type": "Point", "coordinates": [13.5898744, 54.486179] }
+		}
+	]
+}
