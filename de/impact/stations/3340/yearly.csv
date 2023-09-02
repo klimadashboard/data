@@ -40,3 +40,4 @@ year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,fr
 2019,10.12,847.9,15,48,0,70,5
 2020,10.68,721.2,14,51,0,48,2
 2021,9.18,854.2,4,30,0,83,8
+2023,-999.0,-999.0,0,0,0,120,120
