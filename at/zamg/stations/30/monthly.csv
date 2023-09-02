@@ -438,7 +438,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1937-5;15.97;0;3;0;0
 1937-6;18.64;0;13;0;0
 1937-7;19.16;0;12;0;0
-1937-8;18.46;0;9;0;0
+1937-8;null;null;null;null;null
 1937-9;14.83;0;0;0;0
 1937-10;10.21;0;0;0;0
 1937-11;3.97;0;0;0;0
