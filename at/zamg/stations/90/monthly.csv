@@ -370,7 +370,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1992-9;15.41;0;9;0;0
 1992-10;8.05;0;0;0;0
 1992-11;3.44;0;0;0;1
-1992-12;10.05;676;2385;3;666
+1992-12;10.06;676;2385;3;666
 1993-1;null;null;null;null;null
 1993-2;null;null;null;null;null
 1993-3;null;null;null;null;null
@@ -738,7 +738,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2023-5;14.94;0;9;0;0
 2023-6;19.33;4;17;0;0
 2023-7;21.27;7;21;0;0
-2023-8;null;11;19;0;0
+2023-8;20.58;11;19;0;0
 2023-9;null;null;null;null;null
 2023-10;null;null;null;null;null
 2023-11;null;null;null;null;null
