@@ -35,7 +35,7 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1934;10.48;7;61;0;15
 1935;9.26;10;62;2;33
 1936;9.58;6;38;0;18
-1937;9.94;7;54;1;20
+1937;null;null;null;null;null
 1938;9.56;9;53;0;23
 1939;8.13;1;37;0;34
 1940;6.72;1;26;0;64
