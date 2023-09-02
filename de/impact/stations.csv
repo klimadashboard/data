@@ -58,7 +58,6 @@ id,name,Bundesland,height,latitude,longitude
 1327,Weilerswist-Lommersum,Nordrhein-Westfalen,147,50.7119,6.7905
 1346,Feldberg/Schwarzwald,Baden-Württemberg,1486,47.8748,8.0038
 1357,Fichtelberg/Oberfranken-Hüttstadl,Bayern,655,49.9807,11.8376
-1358,Fichtelberg,Sachsen,1213,50.4283,12.9536
 1411,Birx/Rhön,Thüringen,747,50.5309,10.0479
 1420,Frankfurt/Main,Hessen,100,50.0259,8.5213
 1443,Freiburg,Baden-Württemberg,237,48.0232,7.8343
@@ -77,11 +76,9 @@ id,name,Bundesland,height,latitude,longitude
 1694,Goldberg,Mecklenburg-Vorpommern,59,53.6058,12.1034
 1736,Grambek,Schleswig-Holstein,26,53.5731,10.6797
 1757,Greifswald,Mecklenburg-Vorpommern,2,54.0967,13.4056
-1759,Greifswalder Oie,Mecklenburg-Vorpommern,12,54.2437,13.9102
 1964,Olsdorf,Rheinland-Pfalz,328,49.9445,6.3821
 1975,Hamburg-Fuhlsbüttel,Hamburg,11,53.6332,9.9881
 2014,Hannover,Niedersachsen,55,52.4644,9.6779
-2039,"Harzburg, Bad",Niedersachsen,203,51.9002,10.5699
 2044,Harzgerode,Sachsen-Anhalt,404,51.652,11.1366
 2074,Hechingen,Baden-Württemberg,518,48.3752,8.98
 2115,Helgoland,Schleswig-Holstein,4,54.175,7.892
@@ -106,7 +103,6 @@ id,name,Bundesland,height,latitude,longitude
 2638,Klippeneck,Baden-Württemberg,974,48.1054,8.7548
 2667,Köln-Bonn,Nordrhein-Westfalen,92,50.8645,7.1575
 2680,"Königshofen, Bad",Bayern,289,50.284,10.4456
-2704,Köthen (Anhalt),Sachsen-Anhalt,76,51.7511,12.0094
 2712,Konstanz,Baden-Württemberg,428,47.6952,9.1307
 2750,Kronach,Bayern,310,50.2524,11.3209
 2794,Kyritz,Brandenburg,40,52.9362,12.4093
@@ -154,7 +150,6 @@ id,name,Bundesland,height,latitude,longitude
 3939,Pirmasens,Rheinland-Pfalz,385,49.1912,7.5879
 3946,Plauen,Sachsen,387,50.4818,12.13
 3987,Potsdam,Brandenburg,81,52.3812,13.0622
-4024,Putbus,Mecklenburg-Vorpommern,40,54.3643,13.4771
 4032,Quedlinburg,Sachsen-Anhalt,142,51.7953,11.132
 4036,Querfurt-Mühle Lodersleben,Sachsen-Anhalt,204,51.3895,11.5412
 4063,Rahden-Kleinendorf,Nordrhein-Westfalen,41,52.4461,8.5906
@@ -218,7 +213,6 @@ id,name,Bundesland,height,latitude,longitude
 5745,Zehdenick,Brandenburg,51,52.9663,13.3268
 5750,Zeitz,Sachsen-Anhalt,264,51.0314,12.1495
 5792,Zugspitze,Bayern,2956,47.421,10.9848
-5797,Lichtentanne,Sachsen,349,50.6879,12.4329
 5825,Berge,Brandenburg,40,52.6198,12.7867
 5906,Mannheim,Baden-Württemberg,98,49.5063,8.5584
 5941,Reit im Winkl,Bayern,686,47.6754,12.4698
