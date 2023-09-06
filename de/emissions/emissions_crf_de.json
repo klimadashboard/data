@@ -601,7 +601,7 @@
                     "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
-                    "label": "Mineralische Industrie",
+                    "label": "Herstellung mineralischer Produkte",
                     "code": "2 A",
                     "key": "industry",
                     "absolute": [
@@ -681,7 +681,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
                 },
                 {
-                    "label": "Metallproduktion",
+                    "label": "Herstellung von Metallen",
                     "code": "2 C",
                     "key": "industry",
                     "absolute": [
@@ -887,42 +887,42 @@
             "label": "Verkehr",
             "key": "traffic",
             "absolute": [
-                175.22070695371403,
-                174.75754223536097,
-                178.57345980956,
-                181.62050711842,
-                177.19140050449698,
-                180.06059564834598,
-                178.77637158528603,
-                179.090609303507,
-                182.37801993337902,
-                187.05020705512,
-                182.82987605525398,
-                178.54209436686298,
-                176.07212826613898,
-                169.76056784854302,
-                169.06362233653002,
-                161.08954853854,
-                156.96861513601,
-                153.84331203379,
-                153.50264279437002,
-                152.91831540611,
-                153.97039304914,
-                155.9654494451,
-                154.27359664289003,
-                158.44960596144003,
-                159.56457303437998,
-                162.48532149502,
-                165.61990216249998,
-                168.24246553045998,
-                162.55534970903,
-                164.54574043787997,
-                146.14099965865,
-                147.76712542613
+                163.088987781664,
+                166.10592258826097,
+                172.00847522626,
+                176.36856291593,
+                172.360194623277,
+                176.03799900622602,
+                175.63010953995604,
+                176.05205930647696,
+                179.32935181505897,
+                184.44802856199001,
+                180.49832514244403,
+                176.631593537053,
+                174.12512993566898,
+                167.793042215023,
+                167.38007524094,
+                159.37556808181,
+                155.41207790578002,
+                152.54993256775998,
+                152.18403500021003,
+                151.57206688225997,
+                152.67047604878996,
+                154.75989268693,
+                153.28084321801998,
+                157.41890776878,
+                158.59316153582,
+                161.51453472564998,
+                164.61764081652004,
+                167.42528413230997,
+                161.82802512645998,
+                163.65284931462,
+                145.39377570169998,
+                146.78085389802
             ],
             "sectors": [
                 {
-                    "label": "Inl\u00e4ndische Luffahrt",
+                    "label": "nationaler Luftverkehr",
                     "code": "1 A 3 a",
                     "key": "traffic",
                     "absolute": [
@@ -1162,7 +1162,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
                 },
                 {
-                    "label": "Inl\u00e4ndische Schifffahrt",
+                    "label": "Inl\u00e4ndische K\u00fcsten- & Binnenschifffahrt",
                     "code": "1 A 3 d",
                     "key": "traffic",
                     "absolute": [
@@ -1240,46 +1240,6 @@
                         0.0
                     ],
                     "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf deutschen Flugh\u00e4fen."
-                },
-                {
-                    "label": "Andere Bereiche",
-                    "code": "1 A 5",
-                    "key": "traffic",
-                    "absolute": [
-                        12.13171917205,
-                        8.6516196471,
-                        6.564984583299999,
-                        5.25194420249,
-                        4.83120588122,
-                        4.02259664212,
-                        3.1462620453300003,
-                        3.03854999703,
-                        3.0486681183199997,
-                        2.6021784931300003,
-                        2.3315509128099996,
-                        1.9105008298100001,
-                        1.94699833047,
-                        1.9675256335200002,
-                        1.68354709559,
-                        1.71398045673,
-                        1.55653723023,
-                        1.2933794660300002,
-                        1.31860779416,
-                        1.3462485238500002,
-                        1.29991700035,
-                        1.20555675817,
-                        0.9927534248699998,
-                        1.0306981926599998,
-                        0.9714114985600001,
-                        0.9707867693699999,
-                        1.00226134598,
-                        0.8171813981499999,
-                        0.7273245825700001,
-                        0.89289112326,
-                        0.74722395695,
-                        0.9862715281100001
-                    ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -1288,42 +1248,42 @@
             "label": "Geb\u00e4ude",
             "key": "buildings",
             "absolute": [
-                197.98131451540002,
-                199.8764973137,
-                183.9166508122,
-                191.9499665432,
-                181.6061302302,
-                183.88607302890003,
-                207.98722916490001,
-                194.8597202031,
-                186.7093570398,
-                170.4510568164,
-                164.69398868339997,
-                185.40305929636,
-                172.36765098465997,
-                165.00162887612,
-                154.68331803826,
-                152.2362274029,
-                160.73867039408,
-                124.79381852738001,
-                150.44658787038003,
-                137.72349918401997,
-                147.02729765639998,
-                126.0912031626,
-                129.19417457748,
-                138.72710547036,
-                117.34361590702,
-                123.11416285820002,
-                123.59685107380001,
-                121.58080408979998,
-                115.41257884199,
-                120.52259371589001,
-                122.44418154576,
-                117.03978130215
+                210.11303368745,
+                208.52811696080002,
+                190.4816353955,
+                197.20191074569,
+                186.43733611142,
+                187.90866967102,
+                211.13349121023,
+                197.89827020013,
+                189.75802515812,
+                173.05323530952998,
+                167.02553959620997,
+                187.31356012617002,
+                174.31464931512997,
+                166.96915450964,
+                156.36686513384998,
+                153.95020785963004,
+                162.29520762431,
+                126.08719799341003,
+                151.76519566454,
+                139.06974770786996,
+                148.32721465674996,
+                127.29675992077,
+                130.18692800235,
+                139.75780366301998,
+                118.31502740558001,
+                124.08494962757,
+                124.59911241978,
+                122.39798548795001,
+                116.13990342455999,
+                121.41548483915001,
+                123.19140550270998,
+                118.02605283026
             ],
             "sectors": [
                 {
-                    "label": "Gewerblich/Institutionell",
+                    "label": "Gewerbe, Handel, Dienstleistung (ohne Milit\u00e4r und Landwirtschaft)",
                     "code": "1 A 4 a",
                     "key": "buildings",
                     "absolute": [
@@ -1363,7 +1323,7 @@
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
-                    "label": "Wohnen",
+                    "label": "Haushalte",
                     "code": "1 A 4 b",
                     "key": "buildings",
                     "absolute": [
@@ -1401,6 +1361,46 @@
                         83.54387526790002
                     ],
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                },
+                {
+                    "label": "Milit\u00e4r",
+                    "code": "1 A 5",
+                    "key": "buildings",
+                    "absolute": [
+                        12.13171917205,
+                        8.6516196471,
+                        6.564984583299999,
+                        5.25194420249,
+                        4.83120588122,
+                        4.02259664212,
+                        3.1462620453300003,
+                        3.03854999703,
+                        3.0486681183199997,
+                        2.6021784931300003,
+                        2.3315509128099996,
+                        1.9105008298100001,
+                        1.94699833047,
+                        1.9675256335200002,
+                        1.68354709559,
+                        1.71398045673,
+                        1.55653723023,
+                        1.2933794660300002,
+                        1.31860779416,
+                        1.3462485238500002,
+                        1.29991700035,
+                        1.20555675817,
+                        0.9927534248699998,
+                        1.0306981926599998,
+                        0.9714114985600001,
+                        0.9707867693699999,
+                        1.00226134598,
+                        0.8171813981499999,
+                        0.7273245825700001,
+                        0.89289112326,
+                        0.74722395695,
+                        0.9862715281100001
+                    ],
+                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -1524,7 +1524,7 @@
                     "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
-                    "label": "D\u00fcnger-Management",
+                    "label": "D\u00fcngerwirtschaft",
                     "code": "3 B",
                     "key": "agriculture",
                     "absolute": [
@@ -1684,7 +1684,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
-                    "label": "Verwendung von Harnstoff",
+                    "label": "Harnstoffanwendung",
                     "code": "3 H",
                     "key": "agriculture",
                     "absolute": [
@@ -2046,7 +2046,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
                 },
                 {
-                    "label": "Biologische Abfallbehandlung",
+                    "label": "Biologische Abfallbehandlung von festen Abf\u00e4llen",
                     "code": "5 B",
                     "key": "waste",
                     "absolute": [
@@ -2770,7 +2770,7 @@
                     "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
-                    "label": "Mineralische Industrie",
+                    "label": "Herstellung mineralischer Produkte",
                     "code": "2 A",
                     "key": "industry",
                     "absolute": [
@@ -2850,7 +2850,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
                 },
                 {
-                    "label": "Metallproduktion",
+                    "label": "Herstellung von Metallen",
                     "code": "2 C",
                     "key": "industry",
                     "absolute": [
@@ -3056,42 +3056,42 @@
             "label": "Verkehr",
             "key": "traffic",
             "absolute": [
-                171.84707069700002,
-                171.73204568699998,
-                175.699894629,
-                178.85336441,
-                174.628705771,
-                177.515699795,
-                176.30907949800005,
-                176.722375151,
-                180.088520936,
-                184.838144546,
-                180.808774206,
-                176.63265095500003,
-                174.625374941,
-                168.429841849,
-                167.79165006000002,
-                159.923568671,
-                155.85210504399998,
-                152.72515768899999,
-                152.38070720200002,
-                151.770791994,
-                152.772248972,
-                154.70301216100003,
-                152.95864603670003,
-                157.068288566,
-                158.14942126019997,
-                160.9976765566,
-                164.04553903029998,
-                166.58412434339996,
-                160.898371075,
-                162.8389680308,
-                144.5371135708,
-                146.15124661570002
+                160.082449797,
+                163.31928172299996,
+                169.299199677,
+                173.715095451,
+                169.86776894300002,
+                173.532827876,
+                173.18938420200004,
+                173.70933657299997,
+                177.06443345,
+                182.255686851,
+                178.495207212,
+                174.736562776,
+                172.691403095,
+                166.474769592,
+                166.118225041,
+                158.21896274399998,
+                154.30373377200002,
+                151.43844125399997,
+                151.06879376600003,
+                150.43128617399998,
+                151.478296325,
+                153.503417854,
+                151.97020023399998,
+                156.042274118,
+                157.1831230663,
+                160.032079851,
+                163.04855542400003,
+                165.77091766739997,
+                160.17464161139998,
+                161.9510399255,
+                143.79435337569998,
+                145.1709773969
             ],
             "sectors": [
                 {
-                    "label": "Inl\u00e4ndische Luffahrt",
+                    "label": "nationaler Luftverkehr",
                     "code": "1 A 3 a",
                     "key": "traffic",
                     "absolute": [
@@ -3331,7 +3331,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
                 },
                 {
-                    "label": "Inl\u00e4ndische Schifffahrt",
+                    "label": "Inl\u00e4ndische K\u00fcsten- & Binnenschifffahrt",
                     "code": "1 A 3 d",
                     "key": "traffic",
                     "absolute": [
@@ -3409,46 +3409,6 @@
                         0.0
                     ],
                     "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf deutschen Flugh\u00e4fen."
-                },
-                {
-                    "label": "Andere Bereiche",
-                    "code": "1 A 5",
-                    "key": "traffic",
-                    "absolute": [
-                        11.7646209,
-                        8.412763964,
-                        6.400694952,
-                        5.138268959,
-                        4.760936828,
-                        3.9828719190000004,
-                        3.1196952959999997,
-                        3.013038578,
-                        3.024087486,
-                        2.582457695,
-                        2.313566994,
-                        1.8960881790000002,
-                        1.933971846,
-                        1.955072257,
-                        1.673425019,
-                        1.704605927,
-                        1.548371272,
-                        1.286716435,
-                        1.311913436,
-                        1.33950582,
-                        1.293952647,
-                        1.1995943070000001,
-                        0.9884458026999999,
-                        1.026014448,
-                        0.9662981939,
-                        0.9655967056,
-                        0.9969836063,
-                        0.813206676,
-                        0.7237294636,
-                        0.8879281053,
-                        0.7427601951,
-                        0.9802692188
-                    ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -3457,42 +3417,42 @@
             "label": "Geb\u00e4ude",
             "key": "buildings",
             "absolute": [
-                192.74652757,
-                196.14683369,
-                181.24754821000002,
-                189.53122517,
-                179.62297036,
-                182.08056184,
-                206.19349297000002,
-                193.08121257,
-                185.22408288,
-                169.01061077,
-                163.29152964,
-                183.87834436000003,
-                170.93579737,
-                163.67085725,
-                153.44864939,
-                151.00832313,
-                159.29912131,
-                123.38417753000002,
-                148.78810294000002,
-                136.21812827,
-                145.16530766,
-                124.35111537,
-                127.53873166000001,
-                137.03982282,
-                115.95593865,
-                121.61990769,
-                122.21080264999999,
-                120.18185464999999,
-                114.02284911,
-                119.15970199,
-                121.13848089,
-                115.60318572000001
+                204.51114847000002,
+                204.55959765400002,
+                187.648243162,
+                194.669494129,
+                184.38390718800002,
+                186.06343375900002,
+                209.31318826600003,
+                196.094251148,
+                188.248170366,
+                171.593068465,
+                165.60509663399998,
+                185.77443253900003,
+                172.86976921599998,
+                165.625929507,
+                155.122074409,
+                152.712929057,
+                160.847492582,
+                124.670893965,
+                150.100016376,
+                137.55763408999996,
+                146.459260307,
+                125.550709677,
+                128.5271774627,
+                138.065837268,
+                116.9222368439,
+                122.5855043956,
+                123.2077862563,
+                120.995061326,
+                114.74657857359999,
+                120.04763009530001,
+                121.88124108509999,
+                116.5834549388
             ],
             "sectors": [
                 {
-                    "label": "Gewerblich/Institutionell",
+                    "label": "Gewerbe, Handel, Dienstleistung (ohne Milit\u00e4r und Landwirtschaft)",
                     "code": "1 A 4 a",
                     "key": "buildings",
                     "absolute": [
@@ -3532,7 +3492,7 @@
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
-                    "label": "Wohnen",
+                    "label": "Haushalte",
                     "code": "1 A 4 b",
                     "key": "buildings",
                     "absolute": [
@@ -3570,6 +3530,46 @@
                         82.29646623000001
                     ],
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                },
+                {
+                    "label": "Milit\u00e4r",
+                    "code": "1 A 5",
+                    "key": "buildings",
+                    "absolute": [
+                        11.7646209,
+                        8.412763964,
+                        6.400694952,
+                        5.138268959,
+                        4.760936828,
+                        3.9828719190000004,
+                        3.1196952959999997,
+                        3.013038578,
+                        3.024087486,
+                        2.582457695,
+                        2.313566994,
+                        1.8960881790000002,
+                        1.933971846,
+                        1.955072257,
+                        1.673425019,
+                        1.704605927,
+                        1.548371272,
+                        1.286716435,
+                        1.311913436,
+                        1.33950582,
+                        1.293952647,
+                        1.1995943070000001,
+                        0.9884458026999999,
+                        1.026014448,
+                        0.9662981939,
+                        0.9655967056,
+                        0.9969836063,
+                        0.813206676,
+                        0.7237294636,
+                        0.8879281053,
+                        0.7427601951,
+                        0.9802692188
+                    ],
+                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -3693,7 +3693,7 @@
                     "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
-                    "label": "D\u00fcnger-Management",
+                    "label": "D\u00fcngerwirtschaft",
                     "code": "3 B",
                     "key": "agriculture",
                     "absolute": [
@@ -3853,7 +3853,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
-                    "label": "Verwendung von Harnstoff",
+                    "label": "Harnstoffanwendung",
                     "code": "3 H",
                     "key": "agriculture",
                     "absolute": [
@@ -4215,7 +4215,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
                 },
                 {
-                    "label": "Biologische Abfallbehandlung",
+                    "label": "Biologische Abfallbehandlung von festen Abf\u00e4llen",
                     "code": "5 B",
                     "key": "waste",
                     "absolute": [
@@ -4939,7 +4939,7 @@
                     "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
-                    "label": "Mineralische Industrie",
+                    "label": "Herstellung mineralischer Produkte",
                     "code": "2 A",
                     "key": "industry",
                     "absolute": [
@@ -5019,7 +5019,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
                 },
                 {
-                    "label": "Metallproduktion",
+                    "label": "Herstellung von Metallen",
                     "code": "2 C",
                     "key": "industry",
                     "absolute": [
@@ -5225,42 +5225,42 @@
             "label": "Verkehr",
             "key": "traffic",
             "absolute": [
-                2.15041278598,
-                1.7070849611,
-                1.4489216263599998,
-                1.24109519452,
-                1.02593768258,
-                0.92484796624,
-                0.8368924788200001,
-                0.7487643531200001,
-                0.68336712444,
-                0.6253769516800001,
-                0.56545696286,
-                0.5132409167,
-                0.47846600899999997,
-                0.433750088,
-                0.40817454528,
-                0.37362882874,
-                0.34714748516000005,
-                0.32805922183999997,
-                0.30182383982,
-                0.29184405656,
-                0.27180635914000006,
-                0.2648881354,
-                0.24833100683999998,
-                0.24542899023999998,
-                0.24637122717999999,
-                0.24767155842,
-                0.2548446121,
-                0.26367895425999993,
-                0.25941583838000004,
-                0.25967979968,
-                0.2434229742,
-                0.24105850297999998
+                1.8374591681799999,
+                1.5094705284,
+                1.31922847116,
+                1.15690369468,
+                0.9858841784600001,
+                0.9091359107199999,
+                0.82923395914,
+                0.7432553752400001,
+                0.67849374712,
+                0.6216362816000001,
+                0.5618303015000001,
+                0.5097283651400001,
+                0.47510471847999997,
+                0.4309729320800001,
+                0.40585667364,
+                0.37099048506000004,
+                0.34488955088,
+                0.32627922656,
+                0.30011134386,
+                0.2902380199599999,
+                0.27026911434,
+                0.26334459368,
+                0.24680414892,
+                0.24382146627999998,
+                0.24466627302000002,
+                0.24609966949999998,
+                0.25325585262000005,
+                0.26210625306000007,
+                0.25784741026,
+                0.25812470292,
+                0.2418760064,
+                0.23905583602
             ],
             "sectors": [
                 {
-                    "label": "Inl\u00e4ndische Luffahrt",
+                    "label": "nationaler Luftverkehr",
                     "code": "1 A 3 a",
                     "key": "traffic",
                     "absolute": [
@@ -5500,7 +5500,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
                 },
                 {
-                    "label": "Inl\u00e4ndische Schifffahrt",
+                    "label": "Inl\u00e4ndische K\u00fcsten- & Binnenschifffahrt",
                     "code": "1 A 3 d",
                     "key": "traffic",
                     "absolute": [
@@ -5578,46 +5578,6 @@
                         0.0
                     ],
                     "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf deutschen Flugh\u00e4fen."
-                },
-                {
-                    "label": "Andere Bereiche",
-                    "code": "1 A 5",
-                    "key": "traffic",
-                    "absolute": [
-                        0.31295361780000003,
-                        0.1976144327,
-                        0.1296931552,
-                        0.08419149984,
-                        0.04005350412,
-                        0.01571205552,
-                        0.007658519680000001,
-                        0.00550897788,
-                        0.00487337732,
-                        0.0037406700800000003,
-                        0.00362666136,
-                        0.00351255156,
-                        0.00336129052,
-                        0.0027771559199999997,
-                        0.00231787164,
-                        0.0026383436800000003,
-                        0.0022579342800000003,
-                        0.0017799952800000001,
-                        0.0017124959600000001,
-                        0.0016060366,
-                        0.0015372448000000002,
-                        0.00154354172,
-                        0.0015268579200000002,
-                        0.0016075239599999999,
-                        0.00170495416,
-                        0.0015718889199999998,
-                        0.00158875948,
-                        0.0015727012,
-                        0.0015684281200000001,
-                        0.0015550967600000002,
-                        0.0015469678,
-                        0.00200266696
-                    ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -5626,42 +5586,42 @@
             "label": "Geb\u00e4ude",
             "key": "buildings",
             "absolute": [
-                4.4199761760000005,
-                3.0143374080000003,
-                2.0728528619,
-                1.8235952201,
-                1.4313452159,
-                1.2502006042,
-                1.2078126193999998,
-                1.2147741083,
-                0.9990606822,
-                0.9777718589,
-                0.9420263107000001,
-                1.01271705416,
-                0.9489375585600001,
-                0.88287074342,
-                0.81636253886,
-                0.8103298072999999,
-                0.9631212746800001,
-                0.98329849798,
-                1.15036508988,
-                1.0617320395199998,
-                1.3428057275,
-                1.2468452085,
-                1.23023812408,
-                1.2564607447599998,
-                1.02385956792,
-                1.0988637573000002,
-                1.0261535138,
-                1.0402442181000002,
-                1.04162733524,
-                1.0166554591399999,
-                0.96267268836,
-                1.0882483545
+                4.7329297938,
+                3.2119518407000003,
+                2.2025460171,
+                1.90778671994,
+                1.4713987200199998,
+                1.2659126597199999,
+                1.21547113908,
+                1.22028308618,
+                1.00393405952,
+                0.98151252898,
+                0.94565297206,
+                1.01622960572,
+                0.9522988490800001,
+                0.8856478993400001,
+                0.8186804105,
+                0.81296815098,
+                0.9653792089600001,
+                0.98507849326,
+                1.15207758584,
+                1.06333807612,
+                1.3443429723000002,
+                1.2483887502199997,
+                1.231764982,
+                1.2580682687199998,
+                1.02556452208,
+                1.10043564622,
+                1.02774227328,
+                1.0418169193000002,
+                1.04319576336,
+                1.0182105558999999,
+                0.9642196561599999,
+                1.0902510214599999
             ],
             "sectors": [
                 {
-                    "label": "Gewerblich/Institutionell",
+                    "label": "Gewerbe, Handel, Dienstleistung (ohne Milit\u00e4r und Landwirtschaft)",
                     "code": "1 A 4 a",
                     "key": "buildings",
                     "absolute": [
@@ -5701,7 +5661,7 @@
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
-                    "label": "Wohnen",
+                    "label": "Haushalte",
                     "code": "1 A 4 b",
                     "key": "buildings",
                     "absolute": [
@@ -5739,6 +5699,46 @@
                         0.9910238089
                     ],
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                },
+                {
+                    "label": "Milit\u00e4r",
+                    "code": "1 A 5",
+                    "key": "buildings",
+                    "absolute": [
+                        0.31295361780000003,
+                        0.1976144327,
+                        0.1296931552,
+                        0.08419149984,
+                        0.04005350412,
+                        0.01571205552,
+                        0.007658519680000001,
+                        0.00550897788,
+                        0.00487337732,
+                        0.0037406700800000003,
+                        0.00362666136,
+                        0.00351255156,
+                        0.00336129052,
+                        0.0027771559199999997,
+                        0.00231787164,
+                        0.0026383436800000003,
+                        0.0022579342800000003,
+                        0.0017799952800000001,
+                        0.0017124959600000001,
+                        0.0016060366,
+                        0.0015372448000000002,
+                        0.00154354172,
+                        0.0015268579200000002,
+                        0.0016075239599999999,
+                        0.00170495416,
+                        0.0015718889199999998,
+                        0.00158875948,
+                        0.0015727012,
+                        0.0015684281200000001,
+                        0.0015550967600000002,
+                        0.0015469678,
+                        0.00200266696
+                    ],
+                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -5862,7 +5862,7 @@
                     "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
-                    "label": "D\u00fcnger-Management",
+                    "label": "D\u00fcngerwirtschaft",
                     "code": "3 B",
                     "key": "agriculture",
                     "absolute": [
@@ -6022,7 +6022,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
-                    "label": "Verwendung von Harnstoff",
+                    "label": "Harnstoffanwendung",
                     "code": "3 H",
                     "key": "agriculture",
                     "absolute": [
@@ -6384,7 +6384,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
                 },
                 {
-                    "label": "Biologische Abfallbehandlung",
+                    "label": "Biologische Abfallbehandlung von festen Abf\u00e4llen",
                     "code": "5 B",
                     "key": "waste",
                     "absolute": [
@@ -7108,7 +7108,7 @@
                     "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
-                    "label": "Mineralische Industrie",
+                    "label": "Herstellung mineralischer Produkte",
                     "code": "2 A",
                     "key": "industry",
                     "absolute": [
@@ -7188,7 +7188,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
                 },
                 {
-                    "label": "Metallproduktion",
+                    "label": "Herstellung von Metallen",
                     "code": "2 C",
                     "key": "industry",
                     "absolute": [
@@ -7394,42 +7394,42 @@
             "label": "Verkehr",
             "key": "traffic",
             "absolute": [
-                1.223223470734,
-                1.318411587261,
-                1.4246435542000002,
-                1.5260475139,
-                1.5367570509169999,
-                1.6200478871060002,
-                1.6303996084659997,
-                1.6194697993870002,
-                1.6061318729390002,
-                1.58668555744,
-                1.455644886394,
-                1.3962024951629999,
-                0.9682873161389999,
-                0.896975911543,
-                0.8637977312499999,
-                0.7923510388,
-                0.76936260685,
-                0.7900951229500002,
-                0.8201117525500001,
-                0.8556793555500001,
-                0.926337718,
-                0.9975491486999999,
-                1.06661959935,
-                1.1358884052,
-                1.1687805470000001,
-                1.2399733800000001,
-                1.3195185201,
-                1.3946622327999998,
-                1.3975627956499999,
-                1.4470926074,
-                1.36046311365,
-                1.37482030745
+                1.169078816484,
+                1.277170336861,
+                1.3900470781,
+                1.49656377025,
+                1.5065415018169996,
+                1.596035219506,
+                1.611491378816,
+                1.599467358237,
+                1.5864246179390002,
+                1.57070542939,
+                1.4412876289440002,
+                1.3853023959129998,
+                0.9586221221889999,
+                0.8872996909430001,
+                0.8559935263,
+                0.7856148527499999,
+                0.7634545829,
+                0.7852120871999999,
+                0.8151298903499999,
+                0.8505426883000001,
+                0.92191060945,
+                0.9931302392499999,
+                1.0638388351,
+                1.1328121845000003,
+                1.1653721964999997,
+                1.2363552051500002,
+                1.3158295399,
+                1.3922602118499998,
+                1.3955361047999997,
+                1.4436846862,
+                1.3575463196000002,
+                1.3708206651000001
             ],
             "sectors": [
                 {
-                    "label": "Inl\u00e4ndische Luffahrt",
+                    "label": "nationaler Luftverkehr",
                     "code": "1 A 3 a",
                     "key": "traffic",
                     "absolute": [
@@ -7669,7 +7669,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
                 },
                 {
-                    "label": "Inl\u00e4ndische Schifffahrt",
+                    "label": "Inl\u00e4ndische K\u00fcsten- & Binnenschifffahrt",
                     "code": "1 A 3 d",
                     "key": "traffic",
                     "absolute": [
@@ -7747,46 +7747,6 @@
                         0.0
                     ],
                     "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf deutschen Flugh\u00e4fen."
-                },
-                {
-                    "label": "Andere Bereiche",
-                    "code": "1 A 5",
-                    "key": "traffic",
-                    "absolute": [
-                        0.05414465425,
-                        0.0412412504,
-                        0.034596476099999995,
-                        0.02948374365,
-                        0.0302155491,
-                        0.0240126676,
-                        0.01890822965,
-                        0.020002441149999998,
-                        0.019707255,
-                        0.01598012805,
-                        0.01435725745,
-                        0.01090009925,
-                        0.009665193950000001,
-                        0.0096762206,
-                        0.00780420495,
-                        0.00673618605,
-                        0.00590802395,
-                        0.0048830357500000005,
-                        0.0049818622,
-                        0.00513666725,
-                        0.0044271085499999994,
-                        0.00441890945,
-                        0.0027807642499999997,
-                        0.0030762207,
-                        0.0034083505000000003,
-                        0.00361817485,
-                        0.0036889802,
-                        0.0024020209499999996,
-                        0.00202669085,
-                        0.0034079212,
-                        0.00291679405,
-                        0.00399964235
-                    ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -7795,42 +7755,42 @@
             "label": "Geb\u00e4ude",
             "key": "buildings",
             "absolute": [
-                0.8148107694000001,
-                0.7153262156999999,
-                0.5962497403,
-                0.5951461531,
-                0.5518146543,
-                0.5553105846999999,
-                0.5859235755,
-                0.5637335247999999,
-                0.48621347760000005,
-                0.4626741875,
-                0.46043273269999996,
-                0.5119978822,
-                0.4829160561,
-                0.4479008827,
-                0.4183061094,
-                0.4175744656,
-                0.4764278094,
-                0.42634249939999996,
-                0.5081198405,
-                0.4436388745,
-                0.5191842689,
-                0.4932425841,
-                0.42520479339999995,
-                0.43082190560000005,
-                0.3638176891,
-                0.39539141089999996,
-                0.35989490999999996,
-                0.3587052217,
-                0.34810239675000004,
-                0.34623626675,
-                0.3430279674,
-                0.34834722765
+                0.86895542365,
+                0.7565674660999999,
+                0.6308462164,
+                0.6246298967499999,
+                0.5820302034,
+                0.5793232522999999,
+                0.6048318051499999,
+                0.5837359659499999,
+                0.5059207326,
+                0.47865431555000004,
+                0.47478999015,
+                0.52289798145,
+                0.49258125005,
+                0.4575771033,
+                0.42611031435,
+                0.42431065165000004,
+                0.48233583334999997,
+                0.43122553514999995,
+                0.5131017027,
+                0.44877554175,
+                0.52361137745,
+                0.49766149355,
+                0.42798555764999996,
+                0.4338981263000001,
+                0.3672260396,
+                0.39900958575,
+                0.3635838902,
+                0.36110724265000005,
+                0.35012908760000006,
+                0.34964418795,
+                0.34594476145,
+                0.35234687
             ],
             "sectors": [
                 {
-                    "label": "Gewerblich/Institutionell",
+                    "label": "Gewerbe, Handel, Dienstleistung (ohne Milit\u00e4r und Landwirtschaft)",
                     "code": "1 A 4 a",
                     "key": "buildings",
                     "absolute": [
@@ -7870,7 +7830,7 @@
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
-                    "label": "Wohnen",
+                    "label": "Haushalte",
                     "code": "1 A 4 b",
                     "key": "buildings",
                     "absolute": [
@@ -7908,6 +7868,46 @@
                         0.256385229
                     ],
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                },
+                {
+                    "label": "Milit\u00e4r",
+                    "code": "1 A 5",
+                    "key": "buildings",
+                    "absolute": [
+                        0.05414465425,
+                        0.0412412504,
+                        0.034596476099999995,
+                        0.02948374365,
+                        0.0302155491,
+                        0.0240126676,
+                        0.01890822965,
+                        0.020002441149999998,
+                        0.019707255,
+                        0.01598012805,
+                        0.01435725745,
+                        0.01090009925,
+                        0.009665193950000001,
+                        0.0096762206,
+                        0.00780420495,
+                        0.00673618605,
+                        0.00590802395,
+                        0.0048830357500000005,
+                        0.0049818622,
+                        0.00513666725,
+                        0.0044271085499999994,
+                        0.00441890945,
+                        0.0027807642499999997,
+                        0.0030762207,
+                        0.0034083505000000003,
+                        0.00361817485,
+                        0.0036889802,
+                        0.0024020209499999996,
+                        0.00202669085,
+                        0.0034079212,
+                        0.00291679405,
+                        0.00399964235
+                    ],
+                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -8031,7 +8031,7 @@
                     "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
-                    "label": "D\u00fcnger-Management",
+                    "label": "D\u00fcngerwirtschaft",
                     "code": "3 B",
                     "key": "agriculture",
                     "absolute": [
@@ -8191,7 +8191,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
-                    "label": "Verwendung von Harnstoff",
+                    "label": "Harnstoffanwendung",
                     "code": "3 H",
                     "key": "agriculture",
                     "absolute": [
@@ -8553,7 +8553,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
                 },
                 {
-                    "label": "Biologische Abfallbehandlung",
+                    "label": "Biologische Abfallbehandlung von festen Abf\u00e4llen",
                     "code": "5 B",
                     "key": "waste",
                     "absolute": [
@@ -9277,7 +9277,7 @@
                     "explanation": "Diese Kategorie umfasst die Emissionen aus der Verbrennung von Brennstoffen in den Industriezweigen wie Bergbau und Gewinnung von Steinen und Erden (ohne Brennstoffe), Textil und Leder, Holz und Holzprodukte, Gummi- und Kunststoffwaren, Maschinen und Instrumente, Fahrzeugbau, M\u00f6bel, Recycling und Baugewerbe"
                 },
                 {
-                    "label": "Mineralische Industrie",
+                    "label": "Herstellung mineralischer Produkte",
                     "code": "2 A",
                     "key": "industry",
                     "absolute": [
@@ -9357,7 +9357,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus der Chemischen Industrie wie z.B. der Salpeters\u00e4ure-, der Ammoniak- und Ethylen-Produktion an."
                 },
                 {
-                    "label": "Metallproduktion",
+                    "label": "Herstellung von Metallen",
                     "code": "2 C",
                     "key": "industry",
                     "absolute": [
@@ -9598,7 +9598,7 @@
             ],
             "sectors": [
                 {
-                    "label": "Inl\u00e4ndische Luffahrt",
+                    "label": "nationaler Luftverkehr",
                     "code": "1 A 3 a",
                     "key": "traffic",
                     "absolute": [
@@ -9838,7 +9838,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen von mit Diesel betriebenen Z\u00fcgen und Dampflockomotiven an."
                 },
                 {
-                    "label": "Inl\u00e4ndische Schifffahrt",
+                    "label": "Inl\u00e4ndische K\u00fcsten- & Binnenschifffahrt",
                     "code": "1 A 3 d",
                     "key": "traffic",
                     "absolute": [
@@ -9916,46 +9916,6 @@
                         0.0
                     ],
                     "explanation": "Diese Kategorie umfasst die Emissionen aus den Bodenaktivit\u00e4ten auf deutschen Flugh\u00e4fen."
-                },
-                {
-                    "label": "Andere Bereiche",
-                    "code": "1 A 5",
-                    "key": "traffic",
-                    "absolute": [
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0,
-                        0.0
-                    ],
-                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -9999,7 +9959,7 @@
             ],
             "sectors": [
                 {
-                    "label": "Gewerblich/Institutionell",
+                    "label": "Gewerbe, Handel, Dienstleistung (ohne Milit\u00e4r und Landwirtschaft)",
                     "code": "1 A 4 a",
                     "key": "buildings",
                     "absolute": [
@@ -10039,7 +9999,7 @@
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in gewerblichen Geb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt."
                 },
                 {
-                    "label": "Wohnen",
+                    "label": "Haushalte",
                     "code": "1 A 4 b",
                     "key": "buildings",
                     "absolute": [
@@ -10077,6 +10037,46 @@
                         0.0
                     ],
                     "explanation": "Die Emissionen dieser Kategorie entstehen aus dem Brennstoffverbrauch (z.B. Heizen und Kochen) in Wohngeb\u00e4uden. Zweiundzwanzig Heizungsarten werden ber\u00fccksichtigt. Zus\u00e4tzlich flie\u00dfen Energienutzungsumfragen mit ein. Emissionen aus mobilen Quellen sind Pistenfahrzeuge und Schneemobile."
+                },
+                {
+                    "label": "Milit\u00e4r",
+                    "code": "1 A 5",
+                    "key": "buildings",
+                    "absolute": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "explanation": "Diese Kategorie umfasst Emissionen aus dem milit\u00e4rischen Luft- und Stra\u00dfenverkehr sowie aus anderen mobilen Maschinen."
                 }
             ]
         },
@@ -10200,7 +10200,7 @@
                     "explanation": "Diese Kategorie beschreibt die Methan-Emissionen die bei Verdauungsprozessen von Nutztieren wie K\u00fche, Schweine, Ziegen, Gefl\u00fcgel, Schafe, Pferde und Rehe entstehen."
                 },
                 {
-                    "label": "D\u00fcnger-Management",
+                    "label": "D\u00fcngerwirtschaft",
                     "code": "3 B",
                     "key": "agriculture",
                     "absolute": [
@@ -10360,7 +10360,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen an, die durch das Ausbringen von Kalk auf Landwirtschafliche B\u00f6den entstehen. Kalk wird ausgebracht um den S\u00e4uregehalt des Bodens zu verringern, wobei CO2 entsteht."
                 },
                 {
-                    "label": "Verwendung von Harnstoff",
+                    "label": "Harnstoffanwendung",
                     "code": "3 H",
                     "key": "agriculture",
                     "absolute": [
@@ -10722,7 +10722,7 @@
                     "explanation": "Diese Kategorie gibt die Emissionen aus Deponien an."
                 },
                 {
-                    "label": "Biologische Abfallbehandlung",
+                    "label": "Biologische Abfallbehandlung von festen Abf\u00e4llen",
                     "code": "5 B",
                     "key": "waste",
                     "absolute": [
