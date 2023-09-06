@@ -8,12 +8,11 @@
 				"type": "mine",
 				"label": "Tagebau Hambach",
 				"region": "Rheinisches Revier",
-				"villages": {
-					"Hambach": "",
-					"Profen": "6000 Menschen",
-					"Inden": "7400  Menschen",
-					"Amsdorf": "."
-				}
+				"size": "45 km2",
+				"output": "40 Mio t/Jahr",
+				"plannedClosing": "2030",
+				"villagesAffected": 6,
+				"peopleAffected": null
 			},
 			"geometry": {
 				"coordinates": [
@@ -44,8 +43,14 @@
 			"type": "Feature",
 			"properties": {
 				"id": 1,
+				"type": "mine",
 				"label": "Tagebau Garzweiler",
-				"region": "Rheinisches Revier"
+				"region": "Rheinisches Revier",
+				"size": "24 km2",
+				"output": "25 Mio t/Jahr",
+				"plannedClosing": "2030",
+				"villagesAffected": 15,
+				"peopleAffected": null
 			},
 			"geometry": {
 				"coordinates": [
@@ -90,8 +95,14 @@
 			"type": "Feature",
 			"properties": {
 				"id": 2,
+				"type": "mine",
 				"label": "Tagebau Inden",
-				"region": "Rheinisches Revier"
+				"region": "Rheinisches Revier",
+				"size": "17 km2",
+				"output": "20-25 Mio t/Jahr",
+				"plannedClosing": "2030",
+				"villagesAffected": 11,
+				"peopleAffected": 7400
 			},
 			"geometry": {
 				"coordinates": [
@@ -150,8 +161,14 @@
 			"type": "Feature",
 			"properties": {
 				"id": 3,
+				"type": "mine",
 				"label": "Tagebau Jänschwalde",
-				"region": "Lausitzer Revier"
+				"region": "Lausitzer Revier",
+				"size": "35 km2",
+				"output": "13 Mio t/Jahr",
+				"plannedClosing": "2023",
+				"villagesAffected": 9,
+				"peopleAffected": null
 			},
 			"geometry": {
 				"coordinates": [
@@ -181,7 +198,17 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "id": 4, "label": "Tagebau Welzow-Süd", "region": "Lausitzer Revier" },
+			"properties": {
+				"id": 4,
+				"type": "mine",
+				"label": "Tagebau Welzow-Süd",
+				"region": "Lausitzer Revier",
+				"size": "35 km2",
+				"output": "20 Mio t/Jahr",
+				"plannedClosing": " ",
+				"villagesAffected": 17,
+				"peopleAffected": null
+			},
 			"geometry": {
 				"coordinates": [
 					[
@@ -209,29 +236,37 @@
 		},
 		{
 			"type": "Feature",
-			"properties": { "id": 5, "label": "Tagebau Reichwalde", "region": "Lausitzer Revier" },
+			"properties": {
+				"id": 5,
+				"type": "mine",
+				"label": "Tagebau Reichwalde",
+				"region": "Lausitzer Revier",
+				"size": "18 km2",
+				"output": "12,5 Mio t/Jahr",
+				"plannedClosing": " ",
+				"villagesAffected": 8,
+				"peopleAffected": null
+			},
 			"geometry": {
 				"coordinates": [
 					[
-						[14.561119970808903, 51.52047043619942],
-						[14.54284270198815, 51.50963408823242],
-						[14.5313889080916, 51.49369458781223],
-						[14.551274315910547, 51.487183694262455],
-						[14.546021946301295, 51.48115313348251],
-						[14.569165199891415, 51.47266811306696],
-						[14.562107328228905, 51.467964891817246],
-						[14.532070339526854, 51.47859757055289],
-						[14.51368704589558, 51.484321832646515],
-						[14.50646503768371, 51.489636575545745],
-						[14.499243029470676, 51.492702491581866],
-						[14.497601663967941, 51.491884934132685],
-						[14.511224997641449, 51.479108694594544],
-						[14.555908973882907, 51.46383939223682],
-						[14.608104396872136, 51.45443064460815],
-						[14.618280862989621, 51.48857922902309],
-						[14.592511424595983, 51.50237454749379],
-						[14.579872910223202, 51.506052593980655],
-						[14.561119970808903, 51.52047043619942]
+						[14.726789120459955, 51.38562173230014],
+						[14.734812509686606, 51.39038243103241],
+						[14.741783651146136, 51.39711222894954],
+						[14.739021500756536, 51.400969105827045],
+						[14.74007374852357, 51.403184611425985],
+						[14.746387235128566, 51.40950231571475],
+						[14.751253881053088, 51.41368628870316],
+						[14.735864757453612, 51.424595632759264],
+						[14.656288520041358, 51.41179944632506],
+						[14.646423697221053, 51.403430772090275],
+						[14.676938882476918, 51.403430772090275],
+						[14.671677643639953, 51.3954709061056],
+						[14.677991130244834, 51.389151263326795],
+						[14.687461363200725, 51.38898257583102],
+						[14.695484752427348, 51.386930548472236],
+						[14.7077171327239, 51.39661530973689],
+						[14.726789120459955, 51.38562173230014]
 					]
 				],
 				"type": "Polygon"
@@ -241,8 +276,14 @@
 			"type": "Feature",
 			"properties": {
 				"id": 6,
+				"type": "mine",
 				"label": "Tagebau Amsdorf",
-				"region": "Mitteldeutsches Revier"
+				"region": "Mitteldeutsches Revier",
+				"size": "4 km2",
+				"output": " ",
+				"plannedClosing": " ",
+				"villagesAffected": 0,
+				"peopleAffected": null
 			},
 			"geometry": {
 				"coordinates": [
@@ -280,8 +321,14 @@
 			"type": "Feature",
 			"properties": {
 				"id": 7,
+				"type": "mine",
 				"label": "Tagebau Profen",
-				"region": "Mitteldeutsches Revier"
+				"region": "Mitteldeutsches Revier",
+				"size": "23 km2",
+				"output": "7,5 Mio t/Jahr",
+				"plannedClosing": "2035",
+				"villagesAffected": 20,
+				"peopleAffected": 6000
 			},
 			"geometry": {
 				"coordinates": [
@@ -351,8 +398,14 @@
 			"type": "Feature",
 			"properties": {
 				"id": 8,
+				"type": "mine",
 				"label": "Tagebau Vereinigtes Schleenhain",
-				"region": "Mitteldeutsches Revier"
+				"region": "Mitteldeutsches Revier",
+				"size": "16 km2",
+				"output": "11 Mio t/Jahr",
+				"plannedClosing": "2030",
+				"villagesAffected": "3 (+5)",
+				"peopleAffected": null
 			},
 			"geometry": {
 				"coordinates": [
@@ -396,8 +449,7 @@
 					]
 				],
 				"type": "Polygon"
-			},
-			"id": 8
+			}
 		},
 		{
 			"type": "Feature",
@@ -818,126 +870,6 @@
 				"Longitude": 6.728017281
 			},
 			"geometry": { "type": "Point", "coordinates": [6.728017281, 51.50185319] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 37,
-				"Betreiber": "",
-				"Blockname": "",
-				"CO2 [t] im Jahr 2016": "",
-				"Nettonennleistung [MWel]": "",
-				"Stilllegung": "",
-				"Brennstoff": "",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 38,
-				"Betreiber": "stillgelegt",
-				"Blockname": "",
-				"CO2 [t] im Jahr 2016": "",
-				"Nettonennleistung [MWel]": "",
-				"Stilllegung": "",
-				"Brennstoff": "",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 39,
-				"Betreiber": "Vattenfall Heizkraftwerk Moorburg GmbH",
-				"Blockname": "Kohlekraftwerk Moorburg",
-				"CO2 [t] im Jahr 2016": "5.550.000",
-				"Nettonennleistung [MWel]": "1730",
-				"Stilllegung": "01.07.2021",
-				"Brennstoff": "Steinkohle",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 40,
-				"Betreiber": "STEAG",
-				"Blockname": "Kraftwerk Voerde",
-				"CO2 [t] im Jahr 2016": "4.560.000",
-				"Nettonennleistung [MWel]": "",
-				"Stilllegung": "31.03.2017",
-				"Brennstoff": "Steinkohle",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 41,
-				"Betreiber": "RWE",
-				"Blockname": "Kraftwerk Ibbenbüren",
-				"CO2 [t] im Jahr 2016": "3.920.000",
-				"Nettonennleistung [MWel]": "",
-				"Stilllegung": "2021",
-				"Brennstoff": "Steinkohle",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 42,
-				"Betreiber": "RWE",
-				"Blockname": "Kraftwerk Werne",
-				"CO2 [t] im Jahr 2016": "2.950.000",
-				"Nettonennleistung [MWel]": "1397",
-				"Stilllegung": "29.03.2019",
-				"Brennstoff": "Steinkohle",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 43,
-				"Betreiber": "Uniper",
-				"Blockname": "Kraftwerk Wilhelmshaven",
-				"CO2 [t] im Jahr 2016": "2.810.000",
-				"Nettonennleistung [MWel]": "757",
-				"Stilllegung": "2021",
-				"Brennstoff": "Steinkohle",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"id": 44,
-				"Betreiber": "VW AG",
-				"Blockname": "Kraftwerk Wolfsburg",
-				"CO2 [t] im Jahr 2016": "2.600.000",
-				"Nettonennleistung [MWel]": "",
-				"Stilllegung": "gas",
-				"Brennstoff": "Steinkohle",
-				"Latitude": 0.0,
-				"Longitude": 0.0
-			},
-			"geometry": { "type": "Point", "coordinates": [0.0, 0.0] }
 		},
 		{
 			"type": "Feature",
@@ -1414,6 +1346,63 @@
 				"Longitude": 14.35064674
 			},
 			"geometry": { "type": "Point", "coordinates": [14.35064674, 51.53435022] }
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": 79,
+				"type": "mine",
+				"label": "Tagebau Nochten",
+				"region": "Lausitzer Braunkohlerevier",
+				"size": "27 km2",
+				"output": "18 Mio t/Jahr",
+				"plannedClosing": " ",
+				"villagesAffected": 4,
+				"peopleAffected": null
+			},
+			"geometry": {
+				"coordinates": [
+					[
+						[12.415040640279358, 51.113173070029035],
+						[12.417581643370397, 51.1218187901236],
+						[12.412817502750443, 51.12328672841613],
+						[12.400603978617056, 51.12986469375414],
+						[12.389516524085053, 51.13111494484292],
+						[12.371969788331427, 51.13305521410862],
+						[12.358189400742575, 51.12991412628483],
+						[12.353399122416889, 51.1370397637336],
+						[12.368494442100499, 51.143257945421446],
+						[12.37735325814664, 51.14276396515176],
+						[12.40085579148116, 51.149715906717965],
+						[12.400135422924059, 51.15386717096864],
+						[12.394717566207534, 51.15332450789219],
+						[12.390028310342007, 51.156548835014874],
+						[12.375226453699405, 51.15891628794566],
+						[12.375270359267887, 51.16229154662872],
+						[12.351857009118687, 51.15997127599505],
+						[12.356371307318067, 51.15079219650622],
+						[12.363230565754016, 51.14445079618261],
+						[12.352363252358543, 51.14038581123438],
+						[12.351538650223446, 51.136940172933194],
+						[12.356860505655874, 51.12986469375414],
+						[12.35651997520273, 51.12891889283404],
+						[12.360120017791104, 51.12006147133758],
+						[12.363559304196286, 51.117525357703045],
+						[12.359159700040863, 51.11171217180967],
+						[12.359169111077364, 51.10653883101318],
+						[12.361661906139744, 51.10190881561451],
+						[12.370623792046075, 51.100240361232665],
+						[12.383355887766385, 51.103582427806685],
+						[12.384260507861299, 51.10558668956615],
+						[12.387177379862656, 51.10629863703863],
+						[12.389170041130456, 51.10468939652594],
+						[12.400517357878442, 51.10963854022404],
+						[12.402683260623263, 51.11271983217293],
+						[12.415040640279358, 51.113173070029035]
+					]
+				],
+				"type": "Polygon"
+			}
 		}
 	]
 }
