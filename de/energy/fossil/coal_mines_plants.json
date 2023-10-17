@@ -205,7 +205,7 @@
 				"region": "Lausitzer Revier",
 				"size": "35 km2",
 				"output": "20 Mio t/Jahr",
-				"plannedClosing": " ",
+				"plannedClosing": "",
 				"villagesAffected": 17,
 				"peopleAffected": null
 			},
@@ -243,7 +243,7 @@
 				"region": "Lausitzer Revier",
 				"size": "18 km2",
 				"output": "12,5 Mio t/Jahr",
-				"plannedClosing": " ",
+				"plannedClosing": "",
 				"villagesAffected": 8,
 				"peopleAffected": null
 			},
@@ -281,7 +281,7 @@
 				"region": "Mitteldeutsches Revier",
 				"size": "4 km2",
 				"output": " ",
-				"plannedClosing": " ",
+				"plannedClosing": "",
 				"villagesAffected": 0,
 				"peopleAffected": null
 			},
@@ -934,7 +934,7 @@
 				"Betreiber": "RWE Power",
 				"Blockname": "Niederaußem E",
 				"Nettonennleistung [MWel]": "295",
-				"Stilllegung": "2023/06/30",
+				"Stilllegung": "in Versorgungsreserve vsl. bis 31.03.2024",
 				"Brennstoff": "Braunkohle",
 				"Latitude": 50.99049642,
 				"Longitude": 6.667486103
@@ -948,7 +948,7 @@
 				"Betreiber": "RWE Power",
 				"Blockname": "Niederaußem F",
 				"Nettonennleistung [MWel]": "299",
-				"Stilllegung": "2023/06/30",
+				"Stilllegung": "in Versorgungsreserve vsl. bis 31.03.2024",
 				"Brennstoff": "Braunkohle",
 				"Latitude": 50.99049642,
 				"Longitude": 6.667486103
@@ -1004,7 +1004,7 @@
 				"Betreiber": "RWE Power",
 				"Blockname": "Neurath C",
 				"Nettonennleistung [MWel]": "292",
-				"Stilllegung": "2023/06/30",
+				"Stilllegung": "in Versorgungsreserve vsl. bis 31.03.2024",
 				"Brennstoff": "Braunkohle",
 				"Latitude": 51.03642775,
 				"Longitude": 6.614601146
@@ -1172,7 +1172,7 @@
 				"Betreiber": "LEAG",
 				"Blockname": "Jänschwalde E",
 				"Nettonennleistung [MWel]": "465",
-				"Stilllegung": "2023/06/30",
+				"Stilllegung": "in Versorgungsreserve vsl. bis 31.03.2024",
 				"Brennstoff": "Braunkohle",
 				"Latitude": 51.83395547,
 				"Longitude": 14.45762646
@@ -1186,7 +1186,7 @@
 				"Betreiber": "LEAG",
 				"Blockname": "Jänschwalde F",
 				"Nettonennleistung [MWel]": "465",
-				"Stilllegung": "2023/06/30",
+				"Stilllegung": "in Versorgungsreserve vsl. bis 31.03.2024",
 				"Brennstoff": "Braunkohle",
 				"Latitude": 51.83395547,
 				"Longitude": 14.45762646
@@ -1356,7 +1356,7 @@
 				"region": "Lausitzer Braunkohlerevier",
 				"size": "27 km2",
 				"output": "18 Mio t/Jahr",
-				"plannedClosing": " ",
+				"plannedClosing": "",
 				"villagesAffected": 4,
 				"peopleAffected": null
 			},
