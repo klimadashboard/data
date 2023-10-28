@@ -1,4 +1,4 @@
-year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,iceDays,frostDays,snowCoverDays
+year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,frostDays,iceDays,snowCoverDays
 1936,9.32,528.3,3,38,0,63,6,14
 1937,9.399,782.4,7,48,0,81,22,34
 1938,9.505,461.0,9,46,0,72,22,25

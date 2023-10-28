@@ -1,4 +1,4 @@
-year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,iceDays,frostDays,snowCoverDays
+year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,frostDays,iceDays,snowCoverDays
 1949,8.996,480.4,1,41,0,72,29,15
 1951,7.903,721.2,2,19,0,131,41,21
 1952,7.148,798.0,6,21,0,125,28,70

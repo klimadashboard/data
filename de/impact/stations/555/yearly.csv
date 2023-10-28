@@ -1,4 +1,4 @@
-year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,iceDays,frostDays,snowCoverDays
+year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,frostDays,iceDays,snowCoverDays
 1940,8.99,893.2,0,14,0,87,43,54
 1941,9.589,756.0,10,22,3,64,21,24
 1942,9.529,599.9,4,30,3,71,41,53
@@ -47,4 +47,4 @@ year,averageTemperature,totalPrecipitation,heatDays,summerDays,tropicalNights,ic
 2017,10.948,876.4,7,41,0,50,4,8
 2018,12.603,521.0,17,81,0,40,8,3
 2022,6.575,137.5,0,0,0,12,2,0
-2023,13.165,927.9,13,46,1,26,1,0
+2023,13.155,941.0,13,46,1,26,1,0
