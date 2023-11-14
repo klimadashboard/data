@@ -1,0 +1,162 @@
+[
+{
+   "name": "Andritz AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2040,
+   "climateNeutralityScopes": "scope 1, 2",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Austria Technologie & Systemtechnik AG",
+   "climateNeutrality": "Nein",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "BAWAG Group AG",
+   "climateNeutrality": "Nein",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Nein"
+},
+{
+   "name": "CA Immobilien Anlagen AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "scope 1,2,3",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Nein"
+},
+{
+   "name": "Do & Co AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2030,
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Nein",
+   "memberSBT": "Nein"
+},
+{
+   "name": "Erste Group Bank AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "scope 1,2,3",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Nein"
+},
+{
+   "name": "EVN AG",
+   "climateNeutrality": "Teilweise (Tochtergesellschaften)",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Immofinanz AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2040,
+   "climateNeutralityScopes": "scope 1,2,3",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Lenzing AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "scope 1,2,3",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Mayr-Melnhof Karton AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "scope 1, 2",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "OMV AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "scope 1,2,3",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Nein"
+},
+{
+   "name": "Österreichische Post AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2040,
+   "climateNeutralityScopes": "scope 1,2,3",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Raiffeisen Bank International AG",
+   "climateNeutrality": "Teilweise (Tochtergesellschaften)",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Schoeller-Bleckmann Oilfield Equipment AG",
+   "climateNeutrality": "Nein",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Nein",
+   "memberSBT": "Ja"
+},
+{
+   "name": "STRABAG SE",
+   "climateNeutrality": "Nein",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Nein",
+   "memberSBT": "Nein"
+},
+{
+   "name": "Uniqa Insurance Group AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Nein",
+   "memberSBT": "Nein"
+},
+{
+   "name": "Verbund AG",
+   "climateNeutrality": "Nein",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Vienna Insurance Group AG",
+   "climateNeutrality": "Nein",
+   "climateNeutralityYear": "nicht definiert",
+   "climateNeutralityScopes": "nicht definiert",
+   "intermediateGoal": "Nein",
+   "memberSBT": "Nein"
+},
+{
+   "name": "Voestalpine AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "scope 1, 2",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Ja"
+},
+{
+   "name": "Wienerberger AG",
+   "climateNeutrality": "Ja",
+   "climateNeutralityYear": 2050,
+   "climateNeutralityScopes": "scope 1, 2",
+   "intermediateGoal": "Ja",
+   "memberSBT": "Nein"
+}
+]
