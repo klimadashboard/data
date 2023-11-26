@@ -466,7 +466,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1939-9;14.84;0;3;0;0
 1939-10;8.08;0;0;0;0
 1939-11;5.36;0;0;0;0
-1939-12;-0.71;0;0;0;11
+1939-12;null;null;null;null;null
 1940-1;-8.62;0;0;0;30
 1940-2;-6.43;0;0;0;21
 1940-3;2.68;0;0;0;4
