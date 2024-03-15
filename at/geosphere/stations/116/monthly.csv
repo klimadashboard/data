@@ -466,7 +466,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1939-9;null;null;null;null;null
 1939-10;null;null;null;null;null
 1939-11;null;null;null;null;null
-1939-12;null;null;null;null;null
+1939-12;-2.09;0;0;0;10
 1940-1;-7.19;0;0;0;27
 1940-2;-4.18;0;0;0;12
 1940-3;4.08;0;0;0;1
@@ -539,9 +539,9 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1945-10;9.74;0;0;0;0
 1945-11;3.37;0;0;0;2
 1945-12;1.05;0;0;0;5
-1946-1;-4.05;0;0;0;23
+1946-1;-4.04;0;0;0;23
 1946-2;3.63;0;0;0;0
-1946-3;6.29;0;0;0;0
+1946-3;6.31;0;0;0;0
 1946-4;12.62;0;0;0;0
 1946-5;16.03;0;5;0;0
 1946-6;17.18;2;11;0;0
@@ -1475,9 +1475,9 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2023-10;14.51;0;7;0;0
 2023-11;6.03;0;0;0;0
 2023-12;2.56;0;0;0;2
-2024-1;null;0;0;0;0
-2024-2;null;null;null;null;null
-2024-3;null;null;null;null;null
+2024-1;0.91;0;0;0;3
+2024-2;7.27;0;0;0;0
+2024-3;null;0;0;0;0
 2024-4;null;null;null;null;null
 2024-5;null;null;null;null;null
 2024-6;null;null;null;null;null

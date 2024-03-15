@@ -1,211 +1,211 @@
-state_name;state_iso;co2e_percapita
-Afghanistan;AF;0.81
-Albania;AL;3.06
-Algeria;DZ;6.25
-Angola;AO;2.43
-Anguilla;AI;2.16
-Antigua and Barbuda;AG;6.05
-Argentina;AR;8.89
-Armenia;AM;2.96
-Aruba;AW;8.70
-Australia;AU;23.49
-Austria;AT;9.76
-Azerbaijan;AZ;5.66
-Bahamas;BS;6.52
-Bahrain;BH;37.81
-Bangladesh;BD;1.54
-Barbados;BB;5.44
-Belarus;BY;11.01
-Belgium;BE;11.35
-Belize;BZ;2.69
-Benin;BJ;1.50
-Bermuda;BM;11.04
-Bhutan;BT;2.93
-Bolivia;BO;5.16
-Bosnia and Herzegovina;BA;8.75
-Botswana;BW;5.53
-Brazil;BR;5.97
-British Virgin Islands;VG;5.91
-Brunei;BN;29.49
-Bulgaria;BG;8.48
-Burkina Faso;BF;1.48
-Burundi;BI;0.55
-Cabo Verde;CV;2.06
-Cambodia;KH;2.55
-Cameroon;CM;1.60
-Canada;CA;20.62
-Cayman Islands;KY;8.70
-Central African Republic;CF;2.29
-Chad;TD;4.42
-Chile;CL;6.90
-China;CN;9.71
-Colombia;CO;3.93
-Comoros;KM;0.94
-Congo;CG;3.89
-Cook Islands;CK;3.82
-Costa Rica;CR;3.11
-Côte d’Ivoire;;1.18
-Croatia;HR;6.17
-Cuba;CU;4.02
-Curaçao;CW;21.05
-Cyprus;CY;7.23
-Czechia;CZ;12.37
-Democratic Republic of the Congo;CG;0.57
-Denmark;DK;8.54
-Djibouti;DJ;2.32
-Dominica;DM;3.37
-Dominican Republic;DO;3.79
-Ecuador;EC;4.05
-Egypt;EG;4.01
-El Salvador;SV;1.88
-Equatorial Guinea;GQ;10.50
-Eritrea;ER;1.23
-Estonia;EE;19.22
-Eswatini;SZ;2.44
-Ethiopia;ET;1.42
-Falkland Islands;FK;60.97
-Faroes;;0.90
-Fiji;FJ;3.65
-Finland;FI;13.50
-France and Monaco;FR;6.90
-French Guiana;GF;2.30
-French Polynesia;PF;3.76
-Gabon;GA;8.66
-Georgia;GE;4.20
-Germany;DE;10.62
-Ghana;GH;1.27
-Gibraltar;GI;23.35
-Greece;GR;8.24
-Greenland;GL;10.30
-Grenada;GD;2.61
-Guadeloupe;GP;4.87
-Guatemala;GT;2.35
-Guinea;GN;1.86
-Guinea-Bissau;GW;1.49
-Guyana;GY;6.47
-Haiti;HT;1.22
-Honduras;HN;2.45
-Hong Kong;HK;6.63
-Hungary;HU;6.93
-Iceland;IS;14.66
-India;IN;2.67
-Indonesia;ID;4.03
-Iran;IR;11.30
-Iraq;IQ;8.93
-Ireland;IE;14.08
-Israel and Palestine;ILPS;10.30
-Italy;IT;7.04
-Jamaica;JM;3.56
-Japan;JP;9.99
-Jordan;JO;3.57
-Kazakhstan;KZ;19.98
-Kenya;KE;1.79
-Kiribati;KI;0.80
-Kuwait;KW;33.71
-Kyrgyzstan;KG;3.47
-Laos;LA;5.31
-Latvia;LV;6.51
-Lebanon;LB;5.67
-Lesotho;LS;1.26
-Liberia;LR;0.86
-Libya;LY;12.24
-Lithuania;LT;8.15
-Luxembourg;LU;17.73
-Macao;MO;3.63
-Madagascar;MG;1.25
-Malawi;MW;0.66
-Malaysia;MY;10.12
-Maldives;MV;4.16
-Mali;ML;2.02
-Malta;MT;4.76
-Martinique;MQ;5.91
-Mauritania;MR;2.98
-Mauritius;MU;4.75
-Mexico;MX;6.13
-Moldova;MD;3.06
-Mongolia;MN;19.48
-Morocco;MA;2.80
-Mozambique;MZ;1.07
-Myanmar/Burma;;2.70
-Namibia;NA;4.65
-Nepal;NP;1.73
-Netherlands;NL;12.99
-New Caledonia;NC;19.79
-New Zealand;NZ;17.88
-Nicaragua;NI;3.04
-Niger;NE;1.56
-Nigeria;NG;2.01
-North Korea;KR;1.74
-North Macedonia;MK;4.91
-Norway;NO;13.26
-Oman;OM;24.85
-Pakistan;PK;2.51
-Palau;PW;58.27
-Panama;PA;3.85
-Papua New Guinea;PG;1.88
-Paraguay;PY;6.27
-Peru;PE;2.81
-Philippines;PH;2.23
-Poland;PL;11.15
-Portugal;PT;6.76
-Puerto Rico;PR;1.62
-Qatar;QA;66.23
-Réunion;RE;3.54
-Romania;RO;6.08
-Russia;RU;16.07
-Rwanda;RW;0.54
-"Saint Helena, Ascension and Tristan da Cunha";SH;5.15
-Saint Kitts and Nevis;KN;3.76
-Saint Lucia;LC;2.82
-Saint Pierre and Miquelon;PM;9.27
-Saint Vincent and the Grenadines;VC;1.80
-Samoa;WS;2.94
-São Tomé and Príncipe;ST;1.18
-Saudi Arabia;SA;22.37
-Senegal;SN;1.55
-Serbia and Montenegro;CS;10.08
-Seychelles;SC;13.15
-Sierra Leone;SL;0.87
-Singapore;SG;12.18
-Slovakia;SK;8.73
-Slovenia;SI;9.85
-Solomon Islands;SB;0.85
-Somalia;SO;1.91
-South Africa;ZA;10.00
-South Korea;KR;14.82
-Spain and Andorra;;7.54
-Sri Lanka;LK;1.99
-Sudan and South Sudan;SSSD;2.42
-Suriname;SR;5.16
-Sweden;SE;6.47
-Switzerland and Liechtenstein;CHLI;5.61
-Syria;SY;2.33
-Taiwan;TW;13.51
-Tajikistan;TJ;2.13
-Tanzania;TZ;1.27
-Thailand;TH;6.28
-The Gambia;GM;0.96
-Timor-Leste;TL;3.88
-Togo;TG;1.21
-Tonga;TO;2.09
-Trinidad and Tobago;TT;34.60
-Tunisia;TN;3.66
-Turkey;TR;7.07
-Turkmenistan;TM;21.50
-Turks and Caicos Islands;TC;6.65
-Uganda;UG;1.06
-Ukraine;UA;6.32
-United Arab Emirates;AE;29.09
-United Kingdom;GB;6.97
-United States;US;19.27
-Uruguay;UY;11.28
-Uzbekistan;UZ;5.32
-Vanuatu;VU;2.54
-Venezuela;VE;6.52
-Vietnam;VN;4.34
-Western Sahara;EH;1.09
-Yemen;YE;1.05
-Zambia;ZM;1.61705
-Zimbabwe;ZW;1.85
-European Union;EU;8.86
-World;WORLD;6.713089646
+state_iso;state_name;co2e_percapita
+AW;Aruba;4.64
+AF;Afghanistan;0.73
+AO;Angola;1.90
+AI;Anguilla;1.87
+AL;Albania;2.71
+CW;Cura�ao;13.06
+AE;UnitedArabEmirates;29.33
+AR;Argentina;8.27
+AM;Armenia;3.19
+AG;AntiguaandBarbuda;3.36
+AU;Australia;21.98
+AT;Austria;8.70
+AZ;Azerbaijan;6.72
+BI;Burundi;0.59
+BE;Belgium;9.74
+BJ;Benin;1.62
+BF;BurkinaFaso;1.65
+BD;Bangladesh;1.62
+BG;Bulgaria;10.00
+BH;Bahrain;39.29
+BS;Bahamas;4.54
+BA;BosniaandHerzegovina;8.41
+BY;Belarus;10.65
+BZ;Belize;2.36
+BM;Bermuda;5.90
+BO;Bolivia;4.92
+BR;Brazil;6.05
+BB;Barbados;3.22
+BN;Brunei;32.66
+BT;Bhutan;3.60
+BW;Botswana;5.05
+CF;CentralAfricanRepublic;2.62
+CA;Canada;19.79
+CH;SwitzerlandandLiechtenstein;5.18
+CL;Chile;7.31
+CN;China;10.95
+CI;C�ted�Ivoire;1.32
+CM;Cameroon;1.58
+CD;DemocraticRepublicoftheCongo;0.65
+CG;Congo;4.34
+CK;CookIslands;6.96
+CO;Colombia;4.23
+KM;Comoros;1.02
+CV;CaboVerde;2.24
+CR;CostaRica;3.29
+CU;Cuba;3.86
+KY;CaymanIslands;5.31
+CY;Cyprus;8.68
+CZ;Czechia;11.71
+DE;Germany;9.49
+DJ;Djibouti;2.17
+DM;Dominica;1.97
+DK;Denmark;7.84
+DO;DominicanRepublic;3.70
+DZ;Algeria;6.38
+EC;Ecuador;4.32
+EG;Egypt;3.55
+ER;Eritrea;1.22
+EH;WesternSahara;0.78
+ES;SpainandAndorra;7.08
+EE;Estonia;10.68
+ET;Ethiopia;1.63
+FI;Finland;9.76
+FJ;Fiji;3.19
+FK;FalklandIslands;8.35
+FR;FranceandMonaco;6.50
+FO;Faroes;1.00
+GA;Gabon;8.32
+GB;UnitedKingdom;6.27
+GE;Georgia;4.66
+GH;Ghana;1.66
+GI;Gibraltar;19.68
+GN;Guinea;2.02
+GP;Guadeloupe;2.81
+GM;TheGambia;0.97
+GW;Guinea-Bissau;1.55
+GQ;EquatorialGuinea;7.71
+GR;Greece;6.88
+GD;Grenada;1.75
+GL;Greenland;9.47
+GT;Guatemala;2.42
+GF;FrenchGuiana;1.84
+GY;Guyana;9.75
+HK;HongKong;5.12
+HN;Honduras;2.37
+HR;Croatia;5.94
+HT;Haiti;1.28
+HU;Hungary;6.93
+ID;Indonesia;4.47
+IN;India;2.79
+IE;Ireland;12.58
+IR;Iran;11.20
+IQ;Iraq;8.41
+IS;Iceland;13.70
+IL;IsraelandPalestine,Stateof;6.02
+IT;Italy,SanMarinoandtheHolySee;6.70
+JM;Jamaica;2.64
+JO;Jordan;3.32
+JP;Japan;9.41
+KZ;Kazakhstan;17.33
+KE;Kenya;2.10
+KG;Kyrgyzstan;3.40
+KH;Cambodia;2.91
+KI;Kiribati;0.87
+KN;SaintKittsandNevis;2.64
+KR;SouthKorea;14.01
+KW;Kuwait;37.96
+LA;Laos;5.01
+LB;Lebanon;5.43
+LR;Liberia;0.99
+LY;Libya;15.32
+LC;SaintLucia;2.37
+LK;SriLanka;1.83
+LS;Lesotho;1.27
+LT;Lithuania;7.37
+LU;Luxembourg;13.69
+LV;Latvia;5.98
+MO;Macao;3.59
+MA;Morocco;3.03
+MD;Moldova;3.09
+MG;Madagascar;1.20
+MV;Maldives;5.14
+MX;Mexico;5.99
+MK;NorthMacedonia;5.35
+ML;Mali;2.30
+MT;Malta;5.00
+MM;Myanmar/Burma;3.04
+MN;Mongolia;19.07
+MZ;Mozambique;1.17
+MR;Mauritania;3.31
+MQ;Martinique;2.80
+MU;Mauritius;5.01
+MW;Malawi;0.98
+MY;Malaysia;10.50
+NA;Namibia;4.67
+NC;NewCaledonia;19.35
+NE;Niger;1.66
+NG;Nigeria;1.88
+NI;Nicaragua;3.21
+NL;Netherlands;9.72
+NO;Norway;12.60
+NP;Nepal;1.84
+NZ;NewZealand;16.83
+OM;Oman;25.59
+PK;Pakistan;2.53
+PA;Panama;4.19
+PE;Peru;3.09
+PH;Philippines;2.35
+PW;Palau;61.65
+PG;PapuaNewGuinea;1.00
+PL;Poland;10.62
+PR;PuertoRico;4.19
+KP;NorthKorea;3.12
+PT;Portugal;5.88
+PY;Paraguay;6.30
+PF;FrenchPolynesia;3.82
+QA;Qatar;67.38
+RE;R�union;3.46
+RO;Romania;6.10
+RU;Russia;17.99
+RW;Rwanda;0.66
+SA;SaudiArabia;22.64
+CS;SerbiaandMontenegro;7.54
+SD;SudanandSouthSudan;2.42
+SN;Senegal;1.69
+SG;Singapore;11.67
+SH;SaintHelena,AscensionandTristandaCunha;5.08
+SB;SolomonIslands;0.88
+SL;SierraLeone;0.85
+SV;ElSalvador;2.00
+SO;Somalia;1.95
+PM;SaintPierreandMiquelon;6.30
+ST;S�oTom�andPr�ncipe;1.16
+SR;Suriname;7.67
+SK;Slovakia;8.36
+SI;Slovenia;8.78
+SE;Sweden;5.91
+SZ;Eswatini;2.28
+SC;Seychelles;12.36
+SY;Syria;2.26
+TC;TurksandCaicosIslands;2.65
+TD;Chad;5.21
+TG;Togo;1.26
+TH;Thailand;6.67
+TJ;Tajikistan;2.32
+TM;Turkmenistan;20.80
+TL;Timor-Leste;1.72
+TO;Tonga;2.51
+TT;TrinidadandTobago;33.27
+TN;Tunisia;4.11
+TR;T�rkiye;8.09
+TW;Taiwan;12.86
+TZ;Tanzania;1.34
+UG;Uganda;1.12
+UA;Ukraine;4.84
+UY;Uruguay;11.91
+US;UnitedStates;17.90
+UZ;Uzbekistan;6.67
+VC;SaintVincentandtheGrenadines;1.39
+VE;Venezuela;4.99
+VG;BritishVirginIslands;2.28
+VN;Vietnam;4.88
+VU;Vanuatu;1.91
+WS;Samoa;2.70
+YE;Yemen;1.20
+ZA;SouthAfrica;8.91
+ZM;Zambia;1.53
+ZW;Zimbabwe;1.64
+EU;European Union;8.09
+WORLD;World;6.76
