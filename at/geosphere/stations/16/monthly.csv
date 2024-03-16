@@ -901,7 +901,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2023-12;-0.54;0;0;0;8
 2024-1;-1.67;0;0;0;12
 2024-2;2.83;0;0;0;0
-2024-3;null;0;0;0;0
+2024-3;null;null;null;null;null
 2024-4;null;null;null;null;null
 2024-5;null;null;null;null;null
 2024-6;null;null;null;null;null
