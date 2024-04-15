@@ -130,7 +130,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1981-9;14.45;0;1;0;0
 1981-10;9.26;0;0;0;0
 1981-11;4.62;0;0;0;0
-1981-12;9.18;274;1626;1;815
+1981-12;9.18;274;1627;1;815
 1982-1;null;null;null;null;null
 1982-2;null;null;null;null;null
 1982-3;null;null;null;null;null
@@ -638,7 +638,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2024-1;0.41;0;0;0;6
 2024-2;5.58;0;0;0;0
 2024-3;7.69;0;0;0;0
-2024-4;null;0;2;0;0
+2024-4;null;0;3;0;0
 2024-5;null;null;null;null;null
 2024-6;null;null;null;null;null
 2024-7;null;null;null;null;null
