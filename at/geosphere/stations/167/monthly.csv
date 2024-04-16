@@ -902,7 +902,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2024-1;-0.45;0;0;0;5
 2024-2;6.07;0;0;0;0
 2024-3;7.39;0;0;0;0
-2024-4;null;0;5;0;0
+2024-4;null;null;null;null;null
 2024-5;null;null;null;null;null
 2024-6;null;null;null;null;null
 2024-7;null;null;null;null;null
