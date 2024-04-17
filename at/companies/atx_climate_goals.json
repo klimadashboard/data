@@ -75,7 +75,7 @@
 		"name": "Mayr-Melnhof Karton AG",
 		"climateNeutrality": "Ja",
 		"climateNeutralityYear": 2050,
-		"climateNeutralityScopes": " 1, 2",
+		"climateNeutralityScopes": "1, 2",
 		"intermediateGoal": "Ja",
 		"memberSBT": "Ja"
 	},
@@ -83,7 +83,7 @@
 		"name": "OMV AG",
 		"climateNeutrality": "Ja",
 		"climateNeutralityYear": 2050,
-		"climateNeutralityScopes": " 1, 2, 3",
+		"climateNeutralityScopes": "1, 2, 3",
 		"intermediateGoal": "Ja",
 		"memberSBT": "Nein"
 	},
