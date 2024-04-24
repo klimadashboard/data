@@ -1,0 +1,142 @@
+[
+	{
+		"name": "Andritz AG",
+		"climateNeutrality": 2040,
+		"climateNeutralityScopes": "1, 2",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Austria Technologie & Systemtechnik AG",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "BAWAG Group AG",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "CA Immobilien Anlagen AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "1, 2, 3",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "Do & Co AG",
+		"climateNeutrality": 2030,
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Nein",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "Erste Group Bank AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "1, 2, 3",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "EVN AG",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Immofinanz AG",
+		"climateNeutrality": 2040,
+		"climateNeutralityScopes": "1, 2, 3",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Lenzing AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "1, 2, 3",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Mayr-Melnhof Karton AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "1, 2",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "OMV AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "1, 2, 3",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "Österreichische Post AG",
+		"climateNeutrality": 2040,
+		"climateNeutralityScopes": "1, 2, 3",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Raiffeisen Bank International AG",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Schoeller-Bleckmann Oilfield Equipment AG",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Nein",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "STRABAG SE",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Nein",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "Uniqa Insurance Group AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Nein",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "Verbund AG",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Vienna Insurance Group AG",
+		"climateNeutrality": "Nein",
+		"climateNeutralityScopes": "nicht definiert",
+		"intermediateGoal": "Nein",
+		"memberSBT": "Nein"
+	},
+	{
+		"name": "Voestalpine AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "1, 2",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Ja"
+	},
+	{
+		"name": "Wienerberger AG",
+		"climateNeutrality": 2050,
+		"climateNeutralityScopes": "1, 2",
+		"intermediateGoal": "Ja",
+		"memberSBT": "Nein"
+	}
+]
