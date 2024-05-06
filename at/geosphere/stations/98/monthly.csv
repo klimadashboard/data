@@ -716,7 +716,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1960-7;13.48;0;4;0;0
 1960-8;14.55;4;9;0;0
 1960-9;10.78;0;0;0;0
-1960-10;null;null;null;null;null
+1960-10;7.2;0;0;0;0
 1960-11;null;null;null;null;null
 1960-12;-5.71;0;0;0;19
 1961-1;-11.47;0;0;0;25
@@ -1167,7 +1167,7 @@ month;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1998-2;0.75;0;0;0;3
 1998-3;1.74;0;0;0;4
 1998-4;6.88;0;0;0;0
-1998-5;8.88;0;0;0;0
+1998-5;11.02;0;3;0;0
 1998-6;16.22;0;11;0;0
 1998-7;17.1;4;14;0;0
 1998-8;17.17;5;16;0;0

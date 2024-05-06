@@ -69,9 +69,9 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1968;9.66;5;43;0;27
 1969;9.51;7;52;2;41
 1970;9.25;3;42;1;30
-1971;9.78;20;60;0;28
+1971;null;null;null;null;null
 1972;9.43;15;46;2;32
-1973;10.6;630;2947;122;944
+1973;null;null;null;null;null
 1974;null;null;null;null;null
 1975;9.94;0;46;0;11
 1976;9.76;7;46;0;17
