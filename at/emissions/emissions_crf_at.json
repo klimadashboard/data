@@ -1809,7 +1809,7 @@
                     "explanation": "Emissionen aus diesem Sektor sind in \u00d6sterreich ausschlie\u00dflich der Halbleiterherstellung zuzurechnen und bestehen aus den Treibhausgasen: HFKW, PFC-, SF6- und NF3."
                 },
                 {
-                    "label": "Anwendungen als Ozon-zersetztende-Substanzien-Ersatzstoff",
+                    "label": "Anwendungen als Ozon-zersetzende-Substanzen-Ersatzstoff",
                     "code": "2 F",
                     "key": "fluorinated",
                     "absolute": [
@@ -1847,7 +1847,7 @@
                         1.42829756,
                         1.408518036
                     ],
-                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flouriten-Gas-Emissionen seither gestiegen."
+                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Fluorierten-Gas-Emissionen seither gestiegen."
                 }
             ]
         },

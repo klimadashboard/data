@@ -1,18 +1,4 @@
 year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
-1937;null;null;null;null;null
-1938;6.46;0;17;0;37
-1939;null;null;null;null;null
-1940;null;null;null;null;null
-1941;5.66;0;18;0;43
-1942;6.83;0;17;0;54
-1943;7.25;3;25;0;28
-1944;6.17;2;22;0;35
-1945;null;null;null;null;null
-1946;6.98;1;31;0;37
-1947;7.1;4;45;0;44
-1948;7.36;0;18;0;28
-1949;7.26;1;21;0;19
-1950;7.54;5;45;0;30
 1951;7.5;0;35;0;5
 1952;6.61;8;27;0;35
 1953;7.5;0;25;0;34
@@ -63,7 +49,7 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 1998;8.21;10;43;0;17
 1999;8.2;1;33;0;22
 2000;8.77;5;44;0;13
-2001;8.55;136;772;0;301
+2001;null;null;null;null;null
 2002;null;null;null;null;null
 2003;null;null;null;null;null
 2004;null;null;null;null;null
@@ -86,4 +72,4 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2021;7.96;5;44;0;23
 2022;9.24;8;53;0;6
 2023;9.29;9;44;0;12
-2024;null;0;2;0;4
+2024;null;3;35;0;4

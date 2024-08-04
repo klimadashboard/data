@@ -801,7 +801,7 @@
                     "explanation": "Die Emissionen aus diesem Sektor sind in Deutschland z.B. der Halbleiterherstellung & Photovoltaik-Produktion zuzurechnen und bestehen aus fluorierten Treibhausgasen, wie z B. FKW, HFKW, SF6- und NF3."
                 },
                 {
-                    "label": "Anwendungen als Ozon-zersetztende-Substanzien-Ersatzstoff",
+                    "label": "Anwendungen als Ozon-zersetzende-Substanzen-Ersatzstoff",
                     "code": "2 F",
                     "key": "industry",
                     "absolute": [
@@ -838,7 +838,7 @@
                         8.22873163,
                         8.038445957
                     ],
-                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flouriten-Gas-Emissionen seither gestiegen."
+                    "explanation": "Emissionen aus Produkten, die als Ersatz f\u00fcr ozonabbauende Stoffe (ODS) verwendet werden. Emissionen aus diesem Sektor traten 1990 nicht auf, aber aufgrund des Ersatzes von ODS und des expandierenden K\u00e4lte-, Klimaanlagen- und W\u00e4rmepumpensektors sind die Flourierten-Gas-Emissionen seither gestiegen."
                 },
                 {
                     "label": "Sonstige Produktherstellung und -verwendung",

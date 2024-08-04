@@ -1,0 +1,3193 @@
+year;region;value;gastype;sector
+2020;Deutschland;730922.6893;GHG;total
+2020;Deutschland;647252.3329;CO2;total
+2020;Deutschland;602585.7382;CO2;energy
+2020;Deutschland;42038.09354;CO2;industrial processes
+2020;Deutschland;2628.501184;CO2;agriculture
+2020;Deutschland;47051.4094;CH4;total
+2020;Deutschland;24922.35075;N2O;total
+2020;Deutschland;11696.59629;F-Gases;total
+2020;Summe der Länder;x;GHG;total
+2020;Summe der Länder;x;CO2;total
+2020;Summe der Länder;599116.0742;CO2;energy
+2020;Summe der Länder;19694.7303;CO2;industrial processes
+2020;Summe der Länder;2624.792065;CO2;agriculture
+2020;Summe der Länder;43895.47928;CH4;total
+2020;Summe der Länder;23438.81382;N2O;total
+2020;Summe der Länder;11696.59629;F-Gases;total
+2020;Stadtstaaten;25172.0088;GHG;total
+2020;Stadtstaaten;24025.04191;CO2;total
+2020;Stadtstaaten;23843.32069;CO2;energy
+2020;Stadtstaaten;178.012107;CO2;industrial processes
+2020;Stadtstaaten;3.70911895;CO2;agriculture
+2020;Stadtstaaten;207.5720632;CH4;total
+2020;Stadtstaaten;163.4758722;N2O;total
+2020;Stadtstaaten;775.9189508;F-Gases;total
+2020;Baden-Württemberg;68761.61739;GHG;total
+2020;Baden-Württemberg;61554.20565;CO2;total
+2020;Baden-Württemberg;58742.1497;CO2;energy
+2020;Baden-Württemberg;2699.601727;CO2;industrial processes
+2020;Baden-Württemberg;112.4542318;CO2;agriculture
+2020;Baden-Württemberg;3675.706431;CH4;total
+2020;Baden-Württemberg;1970.245939;N2O;total
+2020;Baden-Württemberg;1561.459362;F-Gases;total
+2020;Bayern;91165.86783;GHG;total
+2020;Bayern;74143.97767;CO2;total
+2020;Bayern;70116.82881;CO2;energy
+2020;Bayern;3575.160133;CO2;industrial processes
+2020;Bayern;451.9887218;CO2;agriculture
+2020;Bayern;10292.59954;CH4;total
+2020;Bayern;4882.207061;N2O;total
+2020;Bayern;1847.083557;F-Gases;total
+2020;Berlin;.;GHG;total
+2020;Berlin;.;CO2;total
+2020;Berlin;12855.3476;CO2;energy
+2020;Berlin;0;CO2;industrial processes
+2020;Berlin;.;CO2;agriculture
+2020;Berlin;115.2725778;CH4;total
+2020;Berlin;91.06740462;N2O;total
+2020;Berlin;515.7348672;F-Gases;total
+2020;Brandenburg;49023.07949;GHG;total
+2020;Brandenburg;44714.54097;CO2;total
+2020;Brandenburg;43512.31657;CO2;energy
+2020;Brandenburg;1040.8;CO2;industrial processes
+2020;Brandenburg;161.424397;CO2;agriculture
+2020;Brandenburg;2314.088326;CH4;total
+2020;Brandenburg;1639.099919;N2O;total
+2020;Brandenburg;355.3502815;F-Gases;total
+2020;Bremen;.;GHG;total
+2020;Bremen;.;CO2;total
+2020;Bremen;9217.198773;CO2;energy
+2020;Bremen;0;CO2;industrial processes
+2020;Bremen;.;CO2;agriculture
+2020;Bremen;129.3880743;CH4;total
+2020;Bremen;81.88848952;N2O;total
+2020;Bremen;95.73583137;F-Gases;total
+2020;Hamburg;.;GHG;total
+2020;Hamburg;.;CO2;total
+2020;Hamburg;10987.97308;CO2;energy
+2020;Hamburg;178.012107;CO2;industrial processes
+2020;Hamburg;.;CO2;agriculture
+2020;Hamburg;92.29948539;CH4;total
+2020;Hamburg;72.40846762;N2O;total
+2020;Hamburg;260.1840836;F-Gases;total
+2020;Hessen;35651.90894;GHG;total
+2020;Hessen;32316.70578;CO2;total
+2020;Hessen;31701.70264;CO2;energy
+2020;Hessen;529.4869867;CO2;industrial processes
+2020;Hessen;85.51616156;CO2;agriculture
+2020;Hessen;1640.768161;CH4;total
+2020;Hessen;809.6582498;N2O;total
+2020;Hessen;884.7767456;F-Gases;total
+2020;Mecklenburg-Vorpommern;â€¦;GHG;total
+2020;Mecklenburg-Vorpommern;â€¦;CO2;total
+2020;Mecklenburg-Vorpommern;â€¦;CO2;energy
+2020;Mecklenburg-Vorpommern;â€¦;CO2;industrial processes
+2020;Mecklenburg-Vorpommern;195.6814734;CO2;agriculture
+2020;Mecklenburg-Vorpommern;â€¦;CH4;total
+2020;Mecklenburg-Vorpommern;â€¦;N2O;total
+2020;Mecklenburg-Vorpommern;226.3703611;F-Gases;total
+2020;Niedersachsen;73835.62184;GHG;total
+2020;Niedersachsen;58723.61002;CO2;total
+2020;Niedersachsen;57118.94563;CO2;energy
+2020;Niedersachsen;1128.839162;CO2;industrial processes
+2020;Niedersachsen;475.8252319;CO2;agriculture
+2020;Niedersachsen;9223.137797;CH4;total
+2020;Niedersachsen;4763.881029;N2O;total
+2020;Niedersachsen;1124.992997;F-Gases;total
+2020;Nordrhein-Westfalen;209153.6839;GHG;total
+2020;Nordrhein-Westfalen;195859.081;CO2;total
+2020;Nordrhein-Westfalen;188789.8286;CO2;energy
+2020;Nordrhein-Westfalen;6756.960198;CO2;industrial processes
+2020;Nordrhein-Westfalen;312.2922215;CO2;agriculture
+2020;Nordrhein-Westfalen;7053.075323;CH4;total
+2020;Nordrhein-Westfalen;3718.76933;N2O;total
+2020;Nordrhein-Westfalen;2522.758273;F-Gases;total
+2020;Rheinland-Pfalz;31013.88609;GHG;total
+2020;Rheinland-Pfalz;28183.54026;CO2;total
+2020;Rheinland-Pfalz;26044.80735;CO2;energy
+2020;Rheinland-Pfalz;2084.654932;CO2;industrial processes
+2020;Rheinland-Pfalz;54.07798028;CO2;agriculture
+2020;Rheinland-Pfalz;1485.017714;CH4;total
+2020;Rheinland-Pfalz;769.2040868;N2O;total
+2020;Rheinland-Pfalz;576.1240292;F-Gases;total
+2020;Saarland;â€¦;GHG;total
+2020;Saarland;â€¦;CO2;total
+2020;Saarland;â€¦;CO2;energy
+2020;Saarland;0;CO2;industrial processes
+2020;Saarland;3.717815989;CO2;agriculture
+2020;Saarland;â€¦;CH4;total
+2020;Saarland;â€¦;N2O;total
+2020;Saarland;138.6022248;F-Gases;total
+2020;Sachsen;45169.69407;GHG;total
+2020;Sachsen;41719.92139;CO2;total
+2020;Sachsen;41378.11801;CO2;energy
+2020;Sachsen;99.15067924;CO2;industrial processes
+2020;Sachsen;242.6527086;CO2;agriculture
+2020;Sachsen;1792.663361;CH4;total
+2020;Sachsen;1085.44263;N2O;total
+2020;Sachsen;571.6666827;F-Gases;total
+2020;Sachsen-Anhalt;â€¦;GHG;total
+2020;Sachsen-Anhalt;â€¦;CO2;total
+2020;Sachsen-Anhalt;22336.59146;CO2;energy
+2020;Sachsen-Anhalt;â€¦;CO2;industrial processes
+2020;Sachsen-Anhalt;165.2969298;CO2;agriculture
+2020;Sachsen-Anhalt;1459.128712;CH4;total
+2020;Sachsen-Anhalt;1186.010827;N2O;total
+2020;Sachsen-Anhalt;307.7051558;F-Gases;total
+2020;Schleswig-Holstein;23607.74298;GHG;total
+2020;Schleswig-Holstein;18186.33697;CO2;total
+2020;Schleswig-Holstein;16351.41228;CO2;energy
+2020;Schleswig-Holstein;1602.064371;CO2;industrial processes
+2020;Schleswig-Holstein;232.8603219;CO2;agriculture
+2020;Schleswig-Holstein;3350.113696;CH4;total
+2020;Schleswig-Holstein;1662.376515;N2O;total
+2020;Schleswig-Holstein;408.9157975;F-Gases;total
+2020;Thüringen;.;GHG;total
+2020;Thüringen;.;CO2;total
+2020;Thüringen;9962.85371;CO2;energy
+2020;Thüringen;.;CO2;industrial processes
+2020;Thüringen;131.0038694;CO2;agriculture
+2020;Thüringen;1272.220076;CH4;total
+2020;Thüringen;706.5538715;N2O;total
+2020;Thüringen;299.1360404;F-Gases;total
+2019;Deutschland;794633.6696;GHG;total
+2019;Deutschland;707491.365;CO2;total
+2019;Deutschland;659812.6114;CO2;energy
+2019;Deutschland;44947.94998;CO2;industrial processes
+2019;Deutschland;2730.803577;CO2;agriculture
+2019;Deutschland;48261.43428;CH4;total
+2019;Deutschland;25668.94498;N2O;total
+2019;Deutschland;13211.92535;F-Gases;total
+2019;Summe der Länder;x;GHG;total
+2019;Summe der Länder;x;CO2;total
+2019;Summe der Länder;652955.7839;CO2;energy
+2019;Summe der Länder;23645.07453;CO2;industrial processes
+2019;Summe der Länder;2722.253253;CO2;agriculture
+2019;Summe der Länder;45343.60632;CH4;total
+2019;Summe der Länder;24247.71;N2O;total
+2019;Summe der Länder;13211.92535;F-Gases;total
+2019;Stadtstaaten;29782.22152;GHG;total
+2019;Stadtstaaten;28501.92574;CO2;total
+2019;Stadtstaaten;28326.52897;CO2;energy
+2019;Stadtstaaten;166.846451;CO2;industrial processes
+2019;Stadtstaaten;8.550324497;CO2;agriculture
+2019;Stadtstaaten;225.426171;CH4;total
+2019;Stadtstaaten;180.1414674;N2O;total
+2019;Stadtstaaten;874.7281428;F-Gases;total
+2019;Baden-Württemberg;74241.9146;GHG;total
+2019;Baden-Württemberg;66573.21789;CO2;total
+2019;Baden-Württemberg;63775.9289;CO2;energy
+2019;Baden-Württemberg;2681.891448;CO2;industrial processes
+2019;Baden-Württemberg;115.3975416;CO2;agriculture
+2019;Baden-Württemberg;3864.877886;CH4;total
+2019;Baden-Württemberg;2041.290373;N2O;total
+2019;Baden-Württemberg;1762.528454;F-Gases;total
+2019;Bayern;95253.48972;GHG;total
+2019;Bayern;77691.83848;CO2;total
+2019;Bayern;73583.78398;CO2;energy
+2019;Bayern;3639.727638;CO2;industrial processes
+2019;Bayern;468.3268625;CO2;agriculture
+2019;Bayern;10473.61781;CH4;total
+2019;Bayern;5004.994851;N2O;total
+2019;Bayern;2083.038576;F-Gases;total
+2019;Berlin;.;GHG;total
+2019;Berlin;.;CO2;total
+2019;Berlin;13675.30077;CO2;energy
+2019;Berlin;0;CO2;industrial processes
+2019;Berlin;.;CO2;agriculture
+2019;Berlin;125.2742695;CH4;total
+2019;Berlin;95.07934679;N2O;total
+2019;Berlin;581.4946082;F-Gases;total
+2019;Brandenburg;54576.09866;GHG;total
+2019;Brandenburg;50060.75368;CO2;total
+2019;Brandenburg;48843.62642;CO2;energy
+2019;Brandenburg;1039.6;CO2;industrial processes
+2019;Brandenburg;177.5272577;CO2;agriculture
+2019;Brandenburg;2409.87071;CH4;total
+2019;Brandenburg;1705.282019;N2O;total
+2019;Brandenburg;400.1922494;F-Gases;total
+2019;Bremen;.;GHG;total
+2019;Bremen;.;CO2;total
+2019;Bremen;11443.13878;CO2;energy
+2019;Bremen;0;CO2;industrial processes
+2019;Bremen;.;CO2;agriculture
+2019;Bremen;126.6989456;CH4;total
+2019;Bremen;91.80190604;N2O;total
+2019;Bremen;108.4541261;F-Gases;total
+2019;Hamburg;.;GHG;total
+2019;Hamburg;.;CO2;total
+2019;Hamburg;14651.2282;CO2;energy
+2019;Hamburg;166.846451;CO2;industrial processes
+2019;Hamburg;.;CO2;agriculture
+2019;Hamburg;100.1519014;CH4;total
+2019;Hamburg;85.06212056;N2O;total
+2019;Hamburg;293.2335346;F-Gases;total
+2019;Hessen;38650.4105;GHG;total
+2019;Hessen;35039.54796;CO2;total
+2019;Hessen;34468.43616;CO2;energy
+2019;Hessen;482.3874465;CO2;industrial processes
+2019;Hessen;88.72435443;CO2;agriculture
+2019;Hessen;1765.945646;CH4;total
+2019;Hessen;846.8717744;N2O;total
+2019;Hessen;998.0451146;F-Gases;total
+2019;Mecklenburg-Vorpommern;â€¦;GHG;total
+2019;Mecklenburg-Vorpommern;â€¦;CO2;total
+2019;Mecklenburg-Vorpommern;â€¦;CO2;energy
+2019;Mecklenburg-Vorpommern;â€¦;CO2;industrial processes
+2019;Mecklenburg-Vorpommern;197.0151974;CO2;agriculture
+2019;Mecklenburg-Vorpommern;â€¦;CH4;total
+2019;Mecklenburg-Vorpommern;â€¦;N2O;total
+2019;Mecklenburg-Vorpommern;255.8189965;F-Gases;total
+2019;Niedersachsen;77159.79255;GHG;total
+2019;Niedersachsen;61523.1615;CO2;total
+2019;Niedersachsen;59910.52069;CO2;energy
+2019;Niedersachsen;1126.569129;CO2;industrial processes
+2019;Niedersachsen;486.0716812;CO2;agriculture
+2019;Niedersachsen;9510.489474;CH4;total
+2019;Niedersachsen;4856.031302;N2O;total
+2019;Niedersachsen;1270.110272;F-Gases;total
+2019;Nordrhein-Westfalen;230824.086;GHG;total
+2019;Nordrhein-Westfalen;216774.5637;CO2;total
+2019;Nordrhein-Westfalen;209337.734;CO2;energy
+2019;Nordrhein-Westfalen;7113.716861;CO2;industrial processes
+2019;Nordrhein-Westfalen;323.1127726;CO2;agriculture
+2019;Nordrhein-Westfalen;7251.665915;CH4;total
+2019;Nordrhein-Westfalen;3945.375594;N2O;total
+2019;Nordrhein-Westfalen;2852.480861;F-Gases;total
+2019;Rheinland-Pfalz;31820.61085;GHG;total
+2019;Rheinland-Pfalz;28855.30365;CO2;total
+2019;Rheinland-Pfalz;26709.20419;CO2;energy
+2019;Rheinland-Pfalz;2079.108575;CO2;industrial processes
+2019;Rheinland-Pfalz;66.99088381;CO2;agriculture
+2019;Rheinland-Pfalz;1525.546505;CH4;total
+2019;Rheinland-Pfalz;789.5431544;N2O;total
+2019;Rheinland-Pfalz;650.2175409;F-Gases;total
+2019;Saarland;â€¦;GHG;total
+2019;Saarland;â€¦;CO2;total
+2019;Saarland;â€¦;CO2;energy
+2019;Saarland;0;CO2;industrial processes
+2019;Saarland;4.445770479;CO2;agriculture
+2019;Saarland;â€¦;CH4;total
+2019;Saarland;â€¦;N2O;total
+2019;Saarland;157.2046925;F-Gases;total
+2019;Sachsen;49402.18731;GHG;total
+2019;Sachsen;45756.17366;CO2;total
+2019;Sachsen;45403.94003;CO2;energy
+2019;Sachsen;95.37302353;CO2;industrial processes
+2019;Sachsen;256.8606072;CO2;agriculture
+2019;Sachsen;1864.255443;CH4;total
+2019;Sachsen;1133.833466;N2O;total
+2019;Sachsen;647.924736;F-Gases;total
+2019;Sachsen-Anhalt;31071.71831;GHG;total
+2019;Sachsen-Anhalt;27916.99689;CO2;total
+2019;Sachsen-Anhalt;24081.30215;CO2;energy
+2019;Sachsen-Anhalt;3661.5786;CO2;industrial processes
+2019;Sachsen-Anhalt;174.1161426;CO2;agriculture
+2019;Sachsen-Anhalt;1587.13834;CH4;total
+2019;Sachsen-Anhalt;1217.532503;N2O;total
+2019;Sachsen-Anhalt;350.0505769;F-Gases;total
+2019;Schleswig-Holstein;24072.73466;GHG;total
+2019;Schleswig-Holstein;18482.04952;CO2;total
+2019;Schleswig-Holstein;16676.6443;CO2;energy
+2019;Schleswig-Holstein;1558.275359;CO2;industrial processes
+2019;Schleswig-Holstein;247.1298532;CO2;agriculture
+2019;Schleswig-Holstein;3420.47554;CH4;total
+2019;Schleswig-Holstein;1709.065951;N2O;total
+2019;Schleswig-Holstein;461.1436546;F-Gases;total
+2019;Thüringen;.;GHG;total
+2019;Thüringen;.;CO2;total
+2019;Thüringen;10394.99533;CO2;energy
+2019;Thüringen;.;CO2;industrial processes
+2019;Thüringen;116.5343283;CO2;agriculture
+2019;Thüringen;1317.597935;CH4;total
+2019;Thüringen;725.9456382;N2O;total
+2019;Thüringen;339.9873574;F-Gases;total
+2018;Deutschland;846171.1901;GHG;total
+2018;Deutschland;754811.1381;CO2;total
+2018;Deutschland;704779.9563;CO2;energy
+2018;Deutschland;47175.78398;CO2;industrial processes
+2018;Deutschland;2855.397833;CO2;agriculture
+2018;Deutschland;51097.52528;CH4;total
+2018;Deutschland;26383.10341;N2O;total
+2018;Deutschland;13879.42336;F-Gases;total
+2018;Summe der Länder;x;GHG;total
+2018;Summe der Länder;x;CO2;total
+2018;Summe der Länder;707938.018;CO2;energy
+2018;Summe der Länder;24324.80677;CO2;industrial processes
+2018;Summe der Länder;2844.485857;CO2;agriculture
+2018;Summe der Länder;50411.58003;CH4;total
+2018;Summe der Länder;26538.63471;N2O;total
+2018;Summe der Länder;13879.42336;F-Gases;total
+2018;Stadtstaaten;32032.95129;GHG;total
+2018;Stadtstaaten;30703.08982;CO2;total
+2018;Stadtstaaten;30522.62883;CO2;energy
+2018;Stadtstaaten;169.54901;CO2;industrial processes
+2018;Stadtstaaten;10.91197569;CO2;agriculture
+2018;Stadtstaaten;228.5699905;CH4;total
+2018;Stadtstaaten;186.377726;N2O;total
+2018;Stadtstaaten;914.9137619;F-Gases;total
+2018;Baden-Württemberg;77022.00711;GHG;total
+2018;Baden-Württemberg;69097.80202;CO2;total
+2018;Baden-Württemberg;66242.95861;CO2;energy
+2018;Baden-Württemberg;2731.123669;CO2;industrial processes
+2018;Baden-Württemberg;123.7197382;CO2;agriculture
+2018;Baden-Württemberg;3997.161308;CH4;total
+2018;Baden-Württemberg;2077.730671;N2O;total
+2018;Baden-Württemberg;1849.313108;F-Gases;total
+2018;Bayern;94140.19777;GHG;total
+2018;Bayern;76223.4888;CO2;total
+2018;Bayern;72277.44423;CO2;energy
+2018;Bayern;3486.106631;CO2;industrial processes
+2018;Bayern;459.9379319;CO2;agriculture
+2018;Bayern;10635.13616;CH4;total
+2018;Bayern;5099.028803;N2O;total
+2018;Bayern;2182.54401;F-Gases;total
+2018;Berlin;.;GHG;total
+2018;Berlin;.;CO2;total
+2018;Berlin;14511.0589;CO2;energy
+2018;Berlin;0;CO2;industrial processes
+2018;Berlin;.;CO2;agriculture
+2018;Berlin;124.1941474;CH4;total
+2018;Berlin;93.02264229;N2O;total
+2018;Berlin;607.5650901;F-Gases;total
+2018;Brandenburg;62159.45179;GHG;total
+2018;Brandenburg;57566.82948;CO2;total
+2018;Brandenburg;56351.27106;CO2;energy
+2018;Brandenburg;1028.8;CO2;industrial processes
+2018;Brandenburg;186.7584234;CO2;agriculture
+2018;Brandenburg;2392.609519;CH4;total
+2018;Brandenburg;1780.147018;N2O;total
+2018;Brandenburg;419.8657726;F-Gases;total
+2018;Bremen;.;GHG;total
+2018;Bremen;.;CO2;total
+2018;Bremen;12415.15842;CO2;energy
+2018;Bremen;0;CO2;industrial processes
+2018;Bremen;.;CO2;agriculture
+2018;Bremen;122.3119413;CH4;total
+2018;Bremen;99.63862776;N2O;total
+2018;Bremen;114.1764886;F-Gases;total
+2018;Hamburg;.;GHG;total
+2018;Hamburg;.;CO2;total
+2018;Hamburg;16011.56993;CO2;energy
+2018;Hamburg;169.54901;CO2;industrial processes
+2018;Hamburg;.;CO2;agriculture
+2018;Hamburg;104.3758431;CH4;total
+2018;Hamburg;93.35508376;N2O;total
+2018;Hamburg;307.3486717;F-Gases;total
+2018;Hessen;38554.11555;GHG;total
+2018;Hessen;34786.72037;CO2;total
+2018;Hessen;34239.50753;CO2;energy
+2018;Hessen;450.2950192;CO2;industrial processes
+2018;Hessen;96.91782051;CO2;agriculture
+2018;Hessen;1865.278267;CH4;total
+2018;Hessen;855.0325501;N2O;total
+2018;Hessen;1047.084362;F-Gases;total
+2018;Mecklenburg-Vorpommern;.;GHG;total
+2018;Mecklenburg-Vorpommern;.;CO2;total
+2018;Mecklenburg-Vorpommern;9160.506956;CO2;energy
+2018;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2018;Mecklenburg-Vorpommern;198.9365847;CO2;agriculture
+2018;Mecklenburg-Vorpommern;2060.799628;CH4;total
+2018;Mecklenburg-Vorpommern;1611.162684;N2O;total
+2018;Mecklenburg-Vorpommern;269.5997776;F-Gases;total
+2018;Niedersachsen;80638.60806;GHG;total
+2018;Niedersachsen;64677.66236;CO2;total
+2018;Niedersachsen;62973.71926;CO2;energy
+2018;Niedersachsen;1181.693774;CO2;industrial processes
+2018;Niedersachsen;522.249318;CO2;agriculture
+2018;Niedersachsen;9719.69454;CH4;total
+2018;Niedersachsen;4906.54027;N2O;total
+2018;Niedersachsen;1334.710896;F-Gases;total
+2018;Nordrhein-Westfalen;258056.16;GHG;total
+2018;Nordrhein-Westfalen;241815.9356;CO2;total
+2018;Nordrhein-Westfalen;233770.9695;CO2;energy
+2018;Nordrhein-Westfalen;7710.973898;CO2;industrial processes
+2018;Nordrhein-Westfalen;333.9922014;CO2;agriculture
+2018;Nordrhein-Westfalen;9058.439797;CH4;total
+2018;Nordrhein-Westfalen;4181.361029;N2O;total
+2018;Nordrhein-Westfalen;3000.423602;F-Gases;total
+2018;Rheinland-Pfalz;31165.06454;GHG;total
+2018;Rheinland-Pfalz;28099.01344;CO2;total
+2018;Rheinland-Pfalz;25941.58447;CO2;energy
+2018;Rheinland-Pfalz;2085.06914;CO2;industrial processes
+2018;Rheinland-Pfalz;72.35983371;CO2;agriculture
+2018;Rheinland-Pfalz;1562.514315;CH4;total
+2018;Rheinland-Pfalz;820.6193861;N2O;total
+2018;Rheinland-Pfalz;682.9173974;F-Gases;total
+2018;Saarland;â€¦;GHG;total
+2018;Saarland;â€¦;CO2;total
+2018;Saarland;â€¦;CO2;energy
+2018;Saarland;0;CO2;industrial processes
+2018;Saarland;5.14278647;CO2;agriculture
+2018;Saarland;â€¦;CH4;total
+2018;Saarland;â€¦;N2O;total
+2018;Saarland;166.1309603;F-Gases;total
+2018;Sachsen;52949.9138;GHG;total
+2018;Sachsen;49110.58265;CO2;total
+2018;Sachsen;48752.54275;CO2;energy
+2018;Sachsen;96.67732211;CO2;industrial processes
+2018;Sachsen;261.3625786;CO2;agriculture
+2018;Sachsen;1979.58898;CH4;total
+2018;Sachsen;1176.764334;N2O;total
+2018;Sachsen;682.9778331;F-Gases;total
+2018;Sachsen-Anhalt;34369.56605;GHG;total
+2018;Sachsen-Anhalt;30849.68998;CO2;total
+2018;Sachsen-Anhalt;26742.26457;CO2;energy
+2018;Sachsen-Anhalt;3897.40288;CO2;industrial processes
+2018;Sachsen-Anhalt;210.0225344;CO2;agriculture
+2018;Sachsen-Anhalt;1871.899978;CH4;total
+2018;Sachsen-Anhalt;1277.041156;N2O;total
+2018;Sachsen-Anhalt;370.934929;F-Gases;total
+2018;Schleswig-Holstein;25509.05216;GHG;total
+2018;Schleswig-Holstein;19753.62909;CO2;total
+2018;Schleswig-Holstein;18004.79591;CO2;energy
+2018;Schleswig-Holstein;1487.115429;CO2;industrial processes
+2018;Schleswig-Holstein;261.7177565;CO2;agriculture
+2018;Schleswig-Holstein;3545.968762;CH4;total
+2018;Schleswig-Holstein;1725.086695;N2O;total
+2018;Schleswig-Holstein;484.3676061;F-Gases;total
+2018;Thüringen;.;GHG;total
+2018;Thüringen;.;CO2;total
+2018;Thüringen;10542.66593;CO2;energy
+2018;Thüringen;.;CO2;industrial processes
+2018;Thüringen;111.3683497;CO2;agriculture
+2018;Thüringen;1371.606839;CH4;total
+2018;Thüringen;742.1037633;N2O;total
+2018;Thüringen;359.4628545;F-Gases;total
+2017;Deutschland;881582.7794;GHG;total
+2017;Deutschland;785985.851;CO2;total
+2017;Deutschland;733913.346;CO2;energy
+2017;Deutschland;49202.2708;CO2;industrial processes
+2017;Deutschland;2870.234199;CO2;agriculture
+2017;Deutschland;53339.00678;CH4;total
+2017;Deutschland;27547.84994;N2O;total
+2017;Deutschland;14710.07173;F-Gases;total
+2017;Summe der Länder;x;GHG;total
+2017;Summe der Länder;x;CO2;total
+2017;Summe der Länder;721434.2812;CO2;energy
+2017;Summe der Länder;24789.83461;CO2;industrial processes
+2017;Summe der Länder;2861.186344;CO2;agriculture
+2017;Summe der Länder;52794.37024;CH4;total
+2017;Summe der Länder;27615.50439;N2O;total
+2017;Summe der Länder;14710.07173;F-Gases;total
+2017;Stadtstaaten;33119.33312;GHG;total
+2017;Stadtstaaten;31718.37084;CO2;total
+2017;Stadtstaaten;31531.09353;CO2;energy
+2017;Stadtstaaten;178.22946;CO2;industrial processes
+2017;Stadtstaaten;9.047854721;CO2;agriculture
+2017;Stadtstaaten;253.1408792;CH4;total
+2017;Stadtstaaten;184.1977819;N2O;total
+2017;Stadtstaaten;963.6236149;F-Gases;total
+2017;Baden-Württemberg;80314.06474;GHG;total
+2017;Baden-Württemberg;72039.31521;CO2;total
+2017;Baden-Württemberg;69178.70458;CO2;energy
+2017;Baden-Württemberg;2731.278318;CO2;industrial processes
+2017;Baden-Württemberg;129.3323151;CO2;agriculture
+2017;Baden-Württemberg;4170.181982;CH4;total
+2017;Baden-Württemberg;2149.146467;N2O;total
+2017;Baden-Württemberg;1955.421081;F-Gases;total
+2017;Bayern;95495.36092;GHG;total
+2017;Bayern;77058.57278;CO2;total
+2017;Bayern;73490.60702;CO2;energy
+2017;Bayern;3112.852566;CO2;industrial processes
+2017;Bayern;455.1131941;CO2;agriculture
+2017;Bayern;10833.05066;CH4;total
+2017;Bayern;5296.600365;N2O;total
+2017;Bayern;2307.137114;F-Gases;total
+2017;Berlin;.;GHG;total
+2017;Berlin;.;CO2;total
+2017;Berlin;15751.57906;CO2;energy
+2017;Berlin;0;CO2;industrial processes
+2017;Berlin;.;CO2;agriculture
+2017;Berlin;130.6885522;CH4;total
+2017;Berlin;94.14064442;N2O;total
+2017;Berlin;639.6359859;F-Gases;total
+2017;Brandenburg;61934.29211;GHG;total
+2017;Brandenburg;57137.54623;CO2;total
+2017;Brandenburg;55841.49835;CO2;energy
+2017;Brandenburg;1097.5;CO2;industrial processes
+2017;Brandenburg;198.5478829;CO2;agriculture
+2017;Brandenburg;2517.586875;CH4;total
+2017;Brandenburg;1834.362714;N2O;total
+2017;Brandenburg;444.7962888;F-Gases;total
+2017;Bremen;.;GHG;total
+2017;Bremen;.;CO2;total
+2017;Bremen;13339.59176;CO2;energy
+2017;Bremen;0;CO2;industrial processes
+2017;Bremen;.;CO2;agriculture
+2017;Bremen;125.1443202;CH4;total
+2017;Bremen;106.7698981;N2O;total
+2017;Bremen;120.997303;F-Gases;total
+2017;Hamburg;.;GHG;total
+2017;Hamburg;.;CO2;total
+2017;Hamburg;15779.51447;CO2;energy
+2017;Hamburg;178.22946;CO2;industrial processes
+2017;Hamburg;.;CO2;agriculture
+2017;Hamburg;122.4523269;CH4;total
+2017;Hamburg;90.05713749;N2O;total
+2017;Hamburg;323.9876289;F-Gases;total
+2017;Hessen;40533.80283;GHG;total
+2017;Hessen;36581.54163;CO2;total
+2017;Hessen;36010.97013;CO2;energy
+2017;Hessen;457.056693;CO2;industrial processes
+2017;Hessen;113.5148103;CO2;agriculture
+2017;Hessen;1952.720765;CH4;total
+2017;Hessen;891.1419427;N2O;total
+2017;Hessen;1108.398494;F-Gases;total
+2017;Mecklenburg-Vorpommern;.;GHG;total
+2017;Mecklenburg-Vorpommern;.;CO2;total
+2017;Mecklenburg-Vorpommern;9783.896389;CO2;energy
+2017;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2017;Mecklenburg-Vorpommern;213.6139834;CO2;agriculture
+2017;Mecklenburg-Vorpommern;2031.985429;CH4;total
+2017;Mecklenburg-Vorpommern;1683.675976;N2O;total
+2017;Mecklenburg-Vorpommern;286.6836287;F-Gases;total
+2017;Niedersachsen;82207.01211;GHG;total
+2017;Niedersachsen;65754.80462;CO2;total
+2017;Niedersachsen;64040.1587;CO2;energy
+2017;Niedersachsen;1195.344192;CO2;industrial processes
+2017;Niedersachsen;519.301727;CO2;agriculture
+2017;Niedersachsen;9941.366982;CH4;total
+2017;Niedersachsen;5095.264267;N2O;total
+2017;Niedersachsen;1415.576241;F-Gases;total
+2017;Nordrhein-Westfalen;264998.4235;GHG;total
+2017;Nordrhein-Westfalen;247227.694;CO2;total
+2017;Nordrhein-Westfalen;238476.8453;CO2;energy
+2017;Nordrhein-Westfalen;8447.073969;CO2;industrial processes
+2017;Nordrhein-Westfalen;303.7747534;CO2;agriculture
+2017;Nordrhein-Westfalen;10223.59496;CH4;total
+2017;Nordrhein-Westfalen;4361.358449;N2O;total
+2017;Nordrhein-Westfalen;3185.77611;F-Gases;total
+2017;Rheinland-Pfalz;32063.132;GHG;total
+2017;Rheinland-Pfalz;28884.63323;CO2;total
+2017;Rheinland-Pfalz;26628.50273;CO2;energy
+2017;Rheinland-Pfalz;2183.921222;CO2;industrial processes
+2017;Rheinland-Pfalz;72.20927619;CO2;agriculture
+2017;Rheinland-Pfalz;1615.708456;CH4;total
+2017;Rheinland-Pfalz;838.4957431;N2O;total
+2017;Rheinland-Pfalz;724.2945719;F-Gases;total
+2017;Saarland;â€¦;GHG;total
+2017;Saarland;â€¦;CO2;total
+2017;Saarland;â€¦;CO2;energy
+2017;Saarland;0;CO2;industrial processes
+2017;Saarland;5.9587507;CO2;agriculture
+2017;Saarland;â€¦;CH4;total
+2017;Saarland;â€¦;N2O;total
+2017;Saarland;177.1499549;F-Gases;total
+2017;Sachsen;53437.32346;GHG;total
+2017;Sachsen;49397.01242;CO2;total
+2017;Sachsen;49034.77583;CO2;energy
+2017;Sachsen;101.9223266;CO2;industrial processes
+2017;Sachsen;260.3142584;CO2;agriculture
+2017;Sachsen;2082.869298;CH4;total
+2017;Sachsen;1231.068533;N2O;total
+2017;Sachsen;726.3732056;F-Gases;total
+2017;Sachsen-Anhalt;33112.45398;GHG;total
+2017;Sachsen-Anhalt;29426.02895;CO2;total
+2017;Sachsen-Anhalt;25566.84133;CO2;energy
+2017;Sachsen-Anhalt;3639.991543;CO2;industrial processes
+2017;Sachsen-Anhalt;219.1960778;CO2;agriculture
+2017;Sachsen-Anhalt;1945.541937;CH4;total
+2017;Sachsen-Anhalt;1344.07993;N2O;total
+2017;Sachsen-Anhalt;396.8031639;F-Gases;total
+2017;Schleswig-Holstein;25989.10506;GHG;total
+2017;Schleswig-Holstein;20008.49383;CO2;total
+2017;Schleswig-Holstein;18100.02779;CO2;energy
+2017;Schleswig-Holstein;1644.664319;CO2;industrial processes
+2017;Schleswig-Holstein;263.8017157;CO2;agriculture
+2017;Schleswig-Holstein;3658.991438;CH4;total
+2017;Schleswig-Holstein;1808.034618;N2O;total
+2017;Schleswig-Holstein;513.5851828;F-Gases;total
+2017;Thüringen;.;GHG;total
+2017;Thüringen;.;CO2;total
+2017;Thüringen;10410.76777;CO2;energy
+2017;Thüringen;.;CO2;industrial processes
+2017;Thüringen;106.5075993;CO2;agriculture
+2017;Thüringen;1442.48626;CH4;total
+2017;Thüringen;791.3077019;N2O;total
+2017;Thüringen;383.4557728;F-Gases;total
+2016;Deutschland;898559.8137;GHG;total
+2016;Deutschland;801744.5475;CO2;total
+2016;Deutschland;753482.6839;CO2;energy
+2016;Deutschland;45339.2346;CO2;industrial processes
+2016;Deutschland;2922.628975;CO2;agriculture
+2016;Deutschland;54177.95678;CH4;total
+2016;Deutschland;28018.63785;N2O;total
+2016;Deutschland;14618.67157;F-Gases;total
+2016;Summe der Länder;x;GHG;total
+2016;Summe der Länder;x;CO2;total
+2016;Summe der Länder;737134.8472;CO2;energy
+2016;Summe der Länder;23151.86745;CO2;industrial processes
+2016;Summe der Länder;2917.451065;CO2;agriculture
+2016;Summe der Länder;53792.84953;CH4;total
+2016;Summe der Länder;28117.08658;N2O;total
+2016;Summe der Länder;14618.67157;F-Gases;total
+2016;Stadtstaaten;32776.81213;GHG;total
+2016;Stadtstaaten;31379.24108;CO2;total
+2016;Stadtstaaten;31192.87689;CO2;energy
+2016;Stadtstaaten;181.186281;CO2;industrial processes
+2016;Stadtstaaten;5.177909984;CO2;agriculture
+2016;Stadtstaaten;260.1245194;CH4;total
+2016;Stadtstaaten;188.352962;N2O;total
+2016;Stadtstaaten;949.0935703;F-Gases;total
+2016;Baden-Württemberg;79838.16871;GHG;total
+2016;Baden-Württemberg;71490.51612;CO2;total
+2016;Baden-Württemberg;68656.99975;CO2;energy
+2016;Baden-Württemberg;2693.61267;CO2;industrial processes
+2016;Baden-Württemberg;139.9037007;CO2;agriculture
+2016;Baden-Württemberg;4254.269534;CH4;total
+2016;Baden-Württemberg;2155.600065;N2O;total
+2016;Baden-Württemberg;1937.782989;F-Gases;total
+2016;Bayern;95842.26518;GHG;total
+2016;Bayern;77234.65488;CO2;total
+2016;Bayern;73674.36204;CO2;energy
+2016;Bayern;3102.703213;CO2;industrial processes
+2016;Bayern;457.589627;CO2;agriculture
+2016;Bayern;10950.15067;CH4;total
+2016;Bayern;5369.714546;N2O;total
+2016;Bayern;2287.745082;F-Gases;total
+2016;Berlin;.;GHG;total
+2016;Berlin;.;CO2;total
+2016;Berlin;16013.8229;CO2;energy
+2016;Berlin;0;CO2;industrial processes
+2016;Berlin;.;CO2;agriculture
+2016;Berlin;133.7061388;CH4;total
+2016;Berlin;98.54902728;N2O;total
+2016;Berlin;629.7457956;F-Gases;total
+2016;Brandenburg;62402.01512;GHG;total
+2016;Brandenburg;57539.06262;CO2;total
+2016;Brandenburg;56316.41973;CO2;energy
+2016;Brandenburg;1010.7;CO2;industrial processes
+2016;Brandenburg;211.9428971;CO2;agriculture
+2016;Brandenburg;2544.038944;CH4;total
+2016;Brandenburg;1876.931336;N2O;total
+2016;Brandenburg;441.9822142;F-Gases;total
+2016;Bremen;.;GHG;total
+2016;Bremen;.;CO2;total
+2016;Bremen;12846.04352;CO2;energy
+2016;Bremen;0;CO2;industrial processes
+2016;Bremen;.;CO2;agriculture
+2016;Bremen;122.6862159;CH4;total
+2016;Bremen;107.7395702;N2O;total
+2016;Bremen;119.8485922;F-Gases;total
+2016;Hamburg;.;GHG;total
+2016;Hamburg;.;CO2;total
+2016;Hamburg;15179.05399;CO2;energy
+2016;Hamburg;181.186281;CO2;industrial processes
+2016;Hamburg;.;CO2;agriculture
+2016;Hamburg;126.4183806;CH4;total
+2016;Hamburg;89.80393469;N2O;total
+2016;Hamburg;319.3477747;F-Gases;total
+2016;Hessen;41499.6442;GHG;total
+2016;Hessen;37485.91209;CO2;total
+2016;Hessen;36958.05519;CO2;energy
+2016;Hessen;414.6102512;CO2;industrial processes
+2016;Hessen;113.2466541;CO2;agriculture
+2016;Hessen;2005.519335;CH4;total
+2016;Hessen;908.5318521;N2O;total
+2016;Hessen;1099.680923;F-Gases;total
+2016;Mecklenburg-Vorpommern;.;GHG;total
+2016;Mecklenburg-Vorpommern;.;CO2;total
+2016;Mecklenburg-Vorpommern;10653.08674;CO2;energy
+2016;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2016;Mecklenburg-Vorpommern;236.7141753;CO2;agriculture
+2016;Mecklenburg-Vorpommern;2195.070608;CH4;total
+2016;Mecklenburg-Vorpommern;1735.007804;N2O;total
+2016;Mecklenburg-Vorpommern;286.0793304;F-Gases;total
+2016;Niedersachsen;83645.16912;GHG;total
+2016;Niedersachsen;67021.93828;CO2;total
+2016;Niedersachsen;65256.45411;CO2;energy
+2016;Niedersachsen;1216.554221;CO2;industrial processes
+2016;Niedersachsen;548.9299576;CO2;agriculture
+2016;Niedersachsen;10040.96005;CH4;total
+2016;Niedersachsen;5173.433777;N2O;total
+2016;Niedersachsen;1408.837003;F-Gases;total
+2016;Nordrhein-Westfalen;279727.8196;GHG;total
+2016;Nordrhein-Westfalen;261676.8601;CO2;total
+2016;Nordrhein-Westfalen;254258.2536;CO2;energy
+2016;Nordrhein-Westfalen;7131.659815;CO2;industrial processes
+2016;Nordrhein-Westfalen;286.9466402;CO2;agriculture
+2016;Nordrhein-Westfalen;10426.48934;CH4;total
+2016;Nordrhein-Westfalen;4450.772305;N2O;total
+2016;Nordrhein-Westfalen;3173.69793;F-Gases;total
+2016;Rheinland-Pfalz;31765.28457;GHG;total
+2016;Rheinland-Pfalz;28532.2748;CO2;total
+2016;Rheinland-Pfalz;26338.29035;CO2;energy
+2016;Rheinland-Pfalz;2125.928807;CO2;industrial processes
+2016;Rheinland-Pfalz;68.05564636;CO2;agriculture
+2016;Rheinland-Pfalz;1654.515787;CH4;total
+2016;Rheinland-Pfalz;857.8576353;N2O;total
+2016;Rheinland-Pfalz;720.6363466;F-Gases;total
+2016;Saarland;â€¦;GHG;total
+2016;Saarland;â€¦;CO2;total
+2016;Saarland;â€¦;CO2;energy
+2016;Saarland;0;CO2;industrial processes
+2016;Saarland;6.490952828;CO2;agriculture
+2016;Saarland;â€¦;CH4;total
+2016;Saarland;â€¦;N2O;total
+2016;Saarland;176.8335736;F-Gases;total
+2016;Sachsen;51774.89723;GHG;total
+2016;Sachsen;47605.80532;CO2;total
+2016;Sachsen;47266.5193;CO2;energy
+2016;Sachsen;101.4385389;CO2;industrial processes
+2016;Sachsen;237.8474732;CO2;agriculture
+2016;Sachsen;2195.454149;CH4;total
+2016;Sachsen;1248.760601;N2O;total
+2016;Sachsen;724.8771612;F-Gases;total
+2016;Sachsen-Anhalt;32950.08829;GHG;total
+2016;Sachsen-Anhalt;29180.95041;CO2;total
+2016;Sachsen-Anhalt;25291.58038;CO2;energy
+2016;Sachsen-Anhalt;3658.606934;CO2;industrial processes
+2016;Sachsen-Anhalt;230.7630962;CO2;agriculture
+2016;Sachsen-Anhalt;1994.595911;CH4;total
+2016;Sachsen-Anhalt;1376.74063;N2O;total
+2016;Sachsen-Anhalt;397.8013366;F-Gases;total
+2016;Schleswig-Holstein;25959.4198;GHG;total
+2016;Schleswig-Holstein;19902.8113;CO2;total
+2016;Schleswig-Holstein;18119.65302;CO2;energy
+2016;Schleswig-Holstein;1514.866719;CO2;industrial processes
+2016;Schleswig-Holstein;268.2915583;CO2;agriculture
+2016;Schleswig-Holstein;3698.029644;CH4;total
+2016;Schleswig-Holstein;1849.034924;N2O;total
+2016;Schleswig-Holstein;509.5439353;F-Gases;total
+2016;Thüringen;.;GHG;total
+2016;Thüringen;.;CO2;total
+2016;Thüringen;10306.25254;CO2;energy
+2016;Thüringen;.;CO2;industrial processes
+2016;Thüringen;110.7286858;CO2;agriculture
+2016;Thüringen;1450.94481;CH4;total
+2016;Thüringen;818.6085716;N2O;total
+2016;Thüringen;384.2315819;F-Gases;total
+2015;Deutschland;896657.872;GHG;total
+2015;Deutschland;798084.7024;CO2;total
+2015;Deutschland;751574.5595;CO2;energy
+2015;Deutschland;43582.18629;CO2;industrial processes
+2015;Deutschland;2927.956617;CO2;agriculture
+2015;Deutschland;55895.2774;CH4;total
+2015;Deutschland;28155.18801;N2O;total
+2015;Deutschland;14522.70418;F-Gases;total
+2015;Summe der Länder;x;GHG;total
+2015;Summe der Länder;x;CO2;total
+2015;Summe der Länder;751124.4327;CO2;energy
+2015;Summe der Länder;24318.12089;CO2;industrial processes
+2015;Summe der Länder;2924.735882;CO2;agriculture
+2015;Summe der Länder;55724.9118;CH4;total
+2015;Summe der Länder;28439.54215;N2O;total
+2015;Summe der Länder;14522.70418;F-Gases;total
+2015;Stadtstaaten;31888.89474;GHG;total
+2015;Stadtstaaten;30504.85189;CO2;total
+2015;Stadtstaaten;30320.74288;CO2;energy
+2015;Stadtstaaten;180.888275;CO2;industrial processes
+2015;Stadtstaaten;3.220735701;CO2;agriculture
+2015;Stadtstaaten;265.9944417;CH4;total
+2015;Stadtstaaten;181.1111441;N2O;total
+2015;Stadtstaaten;936.9372672;F-Gases;total
+2015;Baden-Württemberg;77971.19689;GHG;total
+2015;Baden-Württemberg;69540.84784;CO2;total
+2015;Baden-Württemberg;66769.72944;CO2;energy
+2015;Baden-Württemberg;2626.389152;CO2;industrial processes
+2015;Baden-Württemberg;144.7292421;CO2;agriculture
+2015;Baden-Württemberg;4355.144598;CH4;total
+2015;Baden-Württemberg;2155.452171;N2O;total
+2015;Baden-Württemberg;1919.752288;F-Gases;total
+2015;Bayern;94191.71826;GHG;total
+2015;Bayern;75690.67253;CO2;total
+2015;Bayern;72223.38333;CO2;energy
+2015;Bayern;2997.57372;CO2;industrial processes
+2015;Bayern;469.7154824;CO2;agriculture
+2015;Bayern;10933.40869;CH4;total
+2015;Bayern;5297.751994;N2O;total
+2015;Bayern;2269.885043;F-Gases;total
+2015;Berlin;.;GHG;total
+2015;Berlin;.;CO2;total
+2015;Berlin;15704.49381;CO2;energy
+2015;Berlin;0;CO2;industrial processes
+2015;Berlin;.;CO2;agriculture
+2015;Berlin;135.1263865;CH4;total
+2015;Berlin;95.4504445;N2O;total
+2015;Berlin;621.3500339;F-Gases;total
+2015;Brandenburg;62680.04244;GHG;total
+2015;Brandenburg;57700.07738;CO2;total
+2015;Brandenburg;56077.49357;CO2;energy
+2015;Brandenburg;1394.1;CO2;industrial processes
+2015;Brandenburg;228.4838176;CO2;agriculture
+2015;Brandenburg;2642.570858;CH4;total
+2015;Brandenburg;1898.023913;N2O;total
+2015;Brandenburg;439.3702853;F-Gases;total
+2015;Bremen;.;GHG;total
+2015;Bremen;.;CO2;total
+2015;Bremen;13268.13526;CO2;energy
+2015;Bremen;0;CO2;industrial processes
+2015;Bremen;.;CO2;agriculture
+2015;Bremen;120.9363218;CH4;total
+2015;Bremen;110.511338;N2O;total
+2015;Bremen;118.5277094;F-Gases;total
+2015;Hamburg;.;GHG;total
+2015;Hamburg;.;CO2;total
+2015;Hamburg;14616.24907;CO2;energy
+2015;Hamburg;180.888275;CO2;industrial processes
+2015;Hamburg;.;CO2;agriculture
+2015;Hamburg;130.8680552;CH4;total
+2015;Hamburg;85.66069959;N2O;total
+2015;Hamburg;315.5872333;F-Gases;total
+2015;Hessen;40323.68548;GHG;total
+2015;Hessen;36259.06316;CO2;total
+2015;Hessen;35726.48398;CO2;energy
+2015;Hessen;415.5262195;CO2;industrial processes
+2015;Hessen;117.0529558;CO2;agriculture
+2015;Hessen;2071.369942;CH4;total
+2015;Hessen;902.5323368;N2O;total
+2015;Hessen;1090.720041;F-Gases;total
+2015;Mecklenburg-Vorpommern;.;GHG;total
+2015;Mecklenburg-Vorpommern;.;CO2;total
+2015;Mecklenburg-Vorpommern;10254.92012;CO2;energy
+2015;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2015;Mecklenburg-Vorpommern;261.6606205;CO2;agriculture
+2015;Mecklenburg-Vorpommern;2225.053843;CH4;total
+2015;Mecklenburg-Vorpommern;1763.566897;N2O;total
+2015;Mecklenburg-Vorpommern;285.4792405;F-Gases;total
+2015;Niedersachsen;84019.27136;GHG;total
+2015;Niedersachsen;67318.55563;CO2;total
+2015;Niedersachsen;65594.79599;CO2;energy
+2015;Niedersachsen;1169.008169;CO2;industrial processes
+2015;Niedersachsen;554.7514652;CO2;agriculture
+2015;Niedersachsen;10113.78962;CH4;total
+2015;Niedersachsen;5186.567723;N2O;total
+2015;Niedersachsen;1400.35839;F-Gases;total
+2015;Nordrhein-Westfalen;279567.1234;GHG;total
+2015;Nordrhein-Westfalen;260484.6112;CO2;total
+2015;Nordrhein-Westfalen;253160.4254;CO2;energy
+2015;Nordrhein-Westfalen;7063.769933;CO2;industrial processes
+2015;Nordrhein-Westfalen;260.4158204;CO2;agriculture
+2015;Nordrhein-Westfalen;11385.7156;CH4;total
+2015;Nordrhein-Westfalen;4540.780888;N2O;total
+2015;Nordrhein-Westfalen;3156.015806;F-Gases;total
+2015;Rheinland-Pfalz;31464.06412;GHG;total
+2015;Rheinland-Pfalz;28147.97322;CO2;total
+2015;Rheinland-Pfalz;25846.84659;CO2;energy
+2015;Rheinland-Pfalz;2229.572245;CO2;industrial processes
+2015;Rheinland-Pfalz;71.5543799;CO2;agriculture
+2015;Rheinland-Pfalz;1720.49313;CH4;total
+2015;Rheinland-Pfalz;878.7318845;N2O;total
+2015;Rheinland-Pfalz;716.8658853;F-Gases;total
+2015;Saarland;22374.33425;GHG;total
+2015;Saarland;21645.43292;CO2;total
+2015;Saarland;21638.2459;CO2;energy
+2015;Saarland;0;CO2;industrial processes
+2015;Saarland;7.187018475;CO2;agriculture
+2015;Saarland;330.7557968;CH4;total
+2015;Saarland;221.7260306;N2O;total
+2015;Saarland;176.4195037;F-Gases;total
+2015;Sachsen;51428.64442;GHG;total
+2015;Sachsen;47165.15325;CO2;total
+2015;Sachsen;46855.95176;CO2;energy
+2015;Sachsen;96.11152558;CO2;industrial processes
+2015;Sachsen;213.0899694;CO2;agriculture
+2015;Sachsen;2290.209127;CH4;total
+2015;Sachsen;1249.683414;N2O;total
+2015;Sachsen;723.5986263;F-Gases;total
+2015;Sachsen-Anhalt;33868.79449;GHG;total
+2015;Sachsen-Anhalt;30097.19542;CO2;total
+2015;Sachsen-Anhalt;25140.20772;CO2;energy
+2015;Sachsen-Anhalt;4753;CO2;industrial processes
+2015;Sachsen-Anhalt;203.9877063;CO2;agriculture
+2015;Sachsen-Anhalt;2009.373757;CH4;total
+2015;Sachsen-Anhalt;1363.89505;N2O;total
+2015;Sachsen-Anhalt;398.3302555;F-Gases;total
+2015;Schleswig-Holstein;26079.43453;GHG;total
+2015;Schleswig-Holstein;19978.89335;CO2;total
+2015;Schleswig-Holstein;18305.56761;CO2;energy
+2015;Schleswig-Holstein;1392.181655;CO2;industrial processes
+2015;Schleswig-Holstein;281.1440807;CO2;agriculture
+2015;Schleswig-Holstein;3717.675035;CH4;total
+2015;Schleswig-Holstein;1877.103604;N2O;total
+2015;Schleswig-Holstein;505.7625429;F-Gases;total
+2015;Thüringen;.;GHG;total
+2015;Thüringen;.;CO2;total
+2015;Thüringen;9941.503191;CO2;energy
+2015;Thüringen;.;CO2;industrial processes
+2015;Thüringen;110.963323;CO2;agriculture
+2015;Thüringen;1542.421043;CH4;total
+2015;Thüringen;812.1037599;N2O;total
+2015;Thüringen;384.6812988;F-Gases;total
+2014;Deutschland;893394.419;GHG;total
+2014;Deutschland;794738.5456;CO2;total
+2014;Deutschland;746812.2437;CO2;energy
+2014;Deutschland;45023.11816;CO2;industrial processes
+2014;Deutschland;2903.183745;CO2;agriculture
+2014;Deutschland;56368.10054;CH4;total
+2014;Deutschland;28202.44815;N2O;total
+2014;Deutschland;14085.32462;F-Gases;total
+2014;Summe der Länder;x;GHG;total
+2014;Summe der Länder;x;CO2;total
+2014;Summe der Länder;750036.7545;CO2;energy
+2014;Summe der Länder;25506.51707;CO2;industrial processes
+2014;Summe der Länder;2895.455394;CO2;agriculture
+2014;Summe der Länder;56118.13613;CH4;total
+2014;Summe der Länder;28524.71236;N2O;total
+2014;Summe der Länder;14085.32462;F-Gases;total
+2014;Stadtstaaten;29498.11671;GHG;total
+2014;Stadtstaaten;28155.85516;CO2;total
+2014;Stadtstaaten;27967.2358;CO2;energy
+2014;Stadtstaaten;180.891009;CO2;industrial processes
+2014;Stadtstaaten;7.728351456;CO2;agriculture
+2014;Stadtstaaten;267.7916791;CH4;total
+2014;Stadtstaaten;169.9608435;N2O;total
+2014;Stadtstaaten;904.5090256;F-Gases;total
+2014;Baden-Württemberg;76536.95554;GHG;total
+2014;Baden-Württemberg;68063.11147;CO2;total
+2014;Baden-Württemberg;65281.36919;CO2;energy
+2014;Baden-Württemberg;2637.354931;CO2;industrial processes
+2014;Baden-Württemberg;144.3873453;CO2;agriculture
+2014;Baden-Württemberg;4446.164343;CH4;total
+2014;Baden-Württemberg;2171.152744;N2O;total
+2014;Baden-Württemberg;1856.526983;F-Gases;total
+2014;Bayern;93452.90983;GHG;total
+2014;Bayern;74784.681;CO2;total
+2014;Bayern;71227.2822;CO2;energy
+2014;Bayern;3094.477169;CO2;industrial processes
+2014;Bayern;462.921634;CO2;agriculture
+2014;Bayern;11148.98669;CH4;total
+2014;Bayern;5319.385978;N2O;total
+2014;Bayern;2199.856152;F-Gases;total
+2014;Berlin;.;GHG;total
+2014;Berlin;.;CO2;total
+2014;Berlin;16325.63117;CO2;energy
+2014;Berlin;0;CO2;industrial processes
+2014;Berlin;.;CO2;agriculture
+2014;Berlin;139.3689372;CH4;total
+2014;Berlin;95.11396457;N2O;total
+2014;Berlin;599.3363742;F-Gases;total
+2014;Brandenburg;62602.92582;GHG;total
+2014;Brandenburg;57615.80225;CO2;total
+2014;Brandenburg;56004.81658;CO2;energy
+2014;Brandenburg;1375.3;CO2;industrial processes
+2014;Brandenburg;235.6856691;CO2;agriculture
+2014;Brandenburg;2650.090676;CH4;total
+2014;Brandenburg;1910.288769;N2O;total
+2014;Brandenburg;426.7441317;F-Gases;total
+2014;Bremen;.;GHG;total
+2014;Bremen;.;CO2;total
+2014;Bremen;12757.26589;CO2;energy
+2014;Bremen;0;CO2;industrial processes
+2014;Bremen;.;CO2;agriculture
+2014;Bremen;119.7796723;CH4;total
+2014;Bremen;109.8920692;N2O;total
+2014;Bremen;114.7314909;F-Gases;total
+2014;Hamburg;.;GHG;total
+2014;Hamburg;.;CO2;total
+2014;Hamburg;11641.60463;CO2;energy
+2014;Hamburg;180.891009;CO2;industrial processes
+2014;Hamburg;.;CO2;agriculture
+2014;Hamburg;128.4227419;CH4;total
+2014;Hamburg;74.8468789;N2O;total
+2014;Hamburg;305.1726514;F-Gases;total
+2014;Hessen;38592.35592;GHG;total
+2014;Hessen;34500.17242;CO2;total
+2014;Hessen;33970.72605;CO2;energy
+2014;Hessen;415.5140302;CO2;industrial processes
+2014;Hessen;113.932335;CO2;agriculture
+2014;Hessen;2130.217176;CH4;total
+2014;Hessen;906.2680728;N2O;total
+2014;Hessen;1055.698255;F-Gases;total
+2014;Mecklenburg-Vorpommern;.;GHG;total
+2014;Mecklenburg-Vorpommern;.;CO2;total
+2014;Mecklenburg-Vorpommern;10684.19041;CO2;energy
+2014;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2014;Mecklenburg-Vorpommern;262.8262261;CO2;agriculture
+2014;Mecklenburg-Vorpommern;2214.339323;CH4;total
+2014;Mecklenburg-Vorpommern;1789.129896;N2O;total
+2014;Mecklenburg-Vorpommern;277.9099209;F-Gases;total
+2014;Niedersachsen;84655.92631;GHG;total
+2014;Niedersachsen;68010.84966;CO2;total
+2014;Niedersachsen;66231.22547;CO2;energy
+2014;Niedersachsen;1216.981291;CO2;industrial processes
+2014;Niedersachsen;562.6429061;CO2;agriculture
+2014;Niedersachsen;10095.15621;CH4;total
+2014;Niedersachsen;5191.75849;N2O;total
+2014;Niedersachsen;1358.161939;F-Gases;total
+2014;Nordrhein-Westfalen;284452.8337;GHG;total
+2014;Nordrhein-Westfalen;265685.4584;CO2;total
+2014;Nordrhein-Westfalen;258175.2536;CO2;energy
+2014;Nordrhein-Westfalen;7268.219229;CO2;industrial processes
+2014;Nordrhein-Westfalen;241.9855336;CO2;agriculture
+2014;Nordrhein-Westfalen;11177.30361;CH4;total
+2014;Nordrhein-Westfalen;4528.029904;N2O;total
+2014;Nordrhein-Westfalen;3062.041808;F-Gases;total
+2014;Rheinland-Pfalz;31047.94042;GHG;total
+2014;Rheinland-Pfalz;27735.38825;CO2;total
+2014;Rheinland-Pfalz;25319.38427;CO2;energy
+2014;Rheinland-Pfalz;2342.987295;CO2;industrial processes
+2014;Rheinland-Pfalz;73.01668553;CO2;agriculture
+2014;Rheinland-Pfalz;1757.962532;CH4;total
+2014;Rheinland-Pfalz;858.3505174;N2O;total
+2014;Rheinland-Pfalz;696.2391229;F-Gases;total
+2014;Saarland;21565.60729;GHG;total
+2014;Saarland;20869.54483;CO2;total
+2014;Saarland;20863.76194;CO2;energy
+2014;Saarland;0;CO2;industrial processes
+2014;Saarland;5.78289929;CO2;agriculture
+2014;Saarland;290.7509191;CH4;total
+2014;Saarland;233.1417751;N2O;total
+2014;Saarland;172.1697654;F-Gases;total
+2014;Sachsen;52532.82683;GHG;total
+2014;Sachsen;48189.30693;CO2;total
+2014;Sachsen;47896.44857;CO2;energy
+2014;Sachsen;93.18564509;CO2;industrial processes
+2014;Sachsen;199.6727153;CO2;agriculture
+2014;Sachsen;2371.119334;CH4;total
+2014;Sachsen;1267.837829;N2O;total
+2014;Sachsen;704.5627392;F-Gases;total
+2014;Sachsen-Anhalt;34693.01673;GHG;total
+2014;Sachsen-Anhalt;30848.54728;CO2;total
+2014;Sachsen-Anhalt;25516.70919;CO2;energy
+2014;Sachsen-Anhalt;5130;CO2;industrial processes
+2014;Sachsen-Anhalt;201.8380908;CO2;agriculture
+2014;Sachsen-Anhalt;2082.230812;CH4;total
+2014;Sachsen-Anhalt;1372.623445;N2O;total
+2014;Sachsen-Anhalt;389.6151957;F-Gases;total
+2014;Schleswig-Holstein;26441.94687;GHG;total
+2014;Schleswig-Holstein;20301.9223;CO2;total
+2014;Schleswig-Holstein;18262.78965;CO2;energy
+2014;Schleswig-Holstein;1751.606475;CO2;industrial processes
+2014;Schleswig-Holstein;287.5261718;CO2;agriculture
+2014;Schleswig-Holstein;3779.237613;CH4;total
+2014;Schleswig-Holstein;1869.709946;N2O;total
+2014;Schleswig-Holstein;491.0770098;F-Gases;total
+2014;Thüringen;.;GHG;total
+2014;Thüringen;.;CO2;total
+2014;Thüringen;9878.295671;CO2;energy
+2014;Thüringen;.;CO2;industrial processes
+2014;Thüringen;103.2371822;CO2;agriculture
+2014;Thüringen;1587.005541;CH4;total
+2014;Thüringen;827.1820794;N2O;total
+2014;Thüringen;375.4810845;F-Gases;total
+2013;Deutschland;933505.3732;GHG;total
+2013;Deutschland;833804.3671;CO2;total
+2013;Deutschland;786031.4917;CO2;energy
+2013;Deutschland;45035.50693;CO2;industrial processes
+2013;Deutschland;2737.368472;CO2;agriculture
+2013;Deutschland;57898.50661;CH4;total
+2013;Deutschland;27717.89856;N2O;total
+2013;Deutschland;14084.60094;F-Gases;total
+2013;Summe der Länder;x;GHG;total
+2013;Summe der Länder;x;CO2;total
+2013;Summe der Länder;774881.7508;CO2;energy
+2013;Summe der Länder;27259.68735;CO2;industrial processes
+2013;Summe der Länder;2730.683844;CO2;agriculture
+2013;Summe der Länder;57243.2552;CH4;total
+2013;Summe der Länder;27958.72903;N2O;total
+2013;Summe der Länder;14084.60094;F-Gases;total
+2013;Stadtstaaten;29340.46948;GHG;total
+2013;Stadtstaaten;27986.45169;CO2;total
+2013;Stadtstaaten;27816.22875;CO2;energy
+2013;Stadtstaaten;163.538311;CO2;industrial processes
+2013;Stadtstaaten;6.684627903;CO2;agriculture
+2013;Stadtstaaten;285.4931736;CH4;total
+2013;Stadtstaaten;171.037277;N2O;total
+2013;Stadtstaaten;897.4873385;F-Gases;total
+2013;Baden-Württemberg;81715.39857;GHG;total
+2013;Baden-Württemberg;73206.58239;CO2;total
+2013;Baden-Württemberg;70475.77862;CO2;energy
+2013;Baden-Württemberg;2583.491213;CO2;industrial processes
+2013;Baden-Württemberg;147.3125639;CO2;agriculture
+2013;Baden-Württemberg;4537.137615;CH4;total
+2013;Baden-Württemberg;2120.374806;N2O;total
+2013;Baden-Württemberg;1851.303749;F-Gases;total
+2013;Bayern;97569.54656;GHG;total
+2013;Bayern;79090.25222;CO2;total
+2013;Bayern;75540.43168;CO2;energy
+2013;Bayern;3109.906289;CO2;industrial processes
+2013;Bayern;439.9142575;CO2;agriculture
+2013;Bayern;11154.50316;CH4;total
+2013;Bayern;5130.878017;N2O;total
+2013;Bayern;2193.913166;F-Gases;total
+2013;Berlin;.;GHG;total
+2013;Berlin;.;CO2;total
+2013;Berlin;17225.61617;CO2;energy
+2013;Berlin;0;CO2;industrial processes
+2013;Berlin;.;CO2;agriculture
+2013;Berlin;151.9614708;CH4;total
+2013;Berlin;99.55198007;N2O;total
+2013;Berlin;593.546055;F-Gases;total
+2013;Brandenburg;63799.43425;GHG;total
+2013;Brandenburg;58775.53352;CO2;total
+2013;Brandenburg;57219.41306;CO2;energy
+2013;Brandenburg;1332.1;CO2;industrial processes
+2013;Brandenburg;224.0204591;CO2;agriculture
+2013;Brandenburg;2712.168593;CH4;total
+2013;Brandenburg;1883.957503;N2O;total
+2013;Brandenburg;427.7746343;F-Gases;total
+2013;Bremen;.;GHG;total
+2013;Bremen;.;CO2;total
+2013;Bremen;13411.40521;CO2;energy
+2013;Bremen;0;CO2;industrial processes
+2013;Bremen;.;CO2;agriculture
+2013;Bremen;113.7001868;CH4;total
+2013;Bremen;101.3920678;N2O;total
+2013;Bremen;114.583639;F-Gases;total
+2013;Hamburg;.;GHG;total
+2013;Hamburg;.;CO2;total
+2013;Hamburg;10590.61258;CO2;energy
+2013;Hamburg;163.538311;CO2;industrial processes
+2013;Hamburg;.;CO2;agriculture
+2013;Hamburg;133.5317028;CH4;total
+2013;Hamburg;71.48529694;N2O;total
+2013;Hamburg;303.9412835;F-Gases;total
+2013;Hessen;41136.86114;GHG;total
+2013;Hessen;37038.40507;CO2;total
+2013;Hessen;36491.48464;CO2;energy
+2013;Hessen;431.9051887;CO2;industrial processes
+2013;Hessen;115.0152376;CO2;agriculture
+2013;Hessen;2163.81265;CH4;total
+2013;Hessen;881.3490324;N2O;total
+2013;Hessen;1053.294387;F-Gases;total
+2013;Mecklenburg-Vorpommern;.;GHG;total
+2013;Mecklenburg-Vorpommern;.;CO2;total
+2013;Mecklenburg-Vorpommern;10575.1187;CO2;energy
+2013;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2013;Mecklenburg-Vorpommern;253.2404126;CO2;agriculture
+2013;Mecklenburg-Vorpommern;2181.68497;CH4;total
+2013;Mecklenburg-Vorpommern;1725.705214;N2O;total
+2013;Mecklenburg-Vorpommern;279.1602922;F-Gases;total
+2013;Niedersachsen;83298.31305;GHG;total
+2013;Niedersachsen;66743.69977;CO2;total
+2013;Niedersachsen;64961.23083;CO2;energy
+2013;Niedersachsen;1246.565277;CO2;industrial processes
+2013;Niedersachsen;535.9036565;CO2;agriculture
+2013;Niedersachsen;10109.03511;CH4;total
+2013;Niedersachsen;5085.98178;N2O;total
+2013;Niedersachsen;1359.596389;F-Gases;total
+2013;Nordrhein-Westfalen;290792.6108;GHG;total
+2013;Nordrhein-Westfalen;271276.5558;CO2;total
+2013;Nordrhein-Westfalen;263276.5721;CO2;energy
+2013;Nordrhein-Westfalen;7769.980952;CO2;industrial processes
+2013;Nordrhein-Westfalen;230.0027518;CO2;agriculture
+2013;Nordrhein-Westfalen;11842.67734;CH4;total
+2013;Nordrhein-Westfalen;4606.017091;N2O;total
+2013;Nordrhein-Westfalen;3067.360545;F-Gases;total
+2013;Rheinland-Pfalz;33082.09873;GHG;total
+2013;Rheinland-Pfalz;29718.87492;CO2;total
+2013;Rheinland-Pfalz;26771.06188;CO2;energy
+2013;Rheinland-Pfalz;2875.377346;CO2;industrial processes
+2013;Rheinland-Pfalz;72.43569329;CO2;agriculture
+2013;Rheinland-Pfalz;1807.73474;CH4;total
+2013;Rheinland-Pfalz;858.2376786;N2O;total
+2013;Rheinland-Pfalz;697.2513888;F-Gases;total
+2013;Saarland;23702.82378;GHG;total
+2013;Saarland;22995.02625;CO2;total
+2013;Saarland;22990.40145;CO2;energy
+2013;Saarland;0;CO2;industrial processes
+2013;Saarland;4.624799849;CO2;agriculture
+2013;Saarland;303.9303274;CH4;total
+2013;Saarland;230.5284618;N2O;total
+2013;Saarland;173.3387475;F-Gases;total
+2013;Sachsen;53392.44608;GHG;total
+2013;Sachsen;49033.06617;CO2;total
+2013;Sachsen;48751.63725;CO2;energy
+2013;Sachsen;102.1471361;CO2;industrial processes
+2013;Sachsen;179.2817838;CO2;agriculture
+2013;Sachsen;2437.96919;CH4;total
+2013;Sachsen;1214.383758;N2O;total
+2013;Sachsen;707.0269661;F-Gases;total
+2013;Sachsen-Anhalt;36578.04484;GHG;total
+2013;Sachsen-Anhalt;32745.67289;CO2;total
+2013;Sachsen-Anhalt;26987.18217;CO2;energy
+2013;Sachsen-Anhalt;5581;CO2;industrial processes
+2013;Sachsen-Anhalt;177.4907154;CO2;agriculture
+2013;Sachsen-Anhalt;2120.27765;CH4;total
+2013;Sachsen-Anhalt;1318.78944;N2O;total
+2013;Sachsen-Anhalt;393.3048659;F-Gases;total
+2013;Schleswig-Holstein;27599.71247;GHG;total
+2013;Schleswig-Holstein;21444.67042;CO2;total
+2013;Schleswig-Holstein;19118.73628;CO2;energy
+2013;Schleswig-Holstein;2063.675639;CO2;industrial processes
+2013;Schleswig-Holstein;262.2584967;CO2;agriculture
+2013;Schleswig-Holstein;3828.909876;CH4;total
+2013;Schleswig-Holstein;1835.153972;N2O;total
+2013;Schleswig-Holstein;490.9782042;F-Gases;total
+2013;Thüringen;.;GHG;total
+2013;Thüringen;.;CO2;total
+2013;Thüringen;10495.06816;CO2;energy
+2013;Thüringen;.;CO2;industrial processes
+2013;Thüringen;89.1830161;CO2;agriculture
+2013;Thüringen;1644.220619;CH4;total
+2013;Thüringen;794.9429299;N2O;total
+2013;Thüringen;378.2266236;F-Gases;total
+2012;Deutschland;913347.7266;GHG;total
+2012;Deutschland;812815.5299;CO2;total
+2012;Deutschland;764921.9192;CO2;energy
+2012;Deutschland;45257.70604;CO2;industrial processes
+2012;Deutschland;2635.904675;CO2;agriculture
+2012;Deutschland;58892.57016;CH4;total
+2012;Deutschland;27583.77123;N2O;total
+2012;Deutschland;14055.85526;F-Gases;total
+2012;Summe der Länder;x;GHG;total
+2012;Summe der Länder;x;CO2;total
+2012;Summe der Länder;767964.5561;CO2;energy
+2012;Summe der Länder;26994.34613;CO2;industrial processes
+2012;Summe der Länder;2629.552785;CO2;agriculture
+2012;Summe der Länder;58259.42833;CH4;total
+2012;Summe der Länder;27908.44389;N2O;total
+2012;Summe der Länder;14055.85526;F-Gases;total
+2012;Stadtstaaten;28989.21215;GHG;total
+2012;Stadtstaaten;27631.5844;CO2;total
+2012;Stadtstaaten;27466.08911;CO2;energy
+2012;Stadtstaaten;159.143406;CO2;industrial processes
+2012;Stadtstaaten;6.351890426;CO2;agriculture
+2012;Stadtstaaten;298.0806945;CH4;total
+2012;Stadtstaaten;172.2778856;N2O;total
+2012;Stadtstaaten;887.2691647;F-Gases;total
+2012;Baden-Württemberg;76161.65147;GHG;total
+2012;Baden-Württemberg;67614.27398;CO2;total
+2012;Baden-Württemberg;65045.90826;CO2;energy
+2012;Baden-Württemberg;2424.7067;CO2;industrial processes
+2012;Baden-Württemberg;143.6590202;CO2;agriculture
+2012;Baden-Württemberg;4560.807714;CH4;total
+2012;Baden-Württemberg;2144.380176;N2O;total
+2012;Baden-Württemberg;1842.189597;F-Gases;total
+2012;Bayern;96973.91148;GHG;total
+2012;Bayern;78408.29103;CO2;total
+2012;Bayern;74909.69799;CO2;energy
+2012;Bayern;3080.797531;CO2;industrial processes
+2012;Bayern;417.7955063;CO2;agriculture
+2012;Bayern;11216.90968;CH4;total
+2012;Bayern;5167.349754;N2O;total
+2012;Bayern;2181.361018;F-Gases;total
+2012;Berlin;.;GHG;total
+2012;Berlin;.;CO2;total
+2012;Berlin;16657.75548;CO2;energy
+2012;Berlin;0;CO2;industrial processes
+2012;Berlin;.;CO2;agriculture
+2012;Berlin;155.5793198;CH4;total
+2012;Berlin;98.88997273;N2O;total
+2012;Berlin;585.5795217;F-Gases;total
+2012;Brandenburg;64394.28171;GHG;total
+2012;Brandenburg;59291.70516;CO2;total
+2012;Brandenburg;57743.91875;CO2;energy
+2012;Brandenburg;1340.9;CO2;industrial processes
+2012;Brandenburg;206.8864104;CO2;agriculture
+2012;Brandenburg;2811.533189;CH4;total
+2012;Brandenburg;1862.626701;N2O;total
+2012;Brandenburg;428.4166649;F-Gases;total
+2012;Bremen;.;GHG;total
+2012;Bremen;.;CO2;total
+2012;Bremen;13358.48291;CO2;energy
+2012;Bremen;0;CO2;industrial processes
+2012;Bremen;.;CO2;agriculture
+2012;Bremen;125.1870681;CH4;total
+2012;Bremen;106.4909058;N2O;total
+2012;Bremen;114.206997;F-Gases;total
+2012;Hamburg;.;GHG;total
+2012;Hamburg;.;CO2;total
+2012;Hamburg;10808.33363;CO2;energy
+2012;Hamburg;159.143406;CO2;industrial processes
+2012;Hamburg;.;CO2;agriculture
+2012;Hamburg;142.5013748;CH4;total
+2012;Hamburg;73.38791288;N2O;total
+2012;Hamburg;301.6896429;F-Gases;total
+2012;Hessen;41457.1264;GHG;total
+2012;Hessen;37331.98082;CO2;total
+2012;Hessen;36808.8649;CO2;energy
+2012;Hessen;407.0648111;CO2;industrial processes
+2012;Hessen;116.0511029;CO2;agriculture
+2012;Hessen;2196.437751;CH4;total
+2012;Hessen;879.2043967;N2O;total
+2012;Hessen;1049.503437;F-Gases;total
+2012;Mecklenburg-Vorpommern;.;GHG;total
+2012;Mecklenburg-Vorpommern;.;CO2;total
+2012;Mecklenburg-Vorpommern;11027.19989;CO2;energy
+2012;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2012;Mecklenburg-Vorpommern;245.7438321;CO2;agriculture
+2012;Mecklenburg-Vorpommern;2135.502505;CH4;total
+2012;Mecklenburg-Vorpommern;1678.572731;N2O;total
+2012;Mecklenburg-Vorpommern;280.2601237;F-Gases;total
+2012;Niedersachsen;82450.09836;GHG;total
+2012;Niedersachsen;65957.86839;CO2;total
+2012;Niedersachsen;64179.33006;CO2;energy
+2012;Niedersachsen;1254.327225;CO2;industrial processes
+2012;Niedersachsen;524.2111059;CO2;agriculture
+2012;Niedersachsen;10067.45881;CH4;total
+2012;Niedersachsen;5065.666686;N2O;total
+2012;Niedersachsen;1359.104475;F-Gases;total
+2012;Nordrhein-Westfalen;295170.3722;GHG;total
+2012;Nordrhein-Westfalen;275077.7628;CO2;total
+2012;Nordrhein-Westfalen;266937.049;CO2;energy
+2012;Nordrhein-Westfalen;7912.797351;CO2;industrial processes
+2012;Nordrhein-Westfalen;227.9164612;CO2;agriculture
+2012;Nordrhein-Westfalen;12402.87286;CH4;total
+2012;Nordrhein-Westfalen;4622.623322;N2O;total
+2012;Nordrhein-Westfalen;3067.113197;F-Gases;total
+2012;Rheinland-Pfalz;31835.64408;GHG;total
+2012;Rheinland-Pfalz;28459.0144;CO2;total
+2012;Rheinland-Pfalz;25601.50391;CO2;energy
+2012;Rheinland-Pfalz;2784.802661;CO2;industrial processes
+2012;Rheinland-Pfalz;72.70782309;CO2;agriculture
+2012;Rheinland-Pfalz;1828.625671;CH4;total
+2012;Rheinland-Pfalz;850.6527116;N2O;total
+2012;Rheinland-Pfalz;697.3513024;F-Gases;total
+2012;Saarland;22625.29611;GHG;total
+2012;Saarland;21755.97611;CO2;total
+2012;Saarland;21752.65767;CO2;energy
+2012;Saarland;0;CO2;industrial processes
+2012;Saarland;3.31843395;CO2;agriculture
+2012;Saarland;470.9850774;CH4;total
+2012;Saarland;224.2536581;N2O;total
+2012;Saarland;174.0812663;F-Gases;total
+2012;Sachsen;50784.43094;GHG;total
+2012;Sachsen;46378.95958;CO2;total
+2012;Sachsen;46108.10315;CO2;energy
+2012;Sachsen;100.3680811;CO2;industrial processes
+2012;Sachsen;170.4883449;CO2;agriculture
+2012;Sachsen;2498.39025;CH4;total
+2012;Sachsen;1198.887737;N2O;total
+2012;Sachsen;708.1933805;F-Gases;total
+2012;Sachsen-Anhalt;37169.7075;GHG;total
+2012;Sachsen-Anhalt;33281.6441;CO2;total
+2012;Sachsen-Anhalt;27624.67988;CO2;energy
+2012;Sachsen-Anhalt;5480;CO2;industrial processes
+2012;Sachsen-Anhalt;176.9642207;CO2;agriculture
+2012;Sachsen-Anhalt;2183.224146;CH4;total
+2012;Sachsen-Anhalt;1308.45423;N2O;total
+2012;Sachsen-Anhalt;396.385024;F-Gases;total
+2012;Schleswig-Holstein;27452.54399;GHG;total
+2012;Schleswig-Holstein;21328.19112;CO2;total
+2012;Schleswig-Holstein;19039.6271;CO2;energy
+2012;Schleswig-Holstein;2049.438361;CO2;industrial processes
+2012;Schleswig-Holstein;239.125665;CO2;agriculture
+2012;Schleswig-Holstein;3800.314205;CH4;total
+2012;Schleswig-Holstein;1833.919656;N2O;total
+2012;Schleswig-Holstein;490.1190067;F-Gases;total
+2012;Thüringen;.;GHG;total
+2012;Thüringen;.;CO2;total
+2012;Thüringen;10361.4435;CO2;energy
+2012;Thüringen;.;CO2;industrial processes
+2012;Thüringen;84.6848577;CO2;agriculture
+2012;Thüringen;1663.098711;CH4;total
+2012;Thüringen;793.0833435;N2O;total
+2012;Thüringen;380.3006071;F-Gases;total
+2011;Deutschland;907502.1588;GHG;total
+2011;Deutschland;807613.9318;CO2;total
+2011;Deutschland;759044.074;CO2;energy
+2011;Deutschland;46058.46217;CO2;industrial processes
+2011;Deutschland;2511.395653;CO2;agriculture
+2011;Deutschland;58550.6752;CH4;total
+2011;Deutschland;27457.7176;N2O;total
+2011;Deutschland;13879.83418;F-Gases;total
+2011;Summe der Länder;x;GHG;total
+2011;Summe der Länder;x;CO2;total
+2011;Summe der Länder;760100.9396;CO2;energy
+2011;Summe der Länder;27741.24345;CO2;industrial processes
+2011;Summe der Länder;2509.762993;CO2;agriculture
+2011;Summe der Länder;57866.57334;CH4;total
+2011;Summe der Länder;27736.58912;N2O;total
+2011;Summe der Länder;13879.83418;F-Gases;total
+2011;Stadtstaaten;29053.76011;GHG;total
+2011;Stadtstaaten;27707.42642;CO2;total
+2011;Stadtstaaten;27527.43853;CO2;energy
+2011;Stadtstaaten;178.355224;CO2;industrial processes
+2011;Stadtstaaten;1.632659641;CO2;agriculture
+2011;Stadtstaaten;306.7743025;CH4;total
+2011;Stadtstaaten;172.6003156;N2O;total
+2011;Stadtstaaten;866.959071;F-Gases;total
+2011;Baden-Württemberg;77442.63973;GHG;total
+2011;Baden-Württemberg;68875.13185;CO2;total
+2011;Baden-Württemberg;66091.88165;CO2;energy
+2011;Baden-Württemberg;2644.087771;CO2;industrial processes
+2011;Baden-Württemberg;139.1624232;CO2;agriculture
+2011;Baden-Württemberg;4626.466747;CH4;total
+2011;Baden-Württemberg;2126.336028;N2O;total
+2011;Baden-Württemberg;1814.705103;F-Gases;total
+2011;Bayern;96954.74104;GHG;total
+2011;Bayern;78391.71003;CO2;total
+2011;Bayern;74859.58985;CO2;energy
+2011;Bayern;3137.791104;CO2;industrial processes
+2011;Bayern;394.3290728;CO2;agriculture
+2011;Bayern;11286.40799;CH4;total
+2011;Bayern;5130.303506;N2O;total
+2011;Bayern;2146.319518;F-Gases;total
+2011;Berlin;.;GHG;total
+2011;Berlin;.;CO2;total
+2011;Berlin;16573.00415;CO2;energy
+2011;Berlin;0;CO2;industrial processes
+2011;Berlin;.;CO2;agriculture
+2011;Berlin;157.4202867;CH4;total
+2011;Berlin;98.44535019;N2O;total
+2011;Berlin;570.9577843;F-Gases;total
+2011;Brandenburg;63434.96143;GHG;total
+2011;Brandenburg;58201.29599;CO2;total
+2011;Brandenburg;56518.74627;CO2;energy
+2011;Brandenburg;1492.5;CO2;industrial processes
+2011;Brandenburg;190.0497199;CO2;agriculture
+2011;Brandenburg;2966.116062;CH4;total
+2011;Brandenburg;1842.688736;N2O;total
+2011;Brandenburg;424.8606367;F-Gases;total
+2011;Bremen;.;GHG;total
+2011;Bremen;.;CO2;total
+2011;Bremen;13154.51192;CO2;energy
+2011;Bremen;0;CO2;industrial processes
+2011;Bremen;.;CO2;agriculture
+2011;Bremen;127.5399838;CH4;total
+2011;Bremen;104.6723486;N2O;total
+2011;Bremen;112.7028914;F-Gases;total
+2011;Hamburg;.;GHG;total
+2011;Hamburg;.;CO2;total
+2011;Hamburg;10954.43438;CO2;energy
+2011;Hamburg;178.355224;CO2;industrial processes
+2011;Hamburg;.;CO2;agriculture
+2011;Hamburg;149.3540159;CH4;total
+2011;Hamburg;74.15496542;N2O;total
+2011;Hamburg;296.0012867;F-Gases;total
+2011;Hessen;41499.13748;GHG;total
+2011;Hessen;37321.44791;CO2;total
+2011;Hessen;36801.53319;CO2;energy
+2011;Hessen;408.0790546;CO2;industrial processes
+2011;Hessen;111.8356701;CO2;agriculture
+2011;Hessen;2262.831509;CH4;total
+2011;Hessen;880.6195899;N2O;total
+2011;Hessen;1034.238466;F-Gases;total
+2011;Mecklenburg-Vorpommern;.;GHG;total
+2011;Mecklenburg-Vorpommern;.;CO2;total
+2011;Mecklenburg-Vorpommern;10473.58694;CO2;energy
+2011;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2011;Mecklenburg-Vorpommern;234.8572204;CO2;agriculture
+2011;Mecklenburg-Vorpommern;2139.914111;CH4;total
+2011;Mecklenburg-Vorpommern;1677.772485;N2O;total
+2011;Mecklenburg-Vorpommern;278.5207324;F-Gases;total
+2011;Niedersachsen;84551.16685;GHG;total
+2011;Niedersachsen;68333.78651;CO2;total
+2011;Niedersachsen;66494.19072;CO2;energy
+2011;Niedersachsen;1329.998529;CO2;industrial processes
+2011;Niedersachsen;509.5972567;CO2;agriculture
+2011;Niedersachsen;9925.404673;CH4;total
+2011;Niedersachsen;4947.38371;N2O;total
+2011;Niedersachsen;1344.591962;F-Gases;total
+2011;Nordrhein-Westfalen;290128.5029;GHG;total
+2011;Nordrhein-Westfalen;271246.3557;CO2;total
+2011;Nordrhein-Westfalen;262928.6705;CO2;energy
+2011;Nordrhein-Westfalen;8092.629467;CO2;industrial processes
+2011;Nordrhein-Westfalen;225.0557394;CO2;agriculture
+2011;Nordrhein-Westfalen;11252.99379;CH4;total
+2011;Nordrhein-Westfalen;4595.548363;N2O;total
+2011;Nordrhein-Westfalen;3033.604964;F-Gases;total
+2011;Rheinland-Pfalz;31740.50352;GHG;total
+2011;Rheinland-Pfalz;28236.39128;CO2;total
+2011;Rheinland-Pfalz;25331.78796;CO2;energy
+2011;Rheinland-Pfalz;2835.365427;CO2;industrial processes
+2011;Rheinland-Pfalz;69.23789492;CO2;agriculture
+2011;Rheinland-Pfalz;1875.922207;CH4;total
+2011;Rheinland-Pfalz;937.9400038;N2O;total
+2011;Rheinland-Pfalz;690.250032;F-Gases;total
+2011;Saarland;22041.92965;GHG;total
+2011;Saarland;20902.06447;CO2;total
+2011;Saarland;20898.02806;CO2;energy
+2011;Saarland;0;CO2;industrial processes
+2011;Saarland;4.036411873;CO2;agriculture
+2011;Saarland;738.3726087;CH4;total
+2011;Saarland;228.611964;N2O;total
+2011;Saarland;172.8806074;F-Gases;total
+2011;Sachsen;49018.51823;GHG;total
+2011;Sachsen;44550.60455;CO2;total
+2011;Sachsen;44291.99236;CO2;energy
+2011;Sachsen;95.65913071;CO2;industrial processes
+2011;Sachsen;162.9530619;CO2;agriculture
+2011;Sachsen;2591.742386;CH4;total
+2011;Sachsen;1174.144795;N2O;total
+2011;Sachsen;702.0264964;F-Gases;total
+2011;Sachsen-Anhalt;36749.80203;GHG;total
+2011;Sachsen-Anhalt;32770.60364;CO2;total
+2011;Sachsen-Anhalt;27143.89365;CO2;energy
+2011;Sachsen-Anhalt;5450;CO2;industrial processes
+2011;Sachsen-Anhalt;176.7099898;CO2;agriculture
+2011;Sachsen-Anhalt;2261.352261;CH4;total
+2011;Sachsen-Anhalt;1322.405046;N2O;total
+2011;Sachsen-Anhalt;395.4410885;F-Gases;total
+2011;Schleswig-Holstein;25893.75108;GHG;total
+2011;Schleswig-Holstein;19791.59393;CO2;total
+2011;Schleswig-Holstein;17506.65125;CO2;energy
+2011;Schleswig-Holstein;2076.777747;CO2;industrial processes
+2011;Schleswig-Holstein;208.1649371;CO2;agriculture
+2011;Schleswig-Holstein;3805.006156;CH4;total
+2011;Schleswig-Holstein;1812.813419;N2O;total
+2011;Schleswig-Holstein;484.3375744;F-Gases;total
+2011;Thüringen;.;GHG;total
+2011;Thüringen;.;CO2;total
+2011;Thüringen;10078.43675;CO2;energy
+2011;Thüringen;.;CO2;industrial processes
+2011;Thüringen;83.77359533;CO2;agriculture
+2011;Thüringen;1699.728556;CH4;total
+2011;Thüringen;782.7488143;N2O;total
+2011;Thüringen;378.3950409;F-Gases;total
+2010;Deutschland;932379.134;GHG;total
+2010;Deutschland;831129.5843;CO2;total
+2010;Deutschland;782694.0291;CO2;energy
+2010;Deutschland;45918.5643;CO2;industrial processes
+2010;Deutschland;2516.99099;CO2;agriculture
+2010;Deutschland;60100.11207;CH4;total
+2010;Deutschland;27448.5385;N2O;total
+2010;Deutschland;13700.89904;F-Gases;total
+2010;Summe der Länder;x;GHG;total
+2010;Summe der Länder;x;CO2;total
+2010;Summe der Länder;787125.7841;CO2;energy
+2010;Summe der Länder;25843.12232;CO2;industrial processes
+2010;Summe der Länder;2515.103763;CO2;agriculture
+2010;Summe der Länder;59556.27429;CH4;total
+2010;Summe der Länder;27806.71502;N2O;total
+2010;Summe der Länder;13700.89904;F-Gases;total
+2010;Stadtstaaten;32049.41124;GHG;total
+2010;Stadtstaaten;30677.50678;CO2;total
+2010;Stadtstaaten;30511.99922;CO2;energy
+2010;Stadtstaaten;163.620331;CO2;industrial processes
+2010;Stadtstaaten;1.887226384;CO2;agriculture
+2010;Stadtstaaten;338.4028487;CH4;total
+2010;Stadtstaaten;184.3364192;N2O;total
+2010;Stadtstaaten;849.1651954;F-Gases;total
+2010;Baden-Württemberg;79191.58367;GHG;total
+2010;Baden-Württemberg;70419.26025;CO2;total
+2010;Baden-Württemberg;67905.93267;CO2;energy
+2010;Baden-Württemberg;2376.891418;CO2;industrial processes
+2010;Baden-Württemberg;136.4361611;CO2;agriculture
+2010;Baden-Württemberg;4860.973268;CH4;total
+2010;Baden-Württemberg;2122.807126;N2O;total
+2010;Baden-Württemberg;1788.543026;F-Gases;total
+2010;Bayern;98389.25681;GHG;total
+2010;Bayern;79855.47439;CO2;total
+2010;Bayern;76683.93573;CO2;energy
+2010;Bayern;2770.158038;CO2;industrial processes
+2010;Bayern;401.3806315;CO2;agriculture
+2010;Bayern;11409.14542;CH4;total
+2010;Bayern;5013.152789;N2O;total
+2010;Bayern;2111.484206;F-Gases;total
+2010;Berlin;.;GHG;total
+2010;Berlin;.;CO2;total
+2010;Berlin;18891.36151;CO2;energy
+2010;Berlin;0;CO2;industrial processes
+2010;Berlin;.;CO2;agriculture
+2010;Berlin;170.0670789;CH4;total
+2010;Berlin;106.5593235;N2O;total
+2010;Berlin;558.7601221;F-Gases;total
+2010;Brandenburg;63375.86666;GHG;total
+2010;Brandenburg;57950.77809;CO2;total
+2010;Brandenburg;56475.7614;CO2;energy
+2010;Brandenburg;1295.7;CO2;industrial processes
+2010;Brandenburg;179.3166979;CO2;agriculture
+2010;Brandenburg;3162.463165;CH4;total
+2010;Brandenburg;1841.739022;N2O;total
+2010;Brandenburg;420.8863755;F-Gases;total
+2010;Bremen;.;GHG;total
+2010;Bremen;.;CO2;total
+2010;Bremen;14036.63796;CO2;energy
+2010;Bremen;0;CO2;industrial processes
+2010;Bremen;.;CO2;agriculture
+2010;Bremen;133.8507025;CH4;total
+2010;Bremen;108.7938298;N2O;total
+2010;Bremen;111.3034059;F-Gases;total
+2010;Hamburg;.;GHG;total
+2010;Hamburg;.;CO2;total
+2010;Hamburg;11620.63771;CO2;energy
+2010;Hamburg;163.620331;CO2;industrial processes
+2010;Hamburg;.;CO2;agriculture
+2010;Hamburg;168.3357698;CH4;total
+2010;Hamburg;77.77709575;N2O;total
+2010;Hamburg;290.4050732;F-Gases;total
+2010;Hessen;43404.30448;GHG;total
+2010;Hessen;39143.3525;CO2;total
+2010;Hessen;38537.57038;CO2;energy
+2010;Hessen;488.395799;CO2;industrial processes
+2010;Hessen;117.3863221;CO2;agriculture
+2010;Hessen;2365.901542;CH4;total
+2010;Hessen;876.363138;N2O;total
+2010;Hessen;1018.687301;F-Gases;total
+2010;Mecklenburg-Vorpommern;.;GHG;total
+2010;Mecklenburg-Vorpommern;.;CO2;total
+2010;Mecklenburg-Vorpommern;11080.24207;CO2;energy
+2010;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2010;Mecklenburg-Vorpommern;220.9527319;CO2;agriculture
+2010;Mecklenburg-Vorpommern;2171.91105;CH4;total
+2010;Mecklenburg-Vorpommern;1697.20059;N2O;total
+2010;Mecklenburg-Vorpommern;276.4471798;F-Gases;total
+2010;Niedersachsen;85696.38092;GHG;total
+2010;Niedersachsen;69502.77207;CO2;total
+2010;Niedersachsen;67801.34787;CO2;energy
+2010;Niedersachsen;1187.222225;CO2;industrial processes
+2010;Niedersachsen;514.2019772;CO2;agriculture
+2010;Niedersachsen;10032.1325;CH4;total
+2010;Niedersachsen;4832.59206;N2O;total
+2010;Niedersachsen;1328.884288;F-Gases;total
+2010;Nordrhein-Westfalen;300571.3519;GHG;total
+2010;Nordrhein-Westfalen;281001.7297;CO2;total
+2010;Nordrhein-Westfalen;273538.7589;CO2;energy
+2010;Nordrhein-Westfalen;7237.247737;CO2;industrial processes
+2010;Nordrhein-Westfalen;225.7230307;CO2;agriculture
+2010;Nordrhein-Westfalen;11787.1677;CH4;total
+2010;Nordrhein-Westfalen;4784.653102;N2O;total
+2010;Nordrhein-Westfalen;2997.801392;F-Gases;total
+2010;Rheinland-Pfalz;34093.58422;GHG;total
+2010;Rheinland-Pfalz;30402.66555;CO2;total
+2010;Rheinland-Pfalz;27311.31161;CO2;energy
+2010;Rheinland-Pfalz;3022.470605;CO2;industrial processes
+2010;Rheinland-Pfalz;68.88333882;CO2;agriculture
+2010;Rheinland-Pfalz;1978.278016;CH4;total
+2010;Rheinland-Pfalz;1030.211782;N2O;total
+2010;Rheinland-Pfalz;682.4288666;F-Gases;total
+2010;Saarland;20385.28699;GHG;total
+2010;Saarland;19290.77013;CO2;total
+2010;Saarland;19286.75084;CO2;energy
+2010;Saarland;0;CO2;industrial processes
+2010;Saarland;4.019287872;CO2;agriculture
+2010;Saarland;712.4375886;CH4;total
+2010;Saarland;210.6091346;N2O;total
+2010;Saarland;171.4701349;F-Gases;total
+2010;Sachsen;51216.93052;GHG;total
+2010;Sachsen;46663.65561;CO2;total
+2010;Sachsen;46391.914;CO2;energy
+2010;Sachsen;99.85354496;CO2;industrial processes
+2010;Sachsen;171.8880658;CO2;agriculture
+2010;Sachsen;2681.595793;CH4;total
+2010;Sachsen;1175.772239;N2O;total
+2010;Sachsen;695.9068774;F-Gases;total
+2010;Sachsen-Anhalt;37110.8576;GHG;total
+2010;Sachsen-Anhalt;33047.16333;CO2;total
+2010;Sachsen-Anhalt;27457.59969;CO2;energy
+2010;Sachsen-Anhalt;5403;CO2;industrial processes
+2010;Sachsen-Anhalt;186.5636382;CO2;agriculture
+2010;Sachsen-Anhalt;2307.904362;CH4;total
+2010;Sachsen-Anhalt;1361.773708;N2O;total
+2010;Sachsen-Anhalt;394.0161935;F-Gases;total
+2010;Schleswig-Holstein;27464.86939;GHG;total
+2010;Schleswig-Holstein;21359.76627;CO2;total
+2010;Schleswig-Holstein;19356.81613;CO2;energy
+2010;Schleswig-Holstein;1798.562619;CO2;industrial processes
+2010;Schleswig-Holstein;204.3875279;CO2;agriculture
+2010;Schleswig-Holstein;3839.21264;CH4;total
+2010;Schleswig-Holstein;1788.098595;N2O;total
+2010;Schleswig-Holstein;477.7918826;F-Gases;total
+2010;Thüringen;.;GHG;total
+2010;Thüringen;.;CO2;total
+2010;Thüringen;10749.20559;CO2;energy
+2010;Thüringen;.;CO2;industrial processes
+2010;Thüringen;83.96435255;CO2;agriculture
+2010;Thüringen;1774.897699;CH4;total
+2010;Thüringen;778.6114886;N2O;total
+2010;Thüringen;376.0827152;F-Gases;total
+2009;Deutschland;898336.0047;GHG;total
+2009;Deutschland;788285.8198;CO2;total
+2009;Deutschland;745227.1612;CO2;energy
+2009;Deutschland;40592.66703;CO2;industrial processes
+2009;Deutschland;2465.991625;CO2;agriculture
+2009;Deutschland;61476.93338;CH4;total
+2009;Deutschland;34545.38123;N2O;total
+2009;Deutschland;14027.87024;F-Gases;total
+2009;Summe der Länder;x;GHG;total
+2009;Summe der Länder;x;CO2;total
+2009;Summe der Länder;733960.7313;CO2;energy
+2009;Summe der Länder;24406.75089;CO2;industrial processes
+2009;Summe der Länder;2463.688614;CO2;agriculture
+2009;Summe der Länder;61035.64728;CH4;total
+2009;Summe der Länder;34867.59571;N2O;total
+2009;Summe der Länder;14027.87024;F-Gases;total
+2009;Stadtstaaten;30013.81854;GHG;total
+2009;Stadtstaaten;28628.43747;CO2;total
+2009;Stadtstaaten;28530.89557;CO2;energy
+2009;Stadtstaaten;95.23889;CO2;industrial processes
+2009;Stadtstaaten;2.303010871;CO2;agriculture
+2009;Stadtstaaten;343.7958318;CH4;total
+2009;Stadtstaaten;175.6467587;N2O;total
+2009;Stadtstaaten;865.9384812;F-Gases;total
+2009;Baden-Württemberg;77735.97028;GHG;total
+2009;Baden-Württemberg;68809.33605;CO2;total
+2009;Baden-Württemberg;66338.79293;CO2;energy
+2009;Baden-Württemberg;2334.451979;CO2;industrial processes
+2009;Baden-Württemberg;136.0911396;CO2;agriculture
+2009;Baden-Württemberg;4982.164125;CH4;total
+2009;Baden-Württemberg;2115.924703;N2O;total
+2009;Baden-Württemberg;1828.545405;F-Gases;total
+2009;Bayern;95136.26614;GHG;total
+2009;Bayern;76656.1047;CO2;total
+2009;Bayern;73597.30212;CO2;energy
+2009;Bayern;2655.949748;CO2;industrial processes
+2009;Bayern;402.8528371;CO2;agriculture
+2009;Bayern;11337.50374;CH4;total
+2009;Bayern;4986.526785;N2O;total
+2009;Bayern;2156.130916;F-Gases;total
+2009;Berlin;.;GHG;total
+2009;Berlin;.;CO2;total
+2009;Berlin;17234.74093;CO2;energy
+2009;Berlin;0;CO2;industrial processes
+2009;Berlin;.;CO2;agriculture
+2009;Berlin;168.1947535;CH4;total
+2009;Berlin;100.8620275;N2O;total
+2009;Berlin;569.8498378;F-Gases;total
+2009;Brandenburg;60917.86938;GHG;total
+2009;Brandenburg;55322.29463;CO2;total
+2009;Brandenburg;53859.22135;CO2;energy
+2009;Brandenburg;1288.6;CO2;industrial processes
+2009;Brandenburg;174.4732776;CO2;agriculture
+2009;Brandenburg;3340.422858;CH4;total
+2009;Brandenburg;1823.27942;N2O;total
+2009;Brandenburg;431.8724766;F-Gases;total
+2009;Bremen;.;GHG;total
+2009;Bremen;.;CO2;total
+2009;Bremen;12664.71453;CO2;energy
+2009;Bremen;0;CO2;industrial processes
+2009;Bremen;.;CO2;agriculture
+2009;Bremen;129.7990048;CH4;total
+2009;Bremen;98.56196106;N2O;total
+2009;Bremen;113.8637161;F-Gases;total
+2009;Hamburg;.;GHG;total
+2009;Hamburg;.;CO2;total
+2009;Hamburg;11296.15464;CO2;energy
+2009;Hamburg;95.23889;CO2;industrial processes
+2009;Hamburg;.;CO2;agriculture
+2009;Hamburg;175.6010783;CH4;total
+2009;Hamburg;74.78473118;N2O;total
+2009;Hamburg;296.0886435;F-Gases;total
+2009;Hessen;42739.7845;GHG;total
+2009;Hessen;38390.38473;CO2;total
+2009;Hessen;37743.12694;CO2;energy
+2009;Hessen;526.3913662;CO2;industrial processes
+2009;Hessen;120.8664221;CO2;agriculture
+2009;Hessen;2441.602898;CH4;total
+2009;Hessen;866.7303183;N2O;total
+2009;Hessen;1041.066557;F-Gases;total
+2009;Mecklenburg-Vorpommern;.;GHG;total
+2009;Mecklenburg-Vorpommern;.;CO2;total
+2009;Mecklenburg-Vorpommern;9536.058389;CO2;energy
+2009;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2009;Mecklenburg-Vorpommern;206.1224416;CO2;agriculture
+2009;Mecklenburg-Vorpommern;2244.883931;CH4;total
+2009;Mecklenburg-Vorpommern;1822.632844;N2O;total
+2009;Mecklenburg-Vorpommern;284.5078261;F-Gases;total
+2009;Niedersachsen;83954.26508;GHG;total
+2009;Niedersachsen;67518.17535;CO2;total
+2009;Niedersachsen;65852.8698;CO2;energy
+2009;Niedersachsen;1170.702719;CO2;industrial processes
+2009;Niedersachsen;494.6028301;CO2;agriculture
+2009;Niedersachsen;10245.42408;CH4;total
+2009;Niedersachsen;4829.893736;N2O;total
+2009;Niedersachsen;1360.771924;F-Gases;total
+2009;Nordrhein-Westfalen;287244.1394;GHG;total
+2009;Nordrhein-Westfalen;264335.7103;CO2;total
+2009;Nordrhein-Westfalen;257694.1518;CO2;energy
+2009;Nordrhein-Westfalen;6423.97456;CO2;industrial processes
+2009;Nordrhein-Westfalen;217.5838601;CO2;agriculture
+2009;Nordrhein-Westfalen;12225.60147;CH4;total
+2009;Nordrhein-Westfalen;7610.830234;N2O;total
+2009;Nordrhein-Westfalen;3071.997478;F-Gases;total
+2009;Rheinland-Pfalz;35588.26525;GHG;total
+2009;Rheinland-Pfalz;29059.66211;CO2;total
+2009;Rheinland-Pfalz;26330.3938;CO2;energy
+2009;Rheinland-Pfalz;2658.965906;CO2;industrial processes
+2009;Rheinland-Pfalz;70.30240564;CO2;agriculture
+2009;Rheinland-Pfalz;2027.35584;CH4;total
+2009;Rheinland-Pfalz;3802.032988;N2O;total
+2009;Rheinland-Pfalz;699.2143114;F-Gases;total
+2009;Saarland;â€¦;GHG;total
+2009;Saarland;â€¦;CO2;total
+2009;Saarland;â€¦;CO2;energy
+2009;Saarland;0;CO2;industrial processes
+2009;Saarland;5.079241663;CO2;agriculture
+2009;Saarland;608.3626189;CH4;total
+2009;Saarland;194.1289017;N2O;total
+2009;Saarland;176.3767392;F-Gases;total
+2009;Sachsen;51033.97048;GHG;total
+2009;Sachsen;46254.2378;CO2;total
+2009;Sachsen;45996.71377;CO2;energy
+2009;Sachsen;81.11932374;CO2;industrial processes
+2009;Sachsen;176.4047041;CO2;agriculture
+2009;Sachsen;2873.607407;CH4;total
+2009;Sachsen;1190.901604;N2O;total
+2009;Sachsen;715.2236676;F-Gases;total
+2009;Sachsen-Anhalt;37870.64835;GHG;total
+2009;Sachsen-Anhalt;32211.79413;CO2;total
+2009;Sachsen-Anhalt;26755.27232;CO2;energy
+2009;Sachsen-Anhalt;5270;CO2;industrial processes
+2009;Sachsen-Anhalt;186.5218117;CO2;agriculture
+2009;Sachsen-Anhalt;2486.615412;CH4;total
+2009;Sachsen-Anhalt;2765.427803;N2O;total
+2009;Sachsen-Anhalt;406.8110042;F-Gases;total
+2009;Schleswig-Holstein;26814.92677;GHG;total
+2009;Schleswig-Holstein;20640.95765;CO2;total
+2009;Schleswig-Holstein;18547.05911;CO2;energy
+2009;Schleswig-Holstein;1901.356396;CO2;industrial processes
+2009;Schleswig-Holstein;192.5421359;CO2;agriculture
+2009;Schleswig-Holstein;3893.750189;CH4;total
+2009;Schleswig-Holstein;1791.975663;N2O;total
+2009;Schleswig-Holstein;488.2432725;F-Gases;total
+2009;Thüringen;.;GHG;total
+2009;Thüringen;.;CO2;total
+2009;Thüringen;10514.15885;CO2;energy
+2009;Thüringen;.;CO2;industrial processes
+2009;Thüringen;80.24550678;CO2;agriculture
+2009;Thüringen;1854.757883;CH4;total
+2009;Thüringen;793.1019902;N2O;total
+2009;Thüringen;387.3064697;F-Gases;total
+2008;Deutschland;964974.3184;GHG;total
+2008;Deutschland;852857.8626;CO2;total
+2008;Deutschland;801552.0363;CO2;energy
+2008;Deutschland;48805.333;CO2;industrial processes
+2008;Deutschland;2500.4933;CO2;agriculture
+2008;Deutschland;64295.75852;CH4;total
+2008;Deutschland;34202.505;N2O;total
+2008;Deutschland;13618.19226;F-Gases;total
+2008;Summe der Länder;x;GHG;total
+2008;Summe der Länder;x;CO2;total
+2008;Summe der Länder;781496.6558;CO2;energy
+2008;Summe der Länder;27118.70626;CO2;industrial processes
+2008;Summe der Länder;2497.69642;CO2;agriculture
+2008;Summe der Länder;63725.60193;CH4;total
+2008;Summe der Länder;34554.9416;N2O;total
+2008;Summe der Länder;13618.19226;F-Gases;total
+2008;Stadtstaaten;30418.10231;GHG;total
+2008;Stadtstaaten;29052.67804;CO2;total
+2008;Stadtstaaten;28879.01846;CO2;energy
+2008;Stadtstaaten;170.862697;CO2;industrial processes
+2008;Stadtstaaten;2.796879602;CO2;agriculture
+2008;Stadtstaaten;351.7550341;CH4;total
+2008;Stadtstaaten;176.1593042;N2O;total
+2008;Stadtstaaten;837.509941;F-Gases;total
+2008;Baden-Württemberg;84194.92379;GHG;total
+2008;Baden-Württemberg;75151.05103;CO2;total
+2008;Baden-Württemberg;72396.19062;CO2;energy
+2008;Baden-Württemberg;2613.491769;CO2;industrial processes
+2008;Baden-Württemberg;141.3686463;CO2;agriculture
+2008;Baden-Württemberg;5136.037982;CH4;total
+2008;Baden-Württemberg;2136.294159;N2O;total
+2008;Baden-Württemberg;1771.540614;F-Gases;total
+2008;Bayern;98618.06747;GHG;total
+2008;Bayern;80199.45205;CO2;total
+2008;Bayern;76580.09125;CO2;energy
+2008;Bayern;3213.777724;CO2;industrial processes
+2008;Bayern;405.5830733;CO2;agriculture
+2008;Bayern;11391.87083;CH4;total
+2008;Bayern;4938.809575;N2O;total
+2008;Bayern;2087.935016;F-Gases;total
+2008;Berlin;.;GHG;total
+2008;Berlin;.;CO2;total
+2008;Berlin;17710.31958;CO2;energy
+2008;Berlin;0;CO2;industrial processes
+2008;Berlin;.;CO2;agriculture
+2008;Berlin;169.4306002;CH4;total
+2008;Berlin;102.7053337;N2O;total
+2008;Berlin;550.6635075;F-Gases;total
+2008;Brandenburg;64760.92678;GHG;total
+2008;Brandenburg;59024.4447;CO2;total
+2008;Brandenburg;57288.81731;CO2;energy
+2008;Brandenburg;1557;CO2;industrial processes
+2008;Brandenburg;178.6273814;CO2;agriculture
+2008;Brandenburg;3480.811614;CH4;total
+2008;Brandenburg;1835.502896;N2O;total
+2008;Brandenburg;420.167569;F-Gases;total
+2008;Bremen;.;GHG;total
+2008;Bremen;.;CO2;total
+2008;Bremen;13110.99847;CO2;energy
+2008;Bremen;0;CO2;industrial processes
+2008;Bremen;.;CO2;agriculture
+2008;Bremen;142.4986881;CH4;total
+2008;Bremen;105.6058233;N2O;total
+2008;Bremen;110.3497805;F-Gases;total
+2008;Hamburg;.;GHG;total
+2008;Hamburg;.;CO2;total
+2008;Hamburg;11168.69888;CO2;energy
+2008;Hamburg;170.862697;CO2;industrial processes
+2008;Hamburg;.;CO2;agriculture
+2008;Hamburg;182.3244339;CH4;total
+2008;Hamburg;73.45397047;N2O;total
+2008;Hamburg;286.8464335;F-Gases;total
+2008;Hessen;44356.05497;GHG;total
+2008;Hessen;39910.21296;CO2;total
+2008;Hessen;39259.31531;CO2;energy
+2008;Hessen;527.4914206;CO2;industrial processes
+2008;Hessen;123.4062333;CO2;agriculture
+2008;Hessen;2566.523555;CH4;total
+2008;Hessen;870.4877565;N2O;total
+2008;Hessen;1008.830692;F-Gases;total
+2008;Mecklenburg-Vorpommern;.;GHG;total
+2008;Mecklenburg-Vorpommern;.;CO2;total
+2008;Mecklenburg-Vorpommern;10908.82765;CO2;energy
+2008;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2008;Mecklenburg-Vorpommern;215.275737;CO2;agriculture
+2008;Mecklenburg-Vorpommern;2339.766212;CH4;total
+2008;Mecklenburg-Vorpommern;2083.923082;N2O;total
+2008;Mecklenburg-Vorpommern;277.8791523;F-Gases;total
+2008;Niedersachsen;87329.20149;GHG;total
+2008;Niedersachsen;70858.69127;CO2;total
+2008;Niedersachsen;69111.20624;CO2;energy
+2008;Niedersachsen;1261.69954;CO2;industrial processes
+2008;Niedersachsen;485.7854918;CO2;agriculture
+2008;Niedersachsen;10345.9616;CH4;total
+2008;Niedersachsen;4803.518914;N2O;total
+2008;Niedersachsen;1321.029706;F-Gases;total
+2008;Nordrhein-Westfalen;317824.2528;GHG;total
+2008;Nordrhein-Westfalen;293192.6508;CO2;total
+2008;Nordrhein-Westfalen;284570.3721;CO2;energy
+2008;Nordrhein-Westfalen;8405.827362;CO2;industrial processes
+2008;Nordrhein-Westfalen;216.4513389;CO2;agriculture
+2008;Nordrhein-Westfalen;13724.59137;CH4;total
+2008;Nordrhein-Westfalen;7922.203769;N2O;total
+2008;Nordrhein-Westfalen;2984.806805;F-Gases;total
+2008;Rheinland-Pfalz;36526.78447;GHG;total
+2008;Rheinland-Pfalz;30518.79717;CO2;total
+2008;Rheinland-Pfalz;27475.79563;CO2;energy
+2008;Rheinland-Pfalz;2968.175644;CO2;industrial processes
+2008;Rheinland-Pfalz;74.8258922;CO2;agriculture
+2008;Rheinland-Pfalz;2122.375147;CH4;total
+2008;Rheinland-Pfalz;3206.323864;N2O;total
+2008;Rheinland-Pfalz;679.2882905;F-Gases;total
+2008;Saarland;â€¦;GHG;total
+2008;Saarland;â€¦;CO2;total
+2008;Saarland;â€¦;CO2;energy
+2008;Saarland;0;CO2;industrial processes
+2008;Saarland;6.554939235;CO2;agriculture
+2008;Saarland;692.3937497;CH4;total
+2008;Saarland;237.8429244;N2O;total
+2008;Saarland;171.9421085;F-Gases;total
+2008;Sachsen;50386.13256;GHG;total
+2008;Sachsen;45503.56209;CO2;total
+2008;Sachsen;45211.03453;CO2;energy
+2008;Sachsen;97.64277877;CO2;industrial processes
+2008;Sachsen;194.8847854;CO2;agriculture
+2008;Sachsen;3009.186063;CH4;total
+2008;Sachsen;1176.448378;N2O;total
+2008;Sachsen;696.9360336;F-Gases;total
+2008;Sachsen-Anhalt;36456.66886;GHG;total
+2008;Sachsen-Anhalt;30981.34239;CO2;total
+2008;Sachsen-Anhalt;26982.45615;CO2;energy
+2008;Sachsen-Anhalt;3824;CO2;industrial processes
+2008;Sachsen-Anhalt;174.8862454;CO2;agriculture
+2008;Sachsen-Anhalt;2565.527099;CH4;total
+2008;Sachsen-Anhalt;2511.198903;N2O;total
+2008;Sachsen-Anhalt;398.6004659;F-Gases;total
+2008;Schleswig-Holstein;27667.656;GHG;total
+2008;Schleswig-Holstein;21511.90659;CO2;total
+2008;Schleswig-Holstein;18828.54309;CO2;energy
+2008;Schleswig-Holstein;2478.737329;CO2;industrial processes
+2008;Schleswig-Holstein;204.6261712;CO2;agriculture
+2008;Schleswig-Holstein;3916.578991;CH4;total
+2008;Schleswig-Holstein;1766.138533;N2O;total
+2008;Schleswig-Holstein;473.0318849;F-Gases;total
+2008;Thüringen;.;GHG;total
+2008;Thüringen;.;CO2;total
+2008;Thüringen;10893.98898;CO2;energy
+2008;Thüringen;.;CO2;industrial processes
+2008;Thüringen;75.42048451;CO2;agriculture
+2008;Thüringen;1939.724004;CH4;total
+2008;Thüringen;784.483716;N2O;total
+2008;Thüringen;378.3442002;F-Gases;total
+2007;Deutschland;964865.0606;GHG;total
+2007;Deutschland;850229.8044;CO2;total
+2007;Deutschland;796633.5688;CO2;energy
+2007;Deutschland;51188.30892;CO2;industrial processes
+2007;Deutschland;2407.926669;CO2;agriculture
+2007;Deutschland;65669.94111;CH4;total
+2007;Deutschland;35331.8059;N2O;total
+2007;Deutschland;13633.5092;F-Gases;total
+2007;Summe der Länder;x;GHG;total
+2007;Summe der Länder;x;CO2;total
+2007;Summe der Länder;704332.724;CO2;energy
+2007;Summe der Länder;26674.87365;CO2;industrial processes
+2007;Summe der Länder;2404.756142;CO2;agriculture
+2007;Summe der Länder;65129.50737;CH4;total
+2007;Summe der Länder;35777.25351;N2O;total
+2007;Summe der Länder;13633.5092;F-Gases;total
+2007;Stadtstaaten;29283.67688;GHG;total
+2007;Stadtstaaten;27907.01983;CO2;total
+2007;Stadtstaaten;27817.0202;CO2;energy
+2007;Stadtstaaten;86.829106;CO2;industrial processes
+2007;Stadtstaaten;3.170526684;CO2;agriculture
+2007;Stadtstaaten;364.3204344;CH4;total
+2007;Stadtstaaten;177.8315329;N2O;total
+2007;Stadtstaaten;834.5050798;F-Gases;total
+2007;Baden-Württemberg;82534.52416;GHG;total
+2007;Baden-Württemberg;73326.63447;CO2;total
+2007;Baden-Württemberg;70591.35737;CO2;energy
+2007;Baden-Württemberg;2603.184143;CO2;industrial processes
+2007;Baden-Württemberg;132.0929571;CO2;agriculture
+2007;Baden-Württemberg;5300.562404;CH4;total
+2007;Baden-Württemberg;2137.554576;N2O;total
+2007;Baden-Württemberg;1769.772712;F-Gases;total
+2007;Bayern;93868.93036;GHG;total
+2007;Bayern;75223.78276;CO2;total
+2007;Bayern;71679.17367;CO2;energy
+2007;Bayern;3159.548235;CO2;industrial processes
+2007;Bayern;385.060846;CO2;agriculture
+2007;Bayern;11545.77673;CH4;total
+2007;Bayern;5016.051016;N2O;total
+2007;Bayern;2083.319854;F-Gases;total
+2007;Berlin;.;GHG;total
+2007;Berlin;.;CO2;total
+2007;Berlin;16755.07263;CO2;energy
+2007;Berlin;0;CO2;industrial processes
+2007;Berlin;.;CO2;agriculture
+2007;Berlin;165.5254117;CH4;total
+2007;Berlin;102.0789091;N2O;total
+2007;Berlin;548.9745988;F-Gases;total
+2007;Brandenburg;66103.76024;GHG;total
+2007;Brandenburg;60221.63397;CO2;total
+2007;Brandenburg;58457.57772;CO2;energy
+2007;Brandenburg;1592.4;CO2;industrial processes
+2007;Brandenburg;171.6562486;CO2;agriculture
+2007;Brandenburg;3587.294883;CH4;total
+2007;Brandenburg;1872.927775;N2O;total
+2007;Brandenburg;421.9036074;F-Gases;total
+2007;Bremen;.;GHG;total
+2007;Bremen;.;CO2;total
+2007;Bremen;13691.43354;CO2;energy
+2007;Bremen;0;CO2;industrial processes
+2007;Bremen;.;CO2;agriculture
+2007;Bremen;149.2152574;CH4;total
+2007;Bremen;107.3564576;N2O;total
+2007;Bremen;110.4176768;F-Gases;total
+2007;Hamburg;.;GHG;total
+2007;Hamburg;.;CO2;total
+2007;Hamburg;11061.94757;CO2;energy
+2007;Hamburg;86.829106;CO2;industrial processes
+2007;Hamburg;.;CO2;agriculture
+2007;Hamburg;198.7950227;CH4;total
+2007;Hamburg;75.75262371;N2O;total
+2007;Hamburg;285.530481;F-Gases;total
+2007;Hessen;43998.17749;GHG;total
+2007;Hessen;39436.33943;CO2;total
+2007;Hessen;38819.41414;CO2;energy
+2007;Hessen;502.9427127;CO2;industrial processes
+2007;Hessen;113.9825741;CO2;agriculture
+2007;Hessen;2680.037715;CH4;total
+2007;Hessen;873.0136845;N2O;total
+2007;Hessen;1008.786666;F-Gases;total
+2007;Mecklenburg-Vorpommern;.;GHG;total
+2007;Mecklenburg-Vorpommern;.;CO2;total
+2007;Mecklenburg-Vorpommern;10067.97833;CO2;energy
+2007;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2007;Mecklenburg-Vorpommern;223.4884725;CO2;agriculture
+2007;Mecklenburg-Vorpommern;2367.779368;CH4;total
+2007;Mecklenburg-Vorpommern;2176.326886;N2O;total
+2007;Mecklenburg-Vorpommern;280.1218403;F-Gases;total
+2007;Niedersachsen;.;GHG;total
+2007;Niedersachsen;.;CO2;total
+2007;Niedersachsen;.;CO2;energy
+2007;Niedersachsen;1267.15902;CO2;industrial processes
+2007;Niedersachsen;456.8666982;CO2;agriculture
+2007;Niedersachsen;10468.78707;CH4;total
+2007;Niedersachsen;4767.254029;N2O;total
+2007;Niedersachsen;1322.731575;F-Gases;total
+2007;Nordrhein-Westfalen;321234.9138;GHG;total
+2007;Nordrhein-Westfalen;296103.7317;CO2;total
+2007;Nordrhein-Westfalen;287458.3157;CO2;energy
+2007;Nordrhein-Westfalen;8429.925489;CO2;industrial processes
+2007;Nordrhein-Westfalen;215.4905029;CO2;agriculture
+2007;Nordrhein-Westfalen;13510.3241;CH4;total
+2007;Nordrhein-Westfalen;8630.657519;N2O;total
+2007;Nordrhein-Westfalen;2990.200496;F-Gases;total
+2007;Rheinland-Pfalz;35347.19071;GHG;total
+2007;Rheinland-Pfalz;28857.10838;CO2;total
+2007;Rheinland-Pfalz;25876.39715;CO2;energy
+2007;Rheinland-Pfalz;2899.936153;CO2;industrial processes
+2007;Rheinland-Pfalz;80.7750713;CO2;agriculture
+2007;Rheinland-Pfalz;2193.98548;CH4;total
+2007;Rheinland-Pfalz;3615.827844;N2O;total
+2007;Rheinland-Pfalz;680.2690129;F-Gases;total
+2007;Saarland;â€¦;GHG;total
+2007;Saarland;â€¦;CO2;total
+2007;Saarland;â€¦;CO2;energy
+2007;Saarland;0;CO2;industrial processes
+2007;Saarland;7.707821031;CO2;agriculture
+2007;Saarland;1341.185149;CH4;total
+2007;Saarland;249.2743422;N2O;total
+2007;Saarland;172.8559916;F-Gases;total
+2007;Sachsen;51278.71928;GHG;total
+2007;Sachsen;46305.01548;CO2;total
+2007;Sachsen;45991.03457;CO2;energy
+2007;Sachsen;120.0220111;CO2;industrial processes
+2007;Sachsen;193.9588912;CO2;agriculture
+2007;Sachsen;3087.610975;CH4;total
+2007;Sachsen;1184.887991;N2O;total
+2007;Sachsen;701.2048344;F-Gases;total
+2007;Sachsen-Anhalt;35497.1455;GHG;total
+2007;Sachsen-Anhalt;30050.2224;CO2;total
+2007;Sachsen-Anhalt;25996.52894;CO2;energy
+2007;Sachsen-Anhalt;3898;CO2;industrial processes
+2007;Sachsen-Anhalt;155.6934575;CO2;agriculture
+2007;Sachsen-Anhalt;2613.224344;CH4;total
+2007;Sachsen-Anhalt;2430.433424;N2O;total
+2007;Sachsen-Anhalt;403.2653346;F-Gases;total
+2007;Schleswig-Holstein;25905.3851;GHG;total
+2007;Schleswig-Holstein;19780.16565;CO2;total
+2007;Schleswig-Holstein;17468.08301;CO2;energy
+2007;Schleswig-Holstein;2114.926775;CO2;industrial processes
+2007;Schleswig-Holstein;197.1558634;CO2;agriculture
+2007;Schleswig-Holstein;3904.198183;CH4;total
+2007;Schleswig-Holstein;1748.554246;N2O;total
+2007;Schleswig-Holstein;472.4670174;F-Gases;total
+2007;Thüringen;.;GHG;total
+2007;Thüringen;.;CO2;total
+2007;Thüringen;10418.40962;CO2;energy
+2007;Thüringen;.;CO2;industrial processes
+2007;Thüringen;70.82673815;CO2;agriculture
+2007;Thüringen;2015.20527;CH4;total
+2007;Thüringen;789.3021835;N2O;total
+2007;Thüringen;381.687499;F-Gases;total
+2006;Deutschland;991897.3615;GHG;total
+2006;Deutschland;877497.6645;CO2;total
+2006;Deutschland;822516.9484;CO2;energy
+2006;Deutschland;52624.98684;CO2;industrial processes
+2006;Deutschland;2355.729316;CO2;agriculture
+2006;Deutschland;68158.90907;CH4;total
+2006;Deutschland;32701.97464;N2O;total
+2006;Deutschland;13538.81329;F-Gases;total
+2006;Summe der Länder;x;GHG;total
+2006;Summe der Länder;x;CO2;total
+2006;Summe der Länder;797100.6943;CO2;energy
+2006;Summe der Länder;26236.538;CO2;industrial processes
+2006;Summe der Länder;2352.769461;CO2;agriculture
+2006;Summe der Länder;67643.89627;CH4;total
+2006;Summe der Länder;33045.20366;N2O;total
+2006;Summe der Länder;13538.81329;F-Gases;total
+2006;Stadtstaaten;32215.7274;GHG;total
+2006;Stadtstaaten;30823.78127;CO2;total
+2006;Stadtstaaten;30820.82142;CO2;energy
+2006;Stadtstaaten;0;CO2;industrial processes
+2006;Stadtstaaten;2.959855191;CO2;agriculture
+2006;Stadtstaaten;384.8780519;CH4;total
+2006;Stadtstaaten;182.0364997;N2O;total
+2006;Stadtstaaten;825.0315829;F-Gases;total
+2006;Baden-Württemberg;89869.37031;GHG;total
+2006;Baden-Württemberg;80480.59928;CO2;total
+2006;Baden-Württemberg;77907.78601;CO2;energy
+2006;Baden-Württemberg;2441.502992;CO2;industrial processes
+2006;Baden-Württemberg;131.3102795;CO2;agriculture
+2006;Baden-Württemberg;5531.999868;CH4;total
+2006;Baden-Württemberg;2102.309048;N2O;total
+2006;Baden-Württemberg;1754.46211;F-Gases;total
+2006;Bayern;100827.1757;GHG;total
+2006;Bayern;82195.84346;CO2;total
+2006;Bayern;78619.72357;CO2;energy
+2006;Bayern;3204.872917;CO2;industrial processes
+2006;Bayern;371.2469764;CO2;agriculture
+2006;Bayern;11640.81908;CH4;total
+2006;Bayern;4929.38768;N2O;total
+2006;Bayern;2061.125472;F-Gases;total
+2006;Berlin;.;GHG;total
+2006;Berlin;.;CO2;total
+2006;Berlin;19242.00679;CO2;energy
+2006;Berlin;0;CO2;industrial processes
+2006;Berlin;.;CO2;agriculture
+2006;Berlin;175.0979617;CH4;total
+2006;Berlin;107.0127397;N2O;total
+2006;Berlin;543.7040207;F-Gases;total
+2006;Brandenburg;65643.45117;GHG;total
+2006;Brandenburg;59623.52484;CO2;total
+2006;Brandenburg;57887.0626;CO2;energy
+2006;Brandenburg;1571.8;CO2;industrial processes
+2006;Brandenburg;164.6622412;CO2;agriculture
+2006;Brandenburg;3764.439373;CH4;total
+2006;Brandenburg;1835.146658;N2O;total
+2006;Brandenburg;420.3402958;F-Gases;total
+2006;Bremen;.;GHG;total
+2006;Bremen;.;CO2;total
+2006;Bremen;12755.20974;CO2;energy
+2006;Bremen;0;CO2;industrial processes
+2006;Bremen;.;CO2;agriculture
+2006;Bremen;138.0120331;CH4;total
+2006;Bremen;97.08599857;N2O;total
+2006;Bremen;109.5137059;F-Gases;total
+2006;Hamburg;.;GHG;total
+2006;Hamburg;.;CO2;total
+2006;Hamburg;11578.81463;CO2;energy
+2006;Hamburg;0;CO2;industrial processes
+2006;Hamburg;.;CO2;agriculture
+2006;Hamburg;209.7800901;CH4;total
+2006;Hamburg;75.02375997;N2O;total
+2006;Hamburg;281.3275622;F-Gases;total
+2006;Hessen;46754.88323;GHG;total
+2006;Hessen;42098.4139;CO2;total
+2006;Hessen;41462.64217;CO2;energy
+2006;Hessen;531.7246467;CO2;industrial processes
+2006;Hessen;104.0470865;CO2;agriculture
+2006;Hessen;2792.027819;CH4;total
+2006;Hessen;862.454118;N2O;total
+2006;Hessen;1001.987387;F-Gases;total
+2006;Mecklenburg-Vorpommern;.;GHG;total
+2006;Mecklenburg-Vorpommern;.;CO2;total
+2006;Mecklenburg-Vorpommern;11136.99618;CO2;energy
+2006;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2006;Mecklenburg-Vorpommern;235.2667592;CO2;agriculture
+2006;Mecklenburg-Vorpommern;2465.614646;CH4;total
+2006;Mecklenburg-Vorpommern;2186.909744;N2O;total
+2006;Mecklenburg-Vorpommern;280.0874836;F-Gases;total
+2006;Niedersachsen;88663.85094;GHG;total
+2006;Niedersachsen;72067.38352;CO2;total
+2006;Niedersachsen;70400.78416;CO2;energy
+2006;Niedersachsen;1214.563682;CO2;industrial processes
+2006;Niedersachsen;452.0356741;CO2;agriculture
+2006;Niedersachsen;10574.96054;CH4;total
+2006;Niedersachsen;4708.088291;N2O;total
+2006;Niedersachsen;1313.418589;F-Gases;total
+2006;Nordrhein-Westfalen;316910.3017;GHG;total
+2006;Nordrhein-Westfalen;291839.6123;CO2;total
+2006;Nordrhein-Westfalen;283304.5959;CO2;energy
+2006;Nordrhein-Westfalen;8315.673525;CO2;industrial processes
+2006;Nordrhein-Westfalen;219.3429073;CO2;agriculture
+2006;Nordrhein-Westfalen;14553.38035;CH4;total
+2006;Nordrhein-Westfalen;7547.042622;N2O;total
+2006;Nordrhein-Westfalen;2970.266411;F-Gases;total
+2006;Rheinland-Pfalz;35290.12852;GHG;total
+2006;Rheinland-Pfalz;29759.83472;CO2;total
+2006;Rheinland-Pfalz;26786.38219;CO2;energy
+2006;Rheinland-Pfalz;2896.141299;CO2;industrial processes
+2006;Rheinland-Pfalz;77.31122835;CO2;agriculture
+2006;Rheinland-Pfalz;2248.726072;CH4;total
+2006;Rheinland-Pfalz;2606.353491;N2O;total
+2006;Rheinland-Pfalz;675.2142367;F-Gases;total
+2006;Saarland;â€¦;GHG;total
+2006;Saarland;â€¦;CO2;total
+2006;Saarland;â€¦;CO2;energy
+2006;Saarland;0;CO2;industrial processes
+2006;Saarland;7.197078728;CO2;agriculture
+2006;Saarland;1620.788957;CH4;total
+2006;Saarland;244.645001;N2O;total
+2006;Saarland;172.535387;F-Gases;total
+2006;Sachsen;53108.36673;GHG;total
+2006;Sachsen;47999.80432;CO2;total
+2006;Sachsen;47705.82033;CO2;energy
+2006;Sachsen;96.96916899;CO2;industrial processes
+2006;Sachsen;197.0148214;CO2;agriculture
+2006;Sachsen;3230.464166;CH4;total
+2006;Sachsen;1178.208691;N2O;total
+2006;Sachsen;699.8895502;F-Gases;total
+2006;Sachsen-Anhalt;36372.51331;GHG;total
+2006;Sachsen-Anhalt;31192.69625;CO2;total
+2006;Sachsen-Anhalt;27301.5994;CO2;energy
+2006;Sachsen-Anhalt;3756;CO2;industrial processes
+2006;Sachsen-Anhalt;135.0968527;CO2;agriculture
+2006;Sachsen-Anhalt;2705.788569;CH4;total
+2006;Sachsen-Anhalt;2069.392912;N2O;total
+2006;Sachsen-Anhalt;404.6355795;F-Gases;total
+2006;Schleswig-Holstein;28219.4782;GHG;total
+2006;Schleswig-Holstein;22145.25824;CO2;total
+2006;Schleswig-Holstein;19746.55157;CO2;energy
+2006;Schleswig-Holstein;2207.289768;CO2;industrial processes
+2006;Schleswig-Holstein;191.4169039;CO2;agriculture
+2006;Schleswig-Holstein;3891.249844;CH4;total
+2006;Schleswig-Holstein;1714.961929;N2O;total
+2006;Schleswig-Holstein;468.0081853;F-Gases;total
+2006;Thüringen;.;GHG;total
+2006;Thüringen;.;CO2;total
+2006;Thüringen;11264.71904;CO2;energy
+2006;Thüringen;.;CO2;industrial processes
+2006;Thüringen;66.82065154;CO2;agriculture
+2006;Thüringen;2100.746899;CH4;total
+2006;Thüringen;781.1809719;N2O;total
+2006;Thüringen;382.297318;F-Gases;total
+2005;Deutschland;984986.9705;GHG;total
+2005;Deutschland;865470.7071;CO2;total
+2005;Deutschland;810884.1575;CO2;energy
+2005;Deutschland;52209.01514;CO2;industrial processes
+2005;Deutschland;2377.534478;CO2;agriculture
+2005;Deutschland;72573.5924;CH4;total
+2005;Deutschland;33366.93374;N2O;total
+2005;Deutschland;13575.73728;F-Gases;total
+2005;Summe der Länder;x;GHG;total
+2005;Summe der Länder;x;CO2;total
+2005;Summe der Länder;720447.6731;CO2;energy
+2005;Summe der Länder;25616.8529;CO2;industrial processes
+2005;Summe der Länder;2373.724339;CO2;agriculture
+2005;Summe der Länder;72092.90372;CH4;total
+2005;Summe der Länder;33646.68422;N2O;total
+2005;Summe der Länder;13575.73728;F-Gases;total
+2005;Stadtstaaten;32547.03488;GHG;total
+2005;Stadtstaaten;31136.93811;CO2;total
+2005;Stadtstaaten;30959.04599;CO2;energy
+2005;Stadtstaaten;174.081982;CO2;industrial processes
+2005;Stadtstaaten;3.810139207;CO2;agriculture
+2005;Stadtstaaten;401.4317872;CH4;total
+2005;Stadtstaaten;183.8795766;N2O;total
+2005;Stadtstaaten;824.7854025;F-Gases;total
+2005;Baden-Württemberg;89122.28415;GHG;total
+2005;Baden-Württemberg;79582.41794;CO2;total
+2005;Baden-Württemberg;77098.83347;CO2;energy
+2005;Baden-Württemberg;2341.288318;CO2;industrial processes
+2005;Baden-Württemberg;142.2961517;CO2;agriculture
+2005;Baden-Württemberg;5690.53172;CH4;total
+2005;Baden-Württemberg;2093.343173;N2O;total
+2005;Baden-Württemberg;1755.991325;F-Gases;total
+2005;Bayern;99804.20072;GHG;total
+2005;Bayern;80863.72911;CO2;total
+2005;Bayern;77522.65191;CO2;energy
+2005;Bayern;2942.635219;CO2;industrial processes
+2005;Bayern;398.4419783;CO2;agriculture
+2005;Bayern;11927.43136;CH4;total
+2005;Bayern;4953.352698;N2O;total
+2005;Bayern;2059.687549;F-Gases;total
+2005;Berlin;.;GHG;total
+2005;Berlin;.;CO2;total
+2005;Berlin;19389.92229;CO2;energy
+2005;Berlin;0;CO2;industrial processes
+2005;Berlin;.;CO2;agriculture
+2005;Berlin;177.5913646;CH4;total
+2005;Berlin;110.8696096;N2O;total
+2005;Berlin;544.1955836;F-Gases;total
+2005;Brandenburg;67492.94487;GHG;total
+2005;Brandenburg;61159.57426;CO2;total
+2005;Brandenburg;59585.47001;CO2;energy
+2005;Brandenburg;1421.3;CO2;industrial processes
+2005;Brandenburg;152.8042565;CO2;agriculture
+2005;Brandenburg;4015.572379;CH4;total
+2005;Brandenburg;1895.169559;N2O;total
+2005;Brandenburg;422.6286662;F-Gases;total
+2005;Bremen;.;GHG;total
+2005;Bremen;.;CO2;total
+2005;Bremen;12264.58118;CO2;energy
+2005;Bremen;0;CO2;industrial processes
+2005;Bremen;.;CO2;agriculture
+2005;Bremen;142.3790793;CH4;total
+2005;Bremen;88.41166275;N2O;total
+2005;Bremen;109.6016191;F-Gases;total
+2005;Hamburg;.;GHG;total
+2005;Hamburg;.;CO2;total
+2005;Hamburg;11569.12371;CO2;energy
+2005;Hamburg;174.081982;CO2;industrial processes
+2005;Hamburg;.;CO2;agriculture
+2005;Hamburg;223.8404226;CH4;total
+2005;Hamburg;73.00996697;N2O;total
+2005;Hamburg;280.5898188;F-Gases;total
+2005;Hessen;47865.76216;GHG;total
+2005;Hessen;43050.42418;CO2;total
+2005;Hessen;42256.31704;CO2;energy
+2005;Hessen;688.0650406;CO2;industrial processes
+2005;Hessen;106.0420985;CO2;agriculture
+2005;Hessen;2929.167314;CH4;total
+2005;Hessen;880.8163851;N2O;total
+2005;Hessen;1005.354287;F-Gases;total
+2005;Mecklenburg-Vorpommern;.;GHG;total
+2005;Mecklenburg-Vorpommern;.;CO2;total
+2005;Mecklenburg-Vorpommern;10379.55003;CO2;energy
+2005;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2005;Mecklenburg-Vorpommern;229.083969;CO2;agriculture
+2005;Mecklenburg-Vorpommern;2594.442206;CH4;total
+2005;Mecklenburg-Vorpommern;2228.699561;N2O;total
+2005;Mecklenburg-Vorpommern;282.6761684;F-Gases;total
+2005;Niedersachsen;.;GHG;total
+2005;Niedersachsen;.;CO2;total
+2005;Niedersachsen;.;CO2;energy
+2005;Niedersachsen;1181.140319;CO2;industrial processes
+2005;Niedersachsen;454.655102;CO2;agriculture
+2005;Niedersachsen;10971.03619;CH4;total
+2005;Niedersachsen;4829.47442;N2O;total
+2005;Niedersachsen;1316.87549;F-Gases;total
+2005;Nordrhein-Westfalen;314554.9128;GHG;total
+2005;Nordrhein-Westfalen;287446.9707;CO2;total
+2005;Nordrhein-Westfalen;279276.1075;CO2;energy
+2005;Nordrhein-Westfalen;7936.174984;CO2;industrial processes
+2005;Nordrhein-Westfalen;234.6881285;CO2;agriculture
+2005;Nordrhein-Westfalen;16404.4352;CH4;total
+2005;Nordrhein-Westfalen;7724.927944;N2O;total
+2005;Nordrhein-Westfalen;2978.579002;F-Gases;total
+2005;Rheinland-Pfalz;34857.22292;GHG;total
+2005;Rheinland-Pfalz;29172.55796;CO2;total
+2005;Rheinland-Pfalz;26079.74068;CO2;energy
+2005;Rheinland-Pfalz;3018.267125;CO2;industrial processes
+2005;Rheinland-Pfalz;74.55015014;CO2;agriculture
+2005;Rheinland-Pfalz;2321.883042;CH4;total
+2005;Rheinland-Pfalz;2686.324118;N2O;total
+2005;Rheinland-Pfalz;676.4577968;F-Gases;total
+2005;Saarland;â€¦;GHG;total
+2005;Saarland;â€¦;CO2;total
+2005;Saarland;â€¦;CO2;energy
+2005;Saarland;0;CO2;industrial processes
+2005;Saarland;5.090977985;CO2;agriculture
+2005;Saarland;2094.34238;CH4;total
+2005;Saarland;246.2276229;N2O;total
+2005;Saarland;173.8838861;F-Gases;total
+2005;Sachsen;52218.56928;GHG;total
+2005;Sachsen;46859.6055;CO2;total
+2005;Sachsen;46571.23851;CO2;energy
+2005;Sachsen;100.0086802;CO2;industrial processes
+2005;Sachsen;188.3583112;CO2;agriculture
+2005;Sachsen;3442.823119;CH4;total
+2005;Sachsen;1211.228722;N2O;total
+2005;Sachsen;704.9119333;F-Gases;total
+2005;Sachsen-Anhalt;36497.49471;GHG;total
+2005;Sachsen-Anhalt;31084.55288;CO2;total
+2005;Sachsen-Anhalt;27288.01449;CO2;energy
+2005;Sachsen-Anhalt;3670;CO2;industrial processes
+2005;Sachsen-Anhalt;126.5383837;CO2;agriculture
+2005;Sachsen-Anhalt;2913.649823;CH4;total
+2005;Sachsen-Anhalt;2089.680163;N2O;total
+2005;Sachsen-Anhalt;409.6118476;F-Gases;total
+2005;Schleswig-Holstein;28244.04385;GHG;total
+2005;Schleswig-Holstein;22053.41061;CO2;total
+2005;Schleswig-Holstein;19720.23244;CO2;energy
+2005;Schleswig-Holstein;2143.891228;CO2;industrial processes
+2005;Schleswig-Holstein;189.2869369;CO2;agriculture
+2005;Schleswig-Holstein;3979.736847;CH4;total
+2005;Schleswig-Holstein;1742.775624;N2O;total
+2005;Schleswig-Holstein;468.120768;F-Gases;total
+2005;Thüringen;.;GHG;total
+2005;Thüringen;.;CO2;total
+2005;Thüringen;11445.88981;CO2;energy
+2005;Thüringen;.;CO2;industrial processes
+2005;Thüringen;71.88789418;CO2;agriculture
+2005;Thüringen;2264.04127;CH4;total
+2005;Thüringen;792.3729897;N2O;total
+2005;Thüringen;386.5715379;F-Gases;total
+2004;Deutschland;1010291.141;GHG;total
+2004;Deutschland;885632.5278;CO2;total
+2004;Deutschland;829047.0845;CO2;energy
+2004;Deutschland;54156.46227;CO2;industrial processes
+2004;Deutschland;2428.981001;CO2;agriculture
+2004;Deutschland;76468.8786;CH4;total
+2004;Deutschland;34809.67256;N2O;total
+2004;Deutschland;13380.06167;F-Gases;total
+2004;Summe der Länder;x;GHG;total
+2004;Summe der Länder;x;CO2;total
+2004;Summe der Länder;804791.7215;CO2;energy
+2004;Summe der Länder;25869.35671;CO2;industrial processes
+2004;Summe der Länder;2425.516914;CO2;agriculture
+2004;Summe der Länder;75854.64825;CH4;total
+2004;Summe der Länder;35045.34624;N2O;total
+2004;Summe der Länder;13380.06167;F-Gases;total
+2004;Stadtstaaten;33219.35144;GHG;total
+2004;Stadtstaaten;31791.1212;CO2;total
+2004;Stadtstaaten;31607.65328;CO2;energy
+2004;Stadtstaaten;180.003826;CO2;industrial processes
+2004;Stadtstaaten;3.464086691;CO2;agriculture
+2004;Stadtstaaten;419.2140862;CH4;total
+2004;Stadtstaaten;196.513975;N2O;total
+2004;Stadtstaaten;812.5021861;F-Gases;total
+2004;Baden-Württemberg;86631.04658;GHG;total
+2004;Baden-Württemberg;76952.37251;CO2;total
+2004;Baden-Württemberg;74634.17162;CO2;energy
+2004;Baden-Württemberg;2155.43097;CO2;industrial processes
+2004;Baden-Württemberg;162.7699217;CO2;agriculture
+2004;Baden-Württemberg;5857.606868;CH4;total
+2004;Baden-Württemberg;2094.422989;N2O;total
+2004;Baden-Württemberg;1726.644204;F-Gases;total
+2004;Bayern;102788.4154;GHG;total
+2004;Bayern;83732.83011;CO2;total
+2004;Bayern;80324.8717;CO2;energy
+2004;Bayern;2996.34086;CO2;industrial processes
+2004;Bayern;411.6175546;CO2;agriculture
+2004;Bayern;12008.02885;CH4;total
+2004;Bayern;5023.103755;N2O;total
+2004;Bayern;2024.452708;F-Gases;total
+2004;Berlin;.;GHG;total
+2004;Berlin;.;CO2;total
+2004;Berlin;19614.63466;CO2;energy
+2004;Berlin;0;CO2;industrial processes
+2004;Berlin;.;CO2;agriculture
+2004;Berlin;184.5594558;CH4;total
+2004;Berlin;118.5154799;N2O;total
+2004;Berlin;536.4514363;F-Gases;total
+2004;Brandenburg;67095.68693;GHG;total
+2004;Brandenburg;60541.41113;CO2;total
+2004;Brandenburg;58899.77865;CO2;energy
+2004;Brandenburg;1497.2;CO2;industrial processes
+2004;Brandenburg;144.4324831;CO2;agriculture
+2004;Brandenburg;4247.098081;CH4;total
+2004;Brandenburg;1889.685231;N2O;total
+2004;Brandenburg;417.4924923;F-Gases;total
+2004;Bremen;.;GHG;total
+2004;Bremen;.;CO2;total
+2004;Bremen;13070.54794;CO2;energy
+2004;Bremen;0;CO2;industrial processes
+2004;Bremen;.;CO2;agriculture
+2004;Bremen;155.7905078;CH4;total
+2004;Bremen;97.42078038;N2O;total
+2004;Bremen;107.9093186;F-Gases;total
+2004;Hamburg;.;GHG;total
+2004;Hamburg;.;CO2;total
+2004;Hamburg;11993.01863;CO2;energy
+2004;Hamburg;180.003826;CO2;industrial processes
+2004;Hamburg;.;CO2;agriculture
+2004;Hamburg;234.6546303;CH4;total
+2004;Hamburg;77.99849511;N2O;total
+2004;Hamburg;276.0507498;F-Gases;total
+2004;Hessen;48990.72478;GHG;total
+2004;Hessen;44031.68236;CO2;total
+2004;Hessen;43132.50295;CO2;energy
+2004;Hessen;785.053607;CO2;industrial processes
+2004;Hessen;114.1258079;CO2;agriculture
+2004;Hessen;3071.258089;CH4;total
+2004;Hessen;897.7842825;N2O;total
+2004;Hessen;990.0000477;F-Gases;total
+2004;Mecklenburg-Vorpommern;.;GHG;total
+2004;Mecklenburg-Vorpommern;.;CO2;total
+2004;Mecklenburg-Vorpommern;10913.82289;CO2;energy
+2004;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2004;Mecklenburg-Vorpommern;229.0571757;CO2;agriculture
+2004;Mecklenburg-Vorpommern;2746.02654;CH4;total
+2004;Mecklenburg-Vorpommern;2281.202871;N2O;total
+2004;Mecklenburg-Vorpommern;280.4757577;F-Gases;total
+2004;Niedersachsen;88803.57837;GHG;total
+2004;Niedersachsen;71658.4958;CO2;total
+2004;Niedersachsen;69939.2881;CO2;energy
+2004;Niedersachsen;1253.008853;CO2;industrial processes
+2004;Niedersachsen;466.1988467;CO2;agriculture
+2004;Niedersachsen;11124.84638;CH4;total
+2004;Niedersachsen;4723.177969;N2O;total
+2004;Niedersachsen;1297.058212;F-Gases;total
+2004;Nordrhein-Westfalen;325761.546;GHG;total
+2004;Nordrhein-Westfalen;296711.5365;CO2;total
+2004;Nordrhein-Westfalen;288484.6347;CO2;energy
+2004;Nordrhein-Westfalen;7979.749654;CO2;industrial processes
+2004;Nordrhein-Westfalen;247.1522137;CO2;agriculture
+2004;Nordrhein-Westfalen;17720.56862;CH4;total
+2004;Nordrhein-Westfalen;8394.01177;N2O;total
+2004;Nordrhein-Westfalen;2935.429101;F-Gases;total
+2004;Rheinland-Pfalz;35567.66307;GHG;total
+2004;Rheinland-Pfalz;29591.07903;CO2;total
+2004;Rheinland-Pfalz;26153.24905;CO2;energy
+2004;Rheinland-Pfalz;3366.159936;CO2;industrial processes
+2004;Rheinland-Pfalz;71.67004843;CO2;agriculture
+2004;Rheinland-Pfalz;2405.843913;CH4;total
+2004;Rheinland-Pfalz;2904.953914;N2O;total
+2004;Rheinland-Pfalz;665.78621;F-Gases;total
+2004;Saarland;â€¦;GHG;total
+2004;Saarland;â€¦;CO2;total
+2004;Saarland;â€¦;CO2;energy
+2004;Saarland;0;CO2;industrial processes
+2004;Saarland;5.309190645;CO2;agriculture
+2004;Saarland;2940.537852;CH4;total
+2004;Saarland;253.859184;N2O;total
+2004;Saarland;172.1564455;F-Gases;total
+2004;Sachsen;54215.23533;GHG;total
+2004;Sachsen;48725.23292;CO2;total
+2004;Sachsen;48435.13361;CO2;energy
+2004;Sachsen;106.4265133;CO2;industrial processes
+2004;Sachsen;183.6728006;CO2;agriculture
+2004;Sachsen;3573.864154;CH4;total
+2004;Sachsen;1217.839342;N2O;total
+2004;Sachsen;698.298906;F-Gases;total
+2004;Sachsen-Anhalt;36471.54396;GHG;total
+2004;Sachsen-Anhalt;30452.28879;CO2;total
+2004;Sachsen-Anhalt;26622.72285;CO2;energy
+2004;Sachsen-Anhalt;3708;CO2;industrial processes
+2004;Sachsen-Anhalt;121.5659392;CO2;agriculture
+2004;Sachsen-Anhalt;3089.232905;CH4;total
+2004;Sachsen-Anhalt;2522.223591;N2O;total
+2004;Sachsen-Anhalt;407.7986714;F-Gases;total
+2004;Schleswig-Holstein;29087.51302;GHG;total
+2004;Schleswig-Holstein;22815.44924;CO2;total
+2004;Schleswig-Holstein;20779.92584;CO2;energy
+2004;Schleswig-Holstein;1841.982486;CO2;industrial processes
+2004;Schleswig-Holstein;193.5409063;CO2;agriculture
+2004;Schleswig-Holstein;4076.655899;CH4;total
+2004;Schleswig-Holstein;1735.275558;N2O;total
+2004;Schleswig-Holstein;460.132328;F-Gases;total
+2004;Thüringen;.;GHG;total
+2004;Thüringen;.;CO2;total
+2004;Thüringen;11793.41832;CO2;energy
+2004;Thüringen;.;CO2;industrial processes
+2004;Thüringen;74.40402575;CO2;agriculture
+2004;Thüringen;2418.075507;CH4;total
+2004;Thüringen;813.8710286;N2O;total
+2004;Thüringen;383.925081;F-Gases;total
+2003;Deutschland;1029390.014;GHG;total
+2003;Deutschland;899858.3751;CO2;total
+2003;Deutschland;843333.8174;CO2;energy
+2003;Deutschland;53992.81332;CO2;industrial processes
+2003;Deutschland;2531.744385;CO2;agriculture
+2003;Deutschland;83233.98001;CH4;total
+2003;Deutschland;33335.98282;N2O;total
+2003;Deutschland;12961.67603;F-Gases;total
+2003;Summe der Länder;x;GHG;total
+2003;Summe der Länder;x;CO2;total
+2003;Summe der Länder;745389.74;CO2;energy
+2003;Summe der Länder;25871.32661;CO2;industrial processes
+2003;Summe der Länder;2527.256705;CO2;agriculture
+2003;Summe der Länder;82389.98407;CH4;total
+2003;Summe der Länder;33622.41781;N2O;total
+2003;Summe der Länder;12961.67603;F-Gases;total
+2003;Stadtstaaten;34360.24118;GHG;total
+2003;Stadtstaaten;32929.51491;CO2;total
+2003;Stadtstaaten;32749.57551;CO2;energy
+2003;Stadtstaaten;175.451716;CO2;industrial processes
+2003;Stadtstaaten;4.487680091;CO2;agriculture
+2003;Stadtstaaten;434.0246849;CH4;total
+2003;Stadtstaaten;208.5241745;N2O;total
+2003;Stadtstaaten;788.1774078;F-Gases;total
+2003;Baden-Württemberg;88020.31889;GHG;total
+2003;Baden-Württemberg;77953.00031;CO2;total
+2003;Baden-Württemberg;75602.19573;CO2;energy
+2003;Baden-Württemberg;2172.75572;CO2;industrial processes
+2003;Baden-Württemberg;178.0488571;CO2;agriculture
+2003;Baden-Württemberg;6290.428136;CH4;total
+2003;Baden-Württemberg;2108.582567;N2O;total
+2003;Baden-Württemberg;1668.307877;F-Gases;total
+2003;Bayern;104518.1479;GHG;total
+2003;Bayern;85060.77956;CO2;total
+2003;Bayern;81609.72941;CO2;energy
+2003;Bayern;3021.712207;CO2;industrial processes
+2003;Bayern;429.3379459;CO2;agriculture
+2003;Bayern;12516.61788;CH4;total
+2003;Bayern;4985.164859;N2O;total
+2003;Bayern;1955.585596;F-Gases;total
+2003;Berlin;.;GHG;total
+2003;Berlin;.;CO2;total
+2003;Berlin;20687.60772;CO2;energy
+2003;Berlin;0;CO2;industrial processes
+2003;Berlin;.;CO2;agriculture
+2003;Berlin;191.2274259;CH4;total
+2003;Berlin;128.9697793;N2O;total
+2003;Berlin;520.8709989;F-Gases;total
+2003;Brandenburg;66669.3805;GHG;total
+2003;Brandenburg;59912.03568;CO2;total
+2003;Brandenburg;58184.31631;CO2;energy
+2003;Brandenburg;1577.9;CO2;industrial processes
+2003;Brandenburg;149.8193677;CO2;agriculture
+2003;Brandenburg;4497.049971;CH4;total
+2003;Brandenburg;1854.820034;N2O;total
+2003;Brandenburg;405.4748143;F-Gases;total
+2003;Bremen;.;GHG;total
+2003;Bremen;.;CO2;total
+2003;Bremen;14665.88695;CO2;energy
+2003;Bremen;0;CO2;industrial processes
+2003;Bremen;.;CO2;agriculture
+2003;Bremen;181.9578736;CH4;total
+2003;Bremen;112.2962808;N2O;total
+2003;Bremen;104.4015532;F-Gases;total
+2003;Hamburg;.;GHG;total
+2003;Hamburg;.;CO2;total
+2003;Hamburg;12061.96779;CO2;energy
+2003;Hamburg;175.451716;CO2;industrial processes
+2003;Hamburg;.;CO2;agriculture
+2003;Hamburg;242.797259;CH4;total
+2003;Hamburg;79.5543952;N2O;total
+2003;Hamburg;267.3064089;F-Gases;total
+2003;Hessen;50100.01107;GHG;total
+2003;Hessen;44882.03414;CO2;total
+2003;Hessen;43965.36568;CO2;energy
+2003;Hessen;794.1658997;CO2;industrial processes
+2003;Hessen;122.5025608;CO2;agriculture
+2003;Hessen;3341.835502;CH4;total
+2003;Hessen;917.8605914;N2O;total
+2003;Hessen;958.280836;F-Gases;total
+2003;Mecklenburg-Vorpommern;.;GHG;total
+2003;Mecklenburg-Vorpommern;.;CO2;total
+2003;Mecklenburg-Vorpommern;10703.32647;CO2;energy
+2003;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2003;Mecklenburg-Vorpommern;225.4969827;CO2;agriculture
+2003;Mecklenburg-Vorpommern;2833.039972;CH4;total
+2003;Mecklenburg-Vorpommern;2235.121117;N2O;total
+2003;Mecklenburg-Vorpommern;273.615372;F-Gases;total
+2003;Niedersachsen;.;GHG;total
+2003;Niedersachsen;.;CO2;total
+2003;Niedersachsen;.;CO2;energy
+2003;Niedersachsen;1268.152277;CO2;industrial processes
+2003;Niedersachsen;475.3804698;CO2;agriculture
+2003;Niedersachsen;11711.3272;CH4;total
+2003;Niedersachsen;4726.351206;N2O;total
+2003;Niedersachsen;1254.625514;F-Gases;total
+2003;Nordrhein-Westfalen;330023.4365;GHG;total
+2003;Nordrhein-Westfalen;298245.2491;CO2;total
+2003;Nordrhein-Westfalen;290207.0014;CO2;energy
+2003;Nordrhein-Westfalen;7764.843701;CO2;industrial processes
+2003;Nordrhein-Westfalen;273.4039994;CO2;agriculture
+2003;Nordrhein-Westfalen;20742.95978;CH4;total
+2003;Nordrhein-Westfalen;8192.460175;N2O;total
+2003;Nordrhein-Westfalen;2842.767455;F-Gases;total
+2003;Rheinland-Pfalz;35502.12058;GHG;total
+2003;Rheinland-Pfalz;30036.41468;CO2;total
+2003;Rheinland-Pfalz;26693.66561;CO2;energy
+2003;Rheinland-Pfalz;3259.551511;CO2;industrial processes
+2003;Rheinland-Pfalz;83.19755901;CO2;agriculture
+2003;Rheinland-Pfalz;2553.52415;CH4;total
+2003;Rheinland-Pfalz;2268.142688;N2O;total
+2003;Rheinland-Pfalz;644.0390668;F-Gases;total
+2003;Saarland;â€¦;GHG;total
+2003;Saarland;â€¦;CO2;total
+2003;Saarland;â€¦;CO2;energy
+2003;Saarland;0;CO2;industrial processes
+2003;Saarland;7.069568676;CO2;agriculture
+2003;Saarland;3442.083368;CH4;total
+2003;Saarland;224.0668043;N2O;total
+2003;Saarland;167.3800822;F-Gases;total
+2003;Sachsen;55585.09702;GHG;total
+2003;Sachsen;49890.92761;CO2;total
+2003;Sachsen;49603.66315;CO2;energy
+2003;Sachsen;105.6541083;CO2;industrial processes
+2003;Sachsen;181.6103496;CO2;agriculture
+2003;Sachsen;3814.430802;CH4;total
+2003;Sachsen;1199.19393;N2O;total
+2003;Sachsen;680.5446825;F-Gases;total
+2003;Sachsen-Anhalt;37110.64156;GHG;total
+2003;Sachsen-Anhalt;31453.22579;CO2;total
+2003;Sachsen-Anhalt;27584.89378;CO2;energy
+2003;Sachsen-Anhalt;3745;CO2;industrial processes
+2003;Sachsen-Anhalt;123.3320078;CO2;agriculture
+2003;Sachsen-Anhalt;3198.149447;CH4;total
+2003;Sachsen-Anhalt;2060.024814;N2O;total
+2003;Sachsen-Anhalt;399.2415085;F-Gases;total
+2003;Schleswig-Holstein;30523.56297;GHG;total
+2003;Schleswig-Holstein;24122.21738;CO2;total
+2003;Schleswig-Holstein;21935.22111;CO2;energy
+2003;Schleswig-Holstein;1986.139466;CO2;industrial processes
+2003;Schleswig-Holstein;200.8568073;CO2;agriculture
+2003;Schleswig-Holstein;4221.867026;CH4;total
+2003;Schleswig-Holstein;1734.976653;N2O;total
+2003;Schleswig-Holstein;444.5019171;F-Gases;total
+2003;Thüringen;.;GHG;total
+2003;Thüringen;.;CO2;total
+2003;Thüringen;11884.89893;CO2;energy
+2003;Thüringen;.;CO2;industrial processes
+2003;Thüringen;77.20022911;CO2;agriculture
+2003;Thüringen;2610.68828;CH4;total
+2003;Thüringen;794.8319175;N2O;total
+2003;Thüringen;374.732348;F-Gases;total
+2000;Deutschland;1040191.831;GHG;total
+2000;Deutschland;898938.036;CO2;total
+2000;Deutschland;838824.4793;CO2;energy
+2000;Deutschland;57458.04753;CO2;industrial processes
+2000;Deutschland;2655.509207;CO2;agriculture
+2000;Deutschland;96046.39433;CH4;total
+2000;Deutschland;32472.20192;N2O;total
+2000;Deutschland;12735.19846;F-Gases;total
+2000;Summe der Länder;x;GHG;total
+2000;Summe der Länder;x;CO2;total
+2000;Summe der Länder;805265.458;CO2;energy
+2000;Summe der Länder;27037.0588;CO2;industrial processes
+2000;Summe der Länder;2649.906574;CO2;agriculture
+2000;Summe der Länder;95184.05451;CH4;total
+2000;Summe der Länder;32802.3556;N2O;total
+2000;Summe der Länder;12735.19846;F-Gases;total
+2000;Stadtstaaten;24522.45295;GHG;total
+2000;Stadtstaaten;23335.72697;CO2;total
+2000;Stadtstaaten;23159.27668;CO2;energy
+2000;Stadtstaaten;170.84766;CO2;industrial processes
+2000;Stadtstaaten;5.602632343;CO2;agriculture
+2000;Stadtstaaten;222.550224;CH4;total
+2000;Stadtstaaten;186.9464989;N2O;total
+2000;Stadtstaaten;777.2292562;F-Gases;total
+2000;Baden-Württemberg;88036.12993;GHG;total
+2000;Baden-Württemberg;76946.896;CO2;total
+2000;Baden-Württemberg;74176.10741;CO2;energy
+2000;Baden-Württemberg;2633.493986;CO2;industrial processes
+2000;Baden-Württemberg;137.2946089;CO2;agriculture
+2000;Baden-Württemberg;7144.984144;CH4;total
+2000;Baden-Württemberg;2324.656917;N2O;total
+2000;Baden-Württemberg;1619.592861;F-Gases;total
+2000;Bayern;111503.5664;GHG;total
+2000;Bayern;91036.83958;CO2;total
+2000;Bayern;87024.99041;CO2;energy
+2000;Bayern;3605.211493;CO2;industrial processes
+2000;Bayern;406.6376825;CO2;agriculture
+2000;Bayern;13174.65771;CH4;total
+2000;Bayern;5398.145007;N2O;total
+2000;Bayern;1893.924115;F-Gases;total
+2000;Berlin;.;GHG;total
+2000;Berlin;.;CO2;total
+2000;Berlin;23159.27668;CO2;energy
+2000;Berlin;0;CO2;industrial processes
+2000;Berlin;.;CO2;agriculture
+2000;Berlin;222.550224;CH4;total
+2000;Berlin;186.9464989;N2O;total
+2000;Berlin;515.7437953;F-Gases;total
+2000;Brandenburg;69700.25188;GHG;total
+2000;Brandenburg;62122.80142;CO2;total
+2000;Brandenburg;60474.95734;CO2;energy
+2000;Brandenburg;1483;CO2;industrial processes
+2000;Brandenburg;164.8440768;CO2;agriculture
+2000;Brandenburg;4944.91055;CH4;total
+2000;Brandenburg;2229.075173;N2O;total
+2000;Brandenburg;403.4647424;F-Gases;total
+2000;Bremen;.;GHG;total
+2000;Bremen;.;CO2;total
+2000;Bremen;14070.57879;CO2;energy
+2000;Bremen;0;CO2;industrial processes
+2000;Bremen;.;CO2;agriculture
+2000;Bremen;274.588941;CH4;total
+2000;Bremen;118.9225976;N2O;total
+2000;Bremen;102.7552429;F-Gases;total
+2000;Hamburg;.;GHG;total
+2000;Hamburg;.;CO2;total
+2000;Hamburg;.;CO2;energy
+2000;Hamburg;170.84766;CO2;industrial processes
+2000;Hamburg;.;CO2;agriculture
+2000;Hamburg;.;CH4;total
+2000;Hamburg;.;N2O;total
+2000;Hamburg;261.4854609;F-Gases;total
+2000;Hessen;51553.55098;GHG;total
+2000;Hessen;45571.43204;CO2;total
+2000;Hessen;44478.9117;CO2;energy
+2000;Hessen;965.0369479;CO2;industrial processes
+2000;Hessen;127.4833884;CO2;agriculture
+2000;Hessen;4029.04823;CH4;total
+2000;Hessen;1012.983929;N2O;total
+2000;Hessen;940.0867816;F-Gases;total
+2000;Mecklenburg-Vorpommern;.;GHG;total
+2000;Mecklenburg-Vorpommern;.;CO2;total
+2000;Mecklenburg-Vorpommern;10323.34734;CO2;energy
+2000;Mecklenburg-Vorpommern;.;CO2;industrial processes
+2000;Mecklenburg-Vorpommern;302.2546002;CO2;agriculture
+2000;Mecklenburg-Vorpommern;2925.334524;CH4;total
+2000;Mecklenburg-Vorpommern;2936.852336;N2O;total
+2000;Mecklenburg-Vorpommern;276.7351888;F-Gases;total
+2000;Niedersachsen;93953.85708;GHG;total
+2000;Niedersachsen;75094.36048;CO2;total
+2000;Niedersachsen;73269.79525;CO2;energy
+2000;Niedersachsen;1368.781612;CO2;industrial processes
+2000;Niedersachsen;455.7836248;CO2;agriculture
+2000;Niedersachsen;12741.7614;CH4;total
+2000;Niedersachsen;4891.514645;N2O;total
+2000;Niedersachsen;1226.220549;F-Gases;total
+2000;Nordrhein-Westfalen;332796.6924;GHG;total
+2000;Nordrhein-Westfalen;297082.1602;CO2;total
+2000;Nordrhein-Westfalen;288053.8661;CO2;energy
+2000;Nordrhein-Westfalen;8753.996732;CO2;industrial processes
+2000;Nordrhein-Westfalen;274.2973195;CO2;agriculture
+2000;Nordrhein-Westfalen;27480.34861;CH4;total
+2000;Nordrhein-Westfalen;5442.501225;N2O;total
+2000;Nordrhein-Westfalen;2791.682348;F-Gases;total
+2000;Rheinland-Pfalz;38094.52759;GHG;total
+2000;Rheinland-Pfalz;31741.51471;CO2;total
+2000;Rheinland-Pfalz;28946.1826;CO2;energy
+2000;Rheinland-Pfalz;2682.4518;CO2;industrial processes
+2000;Rheinland-Pfalz;112.8803069;CO2;agriculture
+2000;Rheinland-Pfalz;3015.90138;CH4;total
+2000;Rheinland-Pfalz;2707.380137;N2O;total
+2000;Rheinland-Pfalz;629.731368;F-Gases;total
+2000;Saarland;â€¦;GHG;total
+2000;Saarland;â€¦;CO2;total
+2000;Saarland;â€¦;CO2;energy
+2000;Saarland;0;CO2;industrial processes
+2000;Saarland;3.404983924;CO2;agriculture
+2000;Saarland;4227.996972;CH4;total
+2000;Saarland;240.5770466;N2O;total
+2000;Saarland;166.0605311;F-Gases;total
+2000;Sachsen;48032.46434;GHG;total
+2000;Sachsen;41900.62553;CO2;total
+2000;Sachsen;41508.09796;CO2;energy
+2000;Sachsen;170.2771009;CO2;industrial processes
+2000;Sachsen;222.2504746;CO2;agriculture
+2000;Sachsen;4212.593572;CH4;total
+2000;Sachsen;1231.023015;N2O;total
+2000;Sachsen;688.2222198;F-Gases;total
+2000;Sachsen-Anhalt;34250.34322;GHG;total
+2000;Sachsen-Anhalt;29071.27711;CO2;total
+2000;Sachsen-Anhalt;25857.01428;CO2;energy
+2000;Sachsen-Anhalt;3074;CO2;industrial processes
+2000;Sachsen-Anhalt;140.2628332;CO2;agriculture
+2000;Sachsen-Anhalt;3335.067448;CH4;total
+2000;Sachsen-Anhalt;1435.314241;N2O;total
+2000;Sachsen-Anhalt;408.6844206;F-Gases;total
+2000;Schleswig-Holstein;30858.24808;GHG;total
+2000;Schleswig-Holstein;24249.62654;CO2;total
+2000;Schleswig-Holstein;21906.49564;CO2;energy
+2000;Schleswig-Holstein;2129.96147;CO2;industrial processes
+2000;Schleswig-Holstein;213.1694238;CO2;agriculture
+2000;Schleswig-Holstein;4391.585692;CH4;total
+2000;Schleswig-Holstein;1784.787676;N2O;total
+2000;Schleswig-Holstein;432.2481738;F-Gases;total
+2000;Thüringen;.;GHG;total
+2000;Thüringen;.;CO2;total
+2000;Thüringen;12015.83653;CO2;energy
+2000;Thüringen;.;CO2;industrial processes
+2000;Thüringen;89.34325084;CO2;agriculture
+2000;Thüringen;3062.725104;CH4;total
+2000;Thüringen;861.6751604;N2O;total
+2000;Thüringen;378.5606579;F-Gases;total
+1995;Deutschland;1120660.808;GHG;total
+1995;Deutschland;939897.1452;CO2;total
+1995;Deutschland;882022.4309;CO2;energy
+1995;Deutschland;55746.62277;CO2;industrial processes
+1995;Deutschland;2128.091551;CO2;agriculture
+1995;Deutschland;115631.7075;CH4;total
+1995;Deutschland;49110.74186;N2O;total
+1995;Deutschland;16021.21308;F-Gases;total
+1995;Summe der Länder;x;GHG;total
+1995;Summe der Länder;x;CO2;total
+1995;Summe der Länder;776185.7031;CO2;energy
+1995;Summe der Länder;28956.82983;CO2;industrial processes
+1995;Summe der Länder;2125.120748;CO2;agriculture
+1995;Summe der Länder;113181.4681;CH4;total
+1995;Summe der Länder;49565.51614;N2O;total
+1995;Summe der Länder;16021.21308;F-Gases;total
+1995;Stadtstaaten;39250.51942;GHG;total
+1995;Stadtstaaten;37126.89196;CO2;total
+1995;Stadtstaaten;36962.15447;CO2;energy
+1995;Stadtstaaten;161.766679;CO2;industrial processes
+1995;Stadtstaaten;2.970803876;CO2;agriculture
+1995;Stadtstaaten;781.4031293;CH4;total
+1995;Stadtstaaten;332.7314504;N2O;total
+1995;Stadtstaaten;1009.492881;F-Gases;total
+1995;Baden-Württemberg;94328.6701;GHG;total
+1995;Baden-Württemberg;80815.53487;CO2;total
+1995;Baden-Württemberg;77844.2666;CO2;energy
+1995;Baden-Württemberg;2869.079386;CO2;industrial processes
+1995;Baden-Württemberg;102.1888891;CO2;agriculture
+1995;Baden-Württemberg;9142.543054;CH4;total
+1995;Baden-Württemberg;2356.196551;N2O;total
+1995;Baden-Württemberg;2014.395617;F-Gases;total
+1995;Bayern;114491.4156;GHG;total
+1995;Bayern;91867.94683;CO2;total
+1995;Bayern;87504.35176;CO2;energy
+1995;Bayern;4019.0289;CO2;industrial processes
+1995;Bayern;344.5661633;CO2;agriculture
+1995;Bayern;14938.06469;CH4;total
+1995;Bayern;5337.232757;N2O;total
+1995;Bayern;2348.171341;F-Gases;total
+1995;Berlin;.;GHG;total
+1995;Berlin;.;CO2;total
+1995;Berlin;24188.31707;CO2;energy
+1995;Berlin;0;CO2;industrial processes
+1995;Berlin;.;CO2;agriculture
+1995;Berlin;398.4050414;CH4;total
+1995;Berlin;214.2224189;N2O;total
+1995;Berlin;676.6872052;F-Gases;total
+1995;Brandenburg;59636.44321;GHG;total
+1995;Brandenburg;51696.1319;CO2;total
+1995;Brandenburg;50255.03388;CO2;energy
+1995;Brandenburg;1298;CO2;industrial processes
+1995;Brandenburg;143.0980214;CO2;agriculture
+1995;Brandenburg;5196.811137;CH4;total
+1995;Brandenburg;2244.861121;N2O;total
+1995;Brandenburg;498.6390555;F-Gases;total
+1995;Bremen;.;GHG;total
+1995;Bremen;.;CO2;total
+1995;Bremen;13193.7489;CO2;energy
+1995;Bremen;0;CO2;industrial processes
+1995;Bremen;.;CO2;agriculture
+1995;Bremen;477.9529151;CH4;total
+1995;Bremen;120.3628291;N2O;total
+1995;Bremen;133.5484768;F-Gases;total
+1995;Hamburg;.;GHG;total
+1995;Hamburg;.;CO2;total
+1995;Hamburg;12773.83741;CO2;energy
+1995;Hamburg;161.766679;CO2;industrial processes
+1995;Hamburg;.;CO2;agriculture
+1995;Hamburg;382.998088;CH4;total
+1995;Hamburg;118.5090315;N2O;total
+1995;Hamburg;332.8056755;F-Gases;total
+1995;Hessen;55579.89974;GHG;total
+1995;Hessen;47947.28022;CO2;total
+1995;Hessen;46902.17806;CO2;energy
+1995;Hessen;913.0815748;CO2;industrial processes
+1995;Hessen;132.0205909;CO2;agriculture
+1995;Hessen;5380.458892;CH4;total
+1995;Hessen;1075.46372;N2O;total
+1995;Hessen;1176.6969;F-Gases;total
+1995;Mecklenburg-Vorpommern;.;GHG;total
+1995;Mecklenburg-Vorpommern;.;CO2;total
+1995;Mecklenburg-Vorpommern;10269.55352;CO2;energy
+1995;Mecklenburg-Vorpommern;.;CO2;industrial processes
+1995;Mecklenburg-Vorpommern;123.8246587;CO2;agriculture
+1995;Mecklenburg-Vorpommern;3157.531617;CH4;total
+1995;Mecklenburg-Vorpommern;2691.864549;N2O;total
+1995;Mecklenburg-Vorpommern;359.0464451;F-Gases;total
+1995;Niedersachsen;.;GHG;total
+1995;Niedersachsen;.;CO2;total
+1995;Niedersachsen;.;CO2;energy
+1995;Niedersachsen;1835.308523;CO2;industrial processes
+1995;Niedersachsen;357.2120162;CO2;agriculture
+1995;Niedersachsen;14674.97075;CH4;total
+1995;Niedersachsen;4865.678247;N2O;total
+1995;Niedersachsen;1520.115376;F-Gases;total
+1995;Nordrhein-Westfalen;356704.8331;GHG;total
+1995;Nordrhein-Westfalen;308823.2112;CO2;total
+1995;Nordrhein-Westfalen;298991.3076;CO2;energy
+1995;Nordrhein-Westfalen;9565.77684;CO2;industrial processes
+1995;Nordrhein-Westfalen;266.1266933;CO2;agriculture
+1995;Nordrhein-Westfalen;34810.82852;CH4;total
+1995;Nordrhein-Westfalen;9567.359423;N2O;total
+1995;Nordrhein-Westfalen;3503.433971;F-Gases;total
+1995;Rheinland-Pfalz;54815.39833;GHG;total
+1995;Rheinland-Pfalz;34704.60621;CO2;total
+1995;Rheinland-Pfalz;31579.32706;CO2;energy
+1995;Rheinland-Pfalz;2984.848708;CO2;industrial processes
+1995;Rheinland-Pfalz;140.4304414;CO2;agriculture
+1995;Rheinland-Pfalz;3913.035289;CH4;total
+1995;Rheinland-Pfalz;15416.9962;N2O;total
+1995;Rheinland-Pfalz;780.760629;F-Gases;total
+1995;Saarland;â€¦;GHG;total
+1995;Saarland;â€¦;CO2;total
+1995;Saarland;â€¦;CO2;energy
+1995;Saarland;0;CO2;industrial processes
+1995;Saarland;7.235903272;CO2;agriculture
+1995;Saarland;3808.806211;CH4;total
+1995;Saarland;254.7825723;N2O;total
+1995;Saarland;212.86113;F-Gases;total
+1995;Sachsen;68889.21219;GHG;total
+1995;Sachsen;61717.1354;CO2;total
+1995;Sachsen;61362.20651;CO2;energy
+1995;Sachsen;193.680906;CO2;industrial processes
+1995;Sachsen;161.2479842;CO2;agriculture
+1995;Sachsen;4839.565664;CH4;total
+1995;Sachsen;1434.65521;N2O;total
+1995;Sachsen;897.8559155;F-Gases;total
+1995;Sachsen-Anhalt;33307.8217;GHG;total
+1995;Sachsen-Anhalt;27880.18551;CO2;total
+1995;Sachsen-Anhalt;24864.68837;CO2;energy
+1995;Sachsen-Anhalt;2922;CO2;industrial processes
+1995;Sachsen-Anhalt;93.49713996;CO2;agriculture
+1995;Sachsen-Anhalt;3671.423198;CH4;total
+1995;Sachsen-Anhalt;1216.171204;N2O;total
+1995;Sachsen-Anhalt;540.0417848;F-Gases;total
+1995;Schleswig-Holstein;32797.21858;GHG;total
+1995;Schleswig-Holstein;25607.89713;CO2;total
+1995;Schleswig-Holstein;23254.11567;CO2;energy
+1995;Schleswig-Holstein;2194.258316;CO2;industrial processes
+1995;Schleswig-Holstein;159.5231421;CO2;agriculture
+1995;Schleswig-Holstein;4876.850598;CH4;total
+1995;Schleswig-Holstein;1779.272019;N2O;total
+1995;Schleswig-Holstein;533.198834;F-Gases;total
+1995;Thüringen;.;GHG;total
+1995;Thüringen;.;CO2;total
+1995;Thüringen;13202.7707;CO2;energy
+1995;Thüringen;.;CO2;industrial processes
+1995;Thüringen;94.14910362;CO2;agriculture
+1995;Thüringen;3511.222425;CH4;total
+1995;Thüringen;871.8882869;N2O;total
+1995;Thüringen;492.9547246;F-Gases;total
+1990;Deutschland;1251224.782;GHG;total
+1990;Deutschland;1054740.644;CO2;total
+1990;Deutschland;991906.2858;CO2;energy
+1990;Deutschland;59642.3288;CO2;industrial processes
+1990;Deutschland;3192.029025;CO2;agriculture
+1990;Deutschland;132605.6002;CH4;total
+1990;Deutschland;51554.35074;N2O;total
+1990;Deutschland;12324.18715;F-Gases;total
+1990;Summe der Länder;x;GHG;total
+1990;Summe der Länder;x;CO2;total
+1990;Summe der Länder;941650.7113;CO2;energy
+1990;Summe der Länder;14863.52431;CO2;industrial processes
+1990;Summe der Länder;3184.733306;CO2;agriculture
+1990;Summe der Länder;130446.5225;CH4;total
+1990;Summe der Länder;51776.81903;N2O;total
+1990;Summe der Länder;12324.18715;F-Gases;total
+1990;Stadtstaaten;41245.79055;GHG;total
+1990;Stadtstaaten;38854.74864;CO2;total
+1990;Stadtstaaten;38693.84996;CO2;energy
+1990;Stadtstaaten;153.602955;CO2;industrial processes
+1990;Stadtstaaten;7.295718454;CO2;agriculture
+1990;Stadtstaaten;1216.294924;CH4;total
+1990;Stadtstaaten;388.8985513;N2O;total
+1990;Stadtstaaten;785.8484397;F-Gases;total
+1990;Baden-Württemberg;90905.05722;GHG;total
+1990;Baden-Württemberg;77444.7972;CO2;total
+1990;Baden-Württemberg;74305.70135;CO2;energy
+1990;Baden-Württemberg;3019.685;CO2;industrial processes
+1990;Baden-Württemberg;119.4108511;CO2;agriculture
+1990;Baden-Württemberg;9430.575104;CH4;total
+1990;Baden-Württemberg;2519.335431;N2O;total
+1990;Baden-Württemberg;1510.349483;F-Gases;total
+1990;Bayern;112558.8358;GHG;total
+1990;Bayern;88242.22795;CO2;total
+1990;Bayern;83701.87997;CO2;energy
+1990;Bayern;4139.964848;CO2;industrial processes
+1990;Bayern;400.3831392;CO2;agriculture
+1990;Bayern;16587.05002;CH4;total
+1990;Bayern;5968.185143;N2O;total
+1990;Bayern;1761.372686;F-Gases;total
+1990;Berlin;.;GHG;total
+1990;Berlin;.;CO2;total
+1990;Berlin;26528.79228;CO2;energy
+1990;Berlin;0;CO2;industrial processes
+1990;Berlin;.;CO2;agriculture
+1990;Berlin;655.6916942;CH4;total
+1990;Berlin;267.3207041;N2O;total
+1990;Berlin;531.10614;F-Gases;total
+1990;Brandenburg;.;GHG;total
+1990;Brandenburg;.;CO2;total
+1990;Brandenburg;80236.48561;CO2;energy
+1990;Brandenburg;.;CO2;industrial processes
+1990;Brandenburg;433.2186621;CO2;agriculture
+1990;Brandenburg;5321.738128;CH4;total
+1990;Brandenburg;2441.011267;N2O;total
+1990;Brandenburg;402.3788009;F-Gases;total
+1990;Bremen;.;GHG;total
+1990;Bremen;.;CO2;total
+1990;Bremen;13381.30601;CO2;energy
+1990;Bremen;0;CO2;industrial processes
+1990;Bremen;.;CO2;agriculture
+1990;Bremen;592.4174497;CH4;total
+1990;Bremen;129.3179029;N2O;total
+1990;Bremen;105.460234;F-Gases;total
+1990;Hamburg;.;GHG;total
+1990;Hamburg;.;CO2;total
+1990;Hamburg;12165.05768;CO2;energy
+1990;Hamburg;153.602955;CO2;industrial processes
+1990;Hamburg;.;CO2;agriculture
+1990;Hamburg;560.6032295;CH4;total
+1990;Hamburg;121.5778472;N2O;total
+1990;Hamburg;254.7422997;F-Gases;total
+1990;Hessen;51691.7828;GHG;total
+1990;Hessen;43620.42074;CO2;total
+1990;Hessen;42464.68853;CO2;energy
+1990;Hessen;1029.394764;CO2;industrial processes
+1990;Hessen;126.337447;CO2;agriculture
+1990;Hessen;6067.391939;CH4;total
+1990;Hessen;1116.206161;N2O;total
+1990;Hessen;887.7639628;F-Gases;total
+1990;Mecklenburg-Vorpommern;.;GHG;total
+1990;Mecklenburg-Vorpommern;.;CO2;total
+1990;Mecklenburg-Vorpommern;15387.14969;CO2;energy
+1990;Mecklenburg-Vorpommern;.;CO2;industrial processes
+1990;Mecklenburg-Vorpommern;267.1175566;CO2;agriculture
+1990;Mecklenburg-Vorpommern;4053.278081;CH4;total
+1990;Mecklenburg-Vorpommern;2010.542786;N2O;total
+1990;Mecklenburg-Vorpommern;300.1039462;F-Gases;total
+1990;Niedersachsen;.;GHG;total
+1990;Niedersachsen;.;CO2;total
+1990;Niedersachsen;76604.24856;CO2;energy
+1990;Niedersachsen;.;CO2;industrial processes
+1990;Niedersachsen;491.9086997;CO2;agriculture
+1990;Niedersachsen;15310.74493;CH4;total
+1990;Niedersachsen;5155.412923;N2O;total
+1990;Niedersachsen;1139.851961;F-Gases;total
+1990;Nordrhein-Westfalen;.;GHG;total
+1990;Nordrhein-Westfalen;.;CO2;total
+1990;Nordrhein-Westfalen;295817.1423;CO2;energy
+1990;Nordrhein-Westfalen;.;CO2;industrial processes
+1990;Nordrhein-Westfalen;235.2238616;CO2;agriculture
+1990;Nordrhein-Westfalen;42971.54123;CH4;total
+1990;Nordrhein-Westfalen;10161.18909;N2O;total
+1990;Nordrhein-Westfalen;2677.687977;F-Gases;total
+1990;Rheinland-Pfalz;49694.18195;GHG;total
+1990;Rheinland-Pfalz;30170.89842;CO2;total
+1990;Rheinland-Pfalz;27453.43511;CO2;energy
+1990;Rheinland-Pfalz;2585.387007;CO2;industrial processes
+1990;Rheinland-Pfalz;132.0763063;CO2;agriculture
+1990;Rheinland-Pfalz;4336.603551;CH4;total
+1990;Rheinland-Pfalz;14606.8633;N2O;total
+1990;Rheinland-Pfalz;579.8166819;F-Gases;total
+1990;Saarland;â€¦;GHG;total
+1990;Saarland;â€¦;CO2;total
+1990;Saarland;â€¦;CO2;energy
+1990;Saarland;0;CO2;industrial processes
+1990;Saarland;7.434371161;CO2;agriculture
+1990;Saarland;4298.807528;CH4;total
+1990;Saarland;263.9993979;N2O;total
+1990;Saarland;166.1989099;F-Gases;total
+1990;Sachsen;.;GHG;total
+1990;Sachsen;.;CO2;total
+1990;Sachsen;92187.70229;CO2;energy
+1990;Sachsen;.;CO2;industrial processes
+1990;Sachsen;312.0089934;CO2;agriculture
+1990;Sachsen;6425.519682;CH4;total
+1990;Sachsen;2090.406239;N2O;total
+1990;Sachsen;744.7076188;F-Gases;total
+1990;Sachsen-Anhalt;58802.19289;GHG;total
+1990;Sachsen-Anhalt;51776.97015;CO2;total
+1990;Sachsen-Anhalt;49522.21281;CO2;energy
+1990;Sachsen-Anhalt;2049;CO2;industrial processes
+1990;Sachsen-Anhalt;205.757345;CO2;agriculture
+1990;Sachsen-Anhalt;4772.837792;CH4;total
+1990;Sachsen-Anhalt;1803.535129;N2O;total
+1990;Sachsen-Anhalt;448.8498098;F-Gases;total
+1990;Schleswig-Holstein;33883.59712;GHG;total
+1990;Schleswig-Holstein;26457.16858;CO2;total
+1990;Schleswig-Holstein;24411.58025;CO2;energy
+1990;Schleswig-Holstein;1886.489739;CO2;industrial processes
+1990;Schleswig-Holstein;159.0985914;CO2;agriculture
+1990;Schleswig-Holstein;5094.227416;CH4;total
+1990;Schleswig-Holstein;1926.261305;N2O;total
+1990;Schleswig-Holstein;405.9398168;F-Gases;total
+1990;Thüringen;.;GHG;total
+1990;Thüringen;.;CO2;total
+1990;Thüringen;27483.32894;CO2;energy
+1990;Thüringen;.;CO2;industrial processes
+1990;Thüringen;294.7574815;CO2;agriculture
+1990;Thüringen;3967.494752;CH4;total
+1990;Thüringen;1195.654405;N2O;total
+1990;Thüringen;407.856821;F-Gases;total

@@ -1,6 +1,4 @@
 year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
-1949;5.24;0;11;0;54
-1950;4.98;1;12;0;63
 1951;4.88;0;6;0;56
 1952;4.07;1;14;0;97
 1953;5.45;0;9;0;63
@@ -74,4 +72,4 @@ year;averageTemperature;heatDays;summerDays;tropicalNights;iceDays
 2021;5.8;0;9;0;53
 2022;7.29;1;17;0;28
 2023;7.23;0;32;0;34
-2024;null;0;0;0;13
+2024;null;0;12;0;13
