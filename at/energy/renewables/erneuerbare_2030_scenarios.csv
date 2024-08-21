@@ -1,8 +1,8 @@
 year,energy_type,scenario,value,release_date
-2030,wasserkraft,eag,46.29,12/10/2021
-2030,windkraft,eag,17.22,12/10/2021
-2030,biomasse,eag,3.84,12/10/2021
-2030,pv,eag,13.04,12/10/2021
+2030,wasserkraft,eag,47,12/10/2021
+2030,windkraft,eag,17,12/10/2021
+2030,biomasse,eag,4,12/10/2021
+2030,pv,eag,13,12/10/2021
 2030,wasserkraft,önip,47,08/04/2024
 2030,windkraft,önip,21,08/04/2024
 2030,biomasse,önip,6,08/04/2024
