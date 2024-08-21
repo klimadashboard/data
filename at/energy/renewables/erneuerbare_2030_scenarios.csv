@@ -5,9 +5,8 @@ year,energy_type,scenario,value,release_date
 2030,pv,eag,13,12/10/2021
 2030,wasserkraft,önip,47,08/04/2024
 2030,windkraft,önip,21,08/04/2024
-2030,biomasse,önip,6,08/04/2024
 2030,pv,önip,21,08/04/2024
 2030,wasserkraft,nekp,47,20/08/2024
 2030,windkraft,nekp,19,20/08/2024
-2030,biomasse,nekp,6,20/08/2024
+2030,biomasse,nekp und ÖNIP,6,20/08/2024
 2030,pv,nekp,19,20/08/2024
