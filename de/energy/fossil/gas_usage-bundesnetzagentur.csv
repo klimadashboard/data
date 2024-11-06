@@ -1,53 +1,262 @@
-                     .;2023;2024;2022;Durchschnittlicher Gasverbrauch 2018-2021;Minimum 2018-2021;Maximum 2018-2021
-1;2497;3223;3778;3933;3495;4587
-2;2802;4786;4385;4189;3790;4781
-3;3860;4565;4164;4101;3715;4384
-4;4114;3418;4109;4398;3599;4993
-5;3487;3209;3846;4070;3598;4574
-6;3844;3059;3771;4571;3808;5712
-7;3048;2826;3397;3937;3687;4356
-8;3013;2972;3643;3705;3158;4687
-9;3663;3089;3916;3984;3169;5252
-10;3467;3025;3414;3546;3184;3736
-11;2676;2652;3138;3613;3255;4018
-12;2287;2612;2667;3367;2973;4033
-13;2613;2397;3180;3024;2592;3331
-14;2709;2048;3090;2998;2569;3546
-15;2360;1773;2260;2670;1944;3601
-16;2180;2549;2150;2238;1749;2841
-17;2180;2701;2248;2126;1869;2720
-18;1754;1588;1906;2272;1879;2725
-19;1584;1660;1537;2053;1521;2549
-20;1547;1437;1459;2118;1658;2317
-21;1429;1465;1480;1812;1455;2185
-22;1318;1473;1600;1607;1374;1766
-23;1256;1524;1384;1565;1443;1680
-24;1267;1513;1310;1576;1492;1735
-25;1262;1400;1324;1586;1500;1700
-26;1234;1261;1294;1549;1471;1614
-27;1213;1327;1248;1523;1441;1570
-28;1202;1271;1259;1590;1497;1713
-29;1233;1222;1238;1544;1434;1680
-30;1200;1222;1164;1451;1369;1599
-31;1196;1196;1105;1456;1375;1527
-32;1248;1189;1071;1435;1371;1553
-33;1178;1165;1185;1470;1420;1512
-34;1260;1180;1207;1529;1504;1571
-35;1345;1270;1199;1576;1495;1617
-36;1253;1287;1201;1625;1531;1722
-37;1287;1509;1338;1682;1565;1804
-38;1292;1489;1706;1780;1554;2033
-39;1381;1601;1844;1966;1843;2121
-40;1484;1979;1633;2283;2241;2389
-41;1637;1946;1816;2407;2002;2656
-42;2240;2081;1790;2543;2216;3052
-43;2265;2091;1689;2628;2424;2794
-44;2231;;1938;2981;2652;3118
-45;2668;;2159;3146;2825;3503
-46;2857;;2708;3414;3178;3777
-47;3298;;2972;3807;3317;4090
-48;4303;;3444;3923;3624;4109
-49;3991;;3828;4033;3385;4427
-50;3291;;4608;4081;3702;4347
-51;3096;;2850;3758;3375;4249
-52;2568;;2281;3349;3007;3570
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+  <title>Bundesnetzagentur</title>
+  <meta http-equiv="cache-control" content="no-cache"> 
+  <style type="text/css">
+<!--
+body { background-color:#ffffff; }
+
+a { font-family:Arial, Helvetica; font-size:9pt; color:#0000ff; text-decoration:none; text-decoration: underline;}
+
+a.nav { font-family:Arial, Helvetica; font-size:9pt; color:#ffffff; text-decoration:none; font-weight:bold; }
+
+a.unav { font-family:Arial, Helvetica; font-size:9pt; color:#000000; text-decoration:none; font-weight:bold; }
+
+a.unav1 { font-family:Arial, Helvetica; font-size:9pt; color:#000000; text-decoration:none;}
+
+a.black { font-family:Arial, Helvetica; font-size:9pt; color:#000000; text-decoration:none; }
+
+
+
+a:hover { font-family:Arial, Helvetica; font-size:9pt; color:#0000ff; text-decoration:underline; }
+
+a.nav:hover { font-family:Arial, Helvetica; font-size:9pt; color:#ffffff; text-decoration:none; font-weight:bold; }
+
+a.unav:hover { font-family:Arial, Helvetica; font-size:9pt; color:#ffffff; text-decoration:none; font-weight:bold; }
+
+a.unav1:hover { font-family:Arial, Helvetica; font-size:9pt; color:#ffffff; text-decoration:none;}
+
+a.black:hover { font-family:Arial, Helvetica; font-size:9pt; color:#000000; text-decoration:none; }
+
+
+td.red {  background:#ed0000; }
+
+td.white { background:#9eb2c6; }
+
+td.hellblau { background:#d3e0e9; }
+
+td.haupt { font-family:Arial, Helvetica; background:#ffffff; vertical-align:top; }
+
+td.black { background:#000000; }
+
+
+
+td.nav { font-family:Arial, Helvetica; font-size:9pt; background:#1b2150; vertical-align:middle; }
+
+td.navon { font-family:Arial, Helvetica; font-size:9pt; background:#7c8fa2; vertical-align:middle; }
+
+td.unav { font-family:Arial, Helvetica; font-size:9pt; background:#7c8fa2; vertical-align: top; }
+
+td.unav1on { font-family:Arial, Helvetica; font-size:9pt; background:#9eb2c6; vertical-align: top; }
+
+td.text { font-family:Arial, Helvetica; font-size:9pt; background:#000000; }
+
+ul { font-family:Arial, Helvetica; font-size:9pt; color:#000000; }
+
+li { font-family:Arial, Helvetica; font-size:9pt; color:#000000; }
+
+td  { font-family:Arial, Helvetica; font-size:9pt; color:#000000; }
+
+h4.red { background:#ffffff; font-size:9pt; color:#ed0000; vertical-align:top; }
+
+h4.black { background:#ffffff; font-size:9pt; color:#000000; vertical-align:top; }
+
+td.text { font-family:Arial, Helvetica; background:#ffffff; font-size:10px; vertical-align:top; color:#000000 }
+
+.ueber {background:#ffffff; font-size:x-small; color:#000000; vertical-align:top;}
+
+input.nav  { font-family:Arial, Helvetica; font-size:9pt;  vertical-align: middle; width:150px; background:#ffffff; border-color:#1b2150; }
+
+input.text  { font-family:Arial, Helvetica; font-size:9pt;  vertical-align: middle; width:150px; background:#ffffff; border-color:#1b2150; }
+
+input { font-family:Arial, Helvetica; font-size:9pt;  vertical-align: middle; background:#ffffff; border-color:#1b2150; }
+
+input.drei { font-family:Arial, Helvetica; font-size:9pt;  vertical-align: middle; background:#ffffff; border-color:#1b2150; width:150px; }
+
+textarea { font-family:Arial, Helvetica; font-size:9pt;  vertical-align: middle; background:#ffffff; border-color:#1b2150; }
+
+.backschwarz {  background-color: #000000}
+
+a.service:link	{
+			color:#333333;
+			text-decoration:none;
+			font-weight:bold; 
+			font-size: 11px;
+			}
+
+a.service:visited
+			{ 
+			color:#333333;
+            text-decoration:none; 
+            font-weight:bold; 
+            font-size: 11px;
+            }
+.co			{
+			font-size:9pt;
+			color:#000000;
+			font-style:normal;
+			}
+a.co:link	{
+			color:#000000;
+			text-decoration:none;
+			font-weight:bold; 
+			font-size: 10px;
+			}
+
+a.co:visited{ 
+			color:#000000;
+            text-decoration:none; 
+            font-weight:bold; 
+            font-size: 10px;
+            }				
+
+td.OrderNo{ font-size:8pt;
+			font-weight:bold;
+			}
+
+table.payForm{ padding:3;}	
+td.payFormHead{	 
+	font-size:13pt; 
+	font-weight:bold;
+	height:60;
+	 }	
+td.payFormInput{}
+td.payFormExample{
+	font-family:Arial, Helvetica; 
+	font-size:8pt; 
+	color:#000000;}
+
+payFormSubmit{ }
+
+td.remark { font-family:Arial, Helvetica; font-size:8pt; }
+td.small { font-family:Arial, Helvetica; font-size:8pt; }
+td.smallB { font-family:Arial, Helvetica; font-size:8pt; font-weight:bold; }
+td.smaller { font-family:Arial, Helvetica; font-size:7pt; }
+p.error {font-family:Arial, Helvetica; font-size:9pt; font-weight:bold; color:Red; }
+span.error {font-family:Arial, Helvetica; font-size:9pt; font-weight:bold; color:Red; }
+span.remark { font-family:Arial, Helvetica; font-size:8pt; }
+a.remark { font-family:Arial, Helvetica;  color:#0000ff; text-decoration:none; text-decoration: underline; font-size:8pt; }
+a.remark:hover { font-family:Arial, Helvetica;  color:#0000ff; text-decoration:none; text-decoration: underline; font-size:8pt; }
+
+.ImgBtnNav{font-family:Arial, Helvetica; font-size:9pt; color:#000000; text-decoration:none; background:#7c8fa2; vertical-align: top; }
+.ImgBtnNav:hover{font-family:Arial, Helvetica; font-size:9pt; color:#ffffff; text-decoration:none; background:#7c8fa2; vertical-align: top; }
+
+td.FlurTitle { font-family:verdana, arial, helvetica, sans-serif; color:#000000; font-weight: bold; font-size: 8pt;}
+td.smallFlur { font-family:verdana, arial, helvetica, sans-serif; color:#000000; font-size:7pt; }
+
+span.smallFlur { font-family:verdana, arial, helvetica, sans-serif; color:#000000; font-size:7pt; }
+
+.SmallStdText
+{
+	font-size: 9pt;
+	font-family: Helvetica;
+}
+
+.SmallBldText
+{
+	font-size: 9pt;
+	font-weight: bold;
+	font-family: Helvetica;
+}
+
+.MediumBldText
+{
+	font-size: 10pt;
+	font-weight: bold;
+	font-family: Helvetica;
+}
+
+
+.LargeBldText
+{
+	font-size: 12pt;
+	font-weight: bold;
+	font-family: Helvetica;
+}
+-->
+  </style>
+</head>
+<body>
+  <table align=center border=0 cellspacing=5 width="50%">
+    <tr>
+	  <td align=center>&nbsp;</td>
+    </tr>
+    <tr>
+	  <td align=center>
+        <img src="data:image/gif;base64,R0lGODlhjwAiAPcAAAAAABAQECEhISkpKTExMTk5OUJCQkpKSlJSUlpaWmNjY2tra3Nzc3t7e4SE
+hIyMjJSUlJycnKWlpa2trbW1tb29vcbGxs7OztbW1t7e3ufn5+/v7/f39/8AAP/OAP//////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////ywAAAAAjwAiAAAI/gA/CBxI
+sKDBgwcVKEiAsKHDhxAjSpxIseJEABgtatzIsSNFBhIGCBAwwSJGAA9PBigpEUCGjhA8GqywQSYH
+BiIFaDBwQcCADCMHMOAQ8WRKBhcUoGx5geOFpTIHAmjqccNIChg0QPApAEOGBiNrQjTqEECEDw4C
+fMiAku2HAAQAIPgwAUCAqR8gYCzpACODt3HnVsDo4MPJCgyMIvBLF4AAl3n3ApZrGGMEyC7ZjpTY
+YABDgRFGCiD6IcGABkUzlj38wQLKp4YjsM0QIAIFvAAqbDVcQYJas7MF2H4N9QMCBBsyKEcp/HbT
+3LuBY35O3XUFiUARfF4r8sDABAi6/o5V3RAAUgQEPsCGjfspdbewEQRoULM97gywBQ5+mTZje/go
+tWcYdQPmF1EDBkggQGEcBDUaWgIoiFpK5CFkVmTqETfggO25ZlQGERCQnn0n4QeVAH9tkJtrG07l
+oX8ECuhicQ71NBIGIjkg2gA6DoABV1SVV+FB5l0g31ouSRAgdQJAMNgFKir3klm3tfiUlBg8VVNa
+Nc3W1wcLPhmlclbyxptrFxjoEAdCPSASBhMQkJMABEyAowBuPigkjQadJMB1HxjgWIBTZlCXAAG8
+lBgAhfXFqGGF6kWZVbkthlEGi8W1QV13NbVoYZi9FNcESsW1HERsKjBBkyM9sABX/gIs8MBIW606
+AGkHdaBrVLxWJCVkvRqEAAM4OmBaArDm5NmyXTWwQEO6dhDstA8tOhe1BgkVWkgRHLCjAdsKZ4AB
+D0WL7bnoQjTAARQIx+oEBoxkwAQDQFCvAO0q4JC56fbr7wcSPKDBacdBoMAG3gpwwAYJGGzAAgNo
+RQG0u/5rMbqeKRhaBUDllEEF7kpgWrkVX2xyrwU0gCMED29AgIME3NSkjw8UsG/JJ+dclQAKzMom
+zyMp4BMHChiMAK4I8avz0hs5EAGOxCIwwAUEJNATAhg44CMFZ90sLdNgWzSwBBp4e4EGVWvQ0wEa
+hKQBREqHLTdEFhjpYAVVVzBnfAIWWAA3znMHjtAGFoD1gHoEIHABB24yYIFYJH8t+OQHWTAABQNs
+IDTPbGLud0QehE756AY9bkEBEBRMAJSfgy466bAT9LgGGmwQ5EShexD77lHlzvvvHPkO/PAUCU/8
+8Q8Zj/zyBinP/PMfOA/98tJPf3z11g+PffZRBQQAOw==">
+    <tr>
+      <td align=center bgcolor="#DEE0EC">
+      </td>	
+    </tr>
+    <tr>
+      <td align=center>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align=center>
+        <b>Wartungsarbeiten</b>
+        <br>
+        <br>Die angeforderte URL ist derzeit nicht zu erreichen.<br>
+        <br>Bitte probieren Sie es sp&auml;ter noch einmal.<br>
+        <br>
+      </td> 
+    </tr>
+    <tr>
+      <td align=center>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align=center><hr>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>&nbsp;</td>
+    </tr>
+    <tr>
+      <td align=center>
+        <b>Maintenance</b>
+        <br>
+        <br>The requested URL is not reacheable at the moment.<br>
+        <br>Please try again later.<br>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>&nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td align=center bgcolor="#DEE0EC">
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
