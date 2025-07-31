@@ -1,4 +1,4 @@
-year,state,energy_co2e_t,energy_co2e_t_percapita,industry_co2e_t,industry_co2e_t_percapita,buildings_co2e_t,buildings_co2e_t_percapita,traffic_co2e_t,traffic_co2e_t_percapita,agriculture_co2e_t,agriculture_co2e_t_percapita,waste_and_other_co2e_t,waste_co2e_t_percapita,total_co2e_t,total_co2e_t_percapita,population,international_flight_co2e_t
+year,state,energy_co2e_t,energy_co2e_t_percapita,industry_co2e_t,industry_co2e_t_percapita,buildings_co2e_t,buildings_co2e_t_percapita,traffic_co2e_t,traffic_co2e_t_percapita,agriculture_co2e_t,agriculture_co2e_t_percapita,waste_and_other_co2e_t,waste_and_other_co2e_t_percapita,total_co2e_t,total_co2e_t_percapita,population,international_flight_co2e_t
 1990,DE,474772204.32,5.95,277703082.81,3.48,210027316.91,2.63,163355366.57,2.05,84989159.16,1.07,41550208.21,0.52,1252397338.0,15.70,79753227,12192668.92
 1991,DE,459944857.89,5.73,252375964.33,3.14,208432295.00,2.60,166303235.41,2.07,76414722.91,0.95,43096386.91,0.54,1206567462.5,15.03,80274564,12001074.96
 1992,DE,435675008.36,5.38,241066989.50,2.98,190277474.49,2.35,172167930.98,2.13,74196456.76,0.92,43690552.79,0.54,1157074412.9,14.29,80974632,12998569.25
